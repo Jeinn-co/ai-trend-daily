@@ -1,7 +1,4 @@
-"""Run one full pipeline round locally: python scripts/run_local.py [--skip-llm] [--out DIR]
-
-Needs ANTHROPIC_API_KEY in the environment unless --skip-llm is given.
-"""
+"""Run one full pipeline round locally: python scripts/run_local.py [--out DIR]"""
 
 import os
 import sys

@@ -1,4 +1,4 @@
-"""One full run: fetch → cluster → score → extract → summarise → write data/latest.json + archive.
+"""One full run: fetch → cluster → score → classify → write data/latest.json + archive.
 
 Any failure raises before anything is written, so the previous latest.json stays published.
 """
@@ -14,27 +14,31 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 from .fetch import fetch_all, load_sources
-from .rank import attach_text, cluster, score
-from .summarize import CATEGORIES, summarize
+from .classify import CATEGORIES, classify
+from .rank import cluster, score
 
 log = logging.getLogger("pipeline")
 TOP_N = 100
 MIN_ITEMS = 10  # refuse to publish a nearly empty page
+SUMMARY_CHARS = 200  # the feed's own description, shortened; full articles are never copied
 
 
 def to_public(c):
     return {
         "id": c["id"],
-        "title_zh": c["title_zh"],
-        "title_original": c["title_original"],
-        "summary_zh": c["summary_zh"],
-        "why_important": c["why_important"],
+        "title": c["title_original"],
+        "summary": clip(c["feed_summary"], SUMMARY_CHARS),
         "category": c["category"],
         "score": c["score"],
         "published_at": c["published"].isoformat(),
         "sources": c["sources"],
         "primary_url": c["primary_url"],
     }
+
+
+def clip(s, n):
+    s = " ".join(s.split())
+    return s if len(s) <= n else s[: n - 1] + "…"
 
 
 def write_json(path, data):
@@ -46,7 +50,7 @@ def write_json(path, data):
     os.replace(tmp, path)
 
 
-def run(out_dir="data", sources_path="sources.yaml", skip_llm=False):
+def run(out_dir="data", sources_path="sources.yaml"):
     start = time.monotonic()
     now = datetime.now(timezone.utc)
     sources = load_sources(sources_path)
@@ -54,16 +58,11 @@ def run(out_dir="data", sources_path="sources.yaml", skip_llm=False):
     items, failed = fetch_all(sources, now)
     clusters = score(cluster(items), now)
     log.info("fetched %d items from %d/%d sources → %d clusters", len(items), len(sources) - len(failed), len(sources), len(clusters))
-    top = attach_text(clusters[:TOP_N])
+    top = clusters[:TOP_N]
     if len(top) < MIN_ITEMS:
         raise RuntimeError(f"only {len(top)} stories selected; keeping the previous latest.json")
-
-    if skip_llm:  # local smoke test without an API key; never publish this output
-        for c in top:
-            c.update(category=CATEGORIES[0], title_zh=c["title_original"][:30], summary_zh="（本機測試，未呼叫 LLM）", why_important="")
-        llm = {"skipped": True}
-    else:
-        llm = summarize(top)
+    for c in top:
+        c["category"] = classify(c["title_original"], c["feed_summary"], c["groups"])
 
     public = [to_public(c) for c in top]
     data = {
@@ -79,7 +78,6 @@ def run(out_dir="data", sources_path="sources.yaml", skip_llm=False):
             "sources_ok": len(sources) - len(failed),
             "sources_failed": len(failed),
             "failed_sources": failed,
-            "llm": llm,
             "duration_s": round(time.monotonic() - start, 1),
         },
     }
@@ -91,7 +89,7 @@ def run(out_dir="data", sources_path="sources.yaml", skip_llm=False):
     index = json.loads(index_path.read_text()) if index_path.exists() else []
     write_json(index_path, sorted(set(index) | {name}, reverse=True))
     write_json(out / "latest.json", data)
-    log.info("published %d stories in %.1fs (LLM: %s)", len(public), time.monotonic() - start, llm)
+    log.info("published %d stories in %.1fs", len(public), time.monotonic() - start)
     return data
 
 
@@ -99,11 +97,10 @@ def main(argv=None):
     p = argparse.ArgumentParser(description=__doc__)
     p.add_argument("--out", default="data")
     p.add_argument("--sources", default="sources.yaml")
-    p.add_argument("--skip-llm", action="store_true", help="local smoke test without calling Claude")
     args = p.parse_args(argv)
     logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(name)s: %(message)s")
     try:
-        run(args.out, args.sources, args.skip_llm)
+        run(args.out, args.sources)
     except Exception:
         log.exception("run failed; previous latest.json left untouched")
         sys.exit(1)

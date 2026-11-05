@@ -30,10 +30,8 @@ jobs:
       - run: pip install -r requirements.txt
 
       # a failed run exits non-zero before writing anything, so the last published data stays live
-      - name: Fetch, rank and summarise
+      - name: Fetch and rank
         if: github.event_name != 'push'
-        env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: python scripts/run_local.py
 
       - name: Commit the new snapshot

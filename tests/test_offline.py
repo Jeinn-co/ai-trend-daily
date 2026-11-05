@@ -1,12 +1,11 @@
-"""Offline self-check (no network, no API key): python tests/test_offline.py"""
+"""Offline self-check (no network): python tests/test_offline.py"""
 
 import os
-import re
 import sys
 from datetime import datetime, timedelta, timezone
 
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-from pipeline import rank, summarize  # noqa: E402
+from pipeline import classify, rank  # noqa: E402
 
 now = datetime.now(timezone.utc)
 
@@ -29,30 +28,13 @@ assert len(top["sources"]) == 2 and top["score"] > clusters[1]["score"]
 assert 0 <= clusters[1]["score"] <= 100
 
 
-class Usage:
-    input_tokens, output_tokens = 1000, 500
-
-
-class Response:
-    stop_reason, _request_id, usage = "end_turn", "test", Usage()
-
-    def __init__(self, ids):
-        self.parsed_output = summarize.Batch(results=[
-            summarize.Result(id=i, category="研究論文", title_zh="標" * 40, summary_zh="模型寫的摘要", why_important="重要")
-            for i in ids])
-
-
-class FakeClient:
-    class messages:  # noqa: N801 - mirrors client.messages
-        @staticmethod
-        def parse(**kw):
-            return Response(re.findall(r'<item id="([^"]+)"', kw["messages"][0]["content"]))
-
-
-summarize.anthropic.Anthropic = lambda **kw: FakeClient()
-items = [{"id": f"a{i}", "title_original": "t", "text": "原文" if i % 2 else ""} for i in range(23)]
-stats = summarize.summarize(items)
-assert stats["calls"] == 3
-assert items[0]["summary_zh"] == summarize.NO_TEXT and items[0]["why_important"] == ""  # no text → no invented summary
-assert items[1]["summary_zh"] == "模型寫的摘要" and len(items[1]["title_zh"]) == 30
+c = classify.classify
+assert c("OpenAI to acquire Pierre Computer Company, Inc.") == "產業與投資"
+assert c("Kimi K3.1 Pro model weights are out") == "開源專案"
+assert c("Anything at all", source_groups={"arXiv"}) == "研究論文"
+assert c("Nvidia unveils new data center GPU") == "晶片與硬體"
+assert c("EU lawmakers agree on AI Act changes") == "政策與法規"
+assert c("Google releases Gemini 4 Pro") == "模型發布"
+assert c("輝達發表新晶片") == "晶片與硬體"
+assert c("A quiet afternoon") == classify.OTHER
 print("ok")

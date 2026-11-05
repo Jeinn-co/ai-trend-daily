@@ -1,22 +1,16 @@
-"""URL normalisation, clustering of duplicate stories, scoring, and article text extraction."""
+"""URL normalisation, clustering of duplicate stories, and scoring."""
 
 import hashlib
-import logging
 import math
 import re
-from concurrent.futures import ThreadPoolExecutor
 from urllib.parse import parse_qsl, urlencode, urlsplit, urlunsplit
 
-import requests
-import trafilatura
 from rapidfuzz import fuzz
 
-from .fetch import UA, WINDOW
+from .fetch import WINDOW
 
-log = logging.getLogger(__name__)
 TITLE_SIMILARITY = 85  # rapidfuzz ratio, 0-100 (= 0.85)
 TRACKING = re.compile(r"^(utm_|fbclid$|gclid$|mc_|ref$|ref_src$|cmpid$)")
-TEXT_CHARS = 3000
 
 
 def normalize_url(url):
@@ -105,24 +99,4 @@ def score(clusters, now):
         heat = max((math.log1p(v) / math.log1p(top[k]) for k, v in c["heat"] if top.get(k)), default=0.0)
         c["score"] = round(100 * (0.3 * weight + 0.3 * coverage + 0.2 * recency + 0.2 * heat), 1)
     clusters.sort(key=lambda c: c["score"], reverse=True)
-    return clusters
-
-
-def extract_text(url):
-    try:
-        r = requests.get(url, headers=UA, timeout=20)
-        r.raise_for_status()
-        return (trafilatura.extract(r.text, include_comments=False, include_tables=False) or "")[:TEXT_CHARS]
-    except Exception as e:  # noqa: BLE001 - a missing article falls back to the feed summary
-        log.warning("text extraction failed: %s: %s", url, e)
-        return ""
-
-
-def attach_text(clusters):
-    """Article text is kept in memory for the summariser only; it is never written to the published JSON."""
-    with ThreadPoolExecutor(16) as ex:
-        texts = list(ex.map(lambda c: extract_text(c["primary_url"]), clusters))
-    for c, text in zip(clusters, texts):
-        # fall back to the feed's own description (e.g. arXiv abstracts) when the page has no extractable text
-        c["text"] = max(text, c["feed_summary"], key=len)[:TEXT_CHARS]
     return clusters

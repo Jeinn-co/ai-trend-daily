@@ -60,9 +60,7 @@
       .tag { padding: 1px 8px; border: 1px solid var(--line); border-radius: 999px; }
       .score { margin-left: auto; }
       .card h2 { margin: 0; font-size: 18px; font-weight: 600; line-height: 1.4; }
-      .orig { margin: 4px 0 0; color: var(--muted); font-size: 13px; }
-      .summary { margin: 10px 0 0; line-height: 1.7; font-size: 15px; }
-      .why { margin: 8px 0 0; padding-left: 10px; border-left: 2px solid var(--accent); color: var(--muted); font-size: 14px; line-height: 1.6; }
+      .summary { margin: 8px 0 0; color: var(--muted); line-height: 1.7; font-size: 14px; }
 
       details.src { margin-top: 10px; font-size: 13px; color: var(--muted); }
       details.src summary { cursor: pointer; list-style: none; }
@@ -124,8 +122,8 @@
         <ul id="srclist" class="srclist"></ul>
         <h3>說明</h3>
         <p>
-          本站內容由程式每 6 小時自動彙整。中文標題、摘要與「為什麼重要」由 AI 依原文內容產生，可能有誤，請以原文為準。
-          各則新聞的著作權屬於原發布者，本站只提供摘要與原文連結；每則都標有來源，點標題即開啟原文。
+          本站內容由程式每 6 小時自動彙整，標題與簡介取自各來源公開提供的 RSS 或頁面資訊，分類與排序由程式依規則產生。
+          各則新聞的著作權屬於原發布者，本站只提供標題、簡短簡介與原文連結；每則都標有來源，點標題即開啟原文。
         </p>
       </footer>
     </div>
@@ -151,10 +149,8 @@
       function card(it, rank) {
         return `<article class="card">
           <div class="card-top"><span class="rank mono">#${rank}</span><span class="tag">${esc(it.category)}</span><span class="score mono">${it.score}</span></div>
-          <h2>${link(it.primary_url, it.title_zh)}</h2>
-          <p class="orig">${esc(it.title_original)}</p>
-          <p class="summary">${esc(it.summary_zh)}</p>
-          ${it.why_important ? `<p class="why">${esc(it.why_important)}</p>` : ""}
+          <h2>${link(it.primary_url, it.title)}</h2>
+          ${it.summary ? `<p class="summary">${esc(it.summary)}</p>` : ""}
           ${sourcesBlock(it)}
         </article>`;
       }
@@ -163,14 +159,14 @@
         const src = it.sources.length > 1 ? `${it.sources[0].name} +${it.sources.length - 1}` : it.sources[0]?.name ?? "";
         return `<li class="row">
           <span class="rank mono">${rank}</span><span class="tag">${esc(it.category)}</span>
-          <div class="t">${link(it.primary_url, it.title_zh)}<p>${esc(it.summary_zh)}</p>${sourcesBlock(it)}</div>
+          <div class="t">${link(it.primary_url, it.title)}${it.summary ? `<p>${esc(it.summary)}</p>` : ""}${sourcesBlock(it)}</div>
           <span class="s">${esc(src)}</span>
         </li>`;
       }
 
       const matches = (it) => {
         if (!state.q) return true;
-        const hay = `${it.title_zh} ${it.title_original} ${it.summary_zh} ${it.why_important}`.toLowerCase();
+        const hay = `${it.title} ${it.summary}`.toLowerCase();
         return hay.includes(state.q);
       };
 

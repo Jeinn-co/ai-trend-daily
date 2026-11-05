@@ -1,0 +1,3183 @@
+{
+ "updated_at": "2026-11-05T19:24:42+00:00",
+ "top10": [
+  {
+   "id": "3a06f84c0f51",
+   "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+   "summary": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
+   "category": "AI Agents",
+   "score": 65.6,
+   "published_at": "2026-11-04T14:30:00+00:00",
+   "sources": [
+    {
+     "name": "OpenAI",
+     "url": "https://openai.com/index/openai-to-acquire-pierre"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50366863"
+    }
+   ],
+   "primary_url": "https://openai.com/index/openai-to-acquire-pierre"
+  },
+  {
+   "id": "7838c87736f9",
+   "title": "Kimi K3.1 Pro model weights are out",
+   "summary": "",
+   "category": "Open Source",
+   "score": 58.4,
+   "published_at": "2026-11-04T15:30:30+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50366999"
+    }
+   ],
+   "primary_url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro"
+  },
+  {
+   "id": "9404bc0f47e8",
+   "title": "Nasdaq Sinks 5% as Investors Retreat from AI Trade After Election",
+   "summary": "",
+   "category": "Other",
+   "score": 56.5,
+   "published_at": "2026-11-05T18:00:01+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50382179"
+    }
+   ],
+   "primary_url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026"
+  },
+  {
+   "id": "003a6dd08e36",
+   "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+   "summary": "",
+   "category": "Other",
+   "score": 55.0,
+   "published_at": "2026-11-05T17:05:16+00:00",
+   "sources": [
+    {
+     "name": "Google DeepMind",
+     "url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/"
+    }
+   ],
+   "primary_url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/"
+  },
+  {
+   "id": "9f91f09c0af9",
+   "title": "The Long-Term Benefit Trust",
+   "summary": "",
+   "category": "Other",
+   "score": 54.5,
+   "published_at": "2026-11-05T15:44:46+00:00",
+   "sources": [
+    {
+     "name": "Anthropic",
+     "url": "https://www.anthropic.com/news/the-long-term-benefit-trust"
+    }
+   ],
+   "primary_url": "https://www.anthropic.com/news/the-long-term-benefit-trust"
+  },
+  {
+   "id": "3c63b1bd263a",
+   "title": "GPT-6 Astra covertly underperforms on safety research",
+   "summary": "",
+   "category": "Innovation",
+   "score": 54.1,
+   "published_at": "2026-11-05T07:44:30+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50376313"
+    }
+   ],
+   "primary_url": "https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/"
+  },
+  {
+   "id": "8ac198972094",
+   "title": "NVIDIA/auto-ontology: Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
+   "summary": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM…",
+   "category": "AI Agents",
+   "score": 54.0,
+   "published_at": "2026-11-05T19:24:42.087939+00:00",
+   "sources": [
+    {
+     "name": "GitHub Trending",
+     "url": "https://github.com/NVIDIA/auto-ontology"
+    }
+   ],
+   "primary_url": "https://github.com/NVIDIA/auto-ontology"
+  },
+  {
+   "id": "40b1bb8d3105",
+   "title": "vercel-labs/agent-desktop: Computer use CLI for AI agents",
+   "summary": "Computer use CLI for AI agents",
+   "category": "AI Agents",
+   "score": 53.4,
+   "published_at": "2026-11-05T19:24:42.087939+00:00",
+   "sources": [
+    {
+     "name": "GitHub Trending",
+     "url": "https://github.com/vercel-labs/agent-desktop"
+    }
+   ],
+   "primary_url": "https://github.com/vercel-labs/agent-desktop"
+  },
+  {
+   "id": "46e307363c08",
+   "title": "speridlabs/idol",
+   "summary": "",
+   "category": "Open Source",
+   "score": 53.4,
+   "published_at": "2026-11-05T19:24:42.087939+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face Trending",
+     "url": "https://huggingface.co/speridlabs/idol"
+    }
+   ],
+   "primary_url": "https://huggingface.co/speridlabs/idol"
+  },
+  {
+   "id": "ee64b630519e",
+   "title": "Pika-Labs/Pika-H3-Flex",
+   "summary": "",
+   "category": "Open Source",
+   "score": 51.8,
+   "published_at": "2026-11-05T19:24:42.087939+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face Trending",
+     "url": "https://huggingface.co/Pika-Labs/Pika-H3-Flex"
+    }
+   ],
+   "primary_url": "https://huggingface.co/Pika-Labs/Pika-H3-Flex"
+  }
+ ],
+ "all": [
+  {
+   "id": "3a06f84c0f51",
+   "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+   "summary": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
+   "category": "AI Agents",
+   "score": 65.6,
+   "published_at": "2026-11-04T14:30:00+00:00",
+   "sources": [
+    {
+     "name": "OpenAI",
+     "url": "https://openai.com/index/openai-to-acquire-pierre"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50366863"
+    }
+   ],
+   "primary_url": "https://openai.com/index/openai-to-acquire-pierre"
+  },
+  {
+   "id": "7838c87736f9",
+   "title": "Kimi K3.1 Pro model weights are out",
+   "summary": "",
+   "category": "Open Source",
+   "score": 58.4,
+   "published_at": "2026-11-04T15:30:30+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50366999"
+    }
+   ],
+   "primary_url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro"
+  },
+  {
+   "id": "9404bc0f47e8",
+   "title": "Nasdaq Sinks 5% as Investors Retreat from AI Trade After Election",
+   "summary": "",
+   "category": "Other",
+   "score": 56.5,
+   "published_at": "2026-11-05T18:00:01+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50382179"
+    }
+   ],
+   "primary_url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026"
+  },
+  {
+   "id": "003a6dd08e36",
+   "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+   "summary": "",
+   "category": "Other",
+   "score": 55.0,
+   "published_at": "2026-11-05T17:05:16+00:00",
+   "sources": [
+    {
+     "name": "Google DeepMind",
+     "url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/"
+    }
+   ],
+   "primary_url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/"
+  },
+  {
+   "id": "9f91f09c0af9",
+   "title": "The Long-Term Benefit Trust",
+   "summary": "",
+   "category": "Other",
+   "score": 54.5,
+   "published_at": "2026-11-05T15:44:46+00:00",
+   "sources": [
+    {
+     "name": "Anthropic",
+     "url": "https://www.anthropic.com/news/the-long-term-benefit-trust"
+    }
+   ],
+   "primary_url": "https://www.anthropic.com/news/the-long-term-benefit-trust"
+  },
+  {
+   "id": "3c63b1bd263a",
+   "title": "GPT-6 Astra covertly underperforms on safety research",
+   "summary": "",
+   "category": "Innovation",
+   "score": 54.1,
+   "published_at": "2026-11-05T07:44:30+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50376313"
+    }
+   ],
+   "primary_url": "https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/"
+  },
+  {
+   "id": "8ac198972094",
+   "title": "NVIDIA/auto-ontology: Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
+   "summary": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM…",
+   "category": "AI Agents",
+   "score": 54.0,
+   "published_at": "2026-11-05T19:24:42.087939+00:00",
+   "sources": [
+    {
+     "name": "GitHub Trending",
+     "url": "https://github.com/NVIDIA/auto-ontology"
+    }
+   ],
+   "primary_url": "https://github.com/NVIDIA/auto-ontology"
+  },
+  {
+   "id": "40b1bb8d3105",
+   "title": "vercel-labs/agent-desktop: Computer use CLI for AI agents",
+   "summary": "Computer use CLI for AI agents",
+   "category": "AI Agents",
+   "score": 53.4,
+   "published_at": "2026-11-05T19:24:42.087939+00:00",
+   "sources": [
+    {
+     "name": "GitHub Trending",
+     "url": "https://github.com/vercel-labs/agent-desktop"
+    }
+   ],
+   "primary_url": "https://github.com/vercel-labs/agent-desktop"
+  },
+  {
+   "id": "46e307363c08",
+   "title": "speridlabs/idol",
+   "summary": "",
+   "category": "Open Source",
+   "score": 53.4,
+   "published_at": "2026-11-05T19:24:42.087939+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face Trending",
+     "url": "https://huggingface.co/speridlabs/idol"
+    }
+   ],
+   "primary_url": "https://huggingface.co/speridlabs/idol"
+  },
+  {
+   "id": "ee64b630519e",
+   "title": "Pika-Labs/Pika-H3-Flex",
+   "summary": "",
+   "category": "Open Source",
+   "score": 51.8,
+   "published_at": "2026-11-05T19:24:42.087939+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face Trending",
+     "url": "https://huggingface.co/Pika-Labs/Pika-H3-Flex"
+    }
+   ],
+   "primary_url": "https://huggingface.co/Pika-Labs/Pika-H3-Flex"
+  },
+  {
+   "id": "53c56afbaf05",
+   "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
+   "summary": "Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope.",
+   "category": "AI Agents",
+   "score": 51.7,
+   "published_at": "2026-11-05T09:00:00+00:00",
+   "sources": [
+    {
+     "name": "OpenAI",
+     "url": "https://openai.com/index/introducing-gpt-6-cyber"
+    }
+   ],
+   "primary_url": "https://openai.com/index/introducing-gpt-6-cyber"
+  },
+  {
+   "id": "014576526a4d",
+   "title": "mistralai/Mistral-Large-4-1T-A52B",
+   "summary": "",
+   "category": "Open Source",
+   "score": 51.7,
+   "published_at": "2026-11-05T19:24:42.087939+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face Trending",
+     "url": "https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B"
+    }
+   ],
+   "primary_url": "https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B"
+  },
+  {
+   "id": "04ce1345cda9",
+   "title": "Lightricks/LTX-2.5",
+   "summary": "",
+   "category": "Open Source",
+   "score": 51.7,
+   "published_at": "2026-11-05T19:24:42.087939+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face Trending",
+     "url": "https://huggingface.co/Lightricks/LTX-2.5"
+    }
+   ],
+   "primary_url": "https://huggingface.co/Lightricks/LTX-2.5"
+  },
+  {
+   "id": "1c6441623ff5",
+   "title": "ccore/Qwen3.5-4B-3D-Coder",
+   "summary": "",
+   "category": "Innovation",
+   "score": 51.6,
+   "published_at": "2026-11-05T19:24:42.087939+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face Trending",
+     "url": "https://huggingface.co/ccore/Qwen3.5-4B-3D-Coder"
+    }
+   ],
+   "primary_url": "https://huggingface.co/ccore/Qwen3.5-4B-3D-Coder"
+  },
+  {
+   "id": "110f8b3466ee",
+   "title": "nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
+   "summary": "",
+   "category": "Innovation",
+   "score": 51.4,
+   "published_at": "2026-11-05T19:24:42.087939+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face Trending",
+     "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B"
+    }
+   ],
+   "primary_url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B"
+  },
+  {
+   "id": "6e200e05b45c",
+   "title": "burner22/numbat",
+   "summary": "",
+   "category": "Open Source",
+   "score": 51.2,
+   "published_at": "2026-11-05T19:24:42.087939+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face Trending",
+     "url": "https://huggingface.co/burner22/numbat"
+    }
+   ],
+   "primary_url": "https://huggingface.co/burner22/numbat"
+  },
+  {
+   "id": "1a1819cc8432",
+   "title": "FusionCow/Sulphur-3",
+   "summary": "",
+   "category": "Open Source",
+   "score": 51.2,
+   "published_at": "2026-11-05T19:24:42.087939+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face Trending",
+     "url": "https://huggingface.co/FusionCow/Sulphur-3"
+    }
+   ],
+   "primary_url": "https://huggingface.co/FusionCow/Sulphur-3"
+  },
+  {
+   "id": "68c44263a0af",
+   "title": "AI is forcing us to pay off 40 years of technical debt",
+   "summary": "",
+   "category": "Other",
+   "score": 50.9,
+   "published_at": "2026-11-04T11:52:17+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50364336"
+    }
+   ],
+   "primary_url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability"
+  },
+  {
+   "id": "6c64301c09e0",
+   "title": "Qwen/Qwen3.8-27B",
+   "summary": "",
+   "category": "Innovation",
+   "score": 50.9,
+   "published_at": "2026-11-05T19:24:42.087939+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face Trending",
+     "url": "https://huggingface.co/Qwen/Qwen3.8-27B"
+    }
+   ],
+   "primary_url": "https://huggingface.co/Qwen/Qwen3.8-27B"
+  },
+  {
+   "id": "1f03c87007f1",
+   "title": "scenario-labs/skills: Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus expert teams that drive Blender, Maya, ZBrush, Unreal, and Unity.",
+   "summary": "Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus …",
+   "category": "Skills",
+   "score": 50.5,
+   "published_at": "2026-11-05T19:24:42.087939+00:00",
+   "sources": [
+    {
+     "name": "GitHub Trending",
+     "url": "https://github.com/scenario-labs/skills"
+    }
+   ],
+   "primary_url": "https://github.com/scenario-labs/skills"
+  },
+  {
+   "id": "b22ad9f6b573",
+   "title": "garrytan/gstack: Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+   "summary": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+   "category": "AI Agents",
+   "score": 50.2,
+   "published_at": "2026-11-05T19:24:42.087939+00:00",
+   "sources": [
+    {
+     "name": "GitHub Trending",
+     "url": "https://github.com/garrytan/gstack"
+    }
+   ],
+   "primary_url": "https://github.com/garrytan/gstack"
+  },
+  {
+   "id": "96eddcc208ed",
+   "title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
+   "summary": "",
+   "category": "AI Agents",
+   "score": 50.1,
+   "published_at": "2026-11-04T18:53:29+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://www.ricursive.com/ripple"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50369925"
+    }
+   ],
+   "primary_url": "https://www.ricursive.com/ripple"
+  },
+  {
+   "id": "d747ecb5894f",
+   "title": "max-sixty/worktrunk: Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+   "summary": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+   "category": "AI Agents",
+   "score": 50.0,
+   "published_at": "2026-11-05T19:24:42.087939+00:00",
+   "sources": [
+    {
+     "name": "GitHub Trending",
+     "url": "https://github.com/max-sixty/worktrunk"
+    }
+   ],
+   "primary_url": "https://github.com/max-sixty/worktrunk"
+  },
+  {
+   "id": "2e06a7a163b7",
+   "title": "Meta’s warns that election backlash against data centers could make AI expansion harder",
+   "summary": "Meta warns that growing political opposition to data centers could threaten future AI investments, as communities push back against massive infrastructure projects.",
+   "category": "Other",
+   "score": 49.9,
+   "published_at": "2026-11-05T19:12:39+00:00",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/"
+    }
+   ],
+   "primary_url": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/"
+  },
+  {
+   "id": "ec73671ce52f",
+   "title": "OpenAI released a new cybersecurity model. Is that enough?",
+   "summary": "OpenAI's newest cybersecurity model comes out as AI labs face scrutiny of their work to protect digital infrastructure.",
+   "category": "Other",
+   "score": 49.9,
+   "published_at": "2026-11-05T19:06:12+00:00",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/"
+    }
+   ],
+   "primary_url": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/"
+  },
+  {
+   "id": "4051eda06776",
+   "title": "Muse has a voice mode now",
+   "summary": "Meta now lets you have voice conversations with your Muse AI agent in real time, CEO Mark Zuckerberg announced today. The feature has been rolled out to me, and I gave it a spin on the iOS app while …",
+   "category": "AI Agents",
+   "score": 49.8,
+   "published_at": "2026-11-05T19:03:04+00:00",
+   "sources": [
+    {
+     "name": "The Verge",
+     "url": "https://www.theverge.com/tech/1028015/meta-muse-ai-voice-mode-expressive-avatar"
+    }
+   ],
+   "primary_url": "https://www.theverge.com/tech/1028015/meta-muse-ai-voice-mode-expressive-avatar"
+  },
+  {
+   "id": "cfd1704d56b5",
+   "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
+   "summary": "OpenAI president Greg Brockman says the company could be ready to go public in 2027, pointing to accelerating enterprise revenue and a turnaround in its business.",
+   "category": "AI Apps",
+   "score": 49.4,
+   "published_at": "2026-11-05T18:02:27+00:00",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/"
+    }
+   ],
+   "primary_url": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/"
+  },
+  {
+   "id": "7b187a5bdc28",
+   "title": "Claude can now analyze your spending with its new Personal Finance tool",
+   "summary": "With Personal Finance in Claude, users can connect their bank and card accounts through Plaid and ask questions about their finances.",
+   "category": "AI Apps",
+   "score": 49.4,
+   "published_at": "2026-11-05T18:00:00+00:00",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/"
+    }
+   ],
+   "primary_url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/"
+  },
+  {
+   "id": "4b216c662524",
+   "title": "Claude AI can plug directly into your bank account",
+   "summary": "Anthropic has a new pitch for managing your personal finances: let Claude do it instead, with a new Personal Finance feature that connects it to your bank and card accounts via the Plaid bank bridgin…",
+   "category": "AI Apps",
+   "score": 49.4,
+   "published_at": "2026-11-05T18:00:00+00:00",
+   "sources": [
+    {
+     "name": "The Verge",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1027652/anthropic-claude-plaid-personal-finance"
+    }
+   ],
+   "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1027652/anthropic-claude-plaid-personal-finance"
+  },
+  {
+   "id": "a231f12f9906",
+   "title": "‘Total repudiation’: The blue wave is about to hit AI",
+   "summary": "On Tuesday night, Democrats made history as they took control of the House and the Senate, and a blue wave swept through traditionally red and swing states - with the nation's first Black woman gover…",
+   "category": "Other",
+   "score": 49.4,
+   "published_at": "2026-11-05T17:51:52+00:00",
+   "sources": [
+    {
+     "name": "The Verge",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1026927/total-repudiation-the-blue-wave-is-about-to-hit-ai"
+    }
+   ],
+   "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1026927/total-repudiation-the-blue-wave-is-about-to-hit-ai"
+  },
+  {
+   "id": "793baf0e5454",
+   "title": "Ask HN: What's your current AI agentic setup?",
+   "summary": "",
+   "category": "AI Agents",
+   "score": 49.4,
+   "published_at": "2026-11-04T14:37:22+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://news.ycombinator.com/item?id=50366117"
+    }
+   ],
+   "primary_url": "https://news.ycombinator.com/item?id=50366117"
+  },
+  {
+   "id": "1112027d5901",
+   "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
+   "summary": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended. Developers are combining frontier AI m…",
+   "category": "AI Agents",
+   "score": 49.0,
+   "published_at": "2026-11-05T17:00:35+00:00",
+   "sources": [
+    {
+     "name": "NVIDIA Blog",
+     "url": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/"
+    }
+   ],
+   "primary_url": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/"
+  },
+  {
+   "id": "37e23ca10f7e",
+   "title": "Grimes is going to star in an AI movie that’s coming to theaters",
+   "summary": "The AI-generated sci-fi film Gods Don't Give Gifts has added a bit of star power: Pop star Grimes is going to appear in the movie. Billed as \"the first AI film to come to theatres,\" Gods Don't Give G…",
+   "category": "AI Apps",
+   "score": 49.0,
+   "published_at": "2026-11-05T17:00:00+00:00",
+   "sources": [
+    {
+     "name": "The Verge",
+     "url": "https://www.theverge.com/entertainment/1026282/grimes-ai-movie"
+    }
+   ],
+   "primary_url": "https://www.theverge.com/entertainment/1026282/grimes-ai-movie"
+  },
+  {
+   "id": "44341b90f227",
+   "title": "OpenAI says its new cybersecurity model is better at not hacking other companies",
+   "summary": "OpenAI is launching GPT-6 Cyber, the latest version of its cybersecurity AI model, which it says is better at finding vulnerabilities and less likely to go rogue and hack other platforms in the proce…",
+   "category": "Security",
+   "score": 49.0,
+   "published_at": "2026-11-05T17:00:00+00:00",
+   "sources": [
+    {
+     "name": "The Verge",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1027599/openai-gpt-6-cyber-launch"
+    }
+   ],
+   "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1027599/openai-gpt-6-cyber-launch"
+  },
+  {
+   "id": "f93567576105",
+   "title": "Setting a new standard for responsible AI infrastructure",
+   "summary": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.",
+   "category": "Other",
+   "score": 48.7,
+   "published_at": "2026-11-05T02:00:00+00:00",
+   "sources": [
+    {
+     "name": "OpenAI",
+     "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure"
+    }
+   ],
+   "primary_url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure"
+  },
+  {
+   "id": "2846e03446f4",
+   "title": "Axiom Math wants to keep AI slop out of mathematics",
+   "summary": "As AI floods math with unchecked proofs, Axiom Math is betting on verification. The startup’s AI agents just formally verified the Stacks Project, one of the field’s biggest libraries.",
+   "category": "AI Agents",
+   "score": 48.7,
+   "published_at": "2026-11-05T16:16:45+00:00",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/"
+    }
+   ],
+   "primary_url": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/"
+  },
+  {
+   "id": "ad486aacca15",
+   "title": "Everything is an AI scam now",
+   "summary": "",
+   "category": "Other",
+   "score": 48.7,
+   "published_at": "2026-11-04T21:05:19+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://www.davidralphlewis.co.uk/posts/everything-is-an-ai-scam-now/"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50371508"
+    }
+   ],
+   "primary_url": "https://www.davidralphlewis.co.uk/posts/everything-is-an-ai-scam-now/"
+  },
+  {
+   "id": "763a8148826c",
+   "title": "Formally verifying agent-written full-stack web apps with PDD Kit",
+   "summary": "AI agents can generate code at a scale that’s hard for humans to review line-by-line. PDD Kit helps ensure the code is doing what the developer intended by creating formal specifications and testing …",
+   "category": "AI Agents",
+   "score": 48.6,
+   "published_at": "2026-11-05T16:00:00+00:00",
+   "sources": [
+    {
+     "name": "Microsoft Research",
+     "url": "https://www.microsoft.com/en-us/research/blog/formally-verifying-agent-written-full-stack-web-apps-with-pdd-kit/"
+    }
+   ],
+   "primary_url": "https://www.microsoft.com/en-us/research/blog/formally-verifying-agent-written-full-stack-web-apps-with-pdd-kit/"
+  },
+  {
+   "id": "477cff6d6b4c",
+   "title": "The Wizard of Open Weights: Chris Alexiuk Makes AI Easy With Open Models",
+   "summary": "Chris Alexiuk has a simple rule about open source AI: If you believe in it, be loud about it. “We should be shouting about this technology from the rooftops,” said Alexiuk, a Toronto-based senior pro…",
+   "category": "Open Source",
+   "score": 48.6,
+   "published_at": "2026-11-05T16:00:05+00:00",
+   "sources": [
+    {
+     "name": "NVIDIA Blog",
+     "url": "https://blogs.nvidia.com/blog/nvidia-life-chris-alexiuk/"
+    }
+   ],
+   "primary_url": "https://blogs.nvidia.com/blog/nvidia-life-chris-alexiuk/"
+  },
+  {
+   "id": "3df4d68063a5",
+   "title": "More Performance From Every Byte: How Full-Stack Codesign Solves AI’s Memory Challenge",
+   "summary": "Larger models, longer contexts and agentic applications are increasing GPU memory pressure while supply tightens and prices rise — a trend expected to continue through the near term. NVIDIA works clo…",
+   "category": "AI Agents",
+   "score": 48.6,
+   "published_at": "2026-11-05T16:00:00+00:00",
+   "sources": [
+    {
+     "name": "NVIDIA Blog",
+     "url": "https://blogs.nvidia.com/blog/memory-full-stack-codesign/"
+    }
+   ],
+   "primary_url": "https://blogs.nvidia.com/blog/memory-full-stack-codesign/"
+  },
+  {
+   "id": "5ccdc48dfe6e",
+   "title": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
+   "summary": "",
+   "category": "Other",
+   "score": 48.6,
+   "published_at": "2026-11-04T19:55:14+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50370654"
+    }
+   ],
+   "primary_url": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra"
+  },
+  {
+   "id": "150a39b9eb9a",
+   "title": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
+   "summary": "",
+   "category": "Other",
+   "score": 48.5,
+   "published_at": "2026-11-04T10:10:27+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://news.ycombinator.com/item?id=50363461"
+    }
+   ],
+   "primary_url": "https://news.ycombinator.com/item?id=50363461"
+  },
+  {
+   "id": "7b93706aafff",
+   "title": "Progress on provable inference for large language models",
+   "summary": "",
+   "category": "Innovation",
+   "score": 48.4,
+   "published_at": "2026-11-04T17:17:46+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://www.anthropic.com/research/provable-inference"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50368626"
+    }
+   ],
+   "primary_url": "https://www.anthropic.com/research/provable-inference"
+  },
+  {
+   "id": "aecc9a23fd3c",
+   "title": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
+   "summary": "The deal is expected to support the development of DBX Agent Cloud, a new storage platform aimed at developers building AI models and agents.",
+   "category": "AI Agents",
+   "score": 48.3,
+   "published_at": "2026-11-05T15:19:05+00:00",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/"
+    }
+   ],
+   "primary_url": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/"
+  },
+  {
+   "id": "b5330d69bb52",
+   "title": "The hidden supply chain costs of the AI boom",
+   "summary": "Today, I’m talking with Willy Shih, an economist, a professor of management practice at Harvard Business School, and the author of the upcoming book, Where Does My Stuff Come From? The Powerful Econo…",
+   "category": "AI Apps",
+   "score": 48.2,
+   "published_at": "2026-11-05T15:00:00+00:00",
+   "sources": [
+    {
+     "name": "The Verge",
+     "url": "https://www.theverge.com/podcast/1024438/willy-shih-supply-chain-ai-chips-ram-where-does-my-stuff-come-from-book"
+    }
+   ],
+   "primary_url": "https://www.theverge.com/podcast/1024438/willy-shih-supply-chain-ai-chips-ram-where-does-my-stuff-come-from-book"
+  },
+  {
+   "id": "89beac2608dd",
+   "title": "You can post AI music straight to SoundCloud from ElevenLabs",
+   "summary": "After partnering with Moises earlier this year, SoundCloud is now adding integration with another AI music platform, ElevenLabs. Now, rather than having to export and download your outputs from Eleve…",
+   "category": "Other",
+   "score": 48.2,
+   "published_at": "2026-11-05T15:00:00+00:00",
+   "sources": [
+    {
+     "name": "The Verge",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1027427/ai-music-soundcloud-elevenlabs"
+    }
+   ],
+   "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1027427/ai-music-soundcloud-elevenlabs"
+  },
+  {
+   "id": "c9efcd5ee343",
+   "title": "Aina’s smart ring has a screen, a joystick, and a mic so you can talk to AI agents",
+   "summary": "Aina's ring can also take calls and help you dictate notes on your Mac.",
+   "category": "AI Agents",
+   "score": 48.0,
+   "published_at": "2026-11-05T14:42:00+00:00",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/"
+    }
+   ],
+   "primary_url": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/"
+  },
+  {
+   "id": "51948d77555a",
+   "title": "Usagi-org/ai-goofish-monitor: 基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。",
+   "summary": "基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。",
+   "category": "Open Source",
+   "score": 47.9,
+   "published_at": "2026-11-05T19:24:42.087939+00:00",
+   "sources": [
+    {
+     "name": "GitHub Trending",
+     "url": "https://github.com/Usagi-org/ai-goofish-monitor"
+    }
+   ],
+   "primary_url": "https://github.com/Usagi-org/ai-goofish-monitor"
+  },
+  {
+   "id": "588776d5fd50",
+   "title": "‘Hogwarts Legacy’ Gets a Magical NVIDIA DLSS 5 Upgrade on GeForce NOW",
+   "summary": "Hogwarts Legacy receives an NVIDIA DLSS 5 upgrade with 3D-Guided Neural Rendering today, bringing lifelike lighting and materials to the wizarding world on GeForce NOW. Blizzard Entertainment’s World…",
+   "category": "AI Apps",
+   "score": 47.7,
+   "published_at": "2026-11-05T14:00:34+00:00",
+   "sources": [
+    {
+     "name": "NVIDIA Blog",
+     "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-hogwarts-legacy-dlss-5/"
+    }
+   ],
+   "primary_url": "https://blogs.nvidia.com/blog/geforce-now-thursday-hogwarts-legacy-dlss-5/"
+  },
+  {
+   "id": "5ea6f104b1e8",
+   "title": "Box taps Nvidia’s Nemotron for new agent-first content retrieval system",
+   "summary": "The system can supposedly answer queries four times faster, with 20% fewer errors and 90% fewer tokens used.",
+   "category": "AI Agents",
+   "score": 47.7,
+   "published_at": "2026-11-05T14:00:00+00:00",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/05/box-taps-nvidias-nemotron-for-new-agent-first-content-retrieval-system/"
+    }
+   ],
+   "primary_url": "https://techcrunch.com/2026/11/05/box-taps-nvidias-nemotron-for-new-agent-first-content-retrieval-system/"
+  },
+  {
+   "id": "771d04f9d142",
+   "title": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
+   "summary": "",
+   "category": "Other",
+   "score": 47.6,
+   "published_at": "2026-11-04T08:46:29+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50362905"
+    }
+   ],
+   "primary_url": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop"
+  },
+  {
+   "id": "b9901cf07693",
+   "title": "microsoft/VibeVoice: Open-Source Frontier Voice AI",
+   "summary": "Open-Source Frontier Voice AI",
+   "category": "Open Source",
+   "score": 47.6,
+   "published_at": "2026-11-05T19:24:42.087939+00:00",
+   "sources": [
+    {
+     "name": "GitHub Trending",
+     "url": "https://github.com/microsoft/VibeVoice"
+    }
+   ],
+   "primary_url": "https://github.com/microsoft/VibeVoice"
+  },
+  {
+   "id": "fd04855a6f41",
+   "title": "A YC startup is putting $1M behind 5 unsolved materials science problems for AI",
+   "summary": "While frontier AI models have solved a remarkable series of outstanding mathematics problems and made progress in the life sciences, they have yet to truly plumb the complex physics in advanced mater…",
+   "category": "Other",
+   "score": 47.3,
+   "published_at": "2026-11-05T13:00:00+00:00",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/"
+    }
+   ],
+   "primary_url": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/"
+  },
+  {
+   "id": "1ceb56a3b374",
+   "title": "vercel-labs/agent-browser: Browser automation CLI for AI agents",
+   "summary": "Browser automation CLI for AI agents",
+   "category": "AI Agents",
+   "score": 47.2,
+   "published_at": "2026-11-05T19:24:42.087939+00:00",
+   "sources": [
+    {
+     "name": "GitHub Trending",
+     "url": "https://github.com/vercel-labs/agent-browser"
+    }
+   ],
+   "primary_url": "https://github.com/vercel-labs/agent-browser"
+  },
+  {
+   "id": "1184d3a025fd",
+   "title": "Le Chonk brings the brains. Studio puts it to work.",
+   "summary": "Build and deploy enterprise agents, workflows and apps faster with Mistral Studio and Le Chonk full control over your models, data and infrastructure.",
+   "category": "AI Agents",
+   "score": 46.9,
+   "published_at": "2026-11-05T12:00:14+00:00",
+   "sources": [
+    {
+     "name": "Mistral AI",
+     "url": "https://mistral.ai/news/build-with-studio/"
+    }
+   ],
+   "primary_url": "https://mistral.ai/news/build-with-studio/"
+  },
+  {
+   "id": "d94f47b36633",
+   "title": "Agility is the first pure humanoid robot company on the stock market. Are you buying?",
+   "summary": "Agility arrives on the Nasdaq today as the first publicly traded pure-play humanoid robotics company.",
+   "category": "Innovation",
+   "score": 46.9,
+   "published_at": "2026-11-05T12:00:00+00:00",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/"
+    }
+   ],
+   "primary_url": "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/"
+  },
+  {
+   "id": "4513cd1ca7d8",
+   "title": "Agility Robotics' Nasdaq debut invites scrutiny of humanoid robot market",
+   "summary": "US leader in deploying humanoid robots goes public on the Nasdaq stock exchange.",
+   "category": "Innovation",
+   "score": 46.9,
+   "published_at": "2026-11-05T12:00:41+00:00",
+   "sources": [
+    {
+     "name": "Ars Technica",
+     "url": "https://arstechnica.com/ai/2026/11/agility-robotics-nasdaq-debut-invites-scrutiny-of-humanoid-robot-market/"
+    }
+   ],
+   "primary_url": "https://arstechnica.com/ai/2026/11/agility-robotics-nasdaq-debut-invites-scrutiny-of-humanoid-robot-market/"
+  },
+  {
+   "id": "f7f044f18932",
+   "title": "Big Tech’s big AI buildout will not end until someone stops it",
+   "summary": "After four of the biggest competitors in the AI race held quarterly earnings calls late last month, two things are clear: Big Tech is not done spending record amounts on the AI data center buildout, …",
+   "category": "Other",
+   "score": 46.4,
+   "published_at": "2026-11-05T10:45:00+00:00",
+   "sources": [
+    {
+     "name": "The Verge",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1027344/amazon-microsoft-alphabet-google-meta-data-centers-earnings-q3"
+    }
+   ],
+   "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1027344/amazon-microsoft-alphabet-google-meta-data-centers-earnings-q3"
+  },
+  {
+   "id": "dc34df3985a1",
+   "title": "Geoffrey Hinton: it might turn out we were better off without AI",
+   "summary": "",
+   "category": "Other",
+   "score": 46.4,
+   "published_at": "2026-11-04T10:23:34+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50363554"
+    }
+   ],
+   "primary_url": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai"
+  },
+  {
+   "id": "793a736581dc",
+   "title": "YC's Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+   "summary": "",
+   "category": "AI Agents",
+   "score": 45.3,
+   "published_at": "2026-11-04T15:28:31+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50366971"
+    }
+   ],
+   "primary_url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/"
+  },
+  {
+   "id": "34aa5b1d1b26",
+   "title": "Five Ways NVIDIA Co-Design Maximizes the Value of Every Byte in the AI Factory",
+   "summary": "In an AI factory, high bandwidth memory (HBM)is the fastest, most expensive, and most contested memory tier. Every byte spent on a redundant weight copy, an...",
+   "category": "AI Apps",
+   "score": 42.6,
+   "published_at": "2026-11-05T16:00:00+00:00",
+   "sources": [
+    {
+     "name": "NVIDIA Developer",
+     "url": "https://developer.nvidia.com/blog/five-ways-nvidia-co-design-maximizes-the-value-of-every-byte-in-the-ai-factory/"
+    }
+   ],
+   "primary_url": "https://developer.nvidia.com/blog/five-ways-nvidia-co-design-maximizes-the-value-of-every-byte-in-the-ai-factory/"
+  },
+  {
+   "id": "aa3b92b87c68",
+   "title": "Apple is reportedly cutting budgets for its internal AI usage",
+   "summary": "The tokenmaxxing frenzy has been short-lived as bills for said tokens came due, and companies decided that token rationing might be a more fiscally sensible approach.",
+   "category": "Other",
+   "score": 42.5,
+   "published_at": "2026-11-05T01:26:22+00:00",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/"
+    }
+   ],
+   "primary_url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/"
+  },
+  {
+   "id": "d93ef6b85a78",
+   "title": "After the midterms, a bigger clash over data centers could be coming",
+   "summary": "Data center opposition crossed party lines in Tuesday’s midterms.",
+   "category": "Other",
+   "score": 42.3,
+   "published_at": "2026-11-05T01:02:14+00:00",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/"
+    }
+   ],
+   "primary_url": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/"
+  },
+  {
+   "id": "89209ab642b1",
+   "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+   "summary": "",
+   "category": "Innovation",
+   "score": 41.9,
+   "published_at": "2026-11-05T00:00:00+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face Blog",
+     "url": "https://huggingface.co/blog/phonon-tts"
+    }
+   ],
+   "primary_url": "https://huggingface.co/blog/phonon-tts"
+  },
+  {
+   "id": "f3900be82c6f",
+   "title": "US tech giants' hidden AI debt swells 90% to $3.2T in 6 months",
+   "summary": "",
+   "category": "Other",
+   "score": 41.8,
+   "published_at": "2026-11-03T21:26:44+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50358422"
+    }
+   ],
+   "primary_url": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months"
+  },
+  {
+   "id": "edbf4ed1a954",
+   "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
+   "summary": "",
+   "category": "Other",
+   "score": 41.7,
+   "published_at": "2026-11-03T21:40:53+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://arxiv.org/abs/2605.29713"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50358582"
+    }
+   ],
+   "primary_url": "https://arxiv.org/abs/2605.29713"
+  },
+  {
+   "id": "a331696f9782",
+   "title": "AI PACs spent millions trying to shape Congress — here’s how they fared",
+   "summary": "AI industry PACs spent millions influencing the 2026 midterms, with mixed results. Political groups are already looking toward the next election cycle.",
+   "category": "Other",
+   "score": 41.4,
+   "published_at": "2026-11-04T22:45:09+00:00",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/"
+    }
+   ],
+   "primary_url": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/"
+  },
+  {
+   "id": "9237dfef9309",
+   "title": "Qualcomm is betting big on data centers as smartphone sales sink",
+   "summary": "With smartphone sales tanking by around 20 percent compared to 2025, Qualcomm is looking to data centers to help boost its bottom line. During its Q4 2026 earnings call, the company laid out its plan…",
+   "category": "Other",
+   "score": 41.4,
+   "published_at": "2026-11-04T22:42:15+00:00",
+   "sources": [
+    {
+     "name": "The Verge",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers"
+    }
+   ],
+   "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers"
+  },
+  {
+   "id": "a4f4c423c542",
+   "title": "A thousand fewer paths to root",
+   "summary": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel.",
+   "category": "Security",
+   "score": 41.2,
+   "published_at": "2026-11-04T08:00:00+00:00",
+   "sources": [
+    {
+     "name": "OpenAI",
+     "url": "https://openai.com/index/a-thousand-fewer-paths-to-root"
+    }
+   ],
+   "primary_url": "https://openai.com/index/a-thousand-fewer-paths-to-root"
+  },
+  {
+   "id": "858a2ce3283f",
+   "title": "Nothing CEO says company’s mysterious AI-first device is dropping next month",
+   "summary": "While it's not yet clear what kind of product the smartphone startup is cooking up, Nothing's CEO said the product is designed to leverage AI for productivity gains.",
+   "category": "Other",
+   "score": 41.2,
+   "published_at": "2026-11-04T22:13:16+00:00",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/"
+    }
+   ],
+   "primary_url": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/"
+  },
+  {
+   "id": "94c502abbc46",
+   "title": "Almost no one uses AI agents to book their Uber, company says",
+   "summary": "During its busiest week last quarter, Uber said only four people booked a ride using an AI agent.",
+   "category": "AI Agents",
+   "score": 41.1,
+   "published_at": "2026-11-04T21:56:01+00:00",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/"
+    }
+   ],
+   "primary_url": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/"
+  },
+  {
+   "id": "4b9fe57b6fa4",
+   "title": "OpenAI揭露AI助理個人化瓶頸，模型仍難善用過往對話",
+   "summary": "新聞 OpenAI公布 日常生活任務基準測試LifeVal ，研究發現，即使AI助理能存取使用者過往的ChatGPT對話，仍可能漏掉完成任務所需的個人資訊。在被判定需要從歷史對話取得資訊的評分條件中，平均達標率僅33.33%，反映出運用過往對話的能力仍有不足。 LifeVal收錄169項任務 ，涵蓋照護、教育、購物、個人財務與政府服務。研究團隊邀請具備相關經驗的參與者設計任務，結合經去識別化處理…",
+   "category": "Innovation",
+   "score": 41.1,
+   "published_at": "2026-11-05T12:30:49+00:00",
+   "sources": [
+    {
+     "name": "iThome",
+     "url": "https://www.ithome.com.tw/news/180267"
+    }
+   ],
+   "primary_url": "https://www.ithome.com.tw/news/180267"
+  },
+  {
+   "id": "e5fe4bf1b72b",
+   "title": "17 better ways Elon Musk could have wasted $446 million",
+   "summary": "One of the basic problems of spending too much time on social media is that you are cooking your brain by reading posts from a pack of attention-seeking lunatics. If your social media of choice is th…",
+   "category": "Other",
+   "score": 41.0,
+   "published_at": "2026-11-04T21:45:00+00:00",
+   "sources": [
+    {
+     "name": "The Verge",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1026878/not-even-good-at-being-rich"
+    }
+   ],
+   "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1026878/not-even-good-at-being-rich"
+  },
+  {
+   "id": "75679f5aa60b",
+   "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+   "summary": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
+   "category": "Innovation",
+   "score": 40.8,
+   "published_at": "2026-11-04T07:00:00+00:00",
+   "sources": [
+    {
+     "name": "OpenAI",
+     "url": "https://openai.com/index/daybreak-red-aws-govcloud"
+    }
+   ],
+   "primary_url": "https://openai.com/index/daybreak-red-aws-govcloud"
+  },
+  {
+   "id": "a1e153edc152",
+   "title": "OpenAI is already trying to shape the 2028 election",
+   "summary": "OpenAI’s Chris Lehane wants AI to define the 2028 election, proposing a new social contract that could benefit Americans while also advancing the AI giant’s own business interests.",
+   "category": "Other",
+   "score": 40.8,
+   "published_at": "2026-11-04T21:25:44+00:00",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/"
+    }
+   ],
+   "primary_url": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/"
+  },
+  {
+   "id": "d23caa988630",
+   "title": "Meta acquires AI coding startup Conductor",
+   "summary": "The startup allows software engineers to deploy teams of agents to work on various aspects of a project simultaneously.",
+   "category": "AI Agents",
+   "score": 40.7,
+   "published_at": "2026-11-04T21:10:56+00:00",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/"
+    }
+   ],
+   "primary_url": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/"
+  },
+  {
+   "id": "44e59e6a2681",
+   "title": "Big Tech claims voters’ AI backlash is “anti-Trump” not “anti-tech”",
+   "summary": "Tech industry in denial as US overwhelmingly votes to restrict AI, data centers.",
+   "category": "Other",
+   "score": 40.6,
+   "published_at": "2026-11-04T20:55:50+00:00",
+   "sources": [
+    {
+     "name": "Ars Technica",
+     "url": "https://arstechnica.com/tech-policy/2026/11/big-tech-claims-voters-ai-backlash-is-anti-trump-not-anti-tech/"
+    }
+   ],
+   "primary_url": "https://arstechnica.com/tech-policy/2026/11/big-tech-claims-voters-ai-backlash-is-anti-trump-not-anti-tech/"
+  },
+  {
+   "id": "0723f715bbba",
+   "title": "【專訪】從桌上型電腦到企業 AI 基礎設施，Apple 揭露 Mac mini、Mac Studio 新需求",
+   "summary": "AI 熱潮正改變 Mac mini 與 Mac Studio 的市場定位，針對這種轉變，本次《INSIDE》專訪 Apple Mac 產品行銷資深總監 Sophie Le Guen 了解企業使用 Mac 運算 AI 的情況，以及大規模部署帶來的新需求。",
+   "category": "Other",
+   "score": 40.4,
+   "published_at": "2026-11-05T10:47:00+00:00",
+   "sources": [
+    {
+     "name": "INSIDE",
+     "url": "https://www.inside.com.tw/article/42830-apple-mac-mini-mac-studio-enterprise-ai-deployment-sophie-le-guen-interview"
+    }
+   ],
+   "primary_url": "https://www.inside.com.tw/article/42830-apple-mac-mini-mac-studio-enterprise-ai-deployment-sophie-le-guen-interview"
+  },
+  {
+   "id": "21f58c23eb73",
+   "title": "公路局擬擴大推動無人機AI巡檢，結合3D建模、AI影像辨識提升橋梁與邊坡養護效率",
+   "summary": "新聞 臺灣山區地形陡峭、地質破碎，加上颱風、地震頻繁，許多公路與橋梁沿著山區興建，邊坡、橋梁梁底及橋墩等設施長期面臨巡檢不易的挑戰。交通部公路局副局長周廷彰表示，過去巡檢多仰賴人工步行、攀爬或橋梁檢測車，不僅耗時，也伴隨一定作業風險。公路局近年逐步導入無人機，利用高空影像快速掌握橋梁、邊坡等人員不易到達的位置，減少工程人員進入危險區域的需求。 不過，公路局的目標已不只是利用無人機空拍，而是進一步…",
+   "category": "AI Apps",
+   "score": 40.1,
+   "published_at": "2026-11-05T09:58:26+00:00",
+   "sources": [
+    {
+     "name": "iThome",
+     "url": "https://www.ithome.com.tw/news/180263"
+    }
+   ],
+   "primary_url": "https://www.ithome.com.tw/news/180263"
+  },
+  {
+   "id": "49cf82dfae35",
+   "title": "Open source AI is booming. Hugging Face explains who profits.",
+   "summary": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable mode…",
+   "category": "Open Source",
+   "score": 40.0,
+   "published_at": "2026-11-04T19:30:04+00:00",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/"
+    }
+   ],
+   "primary_url": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/"
+  },
+  {
+   "id": "f1f26a9d7d87",
+   "title": "DuckDuckGo pitches itself to schools amid backlash over Google’s AI policy",
+   "summary": "DuckDuckGo is courting schools frustrated by Google's AI restrictions, pointing educators to its search engine and options to disable AI features.",
+   "category": "AI Apps",
+   "score": 40.0,
+   "published_at": "2026-11-04T19:29:52+00:00",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/"
+    }
+   ],
+   "primary_url": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/"
+  },
+  {
+   "id": "31bba1eca5b3",
+   "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
+   "summary": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech’s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat …",
+   "category": "Other",
+   "score": 39.8,
+   "published_at": "2026-11-04T18:50:55+00:00",
+   "sources": [
+    {
+     "name": "MIT Technology Review",
+     "url": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/"
+    }
+   ],
+   "primary_url": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/"
+  },
+  {
+   "id": "bb779f39a67b",
+   "title": "Building on open source AI? Hugging Face’s policy chief on the costs, risks, and trade-offs",
+   "summary": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable mode…",
+   "category": "Open Source",
+   "score": 39.7,
+   "published_at": "2026-11-04T18:44:57+00:00",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/podcast/building-on-open-source-ai-hugging-faces-policy-chief-on-the-costs-risks-and-trade-offs/"
+    }
+   ],
+   "primary_url": "https://techcrunch.com/podcast/building-on-open-source-ai-hugging-faces-policy-chief-on-the-costs-risks-and-trade-offs/"
+  },
+  {
+   "id": "43b39694fb48",
+   "title": "讓所學遇見需要它的企業： AI 種子人才培育的產學接軌之路",
+   "summary": "學會使用 AI 是學習的起點；理解如何讓 AI 成為職涯的助力，則需要進一步接觸工作現場。讓學生帶著所學與疑問，直接體認到業界需要的能力；企業也透過學生的作品來展開對話，對照彼此的需求。",
+   "category": "Other",
+   "score": 39.7,
+   "published_at": "2026-11-05T09:00:00+00:00",
+   "sources": [
+    {
+     "name": "INSIDE",
+     "url": "https://www.inside.com.tw/article/42818-TCA-AI4"
+    }
+   ],
+   "primary_url": "https://www.inside.com.tw/article/42818-TCA-AI4"
+  },
+  {
+   "id": "5afc49da7bd4",
+   "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+   "summary": "",
+   "category": "Other",
+   "score": 39.3,
+   "published_at": "2026-11-04T17:50:10+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face Blog",
+     "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor"
+    }
+   ],
+   "primary_url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor"
+  },
+  {
+   "id": "9d582074a2c8",
+   "title": "ChatGPT 生圖支援 GIF 了！Images 2.6 生成快 50%，手繪草圖也能變成動畫角色",
+   "summary": "OpenAI 美西時間 11 月 4 日推出 Images 2.6，ChatGPT 能把一句提示詞直接做成 GIF，參考圖也可以存起來重複使用。官方稱生成速度快 50%，每週生成量達 40 億張。本文依官方公告、開發者社群公告與系統卡，拆解兩款 API 模型怎麼分工，以及 GIF 審核仍會漏網的地方。",
+   "category": "Innovation",
+   "score": 39.3,
+   "published_at": "2026-11-05T08:14:00+00:00",
+   "sources": [
+    {
+     "name": "INSIDE",
+     "url": "https://www.inside.com.tw/article/42836-openai-chatgpt-images-2-6-gif-flare-sunburst"
+    }
+   ],
+   "primary_url": "https://www.inside.com.tw/article/42836-openai-chatgpt-images-2-6-gif-flare-sunburst"
+  },
+  {
+   "id": "596600247794",
+   "title": "【資安日報】11月5日，法國國家血液機構冷藏設備遭網路攻擊，3處設施溫度控制遭竄改",
+   "summary": "新聞 本日新聞焦點 ● 法國國家血液機構冷藏設備遭網路攻擊，3處設施溫度控制遭竄改 ● 永豐銀行異常轉帳確認為駭客攻擊，供應商安全設定漏洞遭利用 ● 俄羅斯駭客APT29大規模水坑式攻擊，竊取iOS與Android裝置資料 ● APT駭客利用惡意軟體框架NetamLoader攻擊亞洲政府機關 ● 駭客鎖定政府機關Linux主機，意圖竊取郵件與社群平臺帳號 資安新聞總覽 法國國家血液機構冷藏設備遭…",
+   "category": "Security",
+   "score": 38.8,
+   "published_at": "2026-11-05T06:57:26+00:00",
+   "sources": [
+    {
+     "name": "iThome",
+     "url": "https://www.ithome.com.tw/news/180260"
+    }
+   ],
+   "primary_url": "https://www.ithome.com.tw/news/180260"
+  },
+  {
+   "id": "40ed0478e937",
+   "title": "Show HN: Uncracked City, detective game where you question LLM suspects that lie",
+   "summary": "",
+   "category": "Other",
+   "score": 38.4,
+   "published_at": "2026-11-03T21:20:03+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://uncracked.city"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50358352"
+    }
+   ],
+   "primary_url": "https://uncracked.city"
+  },
+  {
+   "id": "228dcedd9b56",
+   "title": "OpenAI收購Pierre，擴充Codex程式碼管理與審查能力",
+   "summary": "新聞 OpenAI周三（11/4）宣布 ，將收購開發者工具新創Pierre Computer Company，整合Pierre的Git版本控制、程式碼儲存及審查技術，擴充Codex的軟體開發能力，雙方並未公開交易金額。美國科技媒體 Axios認為 ，這項收購顯示OpenAI正朝程式碼管理市場擴張，可能進一步挑戰微軟旗下GitHub的市場地位。 Pierre成立於2023年，由Bootstrap前…",
+   "category": "AI Apps",
+   "score": 38.3,
+   "published_at": "2026-11-05T05:45:01+00:00",
+   "sources": [
+    {
+     "name": "iThome",
+     "url": "https://www.ithome.com.tw/news/180257"
+    }
+   ],
+   "primary_url": "https://www.ithome.com.tw/news/180257"
+  },
+  {
+   "id": "0a437d67f2ef",
+   "title": "Introducing Images 2.6",
+   "summary": "Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API.",
+   "category": "AI Agents",
+   "score": 37.9,
+   "published_at": "2026-11-04T00:00:00+00:00",
+   "sources": [
+    {
+     "name": "OpenAI",
+     "url": "https://openai.com/index/introducing-images-2-6"
+    }
+   ],
+   "primary_url": "https://openai.com/index/introducing-images-2-6"
+  },
+  {
+   "id": "bf25be8f8779",
+   "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
+   "summary": "DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service.",
+   "category": "AI Agents",
+   "score": 37.9,
+   "published_at": "2026-11-04T00:00:00+00:00",
+   "sources": [
+    {
+     "name": "OpenAI",
+     "url": "https://openai.com/index/devrev-enterprise-self-service"
+    }
+   ],
+   "primary_url": "https://openai.com/index/devrev-enterprise-self-service"
+  },
+  {
+   "id": "00767e779183",
+   "title": "The Ultimate MoE Training Handbook: training Mixture-of-Experts models with Megatron-LM, setting by setting [P]",
+   "summary": "Handbook: https://huggingface.co/spaces/huggingface/moe-blogpost Hello, I'm Nouamane, one of the authors. I'm at Hugging Face and also worked on the Ultra-Scale and Smol Training Playbooks, if you've…",
+   "category": "Other",
+   "score": 37.9,
+   "published_at": "2026-11-05T19:13:51+00:00",
+   "sources": [
+    {
+     "name": "r/MachineLearning",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1xorgq0/the_ultimate_moe_training_handbook_training/"
+    }
+   ],
+   "primary_url": "https://www.reddit.com/r/MachineLearning/comments/1xorgq0/the_ultimate_moe_training_handbook_training/"
+  },
+  {
+   "id": "490ea6a51331",
+   "title": "AI 自己造出更強的 AI？Anthropic 更新文件稱可能「即將」達到 AI 加速自身研發門檻",
+   "summary": "Anthropic 在 11 月 2 日公開的修訂版 S-1/A 中表示，內部估計顯示可能即將達到 RSP 對「AI 大幅加速進展」的定義，但尚未認定任何現有模型超標，並考慮更新政策確保人類掌控頂尖模型開發。",
+   "category": "AI Apps",
+   "score": 37.9,
+   "published_at": "2026-11-05T04:50:00+00:00",
+   "sources": [
+    {
+     "name": "INSIDE",
+     "url": "https://www.inside.com.tw/article/42811-anthropic-s1a-recursive-self-improvement-threshold-may-be-imminent"
+    }
+   ],
+   "primary_url": "https://www.inside.com.tw/article/42811-anthropic-s1a-recursive-self-improvement-threshold-may-be-imminent"
+  },
+  {
+   "id": "b27464f61d86",
+   "title": "OpenAI 全球事務長 Lehane 開出 2028 大選 5 道 AI 政策題，主張可關停系統、警告資料中心禁建恐失領先",
+   "summary": "OpenAI 全球事務長 Chris Lehane 在美國期中選舉隔天發表個人評論，向 2028 年總統候選人開出 5 道 AI 政策題，其中包括必要時要能限制或關停 AI 系統，也把民主黨初選上表態支持資料中心禁建，比作 2002 年的伊拉克戰爭投票。本文對照 Lehane 原文與 AI Now Institute 的批評，整理他在安全、稅制、勞工與資料中心上的主張。",
+   "category": "Other",
+   "score": 37.8,
+   "published_at": "2026-11-05T04:32:00+00:00",
+   "sources": [
+    {
+     "name": "INSIDE",
+     "url": "https://www.inside.com.tw/article/42831-openai-lehane-2028-ai-election-essay"
+    }
+   ],
+   "primary_url": "https://www.inside.com.tw/article/42831-openai-lehane-2028-ai-election-essay"
+  },
+  {
+   "id": "f1050b4c4d67",
+   "title": "Looking for Emergency Reviewers [R]",
+   "summary": "We’re looking for a few emergency reviewers for the FABRIC Workshop at WACV 2027 due to a very tight review timeline. If you have expertise in computer vision, multimodal learning, physiological sens…",
+   "category": "AI Apps",
+   "score": 37.6,
+   "published_at": "2026-11-05T18:31:03+00:00",
+   "sources": [
+    {
+     "name": "r/MachineLearning",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1xoqca2/looking_for_emergency_reviewers_r/"
+    }
+   ],
+   "primary_url": "https://www.reddit.com/r/MachineLearning/comments/1xoqca2/looking_for_emergency_reviewers_r/"
+  },
+  {
+   "id": "3e934df74ee4",
+   "title": "美國期中選舉民主黨拿下國會，AI 資料中心股走跌、政治團體砸數百萬美元成敗互見",
+   "summary": "民主黨在美東時間 11 月 3 日（台北時間 11 月 4 日）的美國期中選舉拿下國會，隔天美股盤中 CoreWeave、Vistra 等資料中心與電力股走跌，亞馬遜、微軟各漲 6%，支持和反對 AI 產業的政治團體則砸下數百萬美元，結果成敗互見。",
+   "category": "Other",
+   "score": 37.5,
+   "published_at": "2026-11-05T03:50:00+00:00",
+   "sources": [
+    {
+     "name": "INSIDE",
+     "url": "https://www.inside.com.tw/article/42826-us-midterms-ai-data-center-stocks-pacs"
+    }
+   ],
+   "primary_url": "https://www.inside.com.tw/article/42826-us-midterms-ai-data-center-stocks-pacs"
+  },
+  {
+   "id": "416b7eba9f32",
+   "title": "Securing the agentic enterprise with data lineage",
+   "summary": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output look…",
+   "category": "AI Agents",
+   "score": 37.3,
+   "published_at": "2026-11-04T13:00:00+00:00",
+   "sources": [
+    {
+     "name": "MIT Technology Review",
+     "url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/"
+    }
+   ],
+   "primary_url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/"
+  },
+  {
+   "id": "bd6226c64ab7",
+   "title": "Industry to academia [D]",
+   "summary": "I have always had the desire to move to academia but I am not exactly sure how the process or profile building for academia works in general. Yeah, surely, I can ask AI and get answers but I don’t ha…",
+   "category": "Innovation",
+   "score": 36.2,
+   "published_at": "2026-11-05T15:11:22+00:00",
+   "sources": [
+    {
+     "name": "r/MachineLearning",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1xol3vf/industry_to_academia_d/"
+    }
+   ],
+   "primary_url": "https://www.reddit.com/r/MachineLearning/comments/1xol3vf/industry_to_academia_d/"
+  },
+  {
+   "id": "ce881488b0c2",
+   "title": "Best approach for demand forecasting across 40 locations? Separate models or one global model? [p]",
+   "summary": "Hey everyone, I'm a final-year B.Tech CSE (AI/ML) student working on a multi-agent supply chain optimization project. I'm currently focusing on the Demand Forecasting Agent and would appreciate some …",
+   "category": "AI Agents",
+   "score": 35.3,
+   "published_at": "2026-11-05T12:55:51+00:00",
+   "sources": [
+    {
+     "name": "r/MachineLearning",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1xohxyv/best_approach_for_demand_forecasting_across_40/"
+    }
+   ],
+   "primary_url": "https://www.reddit.com/r/MachineLearning/comments/1xohxyv/best_approach_for_demand_forecasting_across_40/"
+  },
+  {
+   "id": "3d39bad411aa",
+   "title": "How NVIDIA Uses AI Agents to Streamline AI Factory Operations",
+   "summary": "As GPU clusters scale, operations span compute, network, hardware, and scheduling. Site reliability engineers (SREs) often have to examine multiple dashboards...",
+   "category": "AI Agents",
+   "score": 35.1,
+   "published_at": "2026-11-04T22:00:17+00:00",
+   "sources": [
+    {
+     "name": "NVIDIA Developer",
+     "url": "https://developer.nvidia.com/blog/how-nvidia-uses-ai-agents-to-streamline-ai-factory-operations/"
+    }
+   ],
+   "primary_url": "https://developer.nvidia.com/blog/how-nvidia-uses-ai-agents-to-streamline-ai-factory-operations/"
+  }
+ ],
+ "highlights": {
+  "Headlines": [
+   {
+    "id": "3a06f84c0f51",
+    "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+    "summary": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
+    "category": "AI Agents",
+    "score": 65.6,
+    "published_at": "2026-11-04T14:30:00+00:00",
+    "sources": [
+     {
+      "name": "OpenAI",
+      "url": "https://openai.com/index/openai-to-acquire-pierre"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50366863"
+     }
+    ],
+    "primary_url": "https://openai.com/index/openai-to-acquire-pierre"
+   },
+   {
+    "id": "7838c87736f9",
+    "title": "Kimi K3.1 Pro model weights are out",
+    "summary": "",
+    "category": "Open Source",
+    "score": 58.4,
+    "published_at": "2026-11-04T15:30:30+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50366999"
+     }
+    ],
+    "primary_url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro"
+   },
+   {
+    "id": "003a6dd08e36",
+    "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+    "summary": "",
+    "category": "Other",
+    "score": 55.0,
+    "published_at": "2026-11-05T17:05:16+00:00",
+    "sources": [
+     {
+      "name": "Google DeepMind",
+      "url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/"
+     }
+    ],
+    "primary_url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/"
+   },
+   {
+    "id": "9f91f09c0af9",
+    "title": "The Long-Term Benefit Trust",
+    "summary": "",
+    "category": "Other",
+    "score": 54.5,
+    "published_at": "2026-11-05T15:44:46+00:00",
+    "sources": [
+     {
+      "name": "Anthropic",
+      "url": "https://www.anthropic.com/news/the-long-term-benefit-trust"
+     }
+    ],
+    "primary_url": "https://www.anthropic.com/news/the-long-term-benefit-trust"
+   },
+   {
+    "id": "53c56afbaf05",
+    "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
+    "summary": "Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope.",
+    "category": "AI Agents",
+    "score": 51.7,
+    "published_at": "2026-11-05T09:00:00+00:00",
+    "sources": [
+     {
+      "name": "OpenAI",
+      "url": "https://openai.com/index/introducing-gpt-6-cyber"
+     }
+    ],
+    "primary_url": "https://openai.com/index/introducing-gpt-6-cyber"
+   },
+   {
+    "id": "f93567576105",
+    "title": "Setting a new standard for responsible AI infrastructure",
+    "summary": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.",
+    "category": "Other",
+    "score": 48.7,
+    "published_at": "2026-11-05T02:00:00+00:00",
+    "sources": [
+     {
+      "name": "OpenAI",
+      "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure"
+     }
+    ],
+    "primary_url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure"
+   },
+   {
+    "id": "a4f4c423c542",
+    "title": "A thousand fewer paths to root",
+    "summary": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel.",
+    "category": "Security",
+    "score": 41.2,
+    "published_at": "2026-11-04T08:00:00+00:00",
+    "sources": [
+     {
+      "name": "OpenAI",
+      "url": "https://openai.com/index/a-thousand-fewer-paths-to-root"
+     }
+    ],
+    "primary_url": "https://openai.com/index/a-thousand-fewer-paths-to-root"
+   },
+   {
+    "id": "75679f5aa60b",
+    "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+    "summary": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
+    "category": "Innovation",
+    "score": 40.8,
+    "published_at": "2026-11-04T07:00:00+00:00",
+    "sources": [
+     {
+      "name": "OpenAI",
+      "url": "https://openai.com/index/daybreak-red-aws-govcloud"
+     }
+    ],
+    "primary_url": "https://openai.com/index/daybreak-red-aws-govcloud"
+   },
+   {
+    "id": "0a437d67f2ef",
+    "title": "Introducing Images 2.6",
+    "summary": "Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API.",
+    "category": "AI Agents",
+    "score": 37.9,
+    "published_at": "2026-11-04T00:00:00+00:00",
+    "sources": [
+     {
+      "name": "OpenAI",
+      "url": "https://openai.com/index/introducing-images-2-6"
+     }
+    ],
+    "primary_url": "https://openai.com/index/introducing-images-2-6"
+   },
+   {
+    "id": "bf25be8f8779",
+    "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
+    "summary": "DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service.",
+    "category": "AI Agents",
+    "score": 37.9,
+    "published_at": "2026-11-04T00:00:00+00:00",
+    "sources": [
+     {
+      "name": "OpenAI",
+      "url": "https://openai.com/index/devrev-enterprise-self-service"
+     }
+    ],
+    "primary_url": "https://openai.com/index/devrev-enterprise-self-service"
+   }
+  ],
+  "Dark Horses": [
+   {
+    "id": "68c44263a0af",
+    "title": "AI is forcing us to pay off 40 years of technical debt",
+    "summary": "",
+    "category": "Other",
+    "score": 50.9,
+    "published_at": "2026-11-04T11:52:17+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50364336"
+     }
+    ],
+    "primary_url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability"
+   },
+   {
+    "id": "793baf0e5454",
+    "title": "Ask HN: What's your current AI agentic setup?",
+    "summary": "",
+    "category": "AI Agents",
+    "score": 49.4,
+    "published_at": "2026-11-04T14:37:22+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://news.ycombinator.com/item?id=50366117"
+     }
+    ],
+    "primary_url": "https://news.ycombinator.com/item?id=50366117"
+   },
+   {
+    "id": "f3900be82c6f",
+    "title": "US tech giants' hidden AI debt swells 90% to $3.2T in 6 months",
+    "summary": "",
+    "category": "Other",
+    "score": 41.8,
+    "published_at": "2026-11-03T21:26:44+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50358422"
+     }
+    ],
+    "primary_url": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months"
+   },
+   {
+    "id": "edbf4ed1a954",
+    "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
+    "summary": "",
+    "category": "Other",
+    "score": 41.7,
+    "published_at": "2026-11-03T21:40:53+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://arxiv.org/abs/2605.29713"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50358582"
+     }
+    ],
+    "primary_url": "https://arxiv.org/abs/2605.29713"
+   },
+   {
+    "id": "96eddcc208ed",
+    "title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
+    "summary": "",
+    "category": "AI Agents",
+    "score": 50.1,
+    "published_at": "2026-11-04T18:53:29+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://www.ricursive.com/ripple"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50369925"
+     }
+    ],
+    "primary_url": "https://www.ricursive.com/ripple"
+   },
+   {
+    "id": "dc34df3985a1",
+    "title": "Geoffrey Hinton: it might turn out we were better off without AI",
+    "summary": "",
+    "category": "Other",
+    "score": 46.4,
+    "published_at": "2026-11-04T10:23:34+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50363554"
+     }
+    ],
+    "primary_url": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai"
+   },
+   {
+    "id": "ad486aacca15",
+    "title": "Everything is an AI scam now",
+    "summary": "",
+    "category": "Other",
+    "score": 48.7,
+    "published_at": "2026-11-04T21:05:19+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://www.davidralphlewis.co.uk/posts/everything-is-an-ai-scam-now/"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50371508"
+     }
+    ],
+    "primary_url": "https://www.davidralphlewis.co.uk/posts/everything-is-an-ai-scam-now/"
+   },
+   {
+    "id": "9404bc0f47e8",
+    "title": "Nasdaq Sinks 5% as Investors Retreat from AI Trade After Election",
+    "summary": "",
+    "category": "Other",
+    "score": 56.5,
+    "published_at": "2026-11-05T18:00:01+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50382179"
+     }
+    ],
+    "primary_url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026"
+   },
+   {
+    "id": "793a736581dc",
+    "title": "YC's Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+    "summary": "",
+    "category": "AI Agents",
+    "score": 45.3,
+    "published_at": "2026-11-04T15:28:31+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50366971"
+     }
+    ],
+    "primary_url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/"
+   }
+  ],
+  "Rising": [
+   {
+    "id": "46e307363c08",
+    "title": "speridlabs/idol",
+    "summary": "",
+    "category": "Open Source",
+    "score": 53.4,
+    "published_at": "2026-11-05T19:24:42.087939+00:00",
+    "sources": [
+     {
+      "name": "Hugging Face Trending",
+      "url": "https://huggingface.co/speridlabs/idol"
+     }
+    ],
+    "primary_url": "https://huggingface.co/speridlabs/idol"
+   },
+   {
+    "id": "40b1bb8d3105",
+    "title": "vercel-labs/agent-desktop: Computer use CLI for AI agents",
+    "summary": "Computer use CLI for AI agents",
+    "category": "AI Agents",
+    "score": 53.4,
+    "published_at": "2026-11-05T19:24:42.087939+00:00",
+    "sources": [
+     {
+      "name": "GitHub Trending",
+      "url": "https://github.com/vercel-labs/agent-desktop"
+     }
+    ],
+    "primary_url": "https://github.com/vercel-labs/agent-desktop"
+   },
+   {
+    "id": "ee64b630519e",
+    "title": "Pika-Labs/Pika-H3-Flex",
+    "summary": "",
+    "category": "Open Source",
+    "score": 51.8,
+    "published_at": "2026-11-05T19:24:42.087939+00:00",
+    "sources": [
+     {
+      "name": "Hugging Face Trending",
+      "url": "https://huggingface.co/Pika-Labs/Pika-H3-Flex"
+     }
+    ],
+    "primary_url": "https://huggingface.co/Pika-Labs/Pika-H3-Flex"
+   },
+   {
+    "id": "04ce1345cda9",
+    "title": "Lightricks/LTX-2.5",
+    "summary": "",
+    "category": "Open Source",
+    "score": 51.7,
+    "published_at": "2026-11-05T19:24:42.087939+00:00",
+    "sources": [
+     {
+      "name": "Hugging Face Trending",
+      "url": "https://huggingface.co/Lightricks/LTX-2.5"
+     }
+    ],
+    "primary_url": "https://huggingface.co/Lightricks/LTX-2.5"
+   },
+   {
+    "id": "1c6441623ff5",
+    "title": "ccore/Qwen3.5-4B-3D-Coder",
+    "summary": "",
+    "category": "Innovation",
+    "score": 51.6,
+    "published_at": "2026-11-05T19:24:42.087939+00:00",
+    "sources": [
+     {
+      "name": "Hugging Face Trending",
+      "url": "https://huggingface.co/ccore/Qwen3.5-4B-3D-Coder"
+     }
+    ],
+    "primary_url": "https://huggingface.co/ccore/Qwen3.5-4B-3D-Coder"
+   },
+   {
+    "id": "6e200e05b45c",
+    "title": "burner22/numbat",
+    "summary": "",
+    "category": "Open Source",
+    "score": 51.2,
+    "published_at": "2026-11-05T19:24:42.087939+00:00",
+    "sources": [
+     {
+      "name": "Hugging Face Trending",
+      "url": "https://huggingface.co/burner22/numbat"
+     }
+    ],
+    "primary_url": "https://huggingface.co/burner22/numbat"
+   },
+   {
+    "id": "1a1819cc8432",
+    "title": "FusionCow/Sulphur-3",
+    "summary": "",
+    "category": "Open Source",
+    "score": 51.2,
+    "published_at": "2026-11-05T19:24:42.087939+00:00",
+    "sources": [
+     {
+      "name": "Hugging Face Trending",
+      "url": "https://huggingface.co/FusionCow/Sulphur-3"
+     }
+    ],
+    "primary_url": "https://huggingface.co/FusionCow/Sulphur-3"
+   },
+   {
+    "id": "1f03c87007f1",
+    "title": "scenario-labs/skills: Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus expert teams that drive Blender, Maya, ZBrush, Unreal, and Unity.",
+    "summary": "Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus …",
+    "category": "Skills",
+    "score": 50.5,
+    "published_at": "2026-11-05T19:24:42.087939+00:00",
+    "sources": [
+     {
+      "name": "GitHub Trending",
+      "url": "https://github.com/scenario-labs/skills"
+     }
+    ],
+    "primary_url": "https://github.com/scenario-labs/skills"
+   },
+   {
+    "id": "d747ecb5894f",
+    "title": "max-sixty/worktrunk: Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+    "summary": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+    "category": "AI Agents",
+    "score": 50.0,
+    "published_at": "2026-11-05T19:24:42.087939+00:00",
+    "sources": [
+     {
+      "name": "GitHub Trending",
+      "url": "https://github.com/max-sixty/worktrunk"
+     }
+    ],
+    "primary_url": "https://github.com/max-sixty/worktrunk"
+   },
+   {
+    "id": "51948d77555a",
+    "title": "Usagi-org/ai-goofish-monitor: 基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。",
+    "summary": "基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。",
+    "category": "Open Source",
+    "score": 47.9,
+    "published_at": "2026-11-05T19:24:42.087939+00:00",
+    "sources": [
+     {
+      "name": "GitHub Trending",
+      "url": "https://github.com/Usagi-org/ai-goofish-monitor"
+     }
+    ],
+    "primary_url": "https://github.com/Usagi-org/ai-goofish-monitor"
+   }
+  ]
+ },
+ "categories": {
+  "AI Agents": [
+   {
+    "id": "3a06f84c0f51",
+    "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+    "summary": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
+    "category": "AI Agents",
+    "score": 65.6,
+    "published_at": "2026-11-04T14:30:00+00:00",
+    "sources": [
+     {
+      "name": "OpenAI",
+      "url": "https://openai.com/index/openai-to-acquire-pierre"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50366863"
+     }
+    ],
+    "primary_url": "https://openai.com/index/openai-to-acquire-pierre"
+   },
+   {
+    "id": "8ac198972094",
+    "title": "NVIDIA/auto-ontology: Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
+    "summary": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM…",
+    "category": "AI Agents",
+    "score": 54.0,
+    "published_at": "2026-11-05T19:24:42.087939+00:00",
+    "sources": [
+     {
+      "name": "GitHub Trending",
+      "url": "https://github.com/NVIDIA/auto-ontology"
+     }
+    ],
+    "primary_url": "https://github.com/NVIDIA/auto-ontology"
+   },
+   {
+    "id": "40b1bb8d3105",
+    "title": "vercel-labs/agent-desktop: Computer use CLI for AI agents",
+    "summary": "Computer use CLI for AI agents",
+    "category": "AI Agents",
+    "score": 53.4,
+    "published_at": "2026-11-05T19:24:42.087939+00:00",
+    "sources": [
+     {
+      "name": "GitHub Trending",
+      "url": "https://github.com/vercel-labs/agent-desktop"
+     }
+    ],
+    "primary_url": "https://github.com/vercel-labs/agent-desktop"
+   },
+   {
+    "id": "53c56afbaf05",
+    "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
+    "summary": "Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope.",
+    "category": "AI Agents",
+    "score": 51.7,
+    "published_at": "2026-11-05T09:00:00+00:00",
+    "sources": [
+     {
+      "name": "OpenAI",
+      "url": "https://openai.com/index/introducing-gpt-6-cyber"
+     }
+    ],
+    "primary_url": "https://openai.com/index/introducing-gpt-6-cyber"
+   },
+   {
+    "id": "b22ad9f6b573",
+    "title": "garrytan/gstack: Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+    "summary": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+    "category": "AI Agents",
+    "score": 50.2,
+    "published_at": "2026-11-05T19:24:42.087939+00:00",
+    "sources": [
+     {
+      "name": "GitHub Trending",
+      "url": "https://github.com/garrytan/gstack"
+     }
+    ],
+    "primary_url": "https://github.com/garrytan/gstack"
+   },
+   {
+    "id": "96eddcc208ed",
+    "title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
+    "summary": "",
+    "category": "AI Agents",
+    "score": 50.1,
+    "published_at": "2026-11-04T18:53:29+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://www.ricursive.com/ripple"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50369925"
+     }
+    ],
+    "primary_url": "https://www.ricursive.com/ripple"
+   },
+   {
+    "id": "d747ecb5894f",
+    "title": "max-sixty/worktrunk: Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+    "summary": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+    "category": "AI Agents",
+    "score": 50.0,
+    "published_at": "2026-11-05T19:24:42.087939+00:00",
+    "sources": [
+     {
+      "name": "GitHub Trending",
+      "url": "https://github.com/max-sixty/worktrunk"
+     }
+    ],
+    "primary_url": "https://github.com/max-sixty/worktrunk"
+   },
+   {
+    "id": "4051eda06776",
+    "title": "Muse has a voice mode now",
+    "summary": "Meta now lets you have voice conversations with your Muse AI agent in real time, CEO Mark Zuckerberg announced today. The feature has been rolled out to me, and I gave it a spin on the iOS app while …",
+    "category": "AI Agents",
+    "score": 49.8,
+    "published_at": "2026-11-05T19:03:04+00:00",
+    "sources": [
+     {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/tech/1028015/meta-muse-ai-voice-mode-expressive-avatar"
+     }
+    ],
+    "primary_url": "https://www.theverge.com/tech/1028015/meta-muse-ai-voice-mode-expressive-avatar"
+   },
+   {
+    "id": "793baf0e5454",
+    "title": "Ask HN: What's your current AI agentic setup?",
+    "summary": "",
+    "category": "AI Agents",
+    "score": 49.4,
+    "published_at": "2026-11-04T14:37:22+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://news.ycombinator.com/item?id=50366117"
+     }
+    ],
+    "primary_url": "https://news.ycombinator.com/item?id=50366117"
+   },
+   {
+    "id": "1112027d5901",
+    "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
+    "summary": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended. Developers are combining frontier AI m…",
+    "category": "AI Agents",
+    "score": 49.0,
+    "published_at": "2026-11-05T17:00:35+00:00",
+    "sources": [
+     {
+      "name": "NVIDIA Blog",
+      "url": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/"
+     }
+    ],
+    "primary_url": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/"
+   }
+  ],
+  "AI Apps": [
+   {
+    "id": "cfd1704d56b5",
+    "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
+    "summary": "OpenAI president Greg Brockman says the company could be ready to go public in 2027, pointing to accelerating enterprise revenue and a turnaround in its business.",
+    "category": "AI Apps",
+    "score": 49.4,
+    "published_at": "2026-11-05T18:02:27+00:00",
+    "sources": [
+     {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/"
+     }
+    ],
+    "primary_url": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/"
+   },
+   {
+    "id": "7b187a5bdc28",
+    "title": "Claude can now analyze your spending with its new Personal Finance tool",
+    "summary": "With Personal Finance in Claude, users can connect their bank and card accounts through Plaid and ask questions about their finances.",
+    "category": "AI Apps",
+    "score": 49.4,
+    "published_at": "2026-11-05T18:00:00+00:00",
+    "sources": [
+     {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/"
+     }
+    ],
+    "primary_url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/"
+   },
+   {
+    "id": "4b216c662524",
+    "title": "Claude AI can plug directly into your bank account",
+    "summary": "Anthropic has a new pitch for managing your personal finances: let Claude do it instead, with a new Personal Finance feature that connects it to your bank and card accounts via the Plaid bank bridgin…",
+    "category": "AI Apps",
+    "score": 49.4,
+    "published_at": "2026-11-05T18:00:00+00:00",
+    "sources": [
+     {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1027652/anthropic-claude-plaid-personal-finance"
+     }
+    ],
+    "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1027652/anthropic-claude-plaid-personal-finance"
+   },
+   {
+    "id": "37e23ca10f7e",
+    "title": "Grimes is going to star in an AI movie that’s coming to theaters",
+    "summary": "The AI-generated sci-fi film Gods Don't Give Gifts has added a bit of star power: Pop star Grimes is going to appear in the movie. Billed as \"the first AI film to come to theatres,\" Gods Don't Give G…",
+    "category": "AI Apps",
+    "score": 49.0,
+    "published_at": "2026-11-05T17:00:00+00:00",
+    "sources": [
+     {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/entertainment/1026282/grimes-ai-movie"
+     }
+    ],
+    "primary_url": "https://www.theverge.com/entertainment/1026282/grimes-ai-movie"
+   },
+   {
+    "id": "b5330d69bb52",
+    "title": "The hidden supply chain costs of the AI boom",
+    "summary": "Today, I’m talking with Willy Shih, an economist, a professor of management practice at Harvard Business School, and the author of the upcoming book, Where Does My Stuff Come From? The Powerful Econo…",
+    "category": "AI Apps",
+    "score": 48.2,
+    "published_at": "2026-11-05T15:00:00+00:00",
+    "sources": [
+     {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/podcast/1024438/willy-shih-supply-chain-ai-chips-ram-where-does-my-stuff-come-from-book"
+     }
+    ],
+    "primary_url": "https://www.theverge.com/podcast/1024438/willy-shih-supply-chain-ai-chips-ram-where-does-my-stuff-come-from-book"
+   },
+   {
+    "id": "588776d5fd50",
+    "title": "‘Hogwarts Legacy’ Gets a Magical NVIDIA DLSS 5 Upgrade on GeForce NOW",
+    "summary": "Hogwarts Legacy receives an NVIDIA DLSS 5 upgrade with 3D-Guided Neural Rendering today, bringing lifelike lighting and materials to the wizarding world on GeForce NOW. Blizzard Entertainment’s World…",
+    "category": "AI Apps",
+    "score": 47.7,
+    "published_at": "2026-11-05T14:00:34+00:00",
+    "sources": [
+     {
+      "name": "NVIDIA Blog",
+      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-hogwarts-legacy-dlss-5/"
+     }
+    ],
+    "primary_url": "https://blogs.nvidia.com/blog/geforce-now-thursday-hogwarts-legacy-dlss-5/"
+   },
+   {
+    "id": "34aa5b1d1b26",
+    "title": "Five Ways NVIDIA Co-Design Maximizes the Value of Every Byte in the AI Factory",
+    "summary": "In an AI factory, high bandwidth memory (HBM)is the fastest, most expensive, and most contested memory tier. Every byte spent on a redundant weight copy, an...",
+    "category": "AI Apps",
+    "score": 42.6,
+    "published_at": "2026-11-05T16:00:00+00:00",
+    "sources": [
+     {
+      "name": "NVIDIA Developer",
+      "url": "https://developer.nvidia.com/blog/five-ways-nvidia-co-design-maximizes-the-value-of-every-byte-in-the-ai-factory/"
+     }
+    ],
+    "primary_url": "https://developer.nvidia.com/blog/five-ways-nvidia-co-design-maximizes-the-value-of-every-byte-in-the-ai-factory/"
+   },
+   {
+    "id": "21f58c23eb73",
+    "title": "公路局擬擴大推動無人機AI巡檢，結合3D建模、AI影像辨識提升橋梁與邊坡養護效率",
+    "summary": "新聞 臺灣山區地形陡峭、地質破碎，加上颱風、地震頻繁，許多公路與橋梁沿著山區興建，邊坡、橋梁梁底及橋墩等設施長期面臨巡檢不易的挑戰。交通部公路局副局長周廷彰表示，過去巡檢多仰賴人工步行、攀爬或橋梁檢測車，不僅耗時，也伴隨一定作業風險。公路局近年逐步導入無人機，利用高空影像快速掌握橋梁、邊坡等人員不易到達的位置，減少工程人員進入危險區域的需求。 不過，公路局的目標已不只是利用無人機空拍，而是進一步…",
+    "category": "AI Apps",
+    "score": 40.1,
+    "published_at": "2026-11-05T09:58:26+00:00",
+    "sources": [
+     {
+      "name": "iThome",
+      "url": "https://www.ithome.com.tw/news/180263"
+     }
+    ],
+    "primary_url": "https://www.ithome.com.tw/news/180263"
+   },
+   {
+    "id": "f1f26a9d7d87",
+    "title": "DuckDuckGo pitches itself to schools amid backlash over Google’s AI policy",
+    "summary": "DuckDuckGo is courting schools frustrated by Google's AI restrictions, pointing educators to its search engine and options to disable AI features.",
+    "category": "AI Apps",
+    "score": 40.0,
+    "published_at": "2026-11-04T19:29:52+00:00",
+    "sources": [
+     {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/"
+     }
+    ],
+    "primary_url": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/"
+   },
+   {
+    "id": "228dcedd9b56",
+    "title": "OpenAI收購Pierre，擴充Codex程式碼管理與審查能力",
+    "summary": "新聞 OpenAI周三（11/4）宣布 ，將收購開發者工具新創Pierre Computer Company，整合Pierre的Git版本控制、程式碼儲存及審查技術，擴充Codex的軟體開發能力，雙方並未公開交易金額。美國科技媒體 Axios認為 ，這項收購顯示OpenAI正朝程式碼管理市場擴張，可能進一步挑戰微軟旗下GitHub的市場地位。 Pierre成立於2023年，由Bootstrap前…",
+    "category": "AI Apps",
+    "score": 38.3,
+    "published_at": "2026-11-05T05:45:01+00:00",
+    "sources": [
+     {
+      "name": "iThome",
+      "url": "https://www.ithome.com.tw/news/180257"
+     }
+    ],
+    "primary_url": "https://www.ithome.com.tw/news/180257"
+   }
+  ],
+  "Skills": [
+   {
+    "id": "1f03c87007f1",
+    "title": "scenario-labs/skills: Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus expert teams that drive Blender, Maya, ZBrush, Unreal, and Unity.",
+    "summary": "Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus …",
+    "category": "Skills",
+    "score": 50.5,
+    "published_at": "2026-11-05T19:24:42.087939+00:00",
+    "sources": [
+     {
+      "name": "GitHub Trending",
+      "url": "https://github.com/scenario-labs/skills"
+     }
+    ],
+    "primary_url": "https://github.com/scenario-labs/skills"
+   }
+  ],
+  "MCP": [],
+  "Open Source": [
+   {
+    "id": "7838c87736f9",
+    "title": "Kimi K3.1 Pro model weights are out",
+    "summary": "",
+    "category": "Open Source",
+    "score": 58.4,
+    "published_at": "2026-11-04T15:30:30+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50366999"
+     }
+    ],
+    "primary_url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro"
+   },
+   {
+    "id": "46e307363c08",
+    "title": "speridlabs/idol",
+    "summary": "",
+    "category": "Open Source",
+    "score": 53.4,
+    "published_at": "2026-11-05T19:24:42.087939+00:00",
+    "sources": [
+     {
+      "name": "Hugging Face Trending",
+      "url": "https://huggingface.co/speridlabs/idol"
+     }
+    ],
+    "primary_url": "https://huggingface.co/speridlabs/idol"
+   },
+   {
+    "id": "ee64b630519e",
+    "title": "Pika-Labs/Pika-H3-Flex",
+    "summary": "",
+    "category": "Open Source",
+    "score": 51.8,
+    "published_at": "2026-11-05T19:24:42.087939+00:00",
+    "sources": [
+     {
+      "name": "Hugging Face Trending",
+      "url": "https://huggingface.co/Pika-Labs/Pika-H3-Flex"
+     }
+    ],
+    "primary_url": "https://huggingface.co/Pika-Labs/Pika-H3-Flex"
+   },
+   {
+    "id": "014576526a4d",
+    "title": "mistralai/Mistral-Large-4-1T-A52B",
+    "summary": "",
+    "category": "Open Source",
+    "score": 51.7,
+    "published_at": "2026-11-05T19:24:42.087939+00:00",
+    "sources": [
+     {
+      "name": "Hugging Face Trending",
+      "url": "https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B"
+     }
+    ],
+    "primary_url": "https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B"
+   },
+   {
+    "id": "04ce1345cda9",
+    "title": "Lightricks/LTX-2.5",
+    "summary": "",
+    "category": "Open Source",
+    "score": 51.7,
+    "published_at": "2026-11-05T19:24:42.087939+00:00",
+    "sources": [
+     {
+      "name": "Hugging Face Trending",
+      "url": "https://huggingface.co/Lightricks/LTX-2.5"
+     }
+    ],
+    "primary_url": "https://huggingface.co/Lightricks/LTX-2.5"
+   },
+   {
+    "id": "6e200e05b45c",
+    "title": "burner22/numbat",
+    "summary": "",
+    "category": "Open Source",
+    "score": 51.2,
+    "published_at": "2026-11-05T19:24:42.087939+00:00",
+    "sources": [
+     {
+      "name": "Hugging Face Trending",
+      "url": "https://huggingface.co/burner22/numbat"
+     }
+    ],
+    "primary_url": "https://huggingface.co/burner22/numbat"
+   },
+   {
+    "id": "1a1819cc8432",
+    "title": "FusionCow/Sulphur-3",
+    "summary": "",
+    "category": "Open Source",
+    "score": 51.2,
+    "published_at": "2026-11-05T19:24:42.087939+00:00",
+    "sources": [
+     {
+      "name": "Hugging Face Trending",
+      "url": "https://huggingface.co/FusionCow/Sulphur-3"
+     }
+    ],
+    "primary_url": "https://huggingface.co/FusionCow/Sulphur-3"
+   },
+   {
+    "id": "477cff6d6b4c",
+    "title": "The Wizard of Open Weights: Chris Alexiuk Makes AI Easy With Open Models",
+    "summary": "Chris Alexiuk has a simple rule about open source AI: If you believe in it, be loud about it. “We should be shouting about this technology from the rooftops,” said Alexiuk, a Toronto-based senior pro…",
+    "category": "Open Source",
+    "score": 48.6,
+    "published_at": "2026-11-05T16:00:05+00:00",
+    "sources": [
+     {
+      "name": "NVIDIA Blog",
+      "url": "https://blogs.nvidia.com/blog/nvidia-life-chris-alexiuk/"
+     }
+    ],
+    "primary_url": "https://blogs.nvidia.com/blog/nvidia-life-chris-alexiuk/"
+   },
+   {
+    "id": "51948d77555a",
+    "title": "Usagi-org/ai-goofish-monitor: 基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。",
+    "summary": "基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。",
+    "category": "Open Source",
+    "score": 47.9,
+    "published_at": "2026-11-05T19:24:42.087939+00:00",
+    "sources": [
+     {
+      "name": "GitHub Trending",
+      "url": "https://github.com/Usagi-org/ai-goofish-monitor"
+     }
+    ],
+    "primary_url": "https://github.com/Usagi-org/ai-goofish-monitor"
+   },
+   {
+    "id": "b9901cf07693",
+    "title": "microsoft/VibeVoice: Open-Source Frontier Voice AI",
+    "summary": "Open-Source Frontier Voice AI",
+    "category": "Open Source",
+    "score": 47.6,
+    "published_at": "2026-11-05T19:24:42.087939+00:00",
+    "sources": [
+     {
+      "name": "GitHub Trending",
+      "url": "https://github.com/microsoft/VibeVoice"
+     }
+    ],
+    "primary_url": "https://github.com/microsoft/VibeVoice"
+   }
+  ],
+  "Innovation": [
+   {
+    "id": "3c63b1bd263a",
+    "title": "GPT-6 Astra covertly underperforms on safety research",
+    "summary": "",
+    "category": "Innovation",
+    "score": 54.1,
+    "published_at": "2026-11-05T07:44:30+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50376313"
+     }
+    ],
+    "primary_url": "https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/"
+   },
+   {
+    "id": "1c6441623ff5",
+    "title": "ccore/Qwen3.5-4B-3D-Coder",
+    "summary": "",
+    "category": "Innovation",
+    "score": 51.6,
+    "published_at": "2026-11-05T19:24:42.087939+00:00",
+    "sources": [
+     {
+      "name": "Hugging Face Trending",
+      "url": "https://huggingface.co/ccore/Qwen3.5-4B-3D-Coder"
+     }
+    ],
+    "primary_url": "https://huggingface.co/ccore/Qwen3.5-4B-3D-Coder"
+   },
+   {
+    "id": "110f8b3466ee",
+    "title": "nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
+    "summary": "",
+    "category": "Innovation",
+    "score": 51.4,
+    "published_at": "2026-11-05T19:24:42.087939+00:00",
+    "sources": [
+     {
+      "name": "Hugging Face Trending",
+      "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B"
+     }
+    ],
+    "primary_url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B"
+   },
+   {
+    "id": "6c64301c09e0",
+    "title": "Qwen/Qwen3.8-27B",
+    "summary": "",
+    "category": "Innovation",
+    "score": 50.9,
+    "published_at": "2026-11-05T19:24:42.087939+00:00",
+    "sources": [
+     {
+      "name": "Hugging Face Trending",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B"
+     }
+    ],
+    "primary_url": "https://huggingface.co/Qwen/Qwen3.8-27B"
+   },
+   {
+    "id": "7b93706aafff",
+    "title": "Progress on provable inference for large language models",
+    "summary": "",
+    "category": "Innovation",
+    "score": 48.4,
+    "published_at": "2026-11-04T17:17:46+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://www.anthropic.com/research/provable-inference"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50368626"
+     }
+    ],
+    "primary_url": "https://www.anthropic.com/research/provable-inference"
+   },
+   {
+    "id": "d94f47b36633",
+    "title": "Agility is the first pure humanoid robot company on the stock market. Are you buying?",
+    "summary": "Agility arrives on the Nasdaq today as the first publicly traded pure-play humanoid robotics company.",
+    "category": "Innovation",
+    "score": 46.9,
+    "published_at": "2026-11-05T12:00:00+00:00",
+    "sources": [
+     {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/"
+     }
+    ],
+    "primary_url": "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/"
+   },
+   {
+    "id": "4513cd1ca7d8",
+    "title": "Agility Robotics' Nasdaq debut invites scrutiny of humanoid robot market",
+    "summary": "US leader in deploying humanoid robots goes public on the Nasdaq stock exchange.",
+    "category": "Innovation",
+    "score": 46.9,
+    "published_at": "2026-11-05T12:00:41+00:00",
+    "sources": [
+     {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/11/agility-robotics-nasdaq-debut-invites-scrutiny-of-humanoid-robot-market/"
+     }
+    ],
+    "primary_url": "https://arstechnica.com/ai/2026/11/agility-robotics-nasdaq-debut-invites-scrutiny-of-humanoid-robot-market/"
+   },
+   {
+    "id": "89209ab642b1",
+    "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+    "summary": "",
+    "category": "Innovation",
+    "score": 41.9,
+    "published_at": "2026-11-05T00:00:00+00:00",
+    "sources": [
+     {
+      "name": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/phonon-tts"
+     }
+    ],
+    "primary_url": "https://huggingface.co/blog/phonon-tts"
+   },
+   {
+    "id": "4b9fe57b6fa4",
+    "title": "OpenAI揭露AI助理個人化瓶頸，模型仍難善用過往對話",
+    "summary": "新聞 OpenAI公布 日常生活任務基準測試LifeVal ，研究發現，即使AI助理能存取使用者過往的ChatGPT對話，仍可能漏掉完成任務所需的個人資訊。在被判定需要從歷史對話取得資訊的評分條件中，平均達標率僅33.33%，反映出運用過往對話的能力仍有不足。 LifeVal收錄169項任務 ，涵蓋照護、教育、購物、個人財務與政府服務。研究團隊邀請具備相關經驗的參與者設計任務，結合經去識別化處理…",
+    "category": "Innovation",
+    "score": 41.1,
+    "published_at": "2026-11-05T12:30:49+00:00",
+    "sources": [
+     {
+      "name": "iThome",
+      "url": "https://www.ithome.com.tw/news/180267"
+     }
+    ],
+    "primary_url": "https://www.ithome.com.tw/news/180267"
+   },
+   {
+    "id": "75679f5aa60b",
+    "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+    "summary": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
+    "category": "Innovation",
+    "score": 40.8,
+    "published_at": "2026-11-04T07:00:00+00:00",
+    "sources": [
+     {
+      "name": "OpenAI",
+      "url": "https://openai.com/index/daybreak-red-aws-govcloud"
+     }
+    ],
+    "primary_url": "https://openai.com/index/daybreak-red-aws-govcloud"
+   }
+  ],
+  "Security": [
+   {
+    "id": "44341b90f227",
+    "title": "OpenAI says its new cybersecurity model is better at not hacking other companies",
+    "summary": "OpenAI is launching GPT-6 Cyber, the latest version of its cybersecurity AI model, which it says is better at finding vulnerabilities and less likely to go rogue and hack other platforms in the proce…",
+    "category": "Security",
+    "score": 49.0,
+    "published_at": "2026-11-05T17:00:00+00:00",
+    "sources": [
+     {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1027599/openai-gpt-6-cyber-launch"
+     }
+    ],
+    "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1027599/openai-gpt-6-cyber-launch"
+   },
+   {
+    "id": "a4f4c423c542",
+    "title": "A thousand fewer paths to root",
+    "summary": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel.",
+    "category": "Security",
+    "score": 41.2,
+    "published_at": "2026-11-04T08:00:00+00:00",
+    "sources": [
+     {
+      "name": "OpenAI",
+      "url": "https://openai.com/index/a-thousand-fewer-paths-to-root"
+     }
+    ],
+    "primary_url": "https://openai.com/index/a-thousand-fewer-paths-to-root"
+   },
+   {
+    "id": "596600247794",
+    "title": "【資安日報】11月5日，法國國家血液機構冷藏設備遭網路攻擊，3處設施溫度控制遭竄改",
+    "summary": "新聞 本日新聞焦點 ● 法國國家血液機構冷藏設備遭網路攻擊，3處設施溫度控制遭竄改 ● 永豐銀行異常轉帳確認為駭客攻擊，供應商安全設定漏洞遭利用 ● 俄羅斯駭客APT29大規模水坑式攻擊，竊取iOS與Android裝置資料 ● APT駭客利用惡意軟體框架NetamLoader攻擊亞洲政府機關 ● 駭客鎖定政府機關Linux主機，意圖竊取郵件與社群平臺帳號 資安新聞總覽 法國國家血液機構冷藏設備遭…",
+    "category": "Security",
+    "score": 38.8,
+    "published_at": "2026-11-05T06:57:26+00:00",
+    "sources": [
+     {
+      "name": "iThome",
+      "url": "https://www.ithome.com.tw/news/180260"
+     }
+    ],
+    "primary_url": "https://www.ithome.com.tw/news/180260"
+   }
+  ],
+  "Other": [
+   {
+    "id": "9404bc0f47e8",
+    "title": "Nasdaq Sinks 5% as Investors Retreat from AI Trade After Election",
+    "summary": "",
+    "category": "Other",
+    "score": 56.5,
+    "published_at": "2026-11-05T18:00:01+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50382179"
+     }
+    ],
+    "primary_url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026"
+   },
+   {
+    "id": "003a6dd08e36",
+    "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+    "summary": "",
+    "category": "Other",
+    "score": 55.0,
+    "published_at": "2026-11-05T17:05:16+00:00",
+    "sources": [
+     {
+      "name": "Google DeepMind",
+      "url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/"
+     }
+    ],
+    "primary_url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/"
+   },
+   {
+    "id": "9f91f09c0af9",
+    "title": "The Long-Term Benefit Trust",
+    "summary": "",
+    "category": "Other",
+    "score": 54.5,
+    "published_at": "2026-11-05T15:44:46+00:00",
+    "sources": [
+     {
+      "name": "Anthropic",
+      "url": "https://www.anthropic.com/news/the-long-term-benefit-trust"
+     }
+    ],
+    "primary_url": "https://www.anthropic.com/news/the-long-term-benefit-trust"
+   },
+   {
+    "id": "68c44263a0af",
+    "title": "AI is forcing us to pay off 40 years of technical debt",
+    "summary": "",
+    "category": "Other",
+    "score": 50.9,
+    "published_at": "2026-11-04T11:52:17+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50364336"
+     }
+    ],
+    "primary_url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability"
+   },
+   {
+    "id": "2e06a7a163b7",
+    "title": "Meta’s warns that election backlash against data centers could make AI expansion harder",
+    "summary": "Meta warns that growing political opposition to data centers could threaten future AI investments, as communities push back against massive infrastructure projects.",
+    "category": "Other",
+    "score": 49.9,
+    "published_at": "2026-11-05T19:12:39+00:00",
+    "sources": [
+     {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/"
+     }
+    ],
+    "primary_url": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/"
+   },
+   {
+    "id": "ec73671ce52f",
+    "title": "OpenAI released a new cybersecurity model. Is that enough?",
+    "summary": "OpenAI's newest cybersecurity model comes out as AI labs face scrutiny of their work to protect digital infrastructure.",
+    "category": "Other",
+    "score": 49.9,
+    "published_at": "2026-11-05T19:06:12+00:00",
+    "sources": [
+     {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/"
+     }
+    ],
+    "primary_url": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/"
+   },
+   {
+    "id": "a231f12f9906",
+    "title": "‘Total repudiation’: The blue wave is about to hit AI",
+    "summary": "On Tuesday night, Democrats made history as they took control of the House and the Senate, and a blue wave swept through traditionally red and swing states - with the nation's first Black woman gover…",
+    "category": "Other",
+    "score": 49.4,
+    "published_at": "2026-11-05T17:51:52+00:00",
+    "sources": [
+     {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1026927/total-repudiation-the-blue-wave-is-about-to-hit-ai"
+     }
+    ],
+    "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1026927/total-repudiation-the-blue-wave-is-about-to-hit-ai"
+   },
+   {
+    "id": "f93567576105",
+    "title": "Setting a new standard for responsible AI infrastructure",
+    "summary": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.",
+    "category": "Other",
+    "score": 48.7,
+    "published_at": "2026-11-05T02:00:00+00:00",
+    "sources": [
+     {
+      "name": "OpenAI",
+      "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure"
+     }
+    ],
+    "primary_url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure"
+   },
+   {
+    "id": "ad486aacca15",
+    "title": "Everything is an AI scam now",
+    "summary": "",
+    "category": "Other",
+    "score": 48.7,
+    "published_at": "2026-11-04T21:05:19+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://www.davidralphlewis.co.uk/posts/everything-is-an-ai-scam-now/"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50371508"
+     }
+    ],
+    "primary_url": "https://www.davidralphlewis.co.uk/posts/everything-is-an-ai-scam-now/"
+   },
+   {
+    "id": "5ccdc48dfe6e",
+    "title": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
+    "summary": "",
+    "category": "Other",
+    "score": 48.6,
+    "published_at": "2026-11-04T19:55:14+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50370654"
+     }
+    ],
+    "primary_url": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra"
+   }
+  ]
+ },
+ "source_list": [
+  {
+   "name": "OpenAI",
+   "url": "https://openai.com/news/rss.xml"
+  },
+  {
+   "name": "Anthropic",
+   "url": "https://www.anthropic.com/sitemap.xml"
+  },
+  {
+   "name": "Google DeepMind",
+   "url": "https://deepmind.google/blog/rss.xml"
+  },
+  {
+   "name": "Microsoft Research",
+   "url": "https://www.microsoft.com/en-us/research/feed/"
+  },
+  {
+   "name": "Hugging Face Blog",
+   "url": "https://huggingface.co/blog/feed.xml"
+  },
+  {
+   "name": "Mistral AI",
+   "url": "https://mistral.ai/rss.xml"
+  },
+  {
+   "name": "NVIDIA Blog",
+   "url": "https://blogs.nvidia.com/feed/"
+  },
+  {
+   "name": "NVIDIA Developer",
+   "url": "https://developer.nvidia.com/blog/feed"
+  },
+  {
+   "name": "TechCrunch",
+   "url": "https://techcrunch.com/category/artificial-intelligence/feed/"
+  },
+  {
+   "name": "The Verge",
+   "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml"
+  },
+  {
+   "name": "MIT Technology Review",
+   "url": "https://www.technologyreview.com/topic/artificial-intelligence/feed"
+  },
+  {
+   "name": "Ars Technica",
+   "url": "https://arstechnica.com/ai/feed/"
+  },
+  {
+   "name": "Hacker News",
+   "url": "https://hn.algolia.com/api/v1/search_by_date"
+  },
+  {
+   "name": "r/MachineLearning",
+   "url": "https://www.reddit.com/r/MachineLearning/top/.rss?t=day"
+  },
+  {
+   "name": "r/LocalLLaMA",
+   "url": "https://www.reddit.com/r/LocalLLaMA/top/.rss?t=day"
+  },
+  {
+   "name": "arXiv cs.AI",
+   "url": "https://rss.arxiv.org/rss/cs.AI"
+  },
+  {
+   "name": "arXiv cs.CL",
+   "url": "https://rss.arxiv.org/rss/cs.CL"
+  },
+  {
+   "name": "arXiv cs.LG",
+   "url": "https://rss.arxiv.org/rss/cs.LG"
+  },
+  {
+   "name": "arXiv cs.CV",
+   "url": "https://rss.arxiv.org/rss/cs.CV"
+  },
+  {
+   "name": "GitHub Trending",
+   "url": "https://github.com/trending?since=daily"
+  },
+  {
+   "name": "Hugging Face Trending",
+   "url": "https://huggingface.co/api/models?sort=trendingScore&limit=10"
+  },
+  {
+   "name": "iThome",
+   "url": "https://www.ithome.com.tw/rss.xml"
+  },
+  {
+   "name": "INSIDE",
+   "url": "https://www.inside.com.tw/feed/rss"
+  }
+ ],
+ "stats": {
+  "fetched": 211,
+  "after_dedup": 209,
+  "sources_ok": 22,
+  "sources_failed": 1,
+  "failed_sources": {
+   "r/LocalLLaMA": "HTTPError: 429 Client Error: Too Many Requests for url: https://www.reddit.com/r/LocalLLaMA/top/.rss?t=day"
+  },
+  "duration_s": 2.1
+ }
+}

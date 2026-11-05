@@ -1,0 +1,42 @@
+# 每個來源都已實測可抓（2026-11-05），測試結果見 sources_report.md。
+# type: rss | sitemap | hn | github_trending | hf_models
+# weight: 1-5，評分的「來源權重」
+# group: 同一 group 視為同一來源，計算跨來源報導數時不重複計（預設為 name）
+# ai_filter: true 表示來源不是 AI 專屬分類，只留標題或摘要含 AI 關鍵字的項目
+# limit: 每次最多取幾則（依發布時間由新到舊）
+
+sources:
+  # 官方部落格
+  - {name: OpenAI, url: "https://openai.com/news/rss.xml", type: rss, weight: 5}
+  - {name: Anthropic, url: "https://www.anthropic.com/sitemap.xml", type: sitemap, prefix: "https://www.anthropic.com/news/", weight: 5}
+  - {name: Google DeepMind, url: "https://deepmind.google/blog/rss.xml", type: rss, weight: 5}
+  - {name: Microsoft Research, url: "https://www.microsoft.com/en-us/research/feed/", type: rss, weight: 4}
+  - {name: Hugging Face Blog, url: "https://huggingface.co/blog/feed.xml", type: rss, weight: 4}
+  - {name: Mistral AI, url: "https://mistral.ai/rss.xml", type: rss, weight: 4}
+  - {name: NVIDIA Blog, url: "https://blogs.nvidia.com/feed/", type: rss, weight: 4, group: NVIDIA}
+  - {name: NVIDIA Developer, url: "https://developer.nvidia.com/blog/feed", type: rss, weight: 3, group: NVIDIA, ai_filter: true}
+
+  # 科技媒體 AI 分類
+  - {name: TechCrunch, url: "https://techcrunch.com/category/artificial-intelligence/feed/", type: rss, weight: 4}
+  - {name: The Verge, url: "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml", type: rss, weight: 4}
+  - {name: MIT Technology Review, url: "https://www.technologyreview.com/topic/artificial-intelligence/feed", type: rss, weight: 4}
+  - {name: Ars Technica, url: "https://arstechnica.com/ai/feed/", type: rss, weight: 4}
+
+  # 社群
+  - {name: Hacker News, url: "https://hn.algolia.com/api/v1/search_by_date", type: hn, weight: 3, min_points: 100}
+  - {name: r/MachineLearning, url: "https://www.reddit.com/r/MachineLearning/top/.rss?t=day", type: rss, weight: 2, group: Reddit}
+  - {name: r/LocalLLaMA, url: "https://www.reddit.com/r/LocalLLaMA/top/.rss?t=day", type: rss, weight: 2, group: Reddit}
+
+  # 論文
+  - {name: arXiv cs.AI, url: "https://rss.arxiv.org/rss/cs.AI", type: rss, weight: 2, group: arXiv, limit: 25}
+  - {name: arXiv cs.CL, url: "https://rss.arxiv.org/rss/cs.CL", type: rss, weight: 2, group: arXiv, limit: 25}
+  - {name: arXiv cs.LG, url: "https://rss.arxiv.org/rss/cs.LG", type: rss, weight: 2, group: arXiv, limit: 25}
+  - {name: arXiv cs.CV, url: "https://rss.arxiv.org/rss/cs.CV", type: rss, weight: 2, group: arXiv, limit: 25}
+
+  # 開源
+  - {name: GitHub Trending, url: "https://github.com/trending?since=daily", type: github_trending, weight: 3}
+  - {name: Hugging Face Trending, url: "https://huggingface.co/api/models?sort=trendingScore&limit=10", type: hf_models, weight: 3}
+
+  # 中文（這兩個來源沒有 AI 分類 feed，用關鍵字過濾）
+  - {name: iThome, url: "https://www.ithome.com.tw/rss.xml", type: rss, weight: 3, ai_filter: true}
+  - {name: INSIDE, url: "https://www.inside.com.tw/feed/rss", type: rss, weight: 3, ai_filter: true}

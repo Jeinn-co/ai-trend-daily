@@ -1,0 +1,273 @@
+<!doctype html>
+<html lang="zh-Hant-TW">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>AI 趨勢日報</title>
+    <meta name="description" content="每 6 小時自動彙整全球 AI 新聞，附原文來源連結。" />
+    <style>
+      :root {
+        --paper: #e4edf1;
+        --ink: #17232e;
+        --muted: #5c7080;
+        --line: #d3dee6;
+        --sheet: #f4f8fa;
+        --accent: #1f6f9f;
+        color-scheme: light;
+        font-family: "IBM Plex Sans", "Avenir Next", "Segoe UI", "PingFang TC", "Noto Sans TC", sans-serif;
+        color: var(--ink);
+        background: var(--paper);
+        font-synthesis: none;
+        text-rendering: optimizeLegibility;
+      }
+      :root[data-theme="dark"] {
+        --paper: #10181f;
+        --ink: #dde7ee;
+        --muted: #8ca0b0;
+        --line: #26343f;
+        --sheet: #16222b;
+        --accent: #6cb4e0;
+        color-scheme: dark;
+      }
+      * { box-sizing: border-box; }
+      body { margin: 0; }
+      button, input, select, a { font: inherit; color: inherit; }
+      a { text-decoration-color: var(--line); text-underline-offset: 3px; }
+      a:hover { text-decoration-color: currentColor; }
+      .mono { font-family: "IBM Plex Mono", ui-monospace, monospace; }
+
+      .sheet { max-width: 1120px; margin: 0 auto; padding: 28px 20px 48px; }
+      .head { display: flex; flex-wrap: wrap; align-items: flex-end; justify-content: space-between; gap: 16px; margin-bottom: 20px; }
+      .eyebrow { margin: 0 0 4px; color: var(--muted); font-size: 12px; letter-spacing: 0.08em; text-transform: uppercase; }
+      h1 { margin: 0; font-size: 40px; font-weight: 600; letter-spacing: -0.04em; line-height: 1; }
+      .meta { margin: 10px 0 0; color: var(--muted); font-size: 13px; }
+      .meta b { color: var(--ink); font-weight: 500; }
+
+      .bar { display: flex; gap: 8px; align-items: center; }
+      .search { flex: 1 1 220px; min-width: 0; padding: 8px 12px; border: 1px solid var(--line); border-radius: 8px; background: var(--sheet); }
+      .btn { padding: 8px 12px; border: 1px solid var(--line); border-radius: 8px; background: var(--sheet); cursor: pointer; }
+      .btn:hover { border-color: var(--muted); }
+
+      .tabs { display: flex; gap: 4px; margin: 16px 0; overflow-x: auto; border-bottom: 1px solid var(--line); scrollbar-width: none; }
+      .tab { flex: none; padding: 8px 12px; border: 0; border-bottom: 2px solid transparent; background: none; color: var(--muted); cursor: pointer; }
+      .tab[aria-selected="true"] { color: var(--ink); border-bottom-color: var(--ink); }
+      .tab .n { margin-left: 4px; font-size: 11px; }
+
+      .cards { display: grid; gap: 12px; }
+      .card { padding: 16px 18px; border: 1px solid var(--line); border-radius: 12px; background: var(--sheet); }
+      .card-top { display: flex; align-items: center; gap: 8px; margin-bottom: 8px; color: var(--muted); font-size: 12px; }
+      .rank { font-size: 13px; color: var(--ink); }
+      .tag { padding: 1px 8px; border: 1px solid var(--line); border-radius: 999px; }
+      .score { margin-left: auto; }
+      .card h2 { margin: 0; font-size: 18px; font-weight: 600; line-height: 1.4; }
+      .orig { margin: 4px 0 0; color: var(--muted); font-size: 13px; }
+      .summary { margin: 10px 0 0; line-height: 1.7; font-size: 15px; }
+      .why { margin: 8px 0 0; padding-left: 10px; border-left: 2px solid var(--accent); color: var(--muted); font-size: 14px; line-height: 1.6; }
+
+      details.src { margin-top: 10px; font-size: 13px; color: var(--muted); }
+      details.src summary { cursor: pointer; list-style: none; }
+      details.src summary::-webkit-details-marker { display: none; }
+      details.src summary::before { content: "▸ "; }
+      details.src[open] summary::before { content: "▾ "; }
+      details.src ul { margin: 6px 0 0; padding-left: 18px; }
+      details.src li { margin: 2px 0; word-break: break-all; }
+
+      .more { display: block; margin: 16px auto 0; }
+      .list { margin: 0; padding: 0; list-style: none; border: 1px solid var(--line); border-radius: 12px; background: var(--sheet); }
+      .row { display: grid; grid-template-columns: 2.5em 7em 1fr auto; gap: 10px; align-items: baseline; padding: 10px 14px; border-top: 1px solid var(--line); font-size: 14px; }
+      .row:first-child { border-top: 0; }
+      .row .rank { color: var(--muted); }
+      .row .tag { font-size: 12px; color: var(--muted); text-align: center; }
+      .row .t { min-width: 0; }
+      .row .t a { font-weight: 500; }
+      .row .t p { margin: 2px 0 0; color: var(--muted); font-size: 13px; line-height: 1.5; }
+      .row .s { color: var(--muted); font-size: 12px; white-space: nowrap; }
+      .empty { padding: 32px; text-align: center; color: var(--muted); }
+
+      footer { margin-top: 40px; padding-top: 20px; border-top: 1px solid var(--line); color: var(--muted); font-size: 13px; line-height: 1.7; }
+      footer h3 { margin: 16px 0 6px; color: var(--ink); font-size: 13px; font-weight: 600; }
+      footer select { padding: 6px 8px; border: 1px solid var(--line); border-radius: 8px; background: var(--sheet); }
+      .srclist { display: flex; flex-wrap: wrap; gap: 4px 14px; margin: 0; padding: 0; list-style: none; }
+
+      @media (max-width: 640px) {
+        .sheet { padding: 20px 14px 40px; }
+        h1 { font-size: 30px; }
+        .bar { width: 100%; }
+        .card { padding: 14px; }
+        .card h2 { font-size: 17px; }
+        .row { grid-template-columns: 2em 1fr; }
+        .row .tag, .row .s { display: none; }
+      }
+    </style>
+  </head>
+  <body>
+    <div class="sheet">
+      <header class="head">
+        <div>
+          <p class="eyebrow mono">AI Trend Daily</p>
+          <h1>AI 趨勢日報</h1>
+          <p class="meta">最後更新 <b id="updated">—</b>（台北時間）· 預計下次更新 <b id="countdown" class="mono">—</b></p>
+        </div>
+        <div class="bar">
+          <input id="q" class="search" type="search" placeholder="搜尋標題或摘要" aria-label="搜尋標題或摘要" />
+          <button id="theme" class="btn" type="button" aria-label="切換深色/淺色模式">◐</button>
+        </div>
+      </header>
+
+      <nav id="tabs" class="tabs" role="tablist"></nav>
+      <main id="view"></main>
+
+      <footer>
+        <h3>歷史存檔</h3>
+        <select id="archive" aria-label="切換到過去的快照"><option value="">最新</option></select>
+        <h3>資料來源</h3>
+        <ul id="srclist" class="srclist"></ul>
+        <h3>說明</h3>
+        <p>
+          本站內容由程式每 6 小時自動彙整。中文標題、摘要與「為什麼重要」由 AI 依原文內容產生，可能有誤，請以原文為準。
+          各則新聞的著作權屬於原發布者，本站只提供摘要與原文連結；每則都標有來源，點標題即開啟原文。
+        </p>
+      </footer>
+    </div>
+
+    <script>
+      const CATEGORIES = ["模型發布", "產品與工具", "研究論文", "開源專案", "產業與投資", "晶片與硬體", "政策與法規", "應用案例"];
+      const $ = (id) => document.getElementById(id);
+      const state = { data: null, tab: "all", expanded: false, q: "" };
+
+      const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" })[c]);
+      const safeUrl = (u) => (/^https?:\/\//i.test(u || "") ? esc(u) : "#");
+      const link = (url, text) => `<a href="${safeUrl(url)}" target="_blank" rel="noopener noreferrer">${esc(text)}</a>`;
+      const taipei = (iso) =>
+        new Intl.DateTimeFormat("zh-TW", { timeZone: "Asia/Taipei", year: "numeric", month: "2-digit", day: "2-digit", hour: "2-digit", minute: "2-digit", hour12: false }).format(new Date(iso));
+
+      function sourcesBlock(it) {
+        const first = it.sources[0]?.name ?? "";
+        const label = it.sources.length > 1 ? `來源：${esc(first)} 等 ${it.sources.length} 個` : `來源：${esc(first)}`;
+        const items = it.sources.map((s) => `<li>${esc(s.name)}：${link(s.url, s.url)}</li>`).join("");
+        return `<details class="src"><summary>${label}</summary><ul>${items}</ul></details>`;
+      }
+
+      function card(it, rank) {
+        return `<article class="card">
+          <div class="card-top"><span class="rank mono">#${rank}</span><span class="tag">${esc(it.category)}</span><span class="score mono">${it.score}</span></div>
+          <h2>${link(it.primary_url, it.title_zh)}</h2>
+          <p class="orig">${esc(it.title_original)}</p>
+          <p class="summary">${esc(it.summary_zh)}</p>
+          ${it.why_important ? `<p class="why">${esc(it.why_important)}</p>` : ""}
+          ${sourcesBlock(it)}
+        </article>`;
+      }
+
+      function row(it, rank) {
+        const src = it.sources.length > 1 ? `${it.sources[0].name} +${it.sources.length - 1}` : it.sources[0]?.name ?? "";
+        return `<li class="row">
+          <span class="rank mono">${rank}</span><span class="tag">${esc(it.category)}</span>
+          <div class="t">${link(it.primary_url, it.title_zh)}<p>${esc(it.summary_zh)}</p>${sourcesBlock(it)}</div>
+          <span class="s">${esc(src)}</span>
+        </li>`;
+      }
+
+      const matches = (it) => {
+        if (!state.q) return true;
+        const hay = `${it.title_zh} ${it.title_original} ${it.summary_zh} ${it.why_important}`.toLowerCase();
+        return hay.includes(state.q);
+      };
+
+      function renderTabs() {
+        const d = state.data;
+        const tabs = [["all", "綜合", d.top10.length], ...CATEGORIES.map((c) => [c, c, (d.categories[c] || []).length])];
+        $("tabs").innerHTML = tabs
+          .map(([id, label, n]) => `<button class="tab" role="tab" data-tab="${esc(id)}" aria-selected="${id === state.tab}">${esc(label)}<span class="n mono">${n}</span></button>`)
+          .join("");
+      }
+
+      function renderView() {
+        const d = state.data;
+        let html;
+        if (state.tab === "all" && state.expanded) {
+          const list = d.all.map((it, i) => [it, i + 1]).filter(([it]) => matches(it));
+          html = list.length ? `<ol class="list">${list.map(([it, r]) => row(it, r)).join("")}</ol>` : "";
+          html += `<button class="btn more" type="button" data-action="collapse">收合為 Top 10</button>`;
+        } else {
+          const base = state.tab === "all" ? d.top10 : d.categories[state.tab] || [];
+          const list = base.map((it, i) => [it, i + 1]).filter(([it]) => matches(it));
+          html = list.length ? `<div class="cards">${list.map(([it, r]) => card(it, r)).join("")}</div>` : "";
+          if (state.tab === "all") html += `<button class="btn more" type="button" data-action="expand">展開全部 ${d.all.length} 則</button>`;
+        }
+        $("view").innerHTML = html.startsWith("<button") || !html ? `<p class="empty">${state.q ? "沒有符合的結果" : "這個分類目前沒有新聞"}</p>${html}` : html;
+      }
+
+      function renderMeta() {
+        const d = state.data;
+        $("updated").textContent = taipei(d.updated_at);
+        $("srclist").innerHTML = (d.source_list || []).map((s) => `<li>${link(new URL(s.url).origin, s.name)}</li>`).join("");
+      }
+
+      // the workflow runs at 00/06/12/18 UTC; GitHub may start it a few minutes late
+      function tick() {
+        const now = new Date();
+        const next = new Date(now);
+        next.setUTCHours(Math.floor(now.getUTCHours() / 6) * 6 + 6, 0, 0, 0);
+        const s = Math.max(0, Math.floor((next - now) / 1000));
+        const p = (n) => String(n).padStart(2, "0");
+        $("countdown").textContent = `${p(Math.floor(s / 3600))}:${p(Math.floor((s % 3600) / 60))}:${p(s % 60)}`;
+      }
+
+      async function load(path) {
+        const res = await fetch(`${path}?t=${Date.now()}`);
+        if (!res.ok) throw new Error(`${path}: ${res.status}`);
+        state.data = await res.json();
+        state.expanded = false;
+        renderMeta();
+        renderTabs();
+        renderView();
+      }
+
+      async function loadArchive() {
+        const res = await fetch(`data/archive/index.json?t=${Date.now()}`);
+        if (!res.ok) return;
+        const names = await res.json();
+        $("archive").innerHTML += names.map((n) => `<option value="${esc(n)}">${esc(n.replace(/^(\d{4}-\d{2}-\d{2})-(\d{2})$/, "$1 $2:00 UTC"))}</option>`).join("");
+      }
+
+      $("tabs").addEventListener("click", (e) => {
+        const b = e.target.closest("[data-tab]");
+        if (!b) return;
+        state.tab = b.dataset.tab;
+        state.expanded = false;
+        renderTabs();
+        renderView();
+      });
+      $("view").addEventListener("click", (e) => {
+        const b = e.target.closest("[data-action]");
+        if (!b) return;
+        state.expanded = b.dataset.action === "expand";
+        renderView();
+      });
+      $("q").addEventListener("input", (e) => {
+        state.q = e.target.value.trim().toLowerCase();
+        renderView();
+      });
+      $("archive").addEventListener("change", (e) => {
+        load(e.target.value ? `data/archive/${e.target.value}.json` : "data/latest.json").catch(showError);
+      });
+
+      const root = document.documentElement;
+      const saved = localStorage.getItem("theme");
+      root.dataset.theme = saved || (matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light");
+      $("theme").addEventListener("click", () => {
+        root.dataset.theme = root.dataset.theme === "dark" ? "light" : "dark";
+        localStorage.setItem("theme", root.dataset.theme);
+      });
+
+      const showError = (err) => {
+        $("view").innerHTML = `<p class="empty">資料載入失敗，請稍後再試。（${esc(err.message)}）</p>`;
+      };
+      tick();
+      setInterval(tick, 1000);
+      load("data/latest.json").catch(showError);
+      loadArchive();
+    </script>
+  </body>
+</html>

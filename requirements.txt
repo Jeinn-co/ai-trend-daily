@@ -1,0 +1,7 @@
+anthropic>=1.0
+feedparser
+trafilatura
+pyyaml
+rapidfuzz
+requests
+beautifulsoup4

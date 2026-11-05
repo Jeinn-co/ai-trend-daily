@@ -7,12 +7,12 @@
     <meta name="description" content="每 6 小時自動彙整全球 AI 新聞，附原文來源連結。" />
     <style>
       :root {
-        --paper: #e4edf1;
-        --ink: #17232e;
-        --muted: #5c7080;
-        --line: #d3dee6;
-        --sheet: #f4f8fa;
-        --accent: #1f6f9f;
+        --paper: #ebe8e3;
+        --ink: #34302c;
+        --muted: #7a736c;
+        --line: #dcd7d0;
+        --sheet: #f7f5f2;
+        --accent: #8c7d9e;
         color-scheme: light;
         font-family: "IBM Plex Sans", "Avenir Next", "Segoe UI", "PingFang TC", "Noto Sans TC", sans-serif;
         color: var(--ink);
@@ -21,12 +21,12 @@
         text-rendering: optimizeLegibility;
       }
       :root[data-theme="dark"] {
-        --paper: #10181f;
-        --ink: #dde7ee;
-        --muted: #8ca0b0;
-        --line: #26343f;
-        --sheet: #16222b;
-        --accent: #6cb4e0;
+        --paper: #1e1c1a;
+        --ink: #e6e1db;
+        --muted: #a39b93;
+        --line: #36322e;
+        --sheet: #272421;
+        --accent: #b3a5c4;
         color-scheme: dark;
       }
       * { box-sizing: border-box; }
@@ -40,7 +40,6 @@
       .head { display: flex; flex-wrap: wrap; align-items: flex-end; justify-content: space-between; gap: 16px; margin-bottom: 20px; }
       .eyebrow { margin: 0 0 4px; color: var(--muted); font-size: 12px; letter-spacing: 0.08em; text-transform: uppercase; }
       h1 { margin: 0; font-size: 40px; font-weight: 600; letter-spacing: -0.04em; line-height: 1; }
-      h1 .ai { background: linear-gradient(90deg, #e85d2a, #8b5cf6 55%, #2563eb); -webkit-background-clip: text; background-clip: text; color: transparent; }
       .meta { margin: 10px 0 0; color: var(--muted); font-size: 15px; }
       .meta b { color: var(--ink); font-weight: 500; }
 
@@ -51,7 +50,7 @@
 
       .tabs { display: flex; gap: 4px; margin: 16px 0; overflow-x: auto; border-bottom: 1px solid var(--line); scrollbar-width: none; }
       .tab { flex: none; padding: 10px 14px; font-size: 16px; border: 0; border-bottom: 2px solid transparent; background: none; color: var(--muted); cursor: pointer; }
-      .tab[aria-selected="true"] { color: var(--c, var(--ink)); border-bottom-color: var(--c, var(--ink)); font-weight: 600; }
+      .tab[aria-selected="true"] { color: color-mix(in srgb, var(--c) 60%, var(--ink)); border-bottom-color: var(--c); font-weight: 600; }
       .tab .dot { display: inline-block; width: 8px; height: 8px; margin-right: 6px; border-radius: 50%; background: var(--c); vertical-align: 1px; }
       .tab .n { margin-left: 4px; font-size: 12px; }
 
@@ -60,8 +59,8 @@
       .card:hover { transform: translateY(-2px); box-shadow: 0 8px 24px color-mix(in srgb, var(--c) 18%, transparent); }
       .card-top { display: flex; align-items: center; gap: 8px; margin-bottom: 10px; color: var(--muted); font-size: 13px; }
       .rank { font-size: 15px; color: var(--ink); }
-      .rank.top { padding: 1px 8px; border-radius: 6px; background: var(--c); color: #fff; }
-      .tag { padding: 2px 10px; border-radius: 999px; background: color-mix(in srgb, var(--c) 14%, transparent); color: var(--c); font-weight: 500; }
+      .rank.top { padding: 1px 8px; border-radius: 6px; background: color-mix(in srgb, var(--c) 85%, var(--ink)); color: #fff; }
+      .tag { padding: 2px 10px; border-radius: 999px; background: color-mix(in srgb, var(--c) 20%, transparent); color: color-mix(in srgb, var(--c) 60%, var(--ink)); font-weight: 500; }
       .score { margin-left: auto; }
       .card h2 { margin: 0; font-size: 20px; font-weight: 600; line-height: 1.45; overflow-wrap: anywhere; }
       .summary { display: -webkit-box; margin: 10px 0 0; overflow: hidden; color: var(--muted); font-size: 16px; line-height: 1.7; -webkit-line-clamp: 4; -webkit-box-orient: vertical; }
@@ -97,7 +96,7 @@
       <header class="head">
         <div>
           <p class="eyebrow mono">AI Trend Daily</p>
-          <h1><span class="ai">AI</span> 趨勢日報</h1>
+          <h1>AI 趨勢日報</h1>
           <p class="meta">最後更新 <b id="updated">—</b>（台北時間）· 預計下次更新 <b id="countdown" class="mono">—</b></p>
         </div>
         <div class="bar">
@@ -125,11 +124,12 @@
     <script>
       const HIGHLIGHTS = ["焦點", "黑馬", "潛力"];
       const COLOR = {
-        焦點: "#e85d2a", 黑馬: "#8b5cf6", 潛力: "#2563eb",
-        "AI Agent": "#7c3aed", "AI 應用": "#0d9488", 技能: "#d97706", MCP: "#0891b2",
-        開源: "#16a34a", 創新: "#db2777", 資安公佈: "#dc2626", 其它: "#64748b",
+        // Morandi palette: muted, grey-toned
+        焦點: "#b9806a", 黑馬: "#8c7d9e", 潛力: "#7b91a6",
+        "AI Agent": "#9a86a3", "AI 應用": "#7c9f96", 技能: "#bfa071", MCP: "#7d9cad",
+        開源: "#8ca37c", 創新: "#c08f98", 資安公佈: "#ad6f69", 其它: "#9b958f",
       };
-      const color = (k) => COLOR[k] || "#64748b";
+      const color = (k) => COLOR[k] || "#9b958f";
       const CATEGORIES = ["AI Agent", "AI 應用", "技能", "MCP", "開源", "創新", "資安公佈", "其它"];
       const $ = (id) => document.getElementById(id);
       const state = { data: null, tab: "焦點", expanded: false, q: "" };

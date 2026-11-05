@@ -1,0 +1,2800 @@
+{
+ "updated_at": "2026-11-05T07:41:02+00:00",
+ "top10": [
+  {
+   "id": "3a06f84c0f51",
+   "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+   "summary": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
+   "category": "產業與投資",
+   "score": 69.7,
+   "published_at": "2026-11-04T14:30:00+00:00",
+   "sources": [
+    {
+     "name": "OpenAI",
+     "url": "https://openai.com/index/openai-to-acquire-pierre"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50366863"
+    }
+   ],
+   "primary_url": "https://openai.com/index/openai-to-acquire-pierre"
+  },
+  {
+   "id": "7838c87736f9",
+   "title": "Kimi K3.1 Pro model weights are out",
+   "summary": "",
+   "category": "開源專案",
+   "score": 62.5,
+   "published_at": "2026-11-04T15:30:30+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50366999"
+    }
+   ],
+   "primary_url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro"
+  },
+  {
+   "id": "68c44263a0af",
+   "title": "AI is forcing us to pay off 40 years of technical debt",
+   "summary": "",
+   "category": "產業與投資",
+   "score": 55.1,
+   "published_at": "2026-11-04T11:52:17+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50364336"
+    }
+   ],
+   "primary_url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability"
+  },
+  {
+   "id": "96eddcc208ed",
+   "title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
+   "summary": "",
+   "category": "開源專案",
+   "score": 54.1,
+   "published_at": "2026-11-04T18:53:29+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://www.ricursive.com/ripple"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50369925"
+    }
+   ],
+   "primary_url": "https://www.ricursive.com/ripple"
+  },
+  {
+   "id": "40b1bb8d3105",
+   "title": "vercel-labs/agent-desktop: Computer use CLI for AI agents",
+   "summary": "Computer use CLI for AI agents",
+   "category": "開源專案",
+   "score": 54.0,
+   "published_at": "2026-11-05T07:41:02.779052+00:00",
+   "sources": [
+    {
+     "name": "GitHub Trending",
+     "url": "https://github.com/vercel-labs/agent-desktop"
+    }
+   ],
+   "primary_url": "https://github.com/vercel-labs/agent-desktop"
+  },
+  {
+   "id": "110f8b3466ee",
+   "title": "nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
+   "summary": "",
+   "category": "開源專案",
+   "score": 54.0,
+   "published_at": "2026-11-05T07:41:02.779052+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face Trending",
+     "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B"
+    }
+   ],
+   "primary_url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B"
+  },
+  {
+   "id": "8ac198972094",
+   "title": "NVIDIA/auto-ontology: Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
+   "summary": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM…",
+   "category": "開源專案",
+   "score": 53.5,
+   "published_at": "2026-11-05T07:41:02.779052+00:00",
+   "sources": [
+    {
+     "name": "GitHub Trending",
+     "url": "https://github.com/NVIDIA/auto-ontology"
+    }
+   ],
+   "primary_url": "https://github.com/NVIDIA/auto-ontology"
+  },
+  {
+   "id": "46e307363c08",
+   "title": "speridlabs/idol",
+   "summary": "",
+   "category": "開源專案",
+   "score": 53.2,
+   "published_at": "2026-11-05T07:41:02.779052+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face Trending",
+     "url": "https://huggingface.co/speridlabs/idol"
+    }
+   ],
+   "primary_url": "https://huggingface.co/speridlabs/idol"
+  },
+  {
+   "id": "9b13d6a721a0",
+   "title": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+   "summary": "",
+   "category": "開源專案",
+   "score": 53.1,
+   "published_at": "2026-11-05T07:41:02.779052+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face Trending",
+     "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017"
+    }
+   ],
+   "primary_url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017"
+  },
+  {
+   "id": "ad486aacca15",
+   "title": "Everything is an AI scam now",
+   "summary": "",
+   "category": "其他",
+   "score": 53.0,
+   "published_at": "2026-11-04T21:05:19+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://www.davidralphlewis.co.uk/posts/everything-is-an-ai-scam-now/"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50371508"
+    }
+   ],
+   "primary_url": "https://www.davidralphlewis.co.uk/posts/everything-is-an-ai-scam-now/"
+  }
+ ],
+ "all": [
+  {
+   "id": "3a06f84c0f51",
+   "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+   "summary": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
+   "category": "產業與投資",
+   "score": 69.7,
+   "published_at": "2026-11-04T14:30:00+00:00",
+   "sources": [
+    {
+     "name": "OpenAI",
+     "url": "https://openai.com/index/openai-to-acquire-pierre"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50366863"
+    }
+   ],
+   "primary_url": "https://openai.com/index/openai-to-acquire-pierre"
+  },
+  {
+   "id": "7838c87736f9",
+   "title": "Kimi K3.1 Pro model weights are out",
+   "summary": "",
+   "category": "開源專案",
+   "score": 62.5,
+   "published_at": "2026-11-04T15:30:30+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50366999"
+    }
+   ],
+   "primary_url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro"
+  },
+  {
+   "id": "68c44263a0af",
+   "title": "AI is forcing us to pay off 40 years of technical debt",
+   "summary": "",
+   "category": "產業與投資",
+   "score": 55.1,
+   "published_at": "2026-11-04T11:52:17+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50364336"
+    }
+   ],
+   "primary_url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability"
+  },
+  {
+   "id": "96eddcc208ed",
+   "title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
+   "summary": "",
+   "category": "開源專案",
+   "score": 54.1,
+   "published_at": "2026-11-04T18:53:29+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://www.ricursive.com/ripple"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50369925"
+    }
+   ],
+   "primary_url": "https://www.ricursive.com/ripple"
+  },
+  {
+   "id": "40b1bb8d3105",
+   "title": "vercel-labs/agent-desktop: Computer use CLI for AI agents",
+   "summary": "Computer use CLI for AI agents",
+   "category": "開源專案",
+   "score": 54.0,
+   "published_at": "2026-11-05T07:41:02.779052+00:00",
+   "sources": [
+    {
+     "name": "GitHub Trending",
+     "url": "https://github.com/vercel-labs/agent-desktop"
+    }
+   ],
+   "primary_url": "https://github.com/vercel-labs/agent-desktop"
+  },
+  {
+   "id": "110f8b3466ee",
+   "title": "nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
+   "summary": "",
+   "category": "開源專案",
+   "score": 54.0,
+   "published_at": "2026-11-05T07:41:02.779052+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face Trending",
+     "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B"
+    }
+   ],
+   "primary_url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B"
+  },
+  {
+   "id": "8ac198972094",
+   "title": "NVIDIA/auto-ontology: Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
+   "summary": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM…",
+   "category": "開源專案",
+   "score": 53.5,
+   "published_at": "2026-11-05T07:41:02.779052+00:00",
+   "sources": [
+    {
+     "name": "GitHub Trending",
+     "url": "https://github.com/NVIDIA/auto-ontology"
+    }
+   ],
+   "primary_url": "https://github.com/NVIDIA/auto-ontology"
+  },
+  {
+   "id": "46e307363c08",
+   "title": "speridlabs/idol",
+   "summary": "",
+   "category": "開源專案",
+   "score": 53.2,
+   "published_at": "2026-11-05T07:41:02.779052+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face Trending",
+     "url": "https://huggingface.co/speridlabs/idol"
+    }
+   ],
+   "primary_url": "https://huggingface.co/speridlabs/idol"
+  },
+  {
+   "id": "9b13d6a721a0",
+   "title": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+   "summary": "",
+   "category": "開源專案",
+   "score": 53.1,
+   "published_at": "2026-11-05T07:41:02.779052+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face Trending",
+     "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017"
+    }
+   ],
+   "primary_url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017"
+  },
+  {
+   "id": "ad486aacca15",
+   "title": "Everything is an AI scam now",
+   "summary": "",
+   "category": "其他",
+   "score": 53.0,
+   "published_at": "2026-11-04T21:05:19+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://www.davidralphlewis.co.uk/posts/everything-is-an-ai-scam-now/"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50371508"
+    }
+   ],
+   "primary_url": "https://www.davidralphlewis.co.uk/posts/everything-is-an-ai-scam-now/"
+  },
+  {
+   "id": "014576526a4d",
+   "title": "mistralai/Mistral-Large-4-1T-A52B",
+   "summary": "",
+   "category": "開源專案",
+   "score": 52.9,
+   "published_at": "2026-11-05T07:41:02.779052+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face Trending",
+     "url": "https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B"
+    }
+   ],
+   "primary_url": "https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B"
+  },
+  {
+   "id": "11144fe59342",
+   "title": "LiquidAI/LFM3-1.7B",
+   "summary": "",
+   "category": "開源專案",
+   "score": 52.9,
+   "published_at": "2026-11-05T07:41:02.779052+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face Trending",
+     "url": "https://huggingface.co/LiquidAI/LFM3-1.7B"
+    }
+   ],
+   "primary_url": "https://huggingface.co/LiquidAI/LFM3-1.7B"
+  },
+  {
+   "id": "150a39b9eb9a",
+   "title": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
+   "summary": "",
+   "category": "其他",
+   "score": 52.8,
+   "published_at": "2026-11-04T10:10:27+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://news.ycombinator.com/item?id=50363461"
+    }
+   ],
+   "primary_url": "https://news.ycombinator.com/item?id=50363461"
+  },
+  {
+   "id": "5ccdc48dfe6e",
+   "title": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
+   "summary": "",
+   "category": "晶片與硬體",
+   "score": 52.6,
+   "published_at": "2026-11-04T19:55:14+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50370654"
+    }
+   ],
+   "primary_url": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra"
+  },
+  {
+   "id": "7b93706aafff",
+   "title": "Progress on provable inference for large language models",
+   "summary": "",
+   "category": "其他",
+   "score": 52.6,
+   "published_at": "2026-11-04T17:17:46+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://www.anthropic.com/research/provable-inference"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50368626"
+    }
+   ],
+   "primary_url": "https://www.anthropic.com/research/provable-inference"
+  },
+  {
+   "id": "793baf0e5454",
+   "title": "Ask HN: What's your current AI agentic setup?",
+   "summary": "",
+   "category": "其他",
+   "score": 52.3,
+   "published_at": "2026-11-04T14:37:22+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://news.ycombinator.com/item?id=50366117"
+    }
+   ],
+   "primary_url": "https://news.ycombinator.com/item?id=50366117"
+  },
+  {
+   "id": "b8da10635efb",
+   "title": "thedotmack/claude-mem: Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+   "summary": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Cla…",
+   "category": "開源專案",
+   "score": 52.1,
+   "published_at": "2026-11-05T07:41:02.779052+00:00",
+   "sources": [
+    {
+     "name": "GitHub Trending",
+     "url": "https://github.com/thedotmack/claude-mem"
+    }
+   ],
+   "primary_url": "https://github.com/thedotmack/claude-mem"
+  },
+  {
+   "id": "771d04f9d142",
+   "title": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
+   "summary": "",
+   "category": "晶片與硬體",
+   "score": 52.0,
+   "published_at": "2026-11-04T08:46:29+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50362905"
+    }
+   ],
+   "primary_url": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop"
+  },
+  {
+   "id": "ee64b630519e",
+   "title": "Pika-Labs/Pika-H3-Flex",
+   "summary": "",
+   "category": "開源專案",
+   "score": 52.0,
+   "published_at": "2026-11-05T07:41:02.779052+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face Trending",
+     "url": "https://huggingface.co/Pika-Labs/Pika-H3-Flex"
+    }
+   ],
+   "primary_url": "https://huggingface.co/Pika-Labs/Pika-H3-Flex"
+  },
+  {
+   "id": "04ce1345cda9",
+   "title": "Lightricks/LTX-2.5",
+   "summary": "",
+   "category": "開源專案",
+   "score": 51.7,
+   "published_at": "2026-11-05T07:41:02.779052+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face Trending",
+     "url": "https://huggingface.co/Lightricks/LTX-2.5"
+    }
+   ],
+   "primary_url": "https://huggingface.co/Lightricks/LTX-2.5"
+  },
+  {
+   "id": "1c6441623ff5",
+   "title": "ccore/Qwen3.5-4B-3D-Coder",
+   "summary": "",
+   "category": "開源專案",
+   "score": 51.6,
+   "published_at": "2026-11-05T07:41:02.779052+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face Trending",
+     "url": "https://huggingface.co/ccore/Qwen3.5-4B-3D-Coder"
+    }
+   ],
+   "primary_url": "https://huggingface.co/ccore/Qwen3.5-4B-3D-Coder"
+  },
+  {
+   "id": "6e200e05b45c",
+   "title": "burner22/numbat",
+   "summary": "",
+   "category": "開源專案",
+   "score": 51.2,
+   "published_at": "2026-11-05T07:41:02.779052+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face Trending",
+     "url": "https://huggingface.co/burner22/numbat"
+    }
+   ],
+   "primary_url": "https://huggingface.co/burner22/numbat"
+  },
+  {
+   "id": "dc34df3985a1",
+   "title": "Geoffrey Hinton: it might turn out we were better off without AI",
+   "summary": "",
+   "category": "其他",
+   "score": 50.8,
+   "published_at": "2026-11-04T10:23:34+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50363554"
+    }
+   ],
+   "primary_url": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai"
+  },
+  {
+   "id": "ec9a31b73403",
+   "title": "harry0703/MoneyPrinterTurbo: 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+   "summary": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+   "category": "開源專案",
+   "score": 50.5,
+   "published_at": "2026-11-05T07:41:02.779052+00:00",
+   "sources": [
+    {
+     "name": "GitHub Trending",
+     "url": "https://github.com/harry0703/MoneyPrinterTurbo"
+    }
+   ],
+   "primary_url": "https://github.com/harry0703/MoneyPrinterTurbo"
+  },
+  {
+   "id": "d747ecb5894f",
+   "title": "max-sixty/worktrunk: Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+   "summary": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+   "category": "開源專案",
+   "score": 50.1,
+   "published_at": "2026-11-05T07:41:02.779052+00:00",
+   "sources": [
+    {
+     "name": "GitHub Trending",
+     "url": "https://github.com/max-sixty/worktrunk"
+    }
+   ],
+   "primary_url": "https://github.com/max-sixty/worktrunk"
+  },
+  {
+   "id": "cd998f720303",
+   "title": "FareedKhan-dev/kimi-k3-in-c: A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
+   "summary": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
+   "category": "開源專案",
+   "score": 49.0,
+   "published_at": "2026-11-05T07:41:02.779052+00:00",
+   "sources": [
+    {
+     "name": "GitHub Trending",
+     "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c"
+    }
+   ],
+   "primary_url": "https://github.com/FareedKhan-dev/kimi-k3-in-c"
+  },
+  {
+   "id": "b22ad9f6b573",
+   "title": "garrytan/gstack: Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+   "summary": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+   "category": "開源專案",
+   "score": 48.5,
+   "published_at": "2026-11-05T07:41:02.779052+00:00",
+   "sources": [
+    {
+     "name": "GitHub Trending",
+     "url": "https://github.com/garrytan/gstack"
+    }
+   ],
+   "primary_url": "https://github.com/garrytan/gstack"
+  },
+  {
+   "id": "da9a5824109f",
+   "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
+   "summary": "",
+   "category": "產品與工具",
+   "score": 48.0,
+   "published_at": "2026-11-03T17:22:37+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://github.com/postmanlabs/postman-app-support/issues/14370"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50354960"
+    }
+   ],
+   "primary_url": "https://github.com/postmanlabs/postman-app-support/issues/14370"
+  },
+  {
+   "id": "1f03c87007f1",
+   "title": "scenario-labs/skills: Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus expert teams that drive Blender, Maya, ZBrush, Unreal, and Unity.",
+   "summary": "Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus …",
+   "category": "開源專案",
+   "score": 47.9,
+   "published_at": "2026-11-05T07:41:02.779052+00:00",
+   "sources": [
+    {
+     "name": "GitHub Trending",
+     "url": "https://github.com/scenario-labs/skills"
+    }
+   ],
+   "primary_url": "https://github.com/scenario-labs/skills"
+  },
+  {
+   "id": "aa3b92b87c68",
+   "title": "Apple is reportedly cutting budgets for its internal AI usage",
+   "summary": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams.",
+   "category": "產業與投資",
+   "score": 47.4,
+   "published_at": "2026-11-05T01:26:22+00:00",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/"
+    }
+   ],
+   "primary_url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/"
+  },
+  {
+   "id": "d93ef6b85a78",
+   "title": "After the midterms, a bigger clash over data centers could be coming",
+   "summary": "Data center opposition crossed party lines in Tuesday’s midterms.",
+   "category": "晶片與硬體",
+   "score": 47.2,
+   "published_at": "2026-11-05T01:02:14+00:00",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/"
+    }
+   ],
+   "primary_url": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/"
+  },
+  {
+   "id": "a331696f9782",
+   "title": "AI PACs spent millions trying to shape Congress — here’s how they fared",
+   "summary": "AI industry PACs spent millions influencing the 2026 midterms, with mixed results. Political groups are already looking toward the next election cycle.",
+   "category": "政策與法規",
+   "score": 46.3,
+   "published_at": "2026-11-04T22:45:09+00:00",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/"
+    }
+   ],
+   "primary_url": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/"
+  },
+  {
+   "id": "9237dfef9309",
+   "title": "Qualcomm is betting big on data centers as smartphone sales sink",
+   "summary": "With smartphone sales tanking by around 20 percent compared to 2025, Qualcomm is looking to data centers to help boost its bottom line. During its Q4 2026 earnings call, the company laid out its plan…",
+   "category": "晶片與硬體",
+   "score": 46.3,
+   "published_at": "2026-11-04T22:42:15+00:00",
+   "sources": [
+    {
+     "name": "The Verge",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers"
+    }
+   ],
+   "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers"
+  },
+  {
+   "id": "9490666391e9",
+   "title": "Thysrael/Horizon: 📡 Your own AI-powered news radar. Generates daily briefings in English & Chinese. | 用 AI 构建你专属的新闻雷达",
+   "summary": "📡 Your own AI-powered news radar. Generates daily briefings in English & Chinese. | 用 AI 构建你专属的新闻雷达",
+   "category": "開源專案",
+   "score": 46.3,
+   "published_at": "2026-11-05T07:41:02.779052+00:00",
+   "sources": [
+    {
+     "name": "GitHub Trending",
+     "url": "https://github.com/Thysrael/Horizon"
+    }
+   ],
+   "primary_url": "https://github.com/Thysrael/Horizon"
+  },
+  {
+   "id": "f3900be82c6f",
+   "title": "US tech giants' hidden AI debt swells 90% to $3.2T in 6 months",
+   "summary": "",
+   "category": "產業與投資",
+   "score": 46.2,
+   "published_at": "2026-11-03T21:26:44+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50358422"
+    }
+   ],
+   "primary_url": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months"
+  },
+  {
+   "id": "9b0f1b3870f8",
+   "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
+   "summary": "",
+   "category": "模型發布",
+   "score": 46.2,
+   "published_at": "2026-11-03T17:40:00+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50355251"
+    }
+   ],
+   "primary_url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/"
+  },
+  {
+   "id": "a4f4c423c542",
+   "title": "A thousand fewer paths to root",
+   "summary": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel.",
+   "category": "其他",
+   "score": 46.1,
+   "published_at": "2026-11-04T08:00:00+00:00",
+   "sources": [
+    {
+     "name": "OpenAI",
+     "url": "https://openai.com/index/a-thousand-fewer-paths-to-root"
+    }
+   ],
+   "primary_url": "https://openai.com/index/a-thousand-fewer-paths-to-root"
+  },
+  {
+   "id": "858a2ce3283f",
+   "title": "Nothing CEO says company’s mysterious AI-first device is dropping next month",
+   "summary": "While it's not yet clear what kind of product the smartphone startup is cooking up, Nothing's CEO said the product is designed to leverage AI for productivity gains.",
+   "category": "產業與投資",
+   "score": 46.1,
+   "published_at": "2026-11-04T22:13:16+00:00",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/"
+    }
+   ],
+   "primary_url": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/"
+  },
+  {
+   "id": "edbf4ed1a954",
+   "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
+   "summary": "",
+   "category": "其他",
+   "score": 46.1,
+   "published_at": "2026-11-03T21:40:53+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://arxiv.org/abs/2605.29713"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50358582"
+    }
+   ],
+   "primary_url": "https://arxiv.org/abs/2605.29713"
+  },
+  {
+   "id": "94c502abbc46",
+   "title": "Almost no one uses AI agents to book their Uber, company says",
+   "summary": "During its busiest week last quarter, Uber said only four people booked a ride using an AI agent.",
+   "category": "產品與工具",
+   "score": 45.9,
+   "published_at": "2026-11-04T21:56:01+00:00",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/"
+    }
+   ],
+   "primary_url": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/"
+  },
+  {
+   "id": "e5fe4bf1b72b",
+   "title": "17 better ways Elon Musk could have wasted $446 million",
+   "summary": "One of the basic problems of spending too much time on social media is that you are cooking your brain by reading posts from a pack of attention-seeking lunatics. If your social media of choice is th…",
+   "category": "產業與投資",
+   "score": 45.9,
+   "published_at": "2026-11-04T21:45:00+00:00",
+   "sources": [
+    {
+     "name": "The Verge",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1026878/not-even-good-at-being-rich"
+    }
+   ],
+   "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1026878/not-even-good-at-being-rich"
+  },
+  {
+   "id": "75679f5aa60b",
+   "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+   "summary": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
+   "category": "模型發布",
+   "score": 45.7,
+   "published_at": "2026-11-04T07:00:00+00:00",
+   "sources": [
+    {
+     "name": "OpenAI",
+     "url": "https://openai.com/index/daybreak-red-aws-govcloud"
+    }
+   ],
+   "primary_url": "https://openai.com/index/daybreak-red-aws-govcloud"
+  },
+  {
+   "id": "a1e153edc152",
+   "title": "OpenAI is already trying to shape the 2028 election",
+   "summary": "OpenAI’s Chris Lehane wants AI to define the 2028 election, proposing a new social contract that could benefit Americans while also advancing the AI giant’s own business interests.",
+   "category": "其他",
+   "score": 45.7,
+   "published_at": "2026-11-04T21:25:44+00:00",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/"
+    }
+   ],
+   "primary_url": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/"
+  },
+  {
+   "id": "d23caa988630",
+   "title": "Meta acquires AI coding startup Conductor",
+   "summary": "The startup allows software engineers to deploy teams of agents to work on various aspects of a project simultaneously.",
+   "category": "產業與投資",
+   "score": 45.6,
+   "published_at": "2026-11-04T21:10:56+00:00",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/"
+    }
+   ],
+   "primary_url": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/"
+  },
+  {
+   "id": "44e59e6a2681",
+   "title": "Big Tech claims voters’ AI backlash is “anti-Trump” not “anti-tech”",
+   "summary": "Tech industry in denial as US overwhelmingly votes to restrict AI, data centers.",
+   "category": "晶片與硬體",
+   "score": 45.5,
+   "published_at": "2026-11-04T20:55:50+00:00",
+   "sources": [
+    {
+     "name": "Ars Technica",
+     "url": "https://arstechnica.com/tech-policy/2026/11/big-tech-claims-voters-ai-backlash-is-anti-trump-not-anti-tech/"
+    }
+   ],
+   "primary_url": "https://arstechnica.com/tech-policy/2026/11/big-tech-claims-voters-ai-backlash-is-anti-trump-not-anti-tech/"
+  },
+  {
+   "id": "cb762b7ed208",
+   "title": "Gemini for Home now plugs into AT&#038;T’s smart security system",
+   "summary": "AT&T's smart home security system now integrates with Gemini for Home. The company says its Connected Life system is the \"first\" home security product to integrate with Google Home Premium, enabling …",
+   "category": "產品與工具",
+   "score": 45.3,
+   "published_at": "2026-11-04T20:23:24+00:00",
+   "sources": [
+    {
+     "name": "The Verge",
+     "url": "https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system"
+    }
+   ],
+   "primary_url": "https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system"
+  },
+  {
+   "id": "b450560162d2",
+   "title": "Google will turn off search for schools that reject AI",
+   "summary": "",
+   "category": "應用案例",
+   "score": 45.0,
+   "published_at": "2026-11-03T15:25:47+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50353192"
+    }
+   ],
+   "primary_url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html"
+  },
+  {
+   "id": "49cf82dfae35",
+   "title": "Open source AI is booming. Hugging Face explains who profits.",
+   "summary": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable mode…",
+   "category": "政策與法規",
+   "score": 44.9,
+   "published_at": "2026-11-04T19:30:04+00:00",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/"
+    }
+   ],
+   "primary_url": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/"
+  },
+  {
+   "id": "f1f26a9d7d87",
+   "title": "DuckDuckGo pitches itself to schools amid backlash over Google’s AI policy",
+   "summary": "DuckDuckGo is courting schools frustrated by Google's AI restrictions, pointing educators to its search engine and options to disable AI features.",
+   "category": "政策與法規",
+   "score": 44.9,
+   "published_at": "2026-11-04T19:29:52+00:00",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/"
+    }
+   ],
+   "primary_url": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/"
+  },
+  {
+   "id": "435a4449f912",
+   "title": "The 'Astra can read and write weights to improve Qwen' post is misleading",
+   "summary": "",
+   "category": "其他",
+   "score": 44.9,
+   "published_at": "2026-11-03T12:21:17+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://honnibal.dev/blog/astra-read-write-misleading"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50351111"
+    }
+   ],
+   "primary_url": "https://honnibal.dev/blog/astra-read-write-misleading"
+  },
+  {
+   "id": "31bba1eca5b3",
+   "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
+   "summary": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech’s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat …",
+   "category": "政策與法規",
+   "score": 44.7,
+   "published_at": "2026-11-04T18:50:55+00:00",
+   "sources": [
+    {
+     "name": "MIT Technology Review",
+     "url": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/"
+    }
+   ],
+   "primary_url": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/"
+  },
+  {
+   "id": "bb779f39a67b",
+   "title": "Building on open source AI? Hugging Face’s policy chief on the costs, risks, and trade-offs",
+   "summary": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable mode…",
+   "category": "政策與法規",
+   "score": 44.6,
+   "published_at": "2026-11-04T18:44:57+00:00",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/podcast/building-on-open-source-ai-hugging-faces-policy-chief-on-the-costs-risks-and-trade-offs/"
+    }
+   ],
+   "primary_url": "https://techcrunch.com/podcast/building-on-open-source-ai-hugging-faces-policy-chief-on-the-costs-risks-and-trade-offs/"
+  },
+  {
+   "id": "42af486580e7",
+   "title": "Nothing teases a screen-free AI device ahead of launch next month",
+   "summary": "Nothing CEO Carl Pei said in a post on X that the company's launching its first AI device in December. That's just a little over a year after Pei announced plans for \"AI-native\" devices and an AI ope…",
+   "category": "產品與工具",
+   "score": 44.5,
+   "published_at": "2026-11-04T18:26:07+00:00",
+   "sources": [
+    {
+     "name": "The Verge",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei"
+    }
+   ],
+   "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei"
+  },
+  {
+   "id": "acc28d88e49f",
+   "title": "My therapist thinks I should chuck the Amazon Bee Frontier out a window",
+   "summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for…",
+   "category": "其他",
+   "score": 44.3,
+   "published_at": "2026-11-04T18:00:00+00:00",
+   "sources": [
+    {
+     "name": "The Verge",
+     "url": "https://www.theverge.com/column/1026464/optimizer-amazon-bee-frontier-ambient-listening-wearables"
+    }
+   ],
+   "primary_url": "https://www.theverge.com/column/1026464/optimizer-amazon-bee-frontier-ambient-listening-wearables"
+  },
+  {
+   "id": "0ded2053c0de",
+   "title": "ChatGPT will now make you animated GIFs",
+   "summary": "ChatGPT can now create GIFs using a prompt or a photo uploaded to the AI chatbot. The update, which is rolling out alongside OpenAI's new Images 2.6 model, allows you to adjust the GIF's animation sp…",
+   "category": "產品與工具",
+   "score": 44.3,
+   "published_at": "2026-11-04T18:00:00+00:00",
+   "sources": [
+    {
+     "name": "The Verge",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6"
+    }
+   ],
+   "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6"
+  },
+  {
+   "id": "5afc49da7bd4",
+   "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+   "summary": "",
+   "category": "其他",
+   "score": 44.2,
+   "published_at": "2026-11-04T17:50:10+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face Blog",
+     "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor"
+    }
+   ],
+   "primary_url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor"
+  },
+  {
+   "id": "605a80a50559",
+   "title": "OpenAI seems to be silently re-enabling model training on Codex chats",
+   "summary": "",
+   "category": "其他",
+   "score": 44.1,
+   "published_at": "2026-11-03T14:53:41+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://news.ycombinator.com/item?id=50352757"
+    }
+   ],
+   "primary_url": "https://news.ycombinator.com/item?id=50352757"
+  },
+  {
+   "id": "472484bded0a",
+   "title": "I tried Apple’s Siri Recaps. They’re surprisingly useful — and a little unsettling",
+   "summary": "Apple's AI-powered Siri Recaps won me over in just one day, despite my privacy reservations. But there's still room for improvement.",
+   "category": "其他",
+   "score": 43.8,
+   "published_at": "2026-11-04T16:51:35+00:00",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/04/i-tried-apples-siri-recaps-theyre-surprisingly-useful-and-a-little-unsettling/"
+    }
+   ],
+   "primary_url": "https://techcrunch.com/2026/11/04/i-tried-apples-siri-recaps-theyre-surprisingly-useful-and-a-little-unsettling/"
+  },
+  {
+   "id": "ac5380eefb5a",
+   "title": "Google faces backlash for plan that would turn off Search for schools that restrict AI",
+   "summary": "Politicians on the left, like NYC mayor Zohran Mamdani and former FTC chair Lina Khan, accused Google of acting as an unregulated monopoly.",
+   "category": "政策與法規",
+   "score": 43.6,
+   "published_at": "2026-11-04T16:17:22+00:00",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/"
+    }
+   ],
+   "primary_url": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/"
+  },
+  {
+   "id": "7aec60f41c48",
+   "title": "Data centers lost the midterms",
+   "summary": "Data center developers are poised to face a more restrictive building environment after voters across the country voted in candidates who favor moratoriums and ballot measures that put more obstacles…",
+   "category": "晶片與硬體",
+   "score": 43.5,
+   "published_at": "2026-11-04T16:05:39+00:00",
+   "sources": [
+    {
+     "name": "The Verge",
+     "url": "https://www.theverge.com/policy/1026365/data-centers-midterms-results"
+    }
+   ],
+   "primary_url": "https://www.theverge.com/policy/1026365/data-centers-midterms-results"
+  },
+  {
+   "id": "e64d0791be6f",
+   "title": "Uber only fulfilled 4 rides from AI agents last quarter",
+   "summary": "AI agents won't be stealing Uber's lunch any time soon. Only four rides were arranged by third-party AI agents during the third quarter of 2026, Uber executives disclosed during an earnings call this…",
+   "category": "其他",
+   "score": 43.5,
+   "published_at": "2026-11-04T15:58:45+00:00",
+   "sources": [
+    {
+     "name": "The Verge",
+     "url": "https://www.theverge.com/transportation/1026306/uber-ai-agents-q3-earnings-disintermediation"
+    }
+   ],
+   "primary_url": "https://www.theverge.com/transportation/1026306/uber-ai-agents-q3-earnings-disintermediation"
+  },
+  {
+   "id": "a959325bd7be",
+   "title": "How I use AI (Oct 2026)",
+   "summary": "",
+   "category": "其他",
+   "score": 43.5,
+   "published_at": "2026-11-03T18:11:11+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://ben.stolovitz.com/posts/how-use-ai-oct-2026/"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50355767"
+    }
+   ],
+   "primary_url": "https://ben.stolovitz.com/posts/how-use-ai-oct-2026/"
+  },
+  {
+   "id": "228dcedd9b56",
+   "title": "OpenAI收購Pierre，擴充Codex程式碼管理與審查能力",
+   "summary": "新聞 OpenAI周三（11/4）宣布 ，將收購開發者工具新創Pierre Computer Company，整合Pierre的Git版本控制、程式碼儲存及審查技術，擴充Codex的軟體開發能力，雙方並未公開交易金額。美國科技媒體 Axios認為 ，這項收購顯示OpenAI正朝程式碼管理市場擴張，可能進一步挑戰微軟旗下GitHub的市場地位。 Pierre成立於2023年，由Bootstrap前…",
+   "category": "產業與投資",
+   "score": 43.2,
+   "published_at": "2026-11-05T05:45:01+00:00",
+   "sources": [
+    {
+     "name": "iThome",
+     "url": "https://www.ithome.com.tw/news/180257"
+    }
+   ],
+   "primary_url": "https://www.ithome.com.tw/news/180257"
+  },
+  {
+   "id": "3fd5d1ee6f93",
+   "title": "Sam Altman addresses RAM comments: People should &#8216;put as much as they want in their computers&#8217;",
+   "summary": "OpenAI CEO Sam Altman spent election night defending his position on PC RAM purchases. He changed his name on X to \"Ram Altman\" in response to another user's comment, saying, \"i actually do want the …",
+   "category": "其他",
+   "score": 43.0,
+   "published_at": "2026-11-04T14:46:01+00:00",
+   "sources": [
+    {
+     "name": "The Verge",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1026292/sam-altman-ram-shortage-pcs-comments"
+    }
+   ],
+   "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1026292/sam-altman-ram-shortage-pcs-comments"
+  },
+  {
+   "id": "40ed0478e937",
+   "title": "Show HN: Uncracked City, detective game where you question LLM suspects that lie",
+   "summary": "",
+   "category": "其他",
+   "score": 42.9,
+   "published_at": "2026-11-03T21:20:03+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://uncracked.city"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50358352"
+    }
+   ],
+   "primary_url": "https://uncracked.city"
+  },
+  {
+   "id": "0a437d67f2ef",
+   "title": "Introducing Images 2.6",
+   "summary": "Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API.",
+   "category": "產品與工具",
+   "score": 42.8,
+   "published_at": "2026-11-04T00:00:00+00:00",
+   "sources": [
+    {
+     "name": "OpenAI",
+     "url": "https://openai.com/index/introducing-images-2-6"
+    }
+   ],
+   "primary_url": "https://openai.com/index/introducing-images-2-6"
+  },
+  {
+   "id": "bf25be8f8779",
+   "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
+   "summary": "DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service.",
+   "category": "模型發布",
+   "score": 42.8,
+   "published_at": "2026-11-04T00:00:00+00:00",
+   "sources": [
+    {
+     "name": "OpenAI",
+     "url": "https://openai.com/index/devrev-enterprise-self-service"
+    }
+   ],
+   "primary_url": "https://openai.com/index/devrev-enterprise-self-service"
+  },
+  {
+   "id": "490ea6a51331",
+   "title": "AI 自己造出更強的 AI？Anthropic 更新文件稱可能「即將」達到 AI 加速自身研發門檻",
+   "summary": "Anthropic 在 11 月 2 日公開的修訂版 S-1/A 中表示，內部估計顯示可能即將達到 RSP 對「AI 大幅加速進展」的定義，但尚未認定任何現有模型超標，並考慮更新政策確保人類掌控頂尖模型開發。",
+   "category": "政策與法規",
+   "score": 42.8,
+   "published_at": "2026-11-05T04:50:00+00:00",
+   "sources": [
+    {
+     "name": "INSIDE",
+     "url": "https://www.inside.com.tw/article/42811-anthropic-s1a-recursive-self-improvement-threshold-may-be-imminent"
+    }
+   ],
+   "primary_url": "https://www.inside.com.tw/article/42811-anthropic-s1a-recursive-self-improvement-threshold-may-be-imminent"
+  },
+  {
+   "id": "b27464f61d86",
+   "title": "OpenAI 全球事務長 Lehane 開出 2028 大選 5 道 AI 政策題，主張可關停系統、警告資料中心禁建恐失領先",
+   "summary": "OpenAI 全球事務長 Chris Lehane 在美國期中選舉隔天發表個人評論，向 2028 年總統候選人開出 5 道 AI 政策題，其中包括必要時要能限制或關停 AI 系統，也把民主黨初選上表態支持資料中心禁建，比作 2002 年的伊拉克戰爭投票。本文對照 Lehane 原文與 AI Now Institute 的批評，整理他在安全、稅制、勞工與資料中心上的主張。",
+   "category": "政策與法規",
+   "score": 42.7,
+   "published_at": "2026-11-05T04:32:00+00:00",
+   "sources": [
+    {
+     "name": "INSIDE",
+     "url": "https://www.inside.com.tw/article/42831-openai-lehane-2028-ai-election-essay"
+    }
+   ],
+   "primary_url": "https://www.inside.com.tw/article/42831-openai-lehane-2028-ai-election-essay"
+  },
+  {
+   "id": "3e934df74ee4",
+   "title": "美國期中選舉民主黨拿下國會，AI 資料中心股走跌、政治團體砸數百萬美元成敗互見",
+   "summary": "民主黨在美東時間 11 月 3 日（台北時間 11 月 4 日）的美國期中選舉拿下國會，隔天美股盤中 CoreWeave、Vistra 等資料中心與電力股走跌，亞馬遜、微軟各漲 6%，支持和反對 AI 產業的政治團體則砸下數百萬美元，結果成敗互見。",
+   "category": "晶片與硬體",
+   "score": 42.4,
+   "published_at": "2026-11-05T03:50:00+00:00",
+   "sources": [
+    {
+     "name": "INSIDE",
+     "url": "https://www.inside.com.tw/article/42826-us-midterms-ai-data-center-stocks-pacs"
+    }
+   ],
+   "primary_url": "https://www.inside.com.tw/article/42826-us-midterms-ai-data-center-stocks-pacs"
+  },
+  {
+   "id": "6c35d4c93609",
+   "title": "TechCrunch Founder Summit 2026: Doors open at 9 a.m. ET in Boston",
+   "summary": "Today is the day to join TechCrunch Founder Summit 2026 in Boston's SoWa Power Station. Register now to join this founder-focused conference today.",
+   "category": "其他",
+   "score": 42.2,
+   "published_at": "2026-11-04T13:00:00+00:00",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/04/techcrunch-founder-summit-2026-todays-the-day/"
+    }
+   ],
+   "primary_url": "https://techcrunch.com/2026/11/04/techcrunch-founder-summit-2026-todays-the-day/"
+  },
+  {
+   "id": "416b7eba9f32",
+   "title": "Securing the agentic enterprise with data lineage",
+   "summary": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output look…",
+   "category": "產品與工具",
+   "score": 42.2,
+   "published_at": "2026-11-04T13:00:00+00:00",
+   "sources": [
+    {
+     "name": "MIT Technology Review",
+     "url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/"
+    }
+   ],
+   "primary_url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/"
+  },
+  {
+   "id": "595c3100a213",
+   "title": "Google hasn&#8217;t figured out how to make AI pay like its search engine",
+   "summary": "Search queries are growing at their fastest rate in five years, Google parent Alphabet said in its earnings report last week. However, Google's Search revenue growth slowed to 12 percent year over ye…",
+   "category": "產業與投資",
+   "score": 41.8,
+   "published_at": "2026-11-04T12:00:00+00:00",
+   "sources": [
+    {
+     "name": "The Verge",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3"
+    }
+   ],
+   "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3"
+  },
+  {
+   "id": "eb3661170b1d",
+   "title": "Just a little AI resistance, as a treat",
+   "summary": "",
+   "category": "其他",
+   "score": 40.9,
+   "published_at": "2026-11-03T14:14:12+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://shkspr.mobi/blog/2026/11/just-a-little-ai-resistance-as-a-treat/"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50352257"
+    }
+   ],
+   "primary_url": "https://shkspr.mobi/blog/2026/11/just-a-little-ai-resistance-as-a-treat/"
+  },
+  {
+   "id": "4bbe1f465dbb",
+   "title": "AI is destroying my CS degree",
+   "summary": "",
+   "category": "其他",
+   "score": 40.5,
+   "published_at": "2026-11-03T15:35:06+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://lordtoots.bearblog.dev/ai-is-destroying-my-cs-degree/"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50353300"
+    }
+   ],
+   "primary_url": "https://lordtoots.bearblog.dev/ai-is-destroying-my-cs-degree/"
+  },
+  {
+   "id": "3d39bad411aa",
+   "title": "How NVIDIA Uses AI Agents to Streamline AI Factory Operations",
+   "summary": "As GPU clusters scale, operations span compute, network, hardware, and scheduling. Site reliability engineers (SREs) often have to examine multiple dashboards...",
+   "category": "晶片與硬體",
+   "score": 40.0,
+   "published_at": "2026-11-04T22:00:17+00:00",
+   "sources": [
+    {
+     "name": "NVIDIA Developer",
+     "url": "https://developer.nvidia.com/blog/how-nvidia-uses-ai-agents-to-streamline-ai-factory-operations/"
+    }
+   ],
+   "primary_url": "https://developer.nvidia.com/blog/how-nvidia-uses-ai-agents-to-streamline-ai-factory-operations/"
+  },
+  {
+   "id": "adafdd4764cb",
+   "title": "Agentic cheminformatics with Google Antigravity",
+   "summary": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
+   "category": "其他",
+   "score": 39.9,
+   "published_at": "2026-11-03T17:01:49+00:00",
+   "sources": [
+    {
+     "name": "Google DeepMind",
+     "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/"
+    }
+   ],
+   "primary_url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/"
+  },
+  {
+   "id": "6d4f974c87b6",
+   "title": "NVIDIA CUDA 13.5 Brings NVIDIA Vera Rubin GA Support",
+   "summary": "As artificial intelligence and accelerated computing continue to push the boundaries of what's possible, the latest NVIDIA CUDA release arrives to unlock...",
+   "category": "晶片與硬體",
+   "score": 38.6,
+   "published_at": "2026-11-04T18:46:07+00:00",
+   "sources": [
+    {
+     "name": "NVIDIA Developer",
+     "url": "https://developer.nvidia.com/blog/nvidia-cuda-13-5-brings-nvidia-vera-rubin-ga-support/"
+    }
+   ],
+   "primary_url": "https://developer.nvidia.com/blog/nvidia-cuda-13-5-brings-nvidia-vera-rubin-ga-support/"
+  },
+  {
+   "id": "e2bf3d72acd9",
+   "title": "How NVIDIA Factory Operations Blueprint Coordinates AI Agents to Investigate Production Issues",
+   "summary": "A Siemens report estimates that unplanned downtime costs an average large plant in the surveyed sectors $253 million per year. Whether investigating a failed...",
+   "category": "產業與投資",
+   "score": 37.9,
+   "published_at": "2026-11-04T17:00:00+00:00",
+   "sources": [
+    {
+     "name": "NVIDIA Developer",
+     "url": "https://developer.nvidia.com/blog/how-nvidia-factory-operations-blueprint-coordinates-ai-agents-to-investigate-production-issues/"
+    }
+   ],
+   "primary_url": "https://developer.nvidia.com/blog/how-nvidia-factory-operations-blueprint-coordinates-ai-agents-to-investigate-production-issues/"
+  },
+  {
+   "id": "26c6032e1d26",
+   "title": "Accelerating engineering for the physical world",
+   "summary": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world.",
+   "category": "其他",
+   "score": 37.8,
+   "published_at": "2026-11-03T12:00:00+00:00",
+   "sources": [
+    {
+     "name": "OpenAI",
+     "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world"
+    }
+   ],
+   "primary_url": "https://openai.com/index/accelerating-engineering-for-the-physical-world"
+  },
+  {
+   "id": "791ee444b64b",
+   "title": "Publication expectations for ML PhDs at top-10 US schools / top ML groups? [D]",
+   "summary": "From what I’ve read on Reddit so far, I’m getting the impression that around 4 first-author papers at top ML conferences (NeurIPS, ICML, ICLR, etc.) is a fairly standard expectation for graduating fr…",
+   "category": "應用案例",
+   "score": 37.7,
+   "published_at": "2026-11-05T06:56:48+00:00",
+   "sources": [
+    {
+     "name": "r/MachineLearning",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1xoc358/publication_expectations_for_ml_phds_at_top10_us/"
+    }
+   ],
+   "primary_url": "https://www.reddit.com/r/MachineLearning/comments/1xoc358/publication_expectations_for_ml_phds_at_top10_us/"
+  },
+  {
+   "id": "f07a268d849a",
+   "title": "Who May Overrule the Agent? Evidence-Gated Authority in LLM Review Institutions",
+   "summary": "arXiv:2611.05390v1 Announce Type: new Abstract: Multi-agent language-model systems often add a reviewer to improve an upstream agent's decision. Yet a reviewer can both repair errors and replace deci…",
+   "category": "研究論文",
+   "score": 36.9,
+   "published_at": "2026-11-05T05:00:00+00:00",
+   "sources": [
+    {
+     "name": "arXiv cs.AI",
+     "url": "https://arxiv.org/abs/2611.05390"
+    }
+   ],
+   "primary_url": "https://arxiv.org/abs/2611.05390"
+  },
+  {
+   "id": "4aed649a245d",
+   "title": "Agent Harness Awareness: Turning Verified Telemetry into Operational Control for Tool-Using Agents",
+   "summary": "arXiv:2611.05391v1 Announce Type: new Abstract: Tool descriptions tell an agent what an action can do, but they do not necessarily reveal whether that action is healthy or suitable at the moment of u…",
+   "category": "研究論文",
+   "score": 36.9,
+   "published_at": "2026-11-05T05:00:00+00:00",
+   "sources": [
+    {
+     "name": "arXiv cs.AI",
+     "url": "https://arxiv.org/abs/2611.05391"
+    }
+   ],
+   "primary_url": "https://arxiv.org/abs/2611.05391"
+  },
+  {
+   "id": "473a023bdb2d",
+   "title": "Uncertainty-Aware Resource Orchestration for Agentic AI Systems",
+   "summary": "arXiv:2611.05392v1 Announce Type: new Abstract: Agentic artificial intelligence (AI) systems powered by large language models (LLMs) execute as autonomous multi-step pipelines that dynamically invoke…",
+   "category": "研究論文",
+   "score": 36.9,
+   "published_at": "2026-11-05T05:00:00+00:00",
+   "sources": [
+    {
+     "name": "arXiv cs.AI",
+     "url": "https://arxiv.org/abs/2611.05392"
+    }
+   ],
+   "primary_url": "https://arxiv.org/abs/2611.05392"
+  },
+  {
+   "id": "f25d819b9d43",
+   "title": "Challenge-Aware Knowledge Recruitment with Meta-Agent Supervision for Medical Multi-Agent Reasoning",
+   "summary": "arXiv:2611.05393v1 Announce Type: new Abstract: Large language models perform strongly on standard medical QA but degrade on harder reasoning tasks, where multi-agent debate often fails to beat stron…",
+   "category": "研究論文",
+   "score": 36.9,
+   "published_at": "2026-11-05T05:00:00+00:00",
+   "sources": [
+    {
+     "name": "arXiv cs.AI",
+     "url": "https://arxiv.org/abs/2611.05393"
+    }
+   ],
+   "primary_url": "https://arxiv.org/abs/2611.05393"
+  },
+  {
+   "id": "eb4d7e0e310e",
+   "title": "A Feasibility Condition for Confidence-Gated Tiered LLM Inference",
+   "summary": "arXiv:2611.05394v1 Announce Type: new Abstract: Tiered inference distributes large language model computation across a hierarchy of devices, from on-device and edge hardware to the datacenter, and is…",
+   "category": "研究論文",
+   "score": 36.9,
+   "published_at": "2026-11-05T05:00:00+00:00",
+   "sources": [
+    {
+     "name": "arXiv cs.AI",
+     "url": "https://arxiv.org/abs/2611.05394"
+    }
+   ],
+   "primary_url": "https://arxiv.org/abs/2611.05394"
+  },
+  {
+   "id": "d44a1ccba374",
+   "title": "Towards Robust Long-Lived Agents: Benchmarking Experience Lifecycles in Evolving Environments",
+   "summary": "arXiv:2611.05450v1 Announce Type: new Abstract: As agents become more capable, they are moving beyond one-off tasks toward sustained assistance across successive user goals. Such assistance requires …",
+   "category": "研究論文",
+   "score": 36.9,
+   "published_at": "2026-11-05T05:00:00+00:00",
+   "sources": [
+    {
+     "name": "arXiv cs.AI",
+     "url": "https://arxiv.org/abs/2611.05450"
+    }
+   ],
+   "primary_url": "https://arxiv.org/abs/2611.05450"
+  },
+  {
+   "id": "44c502b5b8c2",
+   "title": "Can Large Language Models Review the Scientific Literature? A Test Against a 102-Article Benchmark",
+   "summary": "arXiv:2611.05459v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly used to support scientific literature reviews, yet evaluations often examine individual tasks rather than…",
+   "category": "研究論文",
+   "score": 36.9,
+   "published_at": "2026-11-05T05:00:00+00:00",
+   "sources": [
+    {
+     "name": "arXiv cs.AI",
+     "url": "https://arxiv.org/abs/2611.05459"
+    }
+   ],
+   "primary_url": "https://arxiv.org/abs/2611.05459"
+  },
+  {
+   "id": "6dff36cc3f64",
+   "title": "SlackBench: Benchmarking Agents on Collaborative Projects Grounded in Real Code Repositories",
+   "summary": "arXiv:2611.05512v1 Announce Type: new Abstract: AI Agents are becoming digital coworkers that can browse the web, write code, run experiments, and assist humans over extended horizons. Yet existing b…",
+   "category": "研究論文",
+   "score": 36.9,
+   "published_at": "2026-11-05T05:00:00+00:00",
+   "sources": [
+    {
+     "name": "arXiv cs.AI",
+     "url": "https://arxiv.org/abs/2611.05512"
+    }
+   ],
+   "primary_url": "https://arxiv.org/abs/2611.05512"
+  },
+  {
+   "id": "3f8a2f6841b1",
+   "title": "MA-SafeDiffuser: Safe Multi-Agent Planning with Diffusion Probabilistic Models",
+   "summary": "arXiv:2611.05524v1 Announce Type: new Abstract: We propose MA-SafeDiffuser, a multi-agent extension of SafeDiffuser that equips diffusion-based trajectory planners with finite-time diffusion invarian…",
+   "category": "研究論文",
+   "score": 36.9,
+   "published_at": "2026-11-05T05:00:00+00:00",
+   "sources": [
+    {
+     "name": "arXiv cs.AI",
+     "url": "https://arxiv.org/abs/2611.05524"
+    }
+   ],
+   "primary_url": "https://arxiv.org/abs/2611.05524"
+  },
+  {
+   "id": "efb108086e43",
+   "title": "Towards Efficient Whole Page Ranking with One-Pass Inference",
+   "summary": "arXiv:2611.05542v1 Announce Type: new Abstract: Whole-page ranking jointly optimizes advertisements and organic content to balance business outcomes and user engagement under complex layout and busin…",
+   "category": "研究論文",
+   "score": 36.9,
+   "published_at": "2026-11-05T05:00:00+00:00",
+   "sources": [
+    {
+     "name": "arXiv cs.AI",
+     "url": "https://arxiv.org/abs/2611.05542"
+    }
+   ],
+   "primary_url": "https://arxiv.org/abs/2611.05542"
+  },
+  {
+   "id": "dc598c7989b6",
+   "title": "Iterated creation, grading, and revision of data science projects by language models",
+   "summary": "arXiv:2611.05548v1 Announce Type: new Abstract: We evaluate the extent to which agentic AI models can complete an end-to-end data science project, and how this improves with feedback. A 'writer' mode…",
+   "category": "研究論文",
+   "score": 36.9,
+   "published_at": "2026-11-05T05:00:00+00:00",
+   "sources": [
+    {
+     "name": "arXiv cs.AI",
+     "url": "https://arxiv.org/abs/2611.05548"
+    }
+   ],
+   "primary_url": "https://arxiv.org/abs/2611.05548"
+  },
+  {
+   "id": "9a871bca0a7d",
+   "title": "Whose Transparency is it Anyway? Understanding Generative AI Transparency Needs and Gaps Across Stakeholders",
+   "summary": "arXiv:2611.05549v1 Announce Type: new Abstract: Transparency has become a central principle in AI governance, yet there is little agreement about what transparency means, for whom, and in what contex…",
+   "category": "研究論文",
+   "score": 36.9,
+   "published_at": "2026-11-05T05:00:00+00:00",
+   "sources": [
+    {
+     "name": "arXiv cs.AI",
+     "url": "https://arxiv.org/abs/2611.05549"
+    }
+   ],
+   "primary_url": "https://arxiv.org/abs/2611.05549"
+  },
+  {
+   "id": "4366c3212738",
+   "title": "VirtualTrialHarness: Coordinating Agentic Operationalization of Virtual Trial Protocols Across Complex Clinical Schemas",
+   "summary": "arXiv:2611.05551v1 Announce Type: new Abstract: Virtual trials use routinely collected clinical data to evaluate treatment strategies, but translating a study protocol into an executable analysis req…",
+   "category": "研究論文",
+   "score": 36.9,
+   "published_at": "2026-11-05T05:00:00+00:00",
+   "sources": [
+    {
+     "name": "arXiv cs.AI",
+     "url": "https://arxiv.org/abs/2611.05551"
+    }
+   ],
+   "primary_url": "https://arxiv.org/abs/2611.05551"
+  },
+  {
+   "id": "308acf2e109e",
+   "title": "AGORA: Reliability-Aware Aggregation of LLM Judges via Item-Response Theory",
+   "summary": "arXiv:2611.05556v1 Announce Type: new Abstract: LLM-as-a-judge is a common substitute for costly human evaluation, and aggregating several judges is the standard remedy for any single judge's bias. J…",
+   "category": "研究論文",
+   "score": 36.9,
+   "published_at": "2026-11-05T05:00:00+00:00",
+   "sources": [
+    {
+     "name": "arXiv cs.AI",
+     "url": "https://arxiv.org/abs/2611.05556"
+    }
+   ],
+   "primary_url": "https://arxiv.org/abs/2611.05556"
+  },
+  {
+   "id": "d58d70afabeb",
+   "title": "BrainBind: Bridging Synchronized EEG and fMRI through Long-Form Naturalistic Video Representations",
+   "summary": "arXiv:2611.05581v1 Announce Type: new Abstract: Real-world vision is dynamic and scene-rich, while EEG and fMRI resolve it at complementary temporal and spatial scales. Most neural decoding systems, …",
+   "category": "研究論文",
+   "score": 36.9,
+   "published_at": "2026-11-05T05:00:00+00:00",
+   "sources": [
+    {
+     "name": "arXiv cs.AI",
+     "url": "https://arxiv.org/abs/2611.05581"
+    }
+   ],
+   "primary_url": "https://arxiv.org/abs/2611.05581"
+  },
+  {
+   "id": "14cfbfdd06eb",
+   "title": "Anduin: A sybil-resistant agentic marketplace reputation system",
+   "summary": "arXiv:2611.05586v1 Announce Type: new Abstract: As autonomous AI agents enter permissionless onchain markets, selecting new service providers remains a core challenge. Existing reputation systems dep…",
+   "category": "研究論文",
+   "score": 36.9,
+   "published_at": "2026-11-05T05:00:00+00:00",
+   "sources": [
+    {
+     "name": "arXiv cs.AI",
+     "url": "https://arxiv.org/abs/2611.05586"
+    }
+   ],
+   "primary_url": "https://arxiv.org/abs/2611.05586"
+  },
+  {
+   "id": "236dd2feff5d",
+   "title": "Verified but Vacuous: Three Failure Surfaces of LLM-Driven Verified Code Generation",
+   "summary": "arXiv:2611.05590v1 Announce Type: new Abstract: What should ``verified'' mean when evaluating LLM-generated code? Many existing pipelines report a single verification number. We argue this collapses …",
+   "category": "研究論文",
+   "score": 36.9,
+   "published_at": "2026-11-05T05:00:00+00:00",
+   "sources": [
+    {
+     "name": "arXiv cs.AI",
+     "url": "https://arxiv.org/abs/2611.05590"
+    }
+   ],
+   "primary_url": "https://arxiv.org/abs/2611.05590"
+  },
+  {
+   "id": "f1f285c73d37",
+   "title": "Hybrid Spark: Adaptive Speculative Decoding That Lets the Content Choose the Drafter",
+   "summary": "arXiv:2611.05611v1 Announce Type: new Abstract: Speculative decoding (SD) speeds up large language model (LLM) serving, but its gain depends on the workload's \\emph{shape}, such as batch size and con…",
+   "category": "研究論文",
+   "score": 36.9,
+   "published_at": "2026-11-05T05:00:00+00:00",
+   "sources": [
+    {
+     "name": "arXiv cs.AI",
+     "url": "https://arxiv.org/abs/2611.05611"
+    }
+   ],
+   "primary_url": "https://arxiv.org/abs/2611.05611"
+  },
+  {
+   "id": "ffc8443d0ba5",
+   "title": "ViBench 2.0: A Benchmark for Long-Horizon Software Building",
+   "summary": "arXiv:2611.05620v1 Announce Type: new Abstract: On Replit, our agentic engineering platform, users now build entire products without writing code, through successive feature requests to an agent. Yet…",
+   "category": "研究論文",
+   "score": 36.9,
+   "published_at": "2026-11-05T05:00:00+00:00",
+   "sources": [
+    {
+     "name": "arXiv cs.AI",
+     "url": "https://arxiv.org/abs/2611.05620"
+    }
+   ],
+   "primary_url": "https://arxiv.org/abs/2611.05620"
+  }
+ ],
+ "categories": {
+  "模型發布": [
+   {
+    "id": "9b0f1b3870f8",
+    "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
+    "summary": "",
+    "category": "模型發布",
+    "score": 46.2,
+    "published_at": "2026-11-03T17:40:00+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50355251"
+     }
+    ],
+    "primary_url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/"
+   },
+   {
+    "id": "75679f5aa60b",
+    "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+    "summary": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
+    "category": "模型發布",
+    "score": 45.7,
+    "published_at": "2026-11-04T07:00:00+00:00",
+    "sources": [
+     {
+      "name": "OpenAI",
+      "url": "https://openai.com/index/daybreak-red-aws-govcloud"
+     }
+    ],
+    "primary_url": "https://openai.com/index/daybreak-red-aws-govcloud"
+   },
+   {
+    "id": "bf25be8f8779",
+    "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
+    "summary": "DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service.",
+    "category": "模型發布",
+    "score": 42.8,
+    "published_at": "2026-11-04T00:00:00+00:00",
+    "sources": [
+     {
+      "name": "OpenAI",
+      "url": "https://openai.com/index/devrev-enterprise-self-service"
+     }
+    ],
+    "primary_url": "https://openai.com/index/devrev-enterprise-self-service"
+   }
+  ],
+  "產品與工具": [
+   {
+    "id": "da9a5824109f",
+    "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
+    "summary": "",
+    "category": "產品與工具",
+    "score": 48.0,
+    "published_at": "2026-11-03T17:22:37+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://github.com/postmanlabs/postman-app-support/issues/14370"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50354960"
+     }
+    ],
+    "primary_url": "https://github.com/postmanlabs/postman-app-support/issues/14370"
+   },
+   {
+    "id": "94c502abbc46",
+    "title": "Almost no one uses AI agents to book their Uber, company says",
+    "summary": "During its busiest week last quarter, Uber said only four people booked a ride using an AI agent.",
+    "category": "產品與工具",
+    "score": 45.9,
+    "published_at": "2026-11-04T21:56:01+00:00",
+    "sources": [
+     {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/"
+     }
+    ],
+    "primary_url": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/"
+   },
+   {
+    "id": "cb762b7ed208",
+    "title": "Gemini for Home now plugs into AT&#038;T’s smart security system",
+    "summary": "AT&T's smart home security system now integrates with Gemini for Home. The company says its Connected Life system is the \"first\" home security product to integrate with Google Home Premium, enabling …",
+    "category": "產品與工具",
+    "score": 45.3,
+    "published_at": "2026-11-04T20:23:24+00:00",
+    "sources": [
+     {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system"
+     }
+    ],
+    "primary_url": "https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system"
+   },
+   {
+    "id": "42af486580e7",
+    "title": "Nothing teases a screen-free AI device ahead of launch next month",
+    "summary": "Nothing CEO Carl Pei said in a post on X that the company's launching its first AI device in December. That's just a little over a year after Pei announced plans for \"AI-native\" devices and an AI ope…",
+    "category": "產品與工具",
+    "score": 44.5,
+    "published_at": "2026-11-04T18:26:07+00:00",
+    "sources": [
+     {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei"
+     }
+    ],
+    "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei"
+   },
+   {
+    "id": "0ded2053c0de",
+    "title": "ChatGPT will now make you animated GIFs",
+    "summary": "ChatGPT can now create GIFs using a prompt or a photo uploaded to the AI chatbot. The update, which is rolling out alongside OpenAI's new Images 2.6 model, allows you to adjust the GIF's animation sp…",
+    "category": "產品與工具",
+    "score": 44.3,
+    "published_at": "2026-11-04T18:00:00+00:00",
+    "sources": [
+     {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6"
+     }
+    ],
+    "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6"
+   },
+   {
+    "id": "0a437d67f2ef",
+    "title": "Introducing Images 2.6",
+    "summary": "Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API.",
+    "category": "產品與工具",
+    "score": 42.8,
+    "published_at": "2026-11-04T00:00:00+00:00",
+    "sources": [
+     {
+      "name": "OpenAI",
+      "url": "https://openai.com/index/introducing-images-2-6"
+     }
+    ],
+    "primary_url": "https://openai.com/index/introducing-images-2-6"
+   },
+   {
+    "id": "416b7eba9f32",
+    "title": "Securing the agentic enterprise with data lineage",
+    "summary": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output look…",
+    "category": "產品與工具",
+    "score": 42.2,
+    "published_at": "2026-11-04T13:00:00+00:00",
+    "sources": [
+     {
+      "name": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/"
+     }
+    ],
+    "primary_url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/"
+   }
+  ],
+  "研究論文": [
+   {
+    "id": "f07a268d849a",
+    "title": "Who May Overrule the Agent? Evidence-Gated Authority in LLM Review Institutions",
+    "summary": "arXiv:2611.05390v1 Announce Type: new Abstract: Multi-agent language-model systems often add a reviewer to improve an upstream agent's decision. Yet a reviewer can both repair errors and replace deci…",
+    "category": "研究論文",
+    "score": 36.9,
+    "published_at": "2026-11-05T05:00:00+00:00",
+    "sources": [
+     {
+      "name": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2611.05390"
+     }
+    ],
+    "primary_url": "https://arxiv.org/abs/2611.05390"
+   },
+   {
+    "id": "4aed649a245d",
+    "title": "Agent Harness Awareness: Turning Verified Telemetry into Operational Control for Tool-Using Agents",
+    "summary": "arXiv:2611.05391v1 Announce Type: new Abstract: Tool descriptions tell an agent what an action can do, but they do not necessarily reveal whether that action is healthy or suitable at the moment of u…",
+    "category": "研究論文",
+    "score": 36.9,
+    "published_at": "2026-11-05T05:00:00+00:00",
+    "sources": [
+     {
+      "name": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2611.05391"
+     }
+    ],
+    "primary_url": "https://arxiv.org/abs/2611.05391"
+   },
+   {
+    "id": "473a023bdb2d",
+    "title": "Uncertainty-Aware Resource Orchestration for Agentic AI Systems",
+    "summary": "arXiv:2611.05392v1 Announce Type: new Abstract: Agentic artificial intelligence (AI) systems powered by large language models (LLMs) execute as autonomous multi-step pipelines that dynamically invoke…",
+    "category": "研究論文",
+    "score": 36.9,
+    "published_at": "2026-11-05T05:00:00+00:00",
+    "sources": [
+     {
+      "name": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2611.05392"
+     }
+    ],
+    "primary_url": "https://arxiv.org/abs/2611.05392"
+   },
+   {
+    "id": "f25d819b9d43",
+    "title": "Challenge-Aware Knowledge Recruitment with Meta-Agent Supervision for Medical Multi-Agent Reasoning",
+    "summary": "arXiv:2611.05393v1 Announce Type: new Abstract: Large language models perform strongly on standard medical QA but degrade on harder reasoning tasks, where multi-agent debate often fails to beat stron…",
+    "category": "研究論文",
+    "score": 36.9,
+    "published_at": "2026-11-05T05:00:00+00:00",
+    "sources": [
+     {
+      "name": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2611.05393"
+     }
+    ],
+    "primary_url": "https://arxiv.org/abs/2611.05393"
+   },
+   {
+    "id": "eb4d7e0e310e",
+    "title": "A Feasibility Condition for Confidence-Gated Tiered LLM Inference",
+    "summary": "arXiv:2611.05394v1 Announce Type: new Abstract: Tiered inference distributes large language model computation across a hierarchy of devices, from on-device and edge hardware to the datacenter, and is…",
+    "category": "研究論文",
+    "score": 36.9,
+    "published_at": "2026-11-05T05:00:00+00:00",
+    "sources": [
+     {
+      "name": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2611.05394"
+     }
+    ],
+    "primary_url": "https://arxiv.org/abs/2611.05394"
+   },
+   {
+    "id": "d44a1ccba374",
+    "title": "Towards Robust Long-Lived Agents: Benchmarking Experience Lifecycles in Evolving Environments",
+    "summary": "arXiv:2611.05450v1 Announce Type: new Abstract: As agents become more capable, they are moving beyond one-off tasks toward sustained assistance across successive user goals. Such assistance requires …",
+    "category": "研究論文",
+    "score": 36.9,
+    "published_at": "2026-11-05T05:00:00+00:00",
+    "sources": [
+     {
+      "name": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2611.05450"
+     }
+    ],
+    "primary_url": "https://arxiv.org/abs/2611.05450"
+   },
+   {
+    "id": "44c502b5b8c2",
+    "title": "Can Large Language Models Review the Scientific Literature? A Test Against a 102-Article Benchmark",
+    "summary": "arXiv:2611.05459v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly used to support scientific literature reviews, yet evaluations often examine individual tasks rather than…",
+    "category": "研究論文",
+    "score": 36.9,
+    "published_at": "2026-11-05T05:00:00+00:00",
+    "sources": [
+     {
+      "name": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2611.05459"
+     }
+    ],
+    "primary_url": "https://arxiv.org/abs/2611.05459"
+   },
+   {
+    "id": "6dff36cc3f64",
+    "title": "SlackBench: Benchmarking Agents on Collaborative Projects Grounded in Real Code Repositories",
+    "summary": "arXiv:2611.05512v1 Announce Type: new Abstract: AI Agents are becoming digital coworkers that can browse the web, write code, run experiments, and assist humans over extended horizons. Yet existing b…",
+    "category": "研究論文",
+    "score": 36.9,
+    "published_at": "2026-11-05T05:00:00+00:00",
+    "sources": [
+     {
+      "name": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2611.05512"
+     }
+    ],
+    "primary_url": "https://arxiv.org/abs/2611.05512"
+   },
+   {
+    "id": "3f8a2f6841b1",
+    "title": "MA-SafeDiffuser: Safe Multi-Agent Planning with Diffusion Probabilistic Models",
+    "summary": "arXiv:2611.05524v1 Announce Type: new Abstract: We propose MA-SafeDiffuser, a multi-agent extension of SafeDiffuser that equips diffusion-based trajectory planners with finite-time diffusion invarian…",
+    "category": "研究論文",
+    "score": 36.9,
+    "published_at": "2026-11-05T05:00:00+00:00",
+    "sources": [
+     {
+      "name": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2611.05524"
+     }
+    ],
+    "primary_url": "https://arxiv.org/abs/2611.05524"
+   },
+   {
+    "id": "efb108086e43",
+    "title": "Towards Efficient Whole Page Ranking with One-Pass Inference",
+    "summary": "arXiv:2611.05542v1 Announce Type: new Abstract: Whole-page ranking jointly optimizes advertisements and organic content to balance business outcomes and user engagement under complex layout and busin…",
+    "category": "研究論文",
+    "score": 36.9,
+    "published_at": "2026-11-05T05:00:00+00:00",
+    "sources": [
+     {
+      "name": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2611.05542"
+     }
+    ],
+    "primary_url": "https://arxiv.org/abs/2611.05542"
+   }
+  ],
+  "開源專案": [
+   {
+    "id": "7838c87736f9",
+    "title": "Kimi K3.1 Pro model weights are out",
+    "summary": "",
+    "category": "開源專案",
+    "score": 62.5,
+    "published_at": "2026-11-04T15:30:30+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50366999"
+     }
+    ],
+    "primary_url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro"
+   },
+   {
+    "id": "96eddcc208ed",
+    "title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
+    "summary": "",
+    "category": "開源專案",
+    "score": 54.1,
+    "published_at": "2026-11-04T18:53:29+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://www.ricursive.com/ripple"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50369925"
+     }
+    ],
+    "primary_url": "https://www.ricursive.com/ripple"
+   },
+   {
+    "id": "40b1bb8d3105",
+    "title": "vercel-labs/agent-desktop: Computer use CLI for AI agents",
+    "summary": "Computer use CLI for AI agents",
+    "category": "開源專案",
+    "score": 54.0,
+    "published_at": "2026-11-05T07:41:02.779052+00:00",
+    "sources": [
+     {
+      "name": "GitHub Trending",
+      "url": "https://github.com/vercel-labs/agent-desktop"
+     }
+    ],
+    "primary_url": "https://github.com/vercel-labs/agent-desktop"
+   },
+   {
+    "id": "110f8b3466ee",
+    "title": "nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
+    "summary": "",
+    "category": "開源專案",
+    "score": 54.0,
+    "published_at": "2026-11-05T07:41:02.779052+00:00",
+    "sources": [
+     {
+      "name": "Hugging Face Trending",
+      "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B"
+     }
+    ],
+    "primary_url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B"
+   },
+   {
+    "id": "8ac198972094",
+    "title": "NVIDIA/auto-ontology: Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
+    "summary": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM…",
+    "category": "開源專案",
+    "score": 53.5,
+    "published_at": "2026-11-05T07:41:02.779052+00:00",
+    "sources": [
+     {
+      "name": "GitHub Trending",
+      "url": "https://github.com/NVIDIA/auto-ontology"
+     }
+    ],
+    "primary_url": "https://github.com/NVIDIA/auto-ontology"
+   },
+   {
+    "id": "46e307363c08",
+    "title": "speridlabs/idol",
+    "summary": "",
+    "category": "開源專案",
+    "score": 53.2,
+    "published_at": "2026-11-05T07:41:02.779052+00:00",
+    "sources": [
+     {
+      "name": "Hugging Face Trending",
+      "url": "https://huggingface.co/speridlabs/idol"
+     }
+    ],
+    "primary_url": "https://huggingface.co/speridlabs/idol"
+   },
+   {
+    "id": "9b13d6a721a0",
+    "title": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+    "summary": "",
+    "category": "開源專案",
+    "score": 53.1,
+    "published_at": "2026-11-05T07:41:02.779052+00:00",
+    "sources": [
+     {
+      "name": "Hugging Face Trending",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017"
+     }
+    ],
+    "primary_url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017"
+   },
+   {
+    "id": "014576526a4d",
+    "title": "mistralai/Mistral-Large-4-1T-A52B",
+    "summary": "",
+    "category": "開源專案",
+    "score": 52.9,
+    "published_at": "2026-11-05T07:41:02.779052+00:00",
+    "sources": [
+     {
+      "name": "Hugging Face Trending",
+      "url": "https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B"
+     }
+    ],
+    "primary_url": "https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B"
+   },
+   {
+    "id": "11144fe59342",
+    "title": "LiquidAI/LFM3-1.7B",
+    "summary": "",
+    "category": "開源專案",
+    "score": 52.9,
+    "published_at": "2026-11-05T07:41:02.779052+00:00",
+    "sources": [
+     {
+      "name": "Hugging Face Trending",
+      "url": "https://huggingface.co/LiquidAI/LFM3-1.7B"
+     }
+    ],
+    "primary_url": "https://huggingface.co/LiquidAI/LFM3-1.7B"
+   },
+   {
+    "id": "b8da10635efb",
+    "title": "thedotmack/claude-mem: Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+    "summary": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Cla…",
+    "category": "開源專案",
+    "score": 52.1,
+    "published_at": "2026-11-05T07:41:02.779052+00:00",
+    "sources": [
+     {
+      "name": "GitHub Trending",
+      "url": "https://github.com/thedotmack/claude-mem"
+     }
+    ],
+    "primary_url": "https://github.com/thedotmack/claude-mem"
+   }
+  ],
+  "產業與投資": [
+   {
+    "id": "3a06f84c0f51",
+    "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+    "summary": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
+    "category": "產業與投資",
+    "score": 69.7,
+    "published_at": "2026-11-04T14:30:00+00:00",
+    "sources": [
+     {
+      "name": "OpenAI",
+      "url": "https://openai.com/index/openai-to-acquire-pierre"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50366863"
+     }
+    ],
+    "primary_url": "https://openai.com/index/openai-to-acquire-pierre"
+   },
+   {
+    "id": "68c44263a0af",
+    "title": "AI is forcing us to pay off 40 years of technical debt",
+    "summary": "",
+    "category": "產業與投資",
+    "score": 55.1,
+    "published_at": "2026-11-04T11:52:17+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50364336"
+     }
+    ],
+    "primary_url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability"
+   },
+   {
+    "id": "aa3b92b87c68",
+    "title": "Apple is reportedly cutting budgets for its internal AI usage",
+    "summary": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams.",
+    "category": "產業與投資",
+    "score": 47.4,
+    "published_at": "2026-11-05T01:26:22+00:00",
+    "sources": [
+     {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/"
+     }
+    ],
+    "primary_url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/"
+   },
+   {
+    "id": "f3900be82c6f",
+    "title": "US tech giants' hidden AI debt swells 90% to $3.2T in 6 months",
+    "summary": "",
+    "category": "產業與投資",
+    "score": 46.2,
+    "published_at": "2026-11-03T21:26:44+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50358422"
+     }
+    ],
+    "primary_url": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months"
+   },
+   {
+    "id": "858a2ce3283f",
+    "title": "Nothing CEO says company’s mysterious AI-first device is dropping next month",
+    "summary": "While it's not yet clear what kind of product the smartphone startup is cooking up, Nothing's CEO said the product is designed to leverage AI for productivity gains.",
+    "category": "產業與投資",
+    "score": 46.1,
+    "published_at": "2026-11-04T22:13:16+00:00",
+    "sources": [
+     {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/"
+     }
+    ],
+    "primary_url": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/"
+   },
+   {
+    "id": "e5fe4bf1b72b",
+    "title": "17 better ways Elon Musk could have wasted $446 million",
+    "summary": "One of the basic problems of spending too much time on social media is that you are cooking your brain by reading posts from a pack of attention-seeking lunatics. If your social media of choice is th…",
+    "category": "產業與投資",
+    "score": 45.9,
+    "published_at": "2026-11-04T21:45:00+00:00",
+    "sources": [
+     {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1026878/not-even-good-at-being-rich"
+     }
+    ],
+    "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1026878/not-even-good-at-being-rich"
+   },
+   {
+    "id": "d23caa988630",
+    "title": "Meta acquires AI coding startup Conductor",
+    "summary": "The startup allows software engineers to deploy teams of agents to work on various aspects of a project simultaneously.",
+    "category": "產業與投資",
+    "score": 45.6,
+    "published_at": "2026-11-04T21:10:56+00:00",
+    "sources": [
+     {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/"
+     }
+    ],
+    "primary_url": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/"
+   },
+   {
+    "id": "228dcedd9b56",
+    "title": "OpenAI收購Pierre，擴充Codex程式碼管理與審查能力",
+    "summary": "新聞 OpenAI周三（11/4）宣布 ，將收購開發者工具新創Pierre Computer Company，整合Pierre的Git版本控制、程式碼儲存及審查技術，擴充Codex的軟體開發能力，雙方並未公開交易金額。美國科技媒體 Axios認為 ，這項收購顯示OpenAI正朝程式碼管理市場擴張，可能進一步挑戰微軟旗下GitHub的市場地位。 Pierre成立於2023年，由Bootstrap前…",
+    "category": "產業與投資",
+    "score": 43.2,
+    "published_at": "2026-11-05T05:45:01+00:00",
+    "sources": [
+     {
+      "name": "iThome",
+      "url": "https://www.ithome.com.tw/news/180257"
+     }
+    ],
+    "primary_url": "https://www.ithome.com.tw/news/180257"
+   },
+   {
+    "id": "595c3100a213",
+    "title": "Google hasn&#8217;t figured out how to make AI pay like its search engine",
+    "summary": "Search queries are growing at their fastest rate in five years, Google parent Alphabet said in its earnings report last week. However, Google's Search revenue growth slowed to 12 percent year over ye…",
+    "category": "產業與投資",
+    "score": 41.8,
+    "published_at": "2026-11-04T12:00:00+00:00",
+    "sources": [
+     {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3"
+     }
+    ],
+    "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3"
+   },
+   {
+    "id": "e2bf3d72acd9",
+    "title": "How NVIDIA Factory Operations Blueprint Coordinates AI Agents to Investigate Production Issues",
+    "summary": "A Siemens report estimates that unplanned downtime costs an average large plant in the surveyed sectors $253 million per year. Whether investigating a failed...",
+    "category": "產業與投資",
+    "score": 37.9,
+    "published_at": "2026-11-04T17:00:00+00:00",
+    "sources": [
+     {
+      "name": "NVIDIA Developer",
+      "url": "https://developer.nvidia.com/blog/how-nvidia-factory-operations-blueprint-coordinates-ai-agents-to-investigate-production-issues/"
+     }
+    ],
+    "primary_url": "https://developer.nvidia.com/blog/how-nvidia-factory-operations-blueprint-coordinates-ai-agents-to-investigate-production-issues/"
+   }
+  ],
+  "晶片與硬體": [
+   {
+    "id": "5ccdc48dfe6e",
+    "title": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
+    "summary": "",
+    "category": "晶片與硬體",
+    "score": 52.6,
+    "published_at": "2026-11-04T19:55:14+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50370654"
+     }
+    ],
+    "primary_url": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra"
+   },
+   {
+    "id": "771d04f9d142",
+    "title": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
+    "summary": "",
+    "category": "晶片與硬體",
+    "score": 52.0,
+    "published_at": "2026-11-04T08:46:29+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50362905"
+     }
+    ],
+    "primary_url": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop"
+   },
+   {
+    "id": "d93ef6b85a78",
+    "title": "After the midterms, a bigger clash over data centers could be coming",
+    "summary": "Data center opposition crossed party lines in Tuesday’s midterms.",
+    "category": "晶片與硬體",
+    "score": 47.2,
+    "published_at": "2026-11-05T01:02:14+00:00",
+    "sources": [
+     {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/"
+     }
+    ],
+    "primary_url": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/"
+   },
+   {
+    "id": "9237dfef9309",
+    "title": "Qualcomm is betting big on data centers as smartphone sales sink",
+    "summary": "With smartphone sales tanking by around 20 percent compared to 2025, Qualcomm is looking to data centers to help boost its bottom line. During its Q4 2026 earnings call, the company laid out its plan…",
+    "category": "晶片與硬體",
+    "score": 46.3,
+    "published_at": "2026-11-04T22:42:15+00:00",
+    "sources": [
+     {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers"
+     }
+    ],
+    "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers"
+   },
+   {
+    "id": "44e59e6a2681",
+    "title": "Big Tech claims voters’ AI backlash is “anti-Trump” not “anti-tech”",
+    "summary": "Tech industry in denial as US overwhelmingly votes to restrict AI, data centers.",
+    "category": "晶片與硬體",
+    "score": 45.5,
+    "published_at": "2026-11-04T20:55:50+00:00",
+    "sources": [
+     {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/11/big-tech-claims-voters-ai-backlash-is-anti-trump-not-anti-tech/"
+     }
+    ],
+    "primary_url": "https://arstechnica.com/tech-policy/2026/11/big-tech-claims-voters-ai-backlash-is-anti-trump-not-anti-tech/"
+   },
+   {
+    "id": "7aec60f41c48",
+    "title": "Data centers lost the midterms",
+    "summary": "Data center developers are poised to face a more restrictive building environment after voters across the country voted in candidates who favor moratoriums and ballot measures that put more obstacles…",
+    "category": "晶片與硬體",
+    "score": 43.5,
+    "published_at": "2026-11-04T16:05:39+00:00",
+    "sources": [
+     {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/policy/1026365/data-centers-midterms-results"
+     }
+    ],
+    "primary_url": "https://www.theverge.com/policy/1026365/data-centers-midterms-results"
+   },
+   {
+    "id": "3e934df74ee4",
+    "title": "美國期中選舉民主黨拿下國會，AI 資料中心股走跌、政治團體砸數百萬美元成敗互見",
+    "summary": "民主黨在美東時間 11 月 3 日（台北時間 11 月 4 日）的美國期中選舉拿下國會，隔天美股盤中 CoreWeave、Vistra 等資料中心與電力股走跌，亞馬遜、微軟各漲 6%，支持和反對 AI 產業的政治團體則砸下數百萬美元，結果成敗互見。",
+    "category": "晶片與硬體",
+    "score": 42.4,
+    "published_at": "2026-11-05T03:50:00+00:00",
+    "sources": [
+     {
+      "name": "INSIDE",
+      "url": "https://www.inside.com.tw/article/42826-us-midterms-ai-data-center-stocks-pacs"
+     }
+    ],
+    "primary_url": "https://www.inside.com.tw/article/42826-us-midterms-ai-data-center-stocks-pacs"
+   },
+   {
+    "id": "3d39bad411aa",
+    "title": "How NVIDIA Uses AI Agents to Streamline AI Factory Operations",
+    "summary": "As GPU clusters scale, operations span compute, network, hardware, and scheduling. Site reliability engineers (SREs) often have to examine multiple dashboards...",
+    "category": "晶片與硬體",
+    "score": 40.0,
+    "published_at": "2026-11-04T22:00:17+00:00",
+    "sources": [
+     {
+      "name": "NVIDIA Developer",
+      "url": "https://developer.nvidia.com/blog/how-nvidia-uses-ai-agents-to-streamline-ai-factory-operations/"
+     }
+    ],
+    "primary_url": "https://developer.nvidia.com/blog/how-nvidia-uses-ai-agents-to-streamline-ai-factory-operations/"
+   },
+   {
+    "id": "6d4f974c87b6",
+    "title": "NVIDIA CUDA 13.5 Brings NVIDIA Vera Rubin GA Support",
+    "summary": "As artificial intelligence and accelerated computing continue to push the boundaries of what's possible, the latest NVIDIA CUDA release arrives to unlock...",
+    "category": "晶片與硬體",
+    "score": 38.6,
+    "published_at": "2026-11-04T18:46:07+00:00",
+    "sources": [
+     {
+      "name": "NVIDIA Developer",
+      "url": "https://developer.nvidia.com/blog/nvidia-cuda-13-5-brings-nvidia-vera-rubin-ga-support/"
+     }
+    ],
+    "primary_url": "https://developer.nvidia.com/blog/nvidia-cuda-13-5-brings-nvidia-vera-rubin-ga-support/"
+   }
+  ],
+  "政策與法規": [
+   {
+    "id": "a331696f9782",
+    "title": "AI PACs spent millions trying to shape Congress — here’s how they fared",
+    "summary": "AI industry PACs spent millions influencing the 2026 midterms, with mixed results. Political groups are already looking toward the next election cycle.",
+    "category": "政策與法規",
+    "score": 46.3,
+    "published_at": "2026-11-04T22:45:09+00:00",
+    "sources": [
+     {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/"
+     }
+    ],
+    "primary_url": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/"
+   },
+   {
+    "id": "49cf82dfae35",
+    "title": "Open source AI is booming. Hugging Face explains who profits.",
+    "summary": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable mode…",
+    "category": "政策與法規",
+    "score": 44.9,
+    "published_at": "2026-11-04T19:30:04+00:00",
+    "sources": [
+     {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/"
+     }
+    ],
+    "primary_url": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/"
+   },
+   {
+    "id": "f1f26a9d7d87",
+    "title": "DuckDuckGo pitches itself to schools amid backlash over Google’s AI policy",
+    "summary": "DuckDuckGo is courting schools frustrated by Google's AI restrictions, pointing educators to its search engine and options to disable AI features.",
+    "category": "政策與法規",
+    "score": 44.9,
+    "published_at": "2026-11-04T19:29:52+00:00",
+    "sources": [
+     {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/"
+     }
+    ],
+    "primary_url": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/"
+   },
+   {
+    "id": "31bba1eca5b3",
+    "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
+    "summary": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech’s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat …",
+    "category": "政策與法規",
+    "score": 44.7,
+    "published_at": "2026-11-04T18:50:55+00:00",
+    "sources": [
+     {
+      "name": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/"
+     }
+    ],
+    "primary_url": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/"
+   },
+   {
+    "id": "bb779f39a67b",
+    "title": "Building on open source AI? Hugging Face’s policy chief on the costs, risks, and trade-offs",
+    "summary": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable mode…",
+    "category": "政策與法規",
+    "score": 44.6,
+    "published_at": "2026-11-04T18:44:57+00:00",
+    "sources": [
+     {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/podcast/building-on-open-source-ai-hugging-faces-policy-chief-on-the-costs-risks-and-trade-offs/"
+     }
+    ],
+    "primary_url": "https://techcrunch.com/podcast/building-on-open-source-ai-hugging-faces-policy-chief-on-the-costs-risks-and-trade-offs/"
+   },
+   {
+    "id": "ac5380eefb5a",
+    "title": "Google faces backlash for plan that would turn off Search for schools that restrict AI",
+    "summary": "Politicians on the left, like NYC mayor Zohran Mamdani and former FTC chair Lina Khan, accused Google of acting as an unregulated monopoly.",
+    "category": "政策與法規",
+    "score": 43.6,
+    "published_at": "2026-11-04T16:17:22+00:00",
+    "sources": [
+     {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/"
+     }
+    ],
+    "primary_url": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/"
+   },
+   {
+    "id": "490ea6a51331",
+    "title": "AI 自己造出更強的 AI？Anthropic 更新文件稱可能「即將」達到 AI 加速自身研發門檻",
+    "summary": "Anthropic 在 11 月 2 日公開的修訂版 S-1/A 中表示，內部估計顯示可能即將達到 RSP 對「AI 大幅加速進展」的定義，但尚未認定任何現有模型超標，並考慮更新政策確保人類掌控頂尖模型開發。",
+    "category": "政策與法規",
+    "score": 42.8,
+    "published_at": "2026-11-05T04:50:00+00:00",
+    "sources": [
+     {
+      "name": "INSIDE",
+      "url": "https://www.inside.com.tw/article/42811-anthropic-s1a-recursive-self-improvement-threshold-may-be-imminent"
+     }
+    ],
+    "primary_url": "https://www.inside.com.tw/article/42811-anthropic-s1a-recursive-self-improvement-threshold-may-be-imminent"
+   },
+   {
+    "id": "b27464f61d86",
+    "title": "OpenAI 全球事務長 Lehane 開出 2028 大選 5 道 AI 政策題，主張可關停系統、警告資料中心禁建恐失領先",
+    "summary": "OpenAI 全球事務長 Chris Lehane 在美國期中選舉隔天發表個人評論，向 2028 年總統候選人開出 5 道 AI 政策題，其中包括必要時要能限制或關停 AI 系統，也把民主黨初選上表態支持資料中心禁建，比作 2002 年的伊拉克戰爭投票。本文對照 Lehane 原文與 AI Now Institute 的批評，整理他在安全、稅制、勞工與資料中心上的主張。",
+    "category": "政策與法規",
+    "score": 42.7,
+    "published_at": "2026-11-05T04:32:00+00:00",
+    "sources": [
+     {
+      "name": "INSIDE",
+      "url": "https://www.inside.com.tw/article/42831-openai-lehane-2028-ai-election-essay"
+     }
+    ],
+    "primary_url": "https://www.inside.com.tw/article/42831-openai-lehane-2028-ai-election-essay"
+   }
+  ],
+  "應用案例": [
+   {
+    "id": "b450560162d2",
+    "title": "Google will turn off search for schools that reject AI",
+    "summary": "",
+    "category": "應用案例",
+    "score": 45.0,
+    "published_at": "2026-11-03T15:25:47+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50353192"
+     }
+    ],
+    "primary_url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html"
+   },
+   {
+    "id": "791ee444b64b",
+    "title": "Publication expectations for ML PhDs at top-10 US schools / top ML groups? [D]",
+    "summary": "From what I’ve read on Reddit so far, I’m getting the impression that around 4 first-author papers at top ML conferences (NeurIPS, ICML, ICLR, etc.) is a fairly standard expectation for graduating fr…",
+    "category": "應用案例",
+    "score": 37.7,
+    "published_at": "2026-11-05T06:56:48+00:00",
+    "sources": [
+     {
+      "name": "r/MachineLearning",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xoc358/publication_expectations_for_ml_phds_at_top10_us/"
+     }
+    ],
+    "primary_url": "https://www.reddit.com/r/MachineLearning/comments/1xoc358/publication_expectations_for_ml_phds_at_top10_us/"
+   }
+  ]
+ },
+ "source_list": [
+  {
+   "name": "OpenAI",
+   "url": "https://openai.com/news/rss.xml"
+  },
+  {
+   "name": "Anthropic",
+   "url": "https://www.anthropic.com/sitemap.xml"
+  },
+  {
+   "name": "Google DeepMind",
+   "url": "https://deepmind.google/blog/rss.xml"
+  },
+  {
+   "name": "Microsoft Research",
+   "url": "https://www.microsoft.com/en-us/research/feed/"
+  },
+  {
+   "name": "Hugging Face Blog",
+   "url": "https://huggingface.co/blog/feed.xml"
+  },
+  {
+   "name": "Mistral AI",
+   "url": "https://mistral.ai/rss.xml"
+  },
+  {
+   "name": "NVIDIA Blog",
+   "url": "https://blogs.nvidia.com/feed/"
+  },
+  {
+   "name": "NVIDIA Developer",
+   "url": "https://developer.nvidia.com/blog/feed"
+  },
+  {
+   "name": "TechCrunch",
+   "url": "https://techcrunch.com/category/artificial-intelligence/feed/"
+  },
+  {
+   "name": "The Verge",
+   "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml"
+  },
+  {
+   "name": "MIT Technology Review",
+   "url": "https://www.technologyreview.com/topic/artificial-intelligence/feed"
+  },
+  {
+   "name": "Ars Technica",
+   "url": "https://arstechnica.com/ai/feed/"
+  },
+  {
+   "name": "Hacker News",
+   "url": "https://hn.algolia.com/api/v1/search_by_date"
+  },
+  {
+   "name": "r/MachineLearning",
+   "url": "https://www.reddit.com/r/MachineLearning/top/.rss?t=day"
+  },
+  {
+   "name": "r/LocalLLaMA",
+   "url": "https://www.reddit.com/r/LocalLLaMA/top/.rss?t=day"
+  },
+  {
+   "name": "arXiv cs.AI",
+   "url": "https://rss.arxiv.org/rss/cs.AI"
+  },
+  {
+   "name": "arXiv cs.CL",
+   "url": "https://rss.arxiv.org/rss/cs.CL"
+  },
+  {
+   "name": "arXiv cs.LG",
+   "url": "https://rss.arxiv.org/rss/cs.LG"
+  },
+  {
+   "name": "arXiv cs.CV",
+   "url": "https://rss.arxiv.org/rss/cs.CV"
+  },
+  {
+   "name": "GitHub Trending",
+   "url": "https://github.com/trending?since=daily"
+  },
+  {
+   "name": "Hugging Face Trending",
+   "url": "https://huggingface.co/api/models?sort=trendingScore&limit=10"
+  },
+  {
+   "name": "iThome",
+   "url": "https://www.ithome.com.tw/rss.xml"
+  },
+  {
+   "name": "INSIDE",
+   "url": "https://www.inside.com.tw/feed/rss"
+  }
+ ],
+ "stats": {
+  "fetched": 209,
+  "after_dedup": 207,
+  "sources_ok": 22,
+  "sources_failed": 1,
+  "failed_sources": {
+   "r/LocalLLaMA": "HTTPError: 429 Client Error: Too Many Requests for url: https://www.reddit.com/r/LocalLLaMA/top/.rss?t=day"
+  },
+  "duration_s": 3.0
+ }
+}

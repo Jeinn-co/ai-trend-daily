@@ -29,15 +29,15 @@ assert 0 <= clusters[1]["score"] <= 100
 
 
 c = classify.classify
-assert c("Kimi K3.1 Pro model weights are out") == "開源"
-assert c("Anything at all, even agents", source_groups={"arXiv"}) == "創新"
-assert c("Critical CVE-2026-1234 in popular AI library") == "資安公佈"
+assert c("Kimi K3.1 Pro model weights are out") == "Open Source"
+assert c("Anything at all, even agents", source_groups={"arXiv"}) == "Innovation"
+assert c("Critical CVE-2026-1234 in popular AI library") == "Security"
 assert c("GitHub launches an MCP server registry") == "MCP"
-assert c("anthropics/skills: public repository for Agent Skills", source_groups={"GitHub Trending"}) == "技能"
-assert c("vercel-labs/agent-desktop: Computer use CLI for AI agents", source_groups={"GitHub Trending"}) == "AI Agent"
-assert c("someone/fast-tool: a CLI tool", source_groups={"GitHub Trending"}) == "開源"
-assert c("Google releases Gemini 4 Pro") == "創新"
-assert c("Hospital rolls out AI triage assistant") == "AI 應用"
+assert c("anthropics/skills: public repository for Agent Skills", source_groups={"GitHub Trending"}) == "Skills"
+assert c("vercel-labs/agent-desktop: Computer use CLI for AI agents", source_groups={"GitHub Trending"}) == "AI Agents"
+assert c("someone/fast-tool: a CLI tool", source_groups={"GitHub Trending"}) == "Open Source"
+assert c("Google releases Gemini 4 Pro") == "Innovation"
+assert c("Hospital rolls out AI triage assistant") == "AI Apps"
 assert c("EU lawmakers agree on AI Act changes") == classify.OTHER
 
 base = dict(primary_url="https://x.com/a", heat=[], undated=False, feed_summary="", sources=[], published=now)
@@ -48,7 +48,7 @@ cl = [
     dict(base, title_original="Nvidia news on HN", weight=3, groups={"Hacker News"}, heat_norm=1.0, score=58),
 ]
 h = classify.pick_highlights(cl)
-assert h["焦點"][0]["title_original"] == "OpenAI ships GPT-6"
-assert [c["title_original"] for c in h["黑馬"]] == ["Tiny startup's AI tool hits #1"]  # big names excluded
-assert [c["title_original"] for c in h["潛力"]] == ["someone/rising-repo"]
+assert h["Headlines"][0]["title_original"] == "OpenAI ships GPT-6"
+assert [c["title_original"] for c in h["Dark Horses"]] == ["Tiny startup's AI tool hits #1"]  # big names excluded
+assert [c["title_original"] for c in h["Rising"]] == ["someone/rising-repo"]
 print("ok")

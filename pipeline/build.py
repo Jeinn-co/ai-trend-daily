@@ -70,7 +70,7 @@ def run(out_dir="data", sources_path="sources.yaml"):
         "updated_at": now.isoformat(timespec="seconds"),
         "top10": public[:10],
         "all": public,
-        # 焦點 / 黑馬 / 潛力 are picked from every story of the run, not only the top 100
+        # Headlines / Dark Horses / Rising are picked from every story of the run, not only the top 100
         "highlights": {h: [to_public(c) for c in highlights[h]] for h in HIGHLIGHTS},
         "categories": {cat: [p for p in public if p["category"] == cat][:10] for cat in CATEGORIES},
         # every source this site draws from, for the attribution list in the footer

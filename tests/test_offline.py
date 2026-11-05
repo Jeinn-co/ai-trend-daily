@@ -29,12 +29,26 @@ assert 0 <= clusters[1]["score"] <= 100
 
 
 c = classify.classify
-assert c("OpenAI to acquire Pierre Computer Company, Inc.") == "產業與投資"
-assert c("Kimi K3.1 Pro model weights are out") == "開源專案"
-assert c("Anything at all", source_groups={"arXiv"}) == "研究論文"
-assert c("Nvidia unveils new data center GPU") == "晶片與硬體"
-assert c("EU lawmakers agree on AI Act changes") == "政策與法規"
-assert c("Google releases Gemini 4 Pro") == "模型發布"
-assert c("輝達發表新晶片") == "晶片與硬體"
-assert c("A quiet afternoon") == classify.OTHER
+assert c("Kimi K3.1 Pro model weights are out") == "開源"
+assert c("Anything at all, even agents", source_groups={"arXiv"}) == "創新"
+assert c("Critical CVE-2026-1234 in popular AI library") == "資安公佈"
+assert c("GitHub launches an MCP server registry") == "MCP"
+assert c("anthropics/skills: public repository for Agent Skills", source_groups={"GitHub Trending"}) == "技能"
+assert c("vercel-labs/agent-desktop: Computer use CLI for AI agents", source_groups={"GitHub Trending"}) == "AI Agent"
+assert c("someone/fast-tool: a CLI tool", source_groups={"GitHub Trending"}) == "開源"
+assert c("Google releases Gemini 4 Pro") == "創新"
+assert c("Hospital rolls out AI triage assistant") == "AI 應用"
+assert c("EU lawmakers agree on AI Act changes") == classify.OTHER
+
+base = dict(primary_url="https://x.com/a", heat=[], undated=False, feed_summary="", sources=[], published=now)
+cl = [
+    dict(base, title_original="OpenAI ships GPT-6", weight=5, groups={"OpenAI"}, heat_norm=0.0, score=90),
+    dict(base, title_original="Tiny startup's AI tool hits #1", weight=3, groups={"Hacker News"}, heat_norm=0.9, score=60),
+    dict(base, title_original="someone/rising-repo", weight=3, groups={"GitHub Trending"}, heat_norm=0.8, score=55),
+    dict(base, title_original="Nvidia news on HN", weight=3, groups={"Hacker News"}, heat_norm=1.0, score=58),
+]
+h = classify.pick_highlights(cl)
+assert h["焦點"][0]["title_original"] == "OpenAI ships GPT-6"
+assert [c["title_original"] for c in h["黑馬"]] == ["Tiny startup's AI tool hits #1"]  # big names excluded
+assert [c["title_original"] for c in h["潛力"]] == ["someone/rising-repo"]
 print("ok")

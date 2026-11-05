@@ -14,7 +14,7 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 from .fetch import fetch_all, load_sources
-from .classify import CATEGORIES, classify
+from .classify import CATEGORIES, HIGHLIGHTS, classify, pick_highlights
 from .rank import cluster, score
 
 log = logging.getLogger("pipeline")
@@ -61,14 +61,17 @@ def run(out_dir="data", sources_path="sources.yaml"):
     top = clusters[:TOP_N]
     if len(top) < MIN_ITEMS:
         raise RuntimeError(f"only {len(top)} stories selected; keeping the previous latest.json")
-    for c in top:
+    for c in clusters:
         c["category"] = classify(c["title_original"], c["feed_summary"], c["groups"])
+    highlights = pick_highlights(clusters)
 
     public = [to_public(c) for c in top]
     data = {
         "updated_at": now.isoformat(timespec="seconds"),
         "top10": public[:10],
         "all": public,
+        # 焦點 / 黑馬 / 潛力 are picked from every story of the run, not only the top 100
+        "highlights": {h: [to_public(c) for c in highlights[h]] for h in HIGHLIGHTS},
         "categories": {cat: [p for p in public if p["category"] == cat][:10] for cat in CATEGORIES},
         # every source this site draws from, for the attribution list in the footer
         "source_list": [{"name": s["name"], "url": s["url"]} for s in sources],

@@ -129,9 +129,11 @@
     </div>
 
     <script>
-      const CATEGORIES = ["模型發布", "產品與工具", "研究論文", "開源專案", "產業與投資", "晶片與硬體", "政策與法規", "應用案例"];
+      const HIGHLIGHTS = ["焦點", "黑馬", "潛力"];
+      const CATEGORIES = ["AI Agent", "AI 應用", "技能", "MCP", "開源", "創新", "資安公佈", "其它"];
       const $ = (id) => document.getElementById(id);
-      const state = { data: null, tab: "all", expanded: false, q: "" };
+      const state = { data: null, tab: "焦點", expanded: false, q: "" };
+      const listFor = (tab) => (state.data.highlights || {})[tab] || state.data.categories[tab] || [];
 
       const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" })[c]);
       const safeUrl = (u) => (/^https?:\/\//i.test(u || "") ? esc(u) : "#");
@@ -172,7 +174,7 @@
 
       function renderTabs() {
         const d = state.data;
-        const tabs = [["all", "綜合", d.top10.length], ...CATEGORIES.map((c) => [c, c, (d.categories[c] || []).length])];
+        const tabs = [...HIGHLIGHTS, ...CATEGORIES].map((t) => [t, t, listFor(t).length]);
         $("tabs").innerHTML = tabs
           .map(([id, label, n]) => `<button class="tab" role="tab" data-tab="${esc(id)}" aria-selected="${id === state.tab}">${esc(label)}<span class="n mono">${n}</span></button>`)
           .join("");
@@ -181,15 +183,15 @@
       function renderView() {
         const d = state.data;
         let html;
-        if (state.tab === "all" && state.expanded) {
+        if (state.tab === "焦點" && state.expanded) {
           const list = d.all.map((it, i) => [it, i + 1]).filter(([it]) => matches(it));
           html = list.length ? `<ol class="list">${list.map(([it, r]) => row(it, r)).join("")}</ol>` : "";
-          html += `<button class="btn more" type="button" data-action="collapse">收合為 Top 10</button>`;
+          html += `<button class="btn more" type="button" data-action="collapse">收合為焦點 Top 10</button>`;
         } else {
-          const base = state.tab === "all" ? d.top10 : d.categories[state.tab] || [];
+          const base = listFor(state.tab);
           const list = base.map((it, i) => [it, i + 1]).filter(([it]) => matches(it));
           html = list.length ? `<div class="cards">${list.map(([it, r]) => card(it, r)).join("")}</div>` : "";
-          if (state.tab === "all") html += `<button class="btn more" type="button" data-action="expand">展開全部 ${d.all.length} 則</button>`;
+          if (state.tab === "焦點") html += `<button class="btn more" type="button" data-action="expand">展開全部 ${d.all.length} 則（依分數）</button>`;
         }
         $("view").innerHTML = html.startsWith("<button") || !html ? `<p class="empty">${state.q ? "沒有符合的結果" : "這個分類目前沒有新聞"}</p>${html}` : html;
       }
@@ -251,7 +253,7 @@
 
       const root = document.documentElement;
       const saved = localStorage.getItem("theme");
-      root.dataset.theme = saved || (matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light");
+      root.dataset.theme = saved || "light";
       $("theme").addEventListener("click", () => {
         root.dataset.theme = root.dataset.theme === "dark" ? "light" : "dark";
         localStorage.setItem("theme", root.dataset.theme);

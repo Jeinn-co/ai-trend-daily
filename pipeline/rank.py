@@ -97,6 +97,7 @@ def score(clusters, now):
         # trending lists carry no publish date, so they get a neutral recency instead of a perfect one
         recency = 0.5 if c["undated"] else max(0.0, 1 - age_h / window_h)
         heat = max((math.log1p(v) / math.log1p(top[k]) for k, v in c["heat"] if top.get(k)), default=0.0)
+        c["heat_norm"] = heat
         c["score"] = round(100 * (0.3 * weight + 0.3 * coverage + 0.2 * recency + 0.2 * heat), 1)
     clusters.sort(key=lambda c: c["score"], reverse=True)
     return clusters

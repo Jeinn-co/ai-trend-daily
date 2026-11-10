@@ -1,0 +1,3161 @@
+{
+ "updated_at": "2026-11-10T14:11:13+00:00",
+ "top10": [
+  {
+   "id": "534e23320d33",
+   "title": "AI usage generates a fragile codebase",
+   "summary": "",
+   "category": "Other",
+   "score": 56.3,
+   "published_at": "2026-11-10T10:25:58+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50438318"
+    }
+   ],
+   "primary_url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/"
+  },
+  {
+   "id": "ffe8a09e969f",
+   "title": "Claude Fable 5.2 and Mythos 5.2",
+   "summary": "",
+   "category": "Other",
+   "score": 55.6,
+   "published_at": "2026-11-09T18:01:10+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50429068"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50429906"
+    }
+   ],
+   "primary_url": "https://www.anthropic.com/claude-fable-and-mythos-5-2"
+  },
+  {
+   "id": "46ecb159c153",
+   "title": "Helping caregivers use AI in everyday life",
+   "summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
+   "category": "Other",
+   "score": 55.1,
+   "published_at": "2026-11-10T12:00:00+00:00",
+   "sources": [
+    {
+     "name": "OpenAI",
+     "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life"
+    }
+   ],
+   "primary_url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life"
+  },
+  {
+   "id": "f8c1a7370c13",
+   "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+   "summary": "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption.",
+   "category": "Innovation",
+   "score": 55.1,
+   "published_at": "2026-11-10T12:02:28+00:00",
+   "sources": [
+    {
+     "name": "Google DeepMind",
+     "url": "https://deepmind.google/blog/introducing-alphaproof-code/"
+    }
+   ],
+   "primary_url": "https://deepmind.google/blog/introducing-alphaproof-code/"
+  },
+  {
+   "id": "26b496ffaa34",
+   "title": "Anthropic launches roadshow for proposed initial public offering",
+   "summary": "",
+   "category": "AI Apps",
+   "score": 54.9,
+   "published_at": "2026-11-10T11:32:16+00:00",
+   "sources": [
+    {
+     "name": "Anthropic",
+     "url": "https://www.anthropic.com/news/roadshow-launch"
+    }
+   ],
+   "primary_url": "https://www.anthropic.com/news/roadshow-launch"
+  },
+  {
+   "id": "1b18e8c9acf7",
+   "title": "Google Gemini routes personal Drive files and emails to human annotators",
+   "summary": "",
+   "category": "Other",
+   "score": 54.7,
+   "published_at": "2026-11-09T18:24:38+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://github.com/thisisme6598/gemini_files/"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50429426"
+    }
+   ],
+   "primary_url": "https://github.com/thisisme6598/gemini_files/"
+  },
+  {
+   "id": "458bb1a34baf",
+   "title": "CoreWeave bond yield tops 16% as AI credit stress rises",
+   "summary": "",
+   "category": "Other",
+   "score": 54.5,
+   "published_at": "2026-11-10T03:20:06+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50435660"
+    }
+   ],
+   "primary_url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html"
+  },
+  {
+   "id": "10ba719313a0",
+   "title": "anthropics/skills: Public repository for Agent Skills",
+   "summary": "Public repository for Agent Skills",
+   "category": "Skills",
+   "score": 54.0,
+   "published_at": "2026-11-10T14:11:13.537826+00:00",
+   "sources": [
+    {
+     "name": "GitHub Trending",
+     "url": "https://github.com/anthropics/skills"
+    }
+   ],
+   "primary_url": "https://github.com/anthropics/skills"
+  },
+  {
+   "id": "46e307363c08",
+   "title": "speridlabs/idol",
+   "summary": "",
+   "category": "Open Source",
+   "score": 54.0,
+   "published_at": "2026-11-10T14:11:13.537826+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face Trending",
+     "url": "https://huggingface.co/speridlabs/idol"
+    }
+   ],
+   "primary_url": "https://huggingface.co/speridlabs/idol"
+  },
+  {
+   "id": "4c35a47638c4",
+   "title": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+   "summary": "",
+   "category": "Innovation",
+   "score": 54.0,
+   "published_at": "2026-11-10T14:11:13.537826+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face Trending",
+     "url": "https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic"
+    }
+   ],
+   "primary_url": "https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic"
+  }
+ ],
+ "all": [
+  {
+   "id": "534e23320d33",
+   "title": "AI usage generates a fragile codebase",
+   "summary": "",
+   "category": "Other",
+   "score": 56.3,
+   "published_at": "2026-11-10T10:25:58+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50438318"
+    }
+   ],
+   "primary_url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/"
+  },
+  {
+   "id": "ffe8a09e969f",
+   "title": "Claude Fable 5.2 and Mythos 5.2",
+   "summary": "",
+   "category": "Other",
+   "score": 55.6,
+   "published_at": "2026-11-09T18:01:10+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50429068"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50429906"
+    }
+   ],
+   "primary_url": "https://www.anthropic.com/claude-fable-and-mythos-5-2"
+  },
+  {
+   "id": "46ecb159c153",
+   "title": "Helping caregivers use AI in everyday life",
+   "summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
+   "category": "Other",
+   "score": 55.1,
+   "published_at": "2026-11-10T12:00:00+00:00",
+   "sources": [
+    {
+     "name": "OpenAI",
+     "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life"
+    }
+   ],
+   "primary_url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life"
+  },
+  {
+   "id": "f8c1a7370c13",
+   "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+   "summary": "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption.",
+   "category": "Innovation",
+   "score": 55.1,
+   "published_at": "2026-11-10T12:02:28+00:00",
+   "sources": [
+    {
+     "name": "Google DeepMind",
+     "url": "https://deepmind.google/blog/introducing-alphaproof-code/"
+    }
+   ],
+   "primary_url": "https://deepmind.google/blog/introducing-alphaproof-code/"
+  },
+  {
+   "id": "26b496ffaa34",
+   "title": "Anthropic launches roadshow for proposed initial public offering",
+   "summary": "",
+   "category": "AI Apps",
+   "score": 54.9,
+   "published_at": "2026-11-10T11:32:16+00:00",
+   "sources": [
+    {
+     "name": "Anthropic",
+     "url": "https://www.anthropic.com/news/roadshow-launch"
+    }
+   ],
+   "primary_url": "https://www.anthropic.com/news/roadshow-launch"
+  },
+  {
+   "id": "1b18e8c9acf7",
+   "title": "Google Gemini routes personal Drive files and emails to human annotators",
+   "summary": "",
+   "category": "Other",
+   "score": 54.7,
+   "published_at": "2026-11-09T18:24:38+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://github.com/thisisme6598/gemini_files/"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50429426"
+    }
+   ],
+   "primary_url": "https://github.com/thisisme6598/gemini_files/"
+  },
+  {
+   "id": "458bb1a34baf",
+   "title": "CoreWeave bond yield tops 16% as AI credit stress rises",
+   "summary": "",
+   "category": "Other",
+   "score": 54.5,
+   "published_at": "2026-11-10T03:20:06+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50435660"
+    }
+   ],
+   "primary_url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html"
+  },
+  {
+   "id": "10ba719313a0",
+   "title": "anthropics/skills: Public repository for Agent Skills",
+   "summary": "Public repository for Agent Skills",
+   "category": "Skills",
+   "score": 54.0,
+   "published_at": "2026-11-10T14:11:13.537826+00:00",
+   "sources": [
+    {
+     "name": "GitHub Trending",
+     "url": "https://github.com/anthropics/skills"
+    }
+   ],
+   "primary_url": "https://github.com/anthropics/skills"
+  },
+  {
+   "id": "46e307363c08",
+   "title": "speridlabs/idol",
+   "summary": "",
+   "category": "Open Source",
+   "score": 54.0,
+   "published_at": "2026-11-10T14:11:13.537826+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face Trending",
+     "url": "https://huggingface.co/speridlabs/idol"
+    }
+   ],
+   "primary_url": "https://huggingface.co/speridlabs/idol"
+  },
+  {
+   "id": "4c35a47638c4",
+   "title": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+   "summary": "",
+   "category": "Innovation",
+   "score": 54.0,
+   "published_at": "2026-11-10T14:11:13.537826+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face Trending",
+     "url": "https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic"
+    }
+   ],
+   "primary_url": "https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic"
+  },
+  {
+   "id": "01a8528fa117",
+   "title": "Closing the AI guidance gap in education",
+   "summary": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
+   "category": "AI Apps",
+   "score": 53.8,
+   "published_at": "2026-11-10T09:00:00+00:00",
+   "sources": [
+    {
+     "name": "OpenAI",
+     "url": "https://openai.com/index/closing-ai-guidance-gap-education"
+    }
+   ],
+   "primary_url": "https://openai.com/index/closing-ai-guidance-gap-education"
+  },
+  {
+   "id": "255b56db4a4a",
+   "title": "Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far",
+   "summary": "",
+   "category": "Other",
+   "score": 53.5,
+   "published_at": "2026-11-09T20:04:55+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://artificialanalysis.ai/models/claude-fable-5-2"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50431144"
+    }
+   ],
+   "primary_url": "https://artificialanalysis.ai/models/claude-fable-5-2"
+  },
+  {
+   "id": "7838c87736f9",
+   "title": "moonshotai/Kimi-K3.1-Pro",
+   "summary": "",
+   "category": "Open Source",
+   "score": 52.8,
+   "published_at": "2026-11-10T14:11:13.537826+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face Trending",
+     "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro"
+    }
+   ],
+   "primary_url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro"
+  },
+  {
+   "id": "81f33d0f3f66",
+   "title": "homeassistant-ai/ha-mcp: Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+   "summary": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+   "category": "MCP",
+   "score": 52.0,
+   "published_at": "2026-11-10T14:11:13.537826+00:00",
+   "sources": [
+    {
+     "name": "GitHub Trending",
+     "url": "https://github.com/homeassistant-ai/ha-mcp"
+    }
+   ],
+   "primary_url": "https://github.com/homeassistant-ai/ha-mcp"
+  },
+  {
+   "id": "276a2df43aba",
+   "title": "ricursiveAI/Ripple-65B-Preview",
+   "summary": "",
+   "category": "Open Source",
+   "score": 52.0,
+   "published_at": "2026-11-10T14:11:13.537826+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face Trending",
+     "url": "https://huggingface.co/ricursiveAI/Ripple-65B-Preview"
+    }
+   ],
+   "primary_url": "https://huggingface.co/ricursiveAI/Ripple-65B-Preview"
+  },
+  {
+   "id": "1ceb56a3b374",
+   "title": "vercel-labs/agent-browser: Browser automation CLI for AI agents",
+   "summary": "Browser automation CLI for AI agents",
+   "category": "AI Agents",
+   "score": 51.9,
+   "published_at": "2026-11-10T14:11:13.537826+00:00",
+   "sources": [
+    {
+     "name": "GitHub Trending",
+     "url": "https://github.com/vercel-labs/agent-browser"
+    }
+   ],
+   "primary_url": "https://github.com/vercel-labs/agent-browser"
+  },
+  {
+   "id": "5d3327229121",
+   "title": "A year after the 100% AI mandate nobody understands our code",
+   "summary": "",
+   "category": "Other",
+   "score": 51.7,
+   "published_at": "2026-11-09T22:19:12+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://www.reddit.com/r/ClaudeCode/comments/1xq2n3t/a_year_after_the_100_ai_mandate_nobody/"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50433079"
+    }
+   ],
+   "primary_url": "https://www.reddit.com/r/ClaudeCode/comments/1xq2n3t/a_year_after_the_100_ai_mandate_nobody/"
+  },
+  {
+   "id": "04ce1345cda9",
+   "title": "Lightricks/LTX-2.5",
+   "summary": "",
+   "category": "Open Source",
+   "score": 51.6,
+   "published_at": "2026-11-10T14:11:13.537826+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face Trending",
+     "url": "https://huggingface.co/Lightricks/LTX-2.5"
+    }
+   ],
+   "primary_url": "https://huggingface.co/Lightricks/LTX-2.5"
+  },
+  {
+   "id": "55ffe1fba5ed",
+   "title": "NousResearch/Arete-27B",
+   "summary": "",
+   "category": "Open Source",
+   "score": 51.4,
+   "published_at": "2026-11-10T14:11:13.537826+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face Trending",
+     "url": "https://huggingface.co/NousResearch/Arete-27B"
+    }
+   ],
+   "primary_url": "https://huggingface.co/NousResearch/Arete-27B"
+  },
+  {
+   "id": "1c6441623ff5",
+   "title": "ccore/Qwen3.5-4B-3D-Coder",
+   "summary": "",
+   "category": "Innovation",
+   "score": 51.2,
+   "published_at": "2026-11-10T14:11:13.537826+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face Trending",
+     "url": "https://huggingface.co/ccore/Qwen3.5-4B-3D-Coder"
+    }
+   ],
+   "primary_url": "https://huggingface.co/ccore/Qwen3.5-4B-3D-Coder"
+  },
+  {
+   "id": "d0b5754fb37f",
+   "title": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
+   "summary": "",
+   "category": "Innovation",
+   "score": 51.2,
+   "published_at": "2026-11-10T14:11:13.537826+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face Trending",
+     "url": "https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF"
+    }
+   ],
+   "primary_url": "https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF"
+  },
+  {
+   "id": "6c64301c09e0",
+   "title": "Qwen/Qwen3.8-27B",
+   "summary": "",
+   "category": "Innovation",
+   "score": 51.0,
+   "published_at": "2026-11-10T14:11:13.537826+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face Trending",
+     "url": "https://huggingface.co/Qwen/Qwen3.8-27B"
+    }
+   ],
+   "primary_url": "https://huggingface.co/Qwen/Qwen3.8-27B"
+  },
+  {
+   "id": "26b52d229f33",
+   "title": "anthropics/claude-quickstarts: A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+   "summary": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+   "category": "Open Source",
+   "score": 50.9,
+   "published_at": "2026-11-10T14:11:13.537826+00:00",
+   "sources": [
+    {
+     "name": "GitHub Trending",
+     "url": "https://github.com/anthropics/claude-quickstarts"
+    }
+   ],
+   "primary_url": "https://github.com/anthropics/claude-quickstarts"
+  },
+  {
+   "id": "2e74d0228d63",
+   "title": "addyosmani/agent-skills: Production-grade engineering skills for AI coding agents.",
+   "summary": "Production-grade engineering skills for AI coding agents.",
+   "category": "Skills",
+   "score": 50.6,
+   "published_at": "2026-11-10T14:11:13.537826+00:00",
+   "sources": [
+    {
+     "name": "GitHub Trending",
+     "url": "https://github.com/addyosmani/agent-skills"
+    }
+   ],
+   "primary_url": "https://github.com/addyosmani/agent-skills"
+  },
+  {
+   "id": "913ed88b2f74",
+   "title": "DeepX claims inference up to 100B parameters at less than 5 W",
+   "summary": "",
+   "category": "Other",
+   "score": 50.5,
+   "published_at": "2026-11-09T18:33:58+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://www.eetimes.com/deepx-tapes-out-second-gen-chip-projects-6-7x-performance-gain-with-lpddr5x-pim/"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50429545"
+    }
+   ],
+   "primary_url": "https://www.eetimes.com/deepx-tapes-out-second-gen-chip-projects-6-7x-performance-gain-with-lpddr5x-pim/"
+  },
+  {
+   "id": "2ed36b56a538",
+   "title": "google-deepmind/mujoco: Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+   "summary": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+   "category": "Open Source",
+   "score": 50.5,
+   "published_at": "2026-11-10T14:11:13.537826+00:00",
+   "sources": [
+    {
+     "name": "GitHub Trending",
+     "url": "https://github.com/google-deepmind/mujoco"
+    }
+   ],
+   "primary_url": "https://github.com/google-deepmind/mujoco"
+  },
+  {
+   "id": "4662bc6e15d2",
+   "title": "webAI-Official/TwIL-8B",
+   "summary": "",
+   "category": "Open Source",
+   "score": 50.4,
+   "published_at": "2026-11-10T14:11:13.537826+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face Trending",
+     "url": "https://huggingface.co/webAI-Official/TwIL-8B"
+    }
+   ],
+   "primary_url": "https://huggingface.co/webAI-Official/TwIL-8B"
+  },
+  {
+   "id": "f9ddc69f8317",
+   "title": "Adobe adds more AI to its products and launches an MCP",
+   "summary": "Adobe is taking on Figma with a new prototype builder tool in Firefly.",
+   "category": "MCP",
+   "score": 50.0,
+   "published_at": "2026-11-10T14:05:10+00:00",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/"
+    }
+   ],
+   "primary_url": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/"
+  },
+  {
+   "id": "06c34be0a2ca",
+   "title": "Anthropic targets $1.4 trillion IPO",
+   "summary": "Anthropic confirmed on Tuesday that its IPO could be one of the biggest ever, even while falling short of previous expectations. Its IPO price is expected to be between $70.00 and $78.00 per share an…",
+   "category": "Other",
+   "score": 50.0,
+   "published_at": "2026-11-10T14:06:54+00:00",
+   "sources": [
+    {
+     "name": "The Verge",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1030703/anthropic-ipo-1-4-trillion"
+    }
+   ],
+   "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1030703/anthropic-ipo-1-4-trillion"
+  },
+  {
+   "id": "9871791e1b1f",
+   "title": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
+   "summary": "The company could end up being worth a hefty $1.404 trillion if its shares list at the top of the price range, on a fully diluted basis.",
+   "category": "Other",
+   "score": 49.9,
+   "published_at": "2026-11-10T14:01:39+00:00",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/"
+    }
+   ],
+   "primary_url": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/"
+  },
+  {
+   "id": "f650f08e36be",
+   "title": "Spotify’s AI DJ gets new voices, personalities, and an option for less chatter",
+   "summary": "Spotify Premium users can now customize their AI DJ with new voices with different personalities, or turn off the commentary between songs.",
+   "category": "Other",
+   "score": 49.9,
+   "published_at": "2026-11-10T14:00:00+00:00",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/10/spotifys-ai-dj-gets-new-voices-personalities-and-an-option-for-less-chatter/"
+    }
+   ],
+   "primary_url": "https://techcrunch.com/2026/11/10/spotifys-ai-dj-gets-new-voices-personalities-and-an-option-for-less-chatter/"
+  },
+  {
+   "id": "c188bc0e2291",
+   "title": "After challenging Google’s Android with Cyanogen, its co-founder takes aim at Windows for AI era",
+   "summary": "Kora is set to launch as a free-to-use alternative to Windows, targeting users who rely heavily on AI models and agents.",
+   "category": "AI Agents",
+   "score": 49.9,
+   "published_at": "2026-11-10T14:00:00+00:00",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/"
+    }
+   ],
+   "primary_url": "https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/"
+  },
+  {
+   "id": "85e69ee9d60b",
+   "title": "Adobe is going all in on agentic AI",
+   "summary": "Adobe is committing itself to the notion that chatbots and AI agents could be your next design assistant, or even automate creative workflows and repetitive tasks on your behalf. Some of the tools an…",
+   "category": "AI Agents",
+   "score": 49.9,
+   "published_at": "2026-11-10T14:00:00+00:00",
+   "sources": [
+    {
+     "name": "The Verge",
+     "url": "https://www.theverge.com/tech/1030593/adobe-max-ai-agents-mcp-firefly-assistant-updates"
+    }
+   ],
+   "primary_url": "https://www.theverge.com/tech/1030593/adobe-max-ai-agents-mcp-firefly-assistant-updates"
+  },
+  {
+   "id": "4ddbe1642bc5",
+   "title": "Photoshop, Lightroom, and Premiere are making it easier to remove things",
+   "summary": "Adobe is expanding its Creative Cloud apps and Firefly AI platform with new capabilities that aim to make design and editing projects faster and less complicated. Some of the announcements from Adobe…",
+   "category": "AI Apps",
+   "score": 49.9,
+   "published_at": "2026-11-10T14:00:00+00:00",
+   "sources": [
+    {
+     "name": "The Verge",
+     "url": "https://www.theverge.com/tech/1030653/adobe-max-2026-photoshop-premiere-removal-updates"
+    }
+   ],
+   "primary_url": "https://www.theverge.com/tech/1030653/adobe-max-2026-photoshop-premiere-removal-updates"
+  },
+  {
+   "id": "af2672128856",
+   "title": "Hands-on with Ring’s new AI drone camera for your home",
+   "summary": "Ring is finally shipping a flying indoor drone camera. For real this time. The Ring Drone Cam will arrive on January 27th, 2027, for $249.99, Ring founder Jamie Siminoff said at a launch event in New…",
+   "category": "AI Apps",
+   "score": 49.7,
+   "published_at": "2026-11-10T13:30:00+00:00",
+   "sources": [
+    {
+     "name": "The Verge",
+     "url": "https://www.theverge.com/tech/1030601/ring-drone-cam-hands-on-price-release-date-ai-pilot"
+    }
+   ],
+   "primary_url": "https://www.theverge.com/tech/1030601/ring-drone-cam-hands-on-price-release-date-ai-pilot"
+  },
+  {
+   "id": "d8a967756fad",
+   "title": "Cyberattacks threaten to make open-source AI a little less open, Hugging Face exec warns",
+   "summary": "Hugging Face executive Irene Solaiman warns that growing cyberattacks on open AI platforms could force tighter security restrictions, threatening the accessibility that makes open-source communities …",
+   "category": "Open Source",
+   "score": 49.5,
+   "published_at": "2026-11-10T13:00:00+00:00",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/"
+    }
+   ],
+   "primary_url": "https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/"
+  },
+  {
+   "id": "82fda640970b",
+   "title": "Ukraine’s fiber-optic drones get squeezed by AI data center demand",
+   "summary": "Ukraine competes with Russia and data centers for China’s optical fiber supply.",
+   "category": "Other",
+   "score": 49.2,
+   "published_at": "2026-11-10T12:15:32+00:00",
+   "sources": [
+    {
+     "name": "Ars Technica",
+     "url": "https://arstechnica.com/gadgets/2026/11/ukraines-fiber-optic-drones-get-squeezed-by-ai-data-center-demand/"
+    }
+   ],
+   "primary_url": "https://arstechnica.com/gadgets/2026/11/ukraines-fiber-optic-drones-get-squeezed-by-ai-data-center-demand/"
+  },
+  {
+   "id": "9c331579e229",
+   "title": "ChatGPT Enterprise now available in AWS Marketplace",
+   "summary": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
+   "category": "AI Apps",
+   "score": 48.0,
+   "published_at": "2026-11-09T19:00:00+00:00",
+   "sources": [
+    {
+     "name": "OpenAI",
+     "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace"
+    }
+   ],
+   "primary_url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace"
+  },
+  {
+   "id": "0cb7ad579ad8",
+   "title": "Otter AI can now follow conversations across 30+ languages",
+   "summary": "Otter AI just added support for 27 languages and revealed an upcoming feature that can follow along if speakers switch between languages.",
+   "category": "AI Apps",
+   "score": 47.0,
+   "published_at": "2026-11-10T07:00:00+00:00",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/"
+    }
+   ],
+   "primary_url": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/"
+  },
+  {
+   "id": "b4717b7762b7",
+   "title": "I'm not convinced the AI bubble exists",
+   "summary": "",
+   "category": "Other",
+   "score": 46.3,
+   "published_at": "2026-11-08T23:44:36+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50418975"
+    }
+   ],
+   "primary_url": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists"
+  },
+  {
+   "id": "f37b680abcf7",
+   "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+   "summary": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
+   "category": "Innovation",
+   "score": 45.5,
+   "published_at": "2026-11-09T13:00:00+00:00",
+   "sources": [
+    {
+     "name": "OpenAI",
+     "url": "https://openai.com/index/control-room"
+    }
+   ],
+   "primary_url": "https://openai.com/index/control-room"
+  },
+  {
+   "id": "68ff5ed661ee",
+   "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
+   "summary": "",
+   "category": "AI Agents",
+   "score": 45.4,
+   "published_at": "2026-11-08T18:16:07+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50415628"
+    }
+   ],
+   "primary_url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers"
+  },
+  {
+   "id": "6289435bdbbd",
+   "title": "Anthropic reportedly plans to move forward with IPO plans",
+   "summary": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported.",
+   "category": "Other",
+   "score": 44.7,
+   "published_at": "2026-11-10T01:27:12+00:00",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/"
+    }
+   ],
+   "primary_url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/"
+  },
+  {
+   "id": "22878e0f6736",
+   "title": "David Ellison says AI could be the ‘biggest creative unlock in modern history’",
+   "summary": "During Paramount Skydance's latest earnings call, CEO David Ellison said \"it's hard to imagine\" AI won't have a bigger impact on the film industry than CGI. In response to a question about the compan…",
+   "category": "Other",
+   "score": 44.3,
+   "published_at": "2026-11-10T00:28:49+00:00",
+   "sources": [
+    {
+     "name": "The Verge",
+     "url": "https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai"
+    }
+   ],
+   "primary_url": "https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai"
+  },
+  {
+   "id": "8b5d7ade5adf",
+   "title": "Apple capped engineers at a $200 daily AI budget",
+   "summary": "",
+   "category": "Other",
+   "score": 44.1,
+   "published_at": "2026-11-09T05:30:11+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://www.stork.ai/newsletter/2026-11-08-apple-capped-engineers-at-a-200-daily-ai-budget"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50421426"
+    }
+   ],
+   "primary_url": "https://www.stork.ai/newsletter/2026-11-08-apple-capped-engineers-at-a-200-daily-ai-budget"
+  },
+  {
+   "id": "7d8b4ae6c27e",
+   "title": "What could China get from Jensen Huang?",
+   "summary": "It's difficult to overstate Nvidia's power in today's AI landscape. The company's chips are the bedrock upon which advanced AI technology in the US is being built, and demand has consistently outpace…",
+   "category": "Other",
+   "score": 44.0,
+   "published_at": "2026-11-09T23:51:58+00:00",
+   "sources": [
+    {
+     "name": "The Verge",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang"
+    }
+   ],
+   "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang"
+  },
+  {
+   "id": "1a76a5185445",
+   "title": "Here’s what Trump said he knew about Jensen Huang",
+   "summary": "President Trump held a White House press briefing earlier today and responded to several questions about his knowledge of Nvidia CEO Jensen Huang's affair with an alleged Chinese spy. Huang said this…",
+   "category": "Other",
+   "score": 44.0,
+   "published_at": "2026-11-09T23:47:46+00:00",
+   "sources": [
+    {
+     "name": "The Verge",
+     "url": "https://www.theverge.com/tech/1030446/trump-jensen-huang-press-conference"
+    }
+   ],
+   "primary_url": "https://www.theverge.com/tech/1030446/trump-jensen-huang-press-conference"
+  },
+  {
+   "id": "9b0466c1eb02",
+   "title": "Jensen Huang reportedly engaged a PR firm with a history of handling  high-profile sex scandals a year ago",
+   "summary": "The PR firm was enlisted shortly after an October 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported.",
+   "category": "Other",
+   "score": 43.9,
+   "published_at": "2026-11-09T23:28:37+00:00",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/"
+    }
+   ],
+   "primary_url": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/"
+  },
+  {
+   "id": "eb0c65b2b58f",
+   "title": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
+   "summary": "The leather-jacketed CEO of Nvidia, Jensen Huang, has acknowledged an affair with Megaspeed exec Alice Huang, spurring an investigation by his company and intense discussions worldwide. Recent report…",
+   "category": "Other",
+   "score": 43.7,
+   "published_at": "2026-11-09T23:07:59+00:00",
+   "sources": [
+    {
+     "name": "The Verge",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang"
+    }
+   ],
+   "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang"
+  },
+  {
+   "id": "432027aa0838",
+   "title": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
+   "summary": "Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive.",
+   "category": "Innovation",
+   "score": 43.6,
+   "published_at": "2026-11-09T22:46:09+00:00",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/"
+    }
+   ],
+   "primary_url": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/"
+  },
+  {
+   "id": "23b94c697622",
+   "title": "CodeRabbit scales agentic software development and ships 20x more",
+   "summary": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
+   "category": "AI Agents",
+   "score": 43.4,
+   "published_at": "2026-11-09T08:00:00+00:00",
+   "sources": [
+    {
+     "name": "OpenAI",
+     "url": "https://openai.com/index/coderabbit-codex-daybreak"
+    }
+   ],
+   "primary_url": "https://openai.com/index/coderabbit-codex-daybreak"
+  },
+  {
+   "id": "932fe34bad72",
+   "title": "Kuken Industries searches 70 years of drawings in minutes",
+   "summary": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour.",
+   "category": "AI Apps",
+   "score": 43.4,
+   "published_at": "2026-11-09T08:00:00+00:00",
+   "sources": [
+    {
+     "name": "OpenAI",
+     "url": "https://openai.com/index/kuken"
+    }
+   ],
+   "primary_url": "https://openai.com/index/kuken"
+  },
+  {
+   "id": "09274ed8ecd7",
+   "title": "The race is on to sue Nvidia",
+   "summary": "Nvidia’s stock slid more than 4% after its board opened an investigation into Jensen Huang’s relationship with a suspected Chinese spy, and one securities law expert says the company’s earlier insist…",
+   "category": "Other",
+   "score": 43.4,
+   "published_at": "2026-11-09T22:23:42+00:00",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/"
+    }
+   ],
+   "primary_url": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/"
+  },
+  {
+   "id": "45fb196cb1bb",
+   "title": "How I'm fighting the AI brain fry",
+   "summary": "",
+   "category": "Other",
+   "score": 42.9,
+   "published_at": "2026-11-08T19:37:42+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50416363"
+    }
+   ],
+   "primary_url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry"
+  },
+  {
+   "id": "3e602b87c2e3",
+   "title": "微軟WinApp CLI新增WinUI DevTools，AI代理可檢查執行中的介面元件",
+   "summary": "新聞 微軟發布Windows應用程式命令列開發工具 WinApp CLI 0.8 ，新增實驗性預覽功能WinUI DevTools，讓開發者及AI代理檢查執行中的WinUI 3應用程式，查看介面元件屬性、版面配置及對應的XAML原始碼位置，也能即時測試修改結果。新版另加入效能分析及C++專案支援。 WinApp CLI可協助開發者透過終端機或AI代理建立、執行、除錯及封裝Windows應用程式。…",
+   "category": "AI Agents",
+   "score": 42.7,
+   "published_at": "2026-11-10T11:02:48+00:00",
+   "sources": [
+    {
+     "name": "iThome",
+     "url": "https://www.ithome.com.tw/news/180394"
+    }
+   ],
+   "primary_url": "https://www.ithome.com.tw/news/180394"
+  },
+  {
+   "id": "9eb04da14572",
+   "title": "應用程式安全檢測可透過臺灣SaaS平臺執行，叡揚資訊促成Mend臺灣雲端區域上線",
+   "summary": "新聞 因應臺灣企業與組織對於主權IT的重視程度日益提高，越來越多國際資安廠商選擇在臺灣提供在地化的雲端服務。以今年為例，公有雲暨資安服務廠商Google Cloud於8月初 宣布 ，在臺灣雲端區域正式啟用Google Security Operations服務，協助臺灣的企業與組織滿足資料治理及資料落地的需求，在代理商叡揚資訊持續溝通與協助之下，10月下半又有另一家資安廠商 Mend 宣布在臺灣…",
+   "category": "AI Apps",
+   "score": 42.6,
+   "published_at": "2026-11-10T10:47:52+00:00",
+   "sources": [
+    {
+     "name": "iThome",
+     "url": "https://www.ithome.com.tw/news/180393"
+    }
+   ],
+   "primary_url": "https://www.ithome.com.tw/news/180393"
+  },
+  {
+   "id": "3541a994b8f0",
+   "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
+   "summary": "The Nvidia CEO also pulled out of an Anthropic event earlier.",
+   "category": "Other",
+   "score": 42.5,
+   "published_at": "2026-11-09T20:09:06+00:00",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/"
+    }
+   ],
+   "primary_url": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/"
+  },
+  {
+   "id": "69285a1f42cc",
+   "title": "英特爾在臺揭露主流PC、邊緣運算到資料中心最新運算架構，加速布局Agent AI",
+   "summary": "新聞 英特爾在今年8月舉行的Hot Chips 2026展示最新架構，反映AI運算競爭正在改變方向。過去幾年，市場焦點多集中於大型模型訓練，需要大量GPU算力與資料中心資源，但隨著生成式AI逐漸進入企業應用，接下來的挑戰將轉向如何讓模型被廣泛使用，也就是大規模推論。 呼應「Inference Everywhere」的策略願景，英特爾今天(11/10)在臺揭露AI PC、資料中心GPU與CPU三個…",
+   "category": "AI Apps",
+   "score": 42.5,
+   "published_at": "2026-11-10T10:29:25+00:00",
+   "sources": [
+    {
+     "name": "iThome",
+     "url": "https://www.ithome.com.tw/news/180395"
+    }
+   ],
+   "primary_url": "https://www.ithome.com.tw/news/180395"
+  },
+  {
+   "id": "2969b0807146",
+   "title": "The backlash about data centers might really just be about electricity",
+   "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US last week, I was in…",
+   "category": "Other",
+   "score": 42.3,
+   "published_at": "2026-11-09T19:35:33+00:00",
+   "sources": [
+    {
+     "name": "MIT Technology Review",
+     "url": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/"
+    }
+   ],
+   "primary_url": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/"
+  },
+  {
+   "id": "e89d75cee3fd",
+   "title": "NVIDIA 跌逾 4%、AMD 卻大漲 13%！華爾街分析師升評，看好資料中心商機",
+   "summary": "Oppenheimer 分析師薛佛 Rick Schafer 認為，AMD 逐漸成為 AI 運算市場的長期供應商，跨世代客戶訂單與 Helios 機櫃級解決方案，有助擴大資料中心業務規模。Instinct 系列加速器每年推出新品，以及開放式軟體生態系持續改善，也將強化競爭力。",
+   "category": "AI Apps",
+   "score": 42.3,
+   "published_at": "2026-11-10T10:02:00+00:00",
+   "sources": [
+    {
+     "name": "INSIDE",
+     "url": "https://www.inside.com.tw/article/42872-amd-stock-surges-13-percent-nvidia-falls-analyst-upgrade"
+    }
+   ],
+   "primary_url": "https://www.inside.com.tw/article/42872-amd-stock-surges-13-percent-nvidia-falls-analyst-upgrade"
+  },
+  {
+   "id": "56a49980686e",
+   "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
+   "summary": "Anthropic says the new models \"show improvements in areas like coding, reasoning, and vision,\" as well as in communicating more clearly with users.",
+   "category": "AI Apps",
+   "score": 42.2,
+   "published_at": "2026-11-09T19:24:51+00:00",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/"
+    }
+   ],
+   "primary_url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/"
+  },
+  {
+   "id": "b54a5923f7fe",
+   "title": "Apple’s $50 Intelligence Usage Packs extend access to some AI features",
+   "summary": "After publishing a support article in early September outlining usage limits for some Apple Intelligence features, the company has updated Logic Pro with an option to \"Buy More Usage\" for a one-time …",
+   "category": "AI Apps",
+   "score": 42.1,
+   "published_at": "2026-11-09T19:09:58+00:00",
+   "sources": [
+    {
+     "name": "The Verge",
+     "url": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro"
+    }
+   ],
+   "primary_url": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro"
+  },
+  {
+   "id": "dd4da662fab5",
+   "title": "Anthropic launches new Claude Fable and Mythos 5.2 models",
+   "summary": "Anthropic is announcing two new models today: Claude Fable 5.2 and Claude Mythos 5.2, which it says are designed to take on \"daunting\" technical challenges. The company claims the new models show imp…",
+   "category": "AI Apps",
+   "score": 42.0,
+   "published_at": "2026-11-09T19:00:00+00:00",
+   "sources": [
+    {
+     "name": "The Verge",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2"
+    }
+   ],
+   "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2"
+  },
+  {
+   "id": "40ae9fea1ce7",
+   "title": "WorkOS資料外洩事故出現新進展，AI滲透測試框架突破測試環境釀禍",
+   "summary": "新聞 上週 身分驗證服務公司WorkOS發生資料外洩事故 ，該公司內部銷售應用程式遭未經授權存取，攻擊者疑似使用AI滲透測試框架ARTEX自動化執行。 事隔數日此事出現新的變化 ，有研究人員承認，其實是他們正在透過ARTEX執行資安基準測試的過程當中，該AI代理意外逃脫隔離測試環境造成。WorkOS資安團隊與第三方鑑識團隊分析研究人員提供的相關技術資料，並與WorkOS內部系統記錄交叉驗證，確認…",
+   "category": "Security",
+   "score": 41.9,
+   "published_at": "2026-11-10T09:08:07+00:00",
+   "sources": [
+    {
+     "name": "iThome",
+     "url": "https://www.ithome.com.tw/news/180388"
+    }
+   ],
+   "primary_url": "https://www.ithome.com.tw/news/180388"
+  },
+  {
+   "id": "faa2c8a3a820",
+   "title": "Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny",
+   "summary": "Jensen Huang’s alleged affair with a suspected Chinese spy threatens to complicate Nvidia’s lobbying efforts to loosen U.S. chip export restrictions and maintain access to China’s lucrative AI market.",
+   "category": "Other",
+   "score": 41.7,
+   "published_at": "2026-11-09T18:09:52+00:00",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/"
+    }
+   ],
+   "primary_url": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/"
+  },
+  {
+   "id": "9b78e5c0835a",
+   "title": "從 Core 3 Series 到資料中心，Intel 把競爭焦點拉向 AI 部署成本",
+   "summary": "英特爾發表新處理器架構，平衡 AI 應用的成本與算力。新產品線涵蓋 Core 3、GPU D 與 Xeon，分別鎖定主流電腦、AI 推論及伺服器，為不同工作流程提供最佳化方案，但仍需市場在價格與效益上驗證。",
+   "category": "AI Apps",
+   "score": 41.7,
+   "published_at": "2026-11-10T08:41:00+00:00",
+   "sources": [
+    {
+     "name": "INSIDE",
+     "url": "https://www.inside.com.tw/article/42870-intel-core-3-series"
+    }
+   ],
+   "primary_url": "https://www.inside.com.tw/article/42870-intel-core-3-series"
+  },
+  {
+   "id": "99d632aaa416",
+   "title": "Meta releases Muse Ember, a new lightweight model for agent execution",
+   "summary": "At 10 cents per million input tokens, Ember is significantly cheaper than frontier competitors like Haiku and Luna.",
+   "category": "AI Agents",
+   "score": 41.6,
+   "published_at": "2026-11-09T18:00:00+00:00",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/"
+    }
+   ],
+   "primary_url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/"
+  },
+  {
+   "id": "fff103736996",
+   "title": "醫療AI從內容生成走向自主行動，衛福部下一階段指引瞄準Agent治理",
+   "summary": "新聞 衛福部今年5月發布醫療機構生成式AI應用指引，為醫院導入生成式AI提供風險管理參考，但能自主決策、採取行動的AI Agent，尚未納入適用範圍。 衛福部醫事司司長劉越萍10月初在臺灣醫院資訊主管會議上指出，下一階段指引需要回應AI從內容生成走向自主行動的挑戰，讓醫療機構更清楚應用時的注意事項。面對AI持續進入醫療流程，她也提醒，醫院應先盤點院內AI工具、釐清責任，再依風險安排驗證與持續監測…",
+   "category": "AI Apps",
+   "score": 41.6,
+   "published_at": "2026-11-10T08:24:53+00:00",
+   "sources": [
+    {
+     "name": "iThome",
+     "url": "https://www.ithome.com.tw/news/180379"
+    }
+   ],
+   "primary_url": "https://www.ithome.com.tw/news/180379"
+  },
+  {
+   "id": "1f917ef42e11",
+   "title": "Claude Code is accidentally exposing secrets all over GitHub",
+   "summary": "\"Do not ask again\" prompt leads to passwords, API keys, and more being shared.",
+   "category": "AI Agents",
+   "score": 41.3,
+   "published_at": "2026-11-09T17:24:26+00:00",
+   "sources": [
+    {
+     "name": "Ars Technica",
+     "url": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/"
+    }
+   ],
+   "primary_url": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/"
+  },
+  {
+   "id": "d75c80b5454d",
+   "title": "Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines",
+   "summary": "Anthropic bought billions of dollars' worth of natural gas turbines in a deal that could give it buyer's remorse.",
+   "category": "Other",
+   "score": 41.2,
+   "published_at": "2026-11-09T16:56:54+00:00",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/"
+    }
+   ],
+   "primary_url": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/"
+  },
+  {
+   "id": "da795f292411",
+   "title": "Nancy Pelosi’s replacement is ready to regulate AI",
+   "summary": "As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for former Speaker of the House Nancy Pelosi’…",
+   "category": "Other",
+   "score": 41.2,
+   "published_at": "2026-11-09T17:05:43+00:00",
+   "sources": [
+    {
+     "name": "MIT Technology Review",
+     "url": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/"
+    }
+   ],
+   "primary_url": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/"
+  },
+  {
+   "id": "898b81faa6e2",
+   "title": "美國司法部成立AI犯罪專責單位，打擊詐騙及其他非法活動",
+   "summary": "新聞 美國司法部宣布 成立超級智慧任務編組（Super Intelligence Task Force，DOJ-SITF），以打擊美國國內外的AI詐騙或駭客行為。 這是 9月底美國總統川普 將人工智慧（AI）改名為超級智慧（SI）後，美國政府持續在法制化機構中落實確保美國在AI產業領先地位的行動。 DOJ-SITF由副司法部長Stanley Woodward及副助理司法部長Stephen Wei…",
+   "category": "Security",
+   "score": 41.2,
+   "published_at": "2026-11-10T07:21:45+00:00",
+   "sources": [
+    {
+     "name": "iThome",
+     "url": "https://www.ithome.com.tw/news/180378"
+    }
+   ],
+   "primary_url": "https://www.ithome.com.tw/news/180378"
+  },
+  {
+   "id": "019290d1ee6d",
+   "title": "【資安日報】11月10日，甫揭露的OpenSSH漏洞SSHole出現嘗試利用活動",
+   "summary": "新聞 本日新聞焦點 ● 甫揭露的OpenSSH漏洞SSHole出現嘗試利用活動 ● 法國將10月冷凍與冷藏設備網攻歸因於伊朗，波及約700處零售據點 ● SEGA集團因日本Arara資安事件外洩資料近220萬筆 ● 高雄警方破獲民眾透過AI自學架設自動化網路攻擊系統 ● DigiCert資料外洩源自伺服器遷移疏失，導致內部系統暴露網際網路 資安新聞總覽 法國將10月冷凍與冷藏設備網攻歸因於伊朗網…",
+   "category": "Security",
+   "score": 41.0,
+   "published_at": "2026-11-10T06:55:26+00:00",
+   "sources": [
+    {
+     "name": "iThome",
+     "url": "https://www.ithome.com.tw/news/180375"
+    }
+   ],
+   "primary_url": "https://www.ithome.com.tw/news/180375"
+  },
+  {
+   "id": "dbd9680f73cb",
+   "title": "Medium’s new TK app brings AI assistance directly into the writing process",
+   "summary": "Medium's new writing app embraces AI-assisted writing, despite growing controversy over the technology's role in publishing.",
+   "category": "AI Apps",
+   "score": 40.8,
+   "published_at": "2026-11-09T16:12:28+00:00",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/"
+    }
+   ],
+   "primary_url": "https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/"
+  },
+  {
+   "id": "85a3e354616e",
+   "title": "Aisin 與東北大學開發新型 AI 晶片，耗電比現有晶片少約 98%",
+   "summary": "日本汽車零件大廠 Aisin 與東北大學宣布開發內嵌 MRAM 的新型 AI 晶片，公司稱耗電約為現有晶片的 50 分之 1，AI 物體偵測處理時間約縮短為 10 分之 1。目前未公布量產時程與價格。",
+   "category": "Other",
+   "score": 40.6,
+   "published_at": "2026-11-10T06:02:00+00:00",
+   "sources": [
+    {
+     "name": "INSIDE",
+     "url": "https://www.inside.com.tw/article/42816-aisin-tohoku-mram-ai-chip-cuts-energy-use-98-percent"
+    }
+   ],
+   "primary_url": "https://www.inside.com.tw/article/42816-aisin-tohoku-mram-ai-chip-cuts-energy-use-98-percent"
+  },
+  {
+   "id": "55280474a321",
+   "title": "Nvidia CEO's affair becomes a national security problem",
+   "summary": "Nvidia is probing whether Chinese intelligence targeted its CEO through an affair.",
+   "category": "Other",
+   "score": 40.5,
+   "published_at": "2026-11-09T15:23:20+00:00",
+   "sources": [
+    {
+     "name": "Ars Technica",
+     "url": "https://arstechnica.com/tech-policy/2026/11/ceo-jensen-huang-admits-affair-as-nvidia-probes-possible-chinese-espionage/"
+    }
+   ],
+   "primary_url": "https://arstechnica.com/tech-policy/2026/11/ceo-jensen-huang-admits-affair-as-nvidia-probes-possible-chinese-espionage/"
+  },
+  {
+   "id": "057e22ab69c0",
+   "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+   "summary": "",
+   "category": "Other",
+   "score": 40.4,
+   "published_at": "2026-11-09T15:05:57+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face Blog",
+     "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan"
+    }
+   ],
+   "primary_url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan"
+  },
+  {
+   "id": "7cd5e1029071",
+   "title": "Practice Makes Precise: At CoRL, NVIDIA and Partners Reveal How Robots Rehearse Delicate Work in Simulation",
+   "summary": "Simulation, which has long been the proving ground for robots learning to walk, roll and hop, is now helping researchers teach robots tasks that require a finer touch: aligning gears, connecting cabl…",
+   "category": "Innovation",
+   "score": 39.9,
+   "published_at": "2026-11-09T14:00:01+00:00",
+   "sources": [
+    {
+     "name": "NVIDIA Blog",
+     "url": "https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl/"
+    }
+   ],
+   "primary_url": "https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl/"
+  },
+  {
+   "id": "bd74b7cf0c1b",
+   "title": "Automattic debuts a platform to deploy vibe-coding apps amid a changing internet",
+   "summary": "Automattic aims to compete with the likes of Lovable with Spacefast.",
+   "category": "AI Apps",
+   "score": 39.9,
+   "published_at": "2026-11-09T14:00:00+00:00",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/"
+    }
+   ],
+   "primary_url": "https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/"
+  },
+  {
+   "id": "d8369c79b7c5",
+   "title": "Anthropic 發表 Fable 5.2 與 Mythos 5.2，模型「懷疑自己正在受測」的頻率高於近期 Claude 模型",
+   "summary": "Anthropic 發表 Fable 5.2 與 Mythos 5.2，這是 METR 估計其研發提速約 2 倍後的首次發表，輸入價從每百萬 token 10 美元降到 8 美元，官方也承認新模型比近期任何一款 Claude 更常懷疑自己正在受測。",
+   "category": "Innovation",
+   "score": 39.8,
+   "published_at": "2026-11-10T04:06:00+00:00",
+   "sources": [
+    {
+     "name": "INSIDE",
+     "url": "https://www.inside.com.tw/article/42865-anthropic-fable-mythos-5-2-metr-evaluation-awareness"
+    }
+   ],
+   "primary_url": "https://www.inside.com.tw/article/42865-anthropic-fable-mythos-5-2-metr-evaluation-awareness"
+  },
+  {
+   "id": "05bd9f0351a0",
+   "title": "Innovating with AI in the special chemicals industry",
+   "summary": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expe…",
+   "category": "Other",
+   "score": 39.5,
+   "published_at": "2026-11-09T13:00:00+00:00",
+   "sources": [
+    {
+     "name": "MIT Technology Review",
+     "url": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/"
+    }
+   ],
+   "primary_url": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/"
+  },
+  {
+   "id": "1d660dc4ea7a",
+   "title": "OpenAI raises $11B at a $1.25T valuation",
+   "summary": "",
+   "category": "Other",
+   "score": 39.5,
+   "published_at": "2026-11-08T14:49:23+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought/"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50413822"
+    }
+   ],
+   "primary_url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought/"
+  },
+  {
+   "id": "2b8cef76d7d5",
+   "title": "Anthropic 傳最快 11 月 19 日登 Nasdaq，機構投資人要求估值低於 1.5 兆美元",
+   "summary": "《華爾街日報》報導，Anthropic 目標 11 月 19 日或 20 日以代碼 ANT 登上 Nasdaq，但部分機構投資人要求估值低於上週討論的 1.5 兆美元，而寄給承銷銀行的每股 70 至 80 美元區間當晚就撤回。",
+   "category": "Other",
+   "score": 39.5,
+   "published_at": "2026-11-10T03:25:00+00:00",
+   "sources": [
+    {
+     "name": "INSIDE",
+     "url": "https://www.inside.com.tw/article/42863-anthropic-ipo-nasdaq-ant-valuation-below-1-5-trillion"
+    }
+   ],
+   "primary_url": "https://www.inside.com.tw/article/42863-anthropic-ipo-nasdaq-ant-valuation-below-1-5-trillion"
+  },
+  {
+   "id": "7b1451fc786c",
+   "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
+   "summary": "",
+   "category": "Other",
+   "score": 39.3,
+   "published_at": "2026-11-09T12:34:29+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face Blog",
+     "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts"
+    }
+   ],
+   "primary_url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts"
+  },
+  {
+   "id": "fbbd34aaf304",
+   "title": "Introducing Usul - an easier way to express your NN using maths? [P]",
+   "summary": "SO, Usul-cpp is a library I've written in C++, it is based around allowing data scientists to create their models without heavy libraries such as tensorflow, and just express their models using maths…",
+   "category": "Other",
+   "score": 37.6,
+   "published_at": "2026-11-10T13:15:51+00:00",
+   "sources": [
+    {
+     "name": "r/MachineLearning",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1xsmmfm/introducing_usul_an_easier_way_to_express_your_nn/"
+    }
+   ],
+   "primary_url": "https://www.reddit.com/r/MachineLearning/comments/1xsmmfm/introducing_usul_an_easier_way_to_express_your_nn/"
+  },
+  {
+   "id": "6d49d7349281",
+   "title": "NVIDIA Announces New Planned Investments in Korean Startups at the MSIT-NVIDIA AI Startup Partnership Forum",
+   "summary": "Korea’s Ministry of Science and ICT and NVIDIA hosted the MSIT-NVIDIA AI Startup Partnership Forum at COEX. Representatives from the Ministry of Science and ICT and NVIDIA met with over 20 Korean sta…",
+   "category": "Other",
+   "score": 37.4,
+   "published_at": "2026-11-09T08:00:53+00:00",
+   "sources": [
+    {
+     "name": "NVIDIA Blog",
+     "url": "https://blogs.nvidia.com/blog/korean-startup-investments-msit/"
+    }
+   ],
+   "primary_url": "https://blogs.nvidia.com/blog/korean-startup-investments-msit/"
+  },
+  {
+   "id": "42bf773c6e9a",
+   "title": "Fable 5.2 just doubled the best Remote Labor Index score [N]",
+   "summary": "![img](zv6dhr1i1s0i1) Remote Labor Index (RLI) measures the ability of AI to fully automate remote work: https://www.remotelabor.ai/ submitted by /u/we_are_mammals [link] [comments]",
+   "category": "Other",
+   "score": 37.2,
+   "published_at": "2026-11-10T12:14:41+00:00",
+   "sources": [
+    {
+     "name": "r/MachineLearning",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1xsldgu/fable_52_just_doubled_the_best_remote_labor_index/"
+    }
+   ],
+   "primary_url": "https://www.reddit.com/r/MachineLearning/comments/1xsldgu/fable_52_just_doubled_the_best_remote_labor_index/"
+  },
+  {
+   "id": "b10abbc74a23",
+   "title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s ‘about a 50-50’",
+   "summary": "Nvidia’s board is investigating Jensen Huang over his relationship with a suspected Chinese spy, and Yale’s Jeffrey Sonnenfeld thinks it’s roughly a coin flip whether Huang stays on as CEO.",
+   "category": "Other",
+   "score": 36.4,
+   "published_at": "2026-11-09T05:26:29+00:00",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/"
+    }
+   ],
+   "primary_url": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/"
+  },
+  {
+   "id": "38995d3fca35",
+   "title": "Korea Advances Physical AI Across Industries With NVIDIA",
+   "summary": "Tapping into the country’s strengths in manufacturing and engineering, NVIDIA is helping advance Korea’s physical AI ecosystem. The country’s industry leaders are applying accelerated computing, AI a…",
+   "category": "AI Agents",
+   "score": 36.2,
+   "published_at": "2026-11-09T05:00:40+00:00",
+   "sources": [
+    {
+     "name": "NVIDIA Blog",
+     "url": "https://blogs.nvidia.com/blog/korea-physical-ai-ecosystem/"
+    }
+   ],
+   "primary_url": "https://blogs.nvidia.com/blog/korea-physical-ai-ecosystem/"
+  },
+  {
+   "id": "51bc8200bfc7",
+   "title": "Korea’s AI Ecosystem Advances and Secures Agentic AI With NVIDIA",
+   "summary": "As AI agents take on more work, they need capable open models and security that advances alongside them. Hyundai Motor Group is exploring NVIDIA NemoClaw blueprints and the NVIDIA OpenShell runtime, …",
+   "category": "AI Agents",
+   "score": 36.2,
+   "published_at": "2026-11-09T05:00:39+00:00",
+   "sources": [
+    {
+     "name": "NVIDIA Blog",
+     "url": "https://blogs.nvidia.com/blog/korea-secure-agentic-ai/"
+    }
+   ],
+   "primary_url": "https://blogs.nvidia.com/blog/korea-secure-agentic-ai/"
+  },
+  {
+   "id": "60900222ede9",
+   "title": "From Chips to Skills, NVIDIA and Korea Expand Sovereign AI Collaboration",
+   "summary": "NVIDIA and Korea’s Ministry of Science and ICT (MSIT) are expanding their collaboration across the country’s sovereign AI ecosystem, from AI semiconductors and data center infrastructure to talent, s…",
+   "category": "AI Agents",
+   "score": 36.2,
+   "published_at": "2026-11-09T05:00:04+00:00",
+   "sources": [
+    {
+     "name": "NVIDIA Blog",
+     "url": "https://blogs.nvidia.com/blog/korea-sovereign-ai-collaboration/"
+    }
+   ],
+   "primary_url": "https://blogs.nvidia.com/blog/korea-sovereign-ai-collaboration/"
+  },
+  {
+   "id": "c5536f6e1237",
+   "title": "NVIDIA Dynamo Recipes Bring Korea’s Leading Open Models to Production",
+   "summary": "NVIDIA is releasing Dynamo-optimized deployment recipes for Korea’s leading open models: A.X K2 from SK Telecom, K-EXAONE 2.0 from LG AI Research, Solar Open 2 from Upstage and Motif-3 from Motif Tec…",
+   "category": "Innovation",
+   "score": 36.2,
+   "published_at": "2026-11-09T05:00:00+00:00",
+   "sources": [
+    {
+     "name": "NVIDIA Blog",
+     "url": "https://blogs.nvidia.com/blog/nvidia-dynamo-korea-open-models/"
+    }
+   ],
+   "primary_url": "https://blogs.nvidia.com/blog/nvidia-dynamo-korea-open-models/"
+  },
+  {
+   "id": "a144563512ca",
+   "title": "Don't Blame The Preferences: Examining The Emergence of Sycophancy in LLM Training",
+   "summary": "arXiv:2611.10045v1 Announce Type: new Abstract: AI sycophancy, the tendency of large language models (LLMs) to flatter users and affirm their beliefs, can undermine accuracy and contribute to misinfo…",
+   "category": "Innovation",
+   "score": 34.2,
+   "published_at": "2026-11-10T05:00:00+00:00",
+   "sources": [
+    {
+     "name": "arXiv cs.AI",
+     "url": "https://arxiv.org/abs/2611.10045"
+    }
+   ],
+   "primary_url": "https://arxiv.org/abs/2611.10045"
+  },
+  {
+   "id": "9a6a306f9b9f",
+   "title": "Veterans' Mental Health Crisis Severity Annotation: Do LLMs Agree More Than Human Experts?",
+   "summary": "arXiv:2611.10048v1 Announce Type: new Abstract: Large language models (LLMs) offer a scalable approach for annotating mental health and crisis-related social media content, but their reliability in s…",
+   "category": "Innovation",
+   "score": 34.2,
+   "published_at": "2026-11-10T05:00:00+00:00",
+   "sources": [
+    {
+     "name": "arXiv cs.AI",
+     "url": "https://arxiv.org/abs/2611.10048"
+    }
+   ],
+   "primary_url": "https://arxiv.org/abs/2611.10048"
+  },
+  {
+   "id": "1bb4d6048942",
+   "title": "LoRazor: Trimming Adapter Execution for Efficient Multi-LoRA Serving",
+   "summary": "arXiv:2611.10049v1 Announce Type: new Abstract: LoRA offers a parameter-efficient adaptation strategy, supporting multi-user workloads via customized adapters on a shared backbone. However, serving c…",
+   "category": "Innovation",
+   "score": 34.2,
+   "published_at": "2026-11-10T05:00:00+00:00",
+   "sources": [
+    {
+     "name": "arXiv cs.AI",
+     "url": "https://arxiv.org/abs/2611.10049"
+    }
+   ],
+   "primary_url": "https://arxiv.org/abs/2611.10049"
+  },
+  {
+   "id": "c21f2bf51a06",
+   "title": "AYO: A Safe and Privacy-Preserving Platform for Studying Children's Interaction with LLMs",
+   "summary": "arXiv:2611.10054v1 Announce Type: new Abstract: Children and adolescents are increasingly interacting with generative AI and large language models (LLMs), yet little is known about how these interact…",
+   "category": "Innovation",
+   "score": 34.2,
+   "published_at": "2026-11-10T05:00:00+00:00",
+   "sources": [
+    {
+     "name": "arXiv cs.AI",
+     "url": "https://arxiv.org/abs/2611.10054"
+    }
+   ],
+   "primary_url": "https://arxiv.org/abs/2611.10054"
+  },
+  {
+   "id": "6acc5b0afd19",
+   "title": "META-IR: Meta-Introspective Reasoning for Adaptive Safety Alignment in LLM",
+   "summary": "arXiv:2611.10089v1 Announce Type: new Abstract: Large Language Models (LLMs) remain vulnerable to jailbreak attacks and harmful-content prompts, particularly under adversarial distribution shifts whe…",
+   "category": "Innovation",
+   "score": 34.2,
+   "published_at": "2026-11-10T05:00:00+00:00",
+   "sources": [
+    {
+     "name": "arXiv cs.AI",
+     "url": "https://arxiv.org/abs/2611.10089"
+    }
+   ],
+   "primary_url": "https://arxiv.org/abs/2611.10089"
+  },
+  {
+   "id": "8579bdf93c70",
+   "title": "The Infrastructure Divide: Analyzing Community Stance on Data Center Development via Reddit",
+   "summary": "arXiv:2611.10109v1 Announce Type: new Abstract: The rapid expansion of AI-driven data center construction has outpaced public engagement: an estimated $64 billion in U.S. data center projects were bl…",
+   "category": "Innovation",
+   "score": 34.2,
+   "published_at": "2026-11-10T05:00:00+00:00",
+   "sources": [
+    {
+     "name": "arXiv cs.AI",
+     "url": "https://arxiv.org/abs/2611.10109"
+    }
+   ],
+   "primary_url": "https://arxiv.org/abs/2611.10109"
+  },
+  {
+   "id": "363fc9517828",
+   "title": "Homeopathic Learning: Diluting poisoned fine-tuning data can strengthen its effect",
+   "summary": "arXiv:2611.10110v1 Announce Type: new Abstract: We study homeopathic learning, a phenomenon where poisoned training data with little effect on its own can create a hidden backdoor once clean, contras…",
+   "category": "Innovation",
+   "score": 34.2,
+   "published_at": "2026-11-10T05:00:00+00:00",
+   "sources": [
+    {
+     "name": "arXiv cs.AI",
+     "url": "https://arxiv.org/abs/2611.10110"
+    }
+   ],
+   "primary_url": "https://arxiv.org/abs/2611.10110"
+  },
+  {
+   "id": "3200ea24d56a",
+   "title": "What Is the Value of AI-Involved Art? Evidence From a Juried In-Person Exhibition",
+   "summary": "arXiv:2611.10150v1 Announce Type: new Abstract: What is the value of AI-involved art, and to whom does it belong? We begin to answer these questions using data from an in-person, juried AI art exhibi…",
+   "category": "Innovation",
+   "score": 34.2,
+   "published_at": "2026-11-10T05:00:00+00:00",
+   "sources": [
+    {
+     "name": "arXiv cs.AI",
+     "url": "https://arxiv.org/abs/2611.10150"
+    }
+   ],
+   "primary_url": "https://arxiv.org/abs/2611.10150"
+  }
+ ],
+ "highlights": {
+  "Headlines": [
+   {
+    "id": "46ecb159c153",
+    "title": "Helping caregivers use AI in everyday life",
+    "summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
+    "category": "Other",
+    "score": 55.1,
+    "published_at": "2026-11-10T12:00:00+00:00",
+    "sources": [
+     {
+      "name": "OpenAI",
+      "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life"
+     }
+    ],
+    "primary_url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life"
+   },
+   {
+    "id": "f8c1a7370c13",
+    "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+    "summary": "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption.",
+    "category": "Innovation",
+    "score": 55.1,
+    "published_at": "2026-11-10T12:02:28+00:00",
+    "sources": [
+     {
+      "name": "Google DeepMind",
+      "url": "https://deepmind.google/blog/introducing-alphaproof-code/"
+     }
+    ],
+    "primary_url": "https://deepmind.google/blog/introducing-alphaproof-code/"
+   },
+   {
+    "id": "26b496ffaa34",
+    "title": "Anthropic launches roadshow for proposed initial public offering",
+    "summary": "",
+    "category": "AI Apps",
+    "score": 54.9,
+    "published_at": "2026-11-10T11:32:16+00:00",
+    "sources": [
+     {
+      "name": "Anthropic",
+      "url": "https://www.anthropic.com/news/roadshow-launch"
+     }
+    ],
+    "primary_url": "https://www.anthropic.com/news/roadshow-launch"
+   },
+   {
+    "id": "01a8528fa117",
+    "title": "Closing the AI guidance gap in education",
+    "summary": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
+    "category": "AI Apps",
+    "score": 53.8,
+    "published_at": "2026-11-10T09:00:00+00:00",
+    "sources": [
+     {
+      "name": "OpenAI",
+      "url": "https://openai.com/index/closing-ai-guidance-gap-education"
+     }
+    ],
+    "primary_url": "https://openai.com/index/closing-ai-guidance-gap-education"
+   },
+   {
+    "id": "9c331579e229",
+    "title": "ChatGPT Enterprise now available in AWS Marketplace",
+    "summary": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
+    "category": "AI Apps",
+    "score": 48.0,
+    "published_at": "2026-11-09T19:00:00+00:00",
+    "sources": [
+     {
+      "name": "OpenAI",
+      "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace"
+     }
+    ],
+    "primary_url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace"
+   },
+   {
+    "id": "f37b680abcf7",
+    "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+    "summary": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
+    "category": "Innovation",
+    "score": 45.5,
+    "published_at": "2026-11-09T13:00:00+00:00",
+    "sources": [
+     {
+      "name": "OpenAI",
+      "url": "https://openai.com/index/control-room"
+     }
+    ],
+    "primary_url": "https://openai.com/index/control-room"
+   },
+   {
+    "id": "23b94c697622",
+    "title": "CodeRabbit scales agentic software development and ships 20x more",
+    "summary": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
+    "category": "AI Agents",
+    "score": 43.4,
+    "published_at": "2026-11-09T08:00:00+00:00",
+    "sources": [
+     {
+      "name": "OpenAI",
+      "url": "https://openai.com/index/coderabbit-codex-daybreak"
+     }
+    ],
+    "primary_url": "https://openai.com/index/coderabbit-codex-daybreak"
+   },
+   {
+    "id": "932fe34bad72",
+    "title": "Kuken Industries searches 70 years of drawings in minutes",
+    "summary": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour.",
+    "category": "AI Apps",
+    "score": 43.4,
+    "published_at": "2026-11-09T08:00:00+00:00",
+    "sources": [
+     {
+      "name": "OpenAI",
+      "url": "https://openai.com/index/kuken"
+     }
+    ],
+    "primary_url": "https://openai.com/index/kuken"
+   },
+   {
+    "id": "534e23320d33",
+    "title": "AI usage generates a fragile codebase",
+    "summary": "",
+    "category": "Other",
+    "score": 56.3,
+    "published_at": "2026-11-10T10:25:58+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50438318"
+     }
+    ],
+    "primary_url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/"
+   },
+   {
+    "id": "ffe8a09e969f",
+    "title": "Claude Fable 5.2 and Mythos 5.2",
+    "summary": "",
+    "category": "Other",
+    "score": 55.6,
+    "published_at": "2026-11-09T18:01:10+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50429068"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50429906"
+     }
+    ],
+    "primary_url": "https://www.anthropic.com/claude-fable-and-mythos-5-2"
+   }
+  ],
+  "Dark Horses": [
+   {
+    "id": "b4717b7762b7",
+    "title": "I'm not convinced the AI bubble exists",
+    "summary": "",
+    "category": "Other",
+    "score": 46.3,
+    "published_at": "2026-11-08T23:44:36+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50418975"
+     }
+    ],
+    "primary_url": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists"
+   },
+   {
+    "id": "45fb196cb1bb",
+    "title": "How I'm fighting the AI brain fry",
+    "summary": "",
+    "category": "Other",
+    "score": 42.9,
+    "published_at": "2026-11-08T19:37:42+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50416363"
+     }
+    ],
+    "primary_url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry"
+   },
+   {
+    "id": "458bb1a34baf",
+    "title": "CoreWeave bond yield tops 16% as AI credit stress rises",
+    "summary": "",
+    "category": "Other",
+    "score": 54.5,
+    "published_at": "2026-11-10T03:20:06+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50435660"
+     }
+    ],
+    "primary_url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html"
+   },
+   {
+    "id": "913ed88b2f74",
+    "title": "DeepX claims inference up to 100B parameters at less than 5 W",
+    "summary": "",
+    "category": "Other",
+    "score": 50.5,
+    "published_at": "2026-11-09T18:33:58+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://www.eetimes.com/deepx-tapes-out-second-gen-chip-projects-6-7x-performance-gain-with-lpddr5x-pim/"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50429545"
+     }
+    ],
+    "primary_url": "https://www.eetimes.com/deepx-tapes-out-second-gen-chip-projects-6-7x-performance-gain-with-lpddr5x-pim/"
+   },
+   {
+    "id": "5d3327229121",
+    "title": "A year after the 100% AI mandate nobody understands our code",
+    "summary": "",
+    "category": "Other",
+    "score": 51.7,
+    "published_at": "2026-11-09T22:19:12+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://www.reddit.com/r/ClaudeCode/comments/1xq2n3t/a_year_after_the_100_ai_mandate_nobody/"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50433079"
+     }
+    ],
+    "primary_url": "https://www.reddit.com/r/ClaudeCode/comments/1xq2n3t/a_year_after_the_100_ai_mandate_nobody/"
+   },
+   {
+    "id": "534e23320d33",
+    "title": "AI usage generates a fragile codebase",
+    "summary": "",
+    "category": "Other",
+    "score": 56.3,
+    "published_at": "2026-11-10T10:25:58+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50438318"
+     }
+    ],
+    "primary_url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/"
+   }
+  ],
+  "Rising": [
+   {
+    "id": "10ba719313a0",
+    "title": "anthropics/skills: Public repository for Agent Skills",
+    "summary": "Public repository for Agent Skills",
+    "category": "Skills",
+    "score": 54.0,
+    "published_at": "2026-11-10T14:11:13.537826+00:00",
+    "sources": [
+     {
+      "name": "GitHub Trending",
+      "url": "https://github.com/anthropics/skills"
+     }
+    ],
+    "primary_url": "https://github.com/anthropics/skills"
+   },
+   {
+    "id": "46e307363c08",
+    "title": "speridlabs/idol",
+    "summary": "",
+    "category": "Open Source",
+    "score": 54.0,
+    "published_at": "2026-11-10T14:11:13.537826+00:00",
+    "sources": [
+     {
+      "name": "Hugging Face Trending",
+      "url": "https://huggingface.co/speridlabs/idol"
+     }
+    ],
+    "primary_url": "https://huggingface.co/speridlabs/idol"
+   },
+   {
+    "id": "276a2df43aba",
+    "title": "ricursiveAI/Ripple-65B-Preview",
+    "summary": "",
+    "category": "Open Source",
+    "score": 52.0,
+    "published_at": "2026-11-10T14:11:13.537826+00:00",
+    "sources": [
+     {
+      "name": "Hugging Face Trending",
+      "url": "https://huggingface.co/ricursiveAI/Ripple-65B-Preview"
+     }
+    ],
+    "primary_url": "https://huggingface.co/ricursiveAI/Ripple-65B-Preview"
+   },
+   {
+    "id": "1ceb56a3b374",
+    "title": "vercel-labs/agent-browser: Browser automation CLI for AI agents",
+    "summary": "Browser automation CLI for AI agents",
+    "category": "AI Agents",
+    "score": 51.9,
+    "published_at": "2026-11-10T14:11:13.537826+00:00",
+    "sources": [
+     {
+      "name": "GitHub Trending",
+      "url": "https://github.com/vercel-labs/agent-browser"
+     }
+    ],
+    "primary_url": "https://github.com/vercel-labs/agent-browser"
+   },
+   {
+    "id": "04ce1345cda9",
+    "title": "Lightricks/LTX-2.5",
+    "summary": "",
+    "category": "Open Source",
+    "score": 51.6,
+    "published_at": "2026-11-10T14:11:13.537826+00:00",
+    "sources": [
+     {
+      "name": "Hugging Face Trending",
+      "url": "https://huggingface.co/Lightricks/LTX-2.5"
+     }
+    ],
+    "primary_url": "https://huggingface.co/Lightricks/LTX-2.5"
+   },
+   {
+    "id": "55ffe1fba5ed",
+    "title": "NousResearch/Arete-27B",
+    "summary": "",
+    "category": "Open Source",
+    "score": 51.4,
+    "published_at": "2026-11-10T14:11:13.537826+00:00",
+    "sources": [
+     {
+      "name": "Hugging Face Trending",
+      "url": "https://huggingface.co/NousResearch/Arete-27B"
+     }
+    ],
+    "primary_url": "https://huggingface.co/NousResearch/Arete-27B"
+   },
+   {
+    "id": "1c6441623ff5",
+    "title": "ccore/Qwen3.5-4B-3D-Coder",
+    "summary": "",
+    "category": "Innovation",
+    "score": 51.2,
+    "published_at": "2026-11-10T14:11:13.537826+00:00",
+    "sources": [
+     {
+      "name": "Hugging Face Trending",
+      "url": "https://huggingface.co/ccore/Qwen3.5-4B-3D-Coder"
+     }
+    ],
+    "primary_url": "https://huggingface.co/ccore/Qwen3.5-4B-3D-Coder"
+   },
+   {
+    "id": "d0b5754fb37f",
+    "title": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
+    "summary": "",
+    "category": "Innovation",
+    "score": 51.2,
+    "published_at": "2026-11-10T14:11:13.537826+00:00",
+    "sources": [
+     {
+      "name": "Hugging Face Trending",
+      "url": "https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF"
+     }
+    ],
+    "primary_url": "https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF"
+   },
+   {
+    "id": "2e74d0228d63",
+    "title": "addyosmani/agent-skills: Production-grade engineering skills for AI coding agents.",
+    "summary": "Production-grade engineering skills for AI coding agents.",
+    "category": "Skills",
+    "score": 50.6,
+    "published_at": "2026-11-10T14:11:13.537826+00:00",
+    "sources": [
+     {
+      "name": "GitHub Trending",
+      "url": "https://github.com/addyosmani/agent-skills"
+     }
+    ],
+    "primary_url": "https://github.com/addyosmani/agent-skills"
+   },
+   {
+    "id": "4662bc6e15d2",
+    "title": "webAI-Official/TwIL-8B",
+    "summary": "",
+    "category": "Open Source",
+    "score": 50.4,
+    "published_at": "2026-11-10T14:11:13.537826+00:00",
+    "sources": [
+     {
+      "name": "Hugging Face Trending",
+      "url": "https://huggingface.co/webAI-Official/TwIL-8B"
+     }
+    ],
+    "primary_url": "https://huggingface.co/webAI-Official/TwIL-8B"
+   }
+  ]
+ },
+ "categories": {
+  "AI Agents": [
+   {
+    "id": "1ceb56a3b374",
+    "title": "vercel-labs/agent-browser: Browser automation CLI for AI agents",
+    "summary": "Browser automation CLI for AI agents",
+    "category": "AI Agents",
+    "score": 51.9,
+    "published_at": "2026-11-10T14:11:13.537826+00:00",
+    "sources": [
+     {
+      "name": "GitHub Trending",
+      "url": "https://github.com/vercel-labs/agent-browser"
+     }
+    ],
+    "primary_url": "https://github.com/vercel-labs/agent-browser"
+   },
+   {
+    "id": "c188bc0e2291",
+    "title": "After challenging Google’s Android with Cyanogen, its co-founder takes aim at Windows for AI era",
+    "summary": "Kora is set to launch as a free-to-use alternative to Windows, targeting users who rely heavily on AI models and agents.",
+    "category": "AI Agents",
+    "score": 49.9,
+    "published_at": "2026-11-10T14:00:00+00:00",
+    "sources": [
+     {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/"
+     }
+    ],
+    "primary_url": "https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/"
+   },
+   {
+    "id": "85e69ee9d60b",
+    "title": "Adobe is going all in on agentic AI",
+    "summary": "Adobe is committing itself to the notion that chatbots and AI agents could be your next design assistant, or even automate creative workflows and repetitive tasks on your behalf. Some of the tools an…",
+    "category": "AI Agents",
+    "score": 49.9,
+    "published_at": "2026-11-10T14:00:00+00:00",
+    "sources": [
+     {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/tech/1030593/adobe-max-ai-agents-mcp-firefly-assistant-updates"
+     }
+    ],
+    "primary_url": "https://www.theverge.com/tech/1030593/adobe-max-ai-agents-mcp-firefly-assistant-updates"
+   },
+   {
+    "id": "68ff5ed661ee",
+    "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
+    "summary": "",
+    "category": "AI Agents",
+    "score": 45.4,
+    "published_at": "2026-11-08T18:16:07+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50415628"
+     }
+    ],
+    "primary_url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers"
+   },
+   {
+    "id": "23b94c697622",
+    "title": "CodeRabbit scales agentic software development and ships 20x more",
+    "summary": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
+    "category": "AI Agents",
+    "score": 43.4,
+    "published_at": "2026-11-09T08:00:00+00:00",
+    "sources": [
+     {
+      "name": "OpenAI",
+      "url": "https://openai.com/index/coderabbit-codex-daybreak"
+     }
+    ],
+    "primary_url": "https://openai.com/index/coderabbit-codex-daybreak"
+   },
+   {
+    "id": "3e602b87c2e3",
+    "title": "微軟WinApp CLI新增WinUI DevTools，AI代理可檢查執行中的介面元件",
+    "summary": "新聞 微軟發布Windows應用程式命令列開發工具 WinApp CLI 0.8 ，新增實驗性預覽功能WinUI DevTools，讓開發者及AI代理檢查執行中的WinUI 3應用程式，查看介面元件屬性、版面配置及對應的XAML原始碼位置，也能即時測試修改結果。新版另加入效能分析及C++專案支援。 WinApp CLI可協助開發者透過終端機或AI代理建立、執行、除錯及封裝Windows應用程式。…",
+    "category": "AI Agents",
+    "score": 42.7,
+    "published_at": "2026-11-10T11:02:48+00:00",
+    "sources": [
+     {
+      "name": "iThome",
+      "url": "https://www.ithome.com.tw/news/180394"
+     }
+    ],
+    "primary_url": "https://www.ithome.com.tw/news/180394"
+   },
+   {
+    "id": "99d632aaa416",
+    "title": "Meta releases Muse Ember, a new lightweight model for agent execution",
+    "summary": "At 10 cents per million input tokens, Ember is significantly cheaper than frontier competitors like Haiku and Luna.",
+    "category": "AI Agents",
+    "score": 41.6,
+    "published_at": "2026-11-09T18:00:00+00:00",
+    "sources": [
+     {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/"
+     }
+    ],
+    "primary_url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/"
+   },
+   {
+    "id": "1f917ef42e11",
+    "title": "Claude Code is accidentally exposing secrets all over GitHub",
+    "summary": "\"Do not ask again\" prompt leads to passwords, API keys, and more being shared.",
+    "category": "AI Agents",
+    "score": 41.3,
+    "published_at": "2026-11-09T17:24:26+00:00",
+    "sources": [
+     {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/"
+     }
+    ],
+    "primary_url": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/"
+   },
+   {
+    "id": "38995d3fca35",
+    "title": "Korea Advances Physical AI Across Industries With NVIDIA",
+    "summary": "Tapping into the country’s strengths in manufacturing and engineering, NVIDIA is helping advance Korea’s physical AI ecosystem. The country’s industry leaders are applying accelerated computing, AI a…",
+    "category": "AI Agents",
+    "score": 36.2,
+    "published_at": "2026-11-09T05:00:40+00:00",
+    "sources": [
+     {
+      "name": "NVIDIA Blog",
+      "url": "https://blogs.nvidia.com/blog/korea-physical-ai-ecosystem/"
+     }
+    ],
+    "primary_url": "https://blogs.nvidia.com/blog/korea-physical-ai-ecosystem/"
+   },
+   {
+    "id": "51bc8200bfc7",
+    "title": "Korea’s AI Ecosystem Advances and Secures Agentic AI With NVIDIA",
+    "summary": "As AI agents take on more work, they need capable open models and security that advances alongside them. Hyundai Motor Group is exploring NVIDIA NemoClaw blueprints and the NVIDIA OpenShell runtime, …",
+    "category": "AI Agents",
+    "score": 36.2,
+    "published_at": "2026-11-09T05:00:39+00:00",
+    "sources": [
+     {
+      "name": "NVIDIA Blog",
+      "url": "https://blogs.nvidia.com/blog/korea-secure-agentic-ai/"
+     }
+    ],
+    "primary_url": "https://blogs.nvidia.com/blog/korea-secure-agentic-ai/"
+   }
+  ],
+  "AI Apps": [
+   {
+    "id": "26b496ffaa34",
+    "title": "Anthropic launches roadshow for proposed initial public offering",
+    "summary": "",
+    "category": "AI Apps",
+    "score": 54.9,
+    "published_at": "2026-11-10T11:32:16+00:00",
+    "sources": [
+     {
+      "name": "Anthropic",
+      "url": "https://www.anthropic.com/news/roadshow-launch"
+     }
+    ],
+    "primary_url": "https://www.anthropic.com/news/roadshow-launch"
+   },
+   {
+    "id": "01a8528fa117",
+    "title": "Closing the AI guidance gap in education",
+    "summary": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
+    "category": "AI Apps",
+    "score": 53.8,
+    "published_at": "2026-11-10T09:00:00+00:00",
+    "sources": [
+     {
+      "name": "OpenAI",
+      "url": "https://openai.com/index/closing-ai-guidance-gap-education"
+     }
+    ],
+    "primary_url": "https://openai.com/index/closing-ai-guidance-gap-education"
+   },
+   {
+    "id": "4ddbe1642bc5",
+    "title": "Photoshop, Lightroom, and Premiere are making it easier to remove things",
+    "summary": "Adobe is expanding its Creative Cloud apps and Firefly AI platform with new capabilities that aim to make design and editing projects faster and less complicated. Some of the announcements from Adobe…",
+    "category": "AI Apps",
+    "score": 49.9,
+    "published_at": "2026-11-10T14:00:00+00:00",
+    "sources": [
+     {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/tech/1030653/adobe-max-2026-photoshop-premiere-removal-updates"
+     }
+    ],
+    "primary_url": "https://www.theverge.com/tech/1030653/adobe-max-2026-photoshop-premiere-removal-updates"
+   },
+   {
+    "id": "af2672128856",
+    "title": "Hands-on with Ring’s new AI drone camera for your home",
+    "summary": "Ring is finally shipping a flying indoor drone camera. For real this time. The Ring Drone Cam will arrive on January 27th, 2027, for $249.99, Ring founder Jamie Siminoff said at a launch event in New…",
+    "category": "AI Apps",
+    "score": 49.7,
+    "published_at": "2026-11-10T13:30:00+00:00",
+    "sources": [
+     {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/tech/1030601/ring-drone-cam-hands-on-price-release-date-ai-pilot"
+     }
+    ],
+    "primary_url": "https://www.theverge.com/tech/1030601/ring-drone-cam-hands-on-price-release-date-ai-pilot"
+   },
+   {
+    "id": "9c331579e229",
+    "title": "ChatGPT Enterprise now available in AWS Marketplace",
+    "summary": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
+    "category": "AI Apps",
+    "score": 48.0,
+    "published_at": "2026-11-09T19:00:00+00:00",
+    "sources": [
+     {
+      "name": "OpenAI",
+      "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace"
+     }
+    ],
+    "primary_url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace"
+   },
+   {
+    "id": "0cb7ad579ad8",
+    "title": "Otter AI can now follow conversations across 30+ languages",
+    "summary": "Otter AI just added support for 27 languages and revealed an upcoming feature that can follow along if speakers switch between languages.",
+    "category": "AI Apps",
+    "score": 47.0,
+    "published_at": "2026-11-10T07:00:00+00:00",
+    "sources": [
+     {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/"
+     }
+    ],
+    "primary_url": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/"
+   },
+   {
+    "id": "932fe34bad72",
+    "title": "Kuken Industries searches 70 years of drawings in minutes",
+    "summary": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour.",
+    "category": "AI Apps",
+    "score": 43.4,
+    "published_at": "2026-11-09T08:00:00+00:00",
+    "sources": [
+     {
+      "name": "OpenAI",
+      "url": "https://openai.com/index/kuken"
+     }
+    ],
+    "primary_url": "https://openai.com/index/kuken"
+   },
+   {
+    "id": "9eb04da14572",
+    "title": "應用程式安全檢測可透過臺灣SaaS平臺執行，叡揚資訊促成Mend臺灣雲端區域上線",
+    "summary": "新聞 因應臺灣企業與組織對於主權IT的重視程度日益提高，越來越多國際資安廠商選擇在臺灣提供在地化的雲端服務。以今年為例，公有雲暨資安服務廠商Google Cloud於8月初 宣布 ，在臺灣雲端區域正式啟用Google Security Operations服務，協助臺灣的企業與組織滿足資料治理及資料落地的需求，在代理商叡揚資訊持續溝通與協助之下，10月下半又有另一家資安廠商 Mend 宣布在臺灣…",
+    "category": "AI Apps",
+    "score": 42.6,
+    "published_at": "2026-11-10T10:47:52+00:00",
+    "sources": [
+     {
+      "name": "iThome",
+      "url": "https://www.ithome.com.tw/news/180393"
+     }
+    ],
+    "primary_url": "https://www.ithome.com.tw/news/180393"
+   },
+   {
+    "id": "69285a1f42cc",
+    "title": "英特爾在臺揭露主流PC、邊緣運算到資料中心最新運算架構，加速布局Agent AI",
+    "summary": "新聞 英特爾在今年8月舉行的Hot Chips 2026展示最新架構，反映AI運算競爭正在改變方向。過去幾年，市場焦點多集中於大型模型訓練，需要大量GPU算力與資料中心資源，但隨著生成式AI逐漸進入企業應用，接下來的挑戰將轉向如何讓模型被廣泛使用，也就是大規模推論。 呼應「Inference Everywhere」的策略願景，英特爾今天(11/10)在臺揭露AI PC、資料中心GPU與CPU三個…",
+    "category": "AI Apps",
+    "score": 42.5,
+    "published_at": "2026-11-10T10:29:25+00:00",
+    "sources": [
+     {
+      "name": "iThome",
+      "url": "https://www.ithome.com.tw/news/180395"
+     }
+    ],
+    "primary_url": "https://www.ithome.com.tw/news/180395"
+   },
+   {
+    "id": "e89d75cee3fd",
+    "title": "NVIDIA 跌逾 4%、AMD 卻大漲 13%！華爾街分析師升評，看好資料中心商機",
+    "summary": "Oppenheimer 分析師薛佛 Rick Schafer 認為，AMD 逐漸成為 AI 運算市場的長期供應商，跨世代客戶訂單與 Helios 機櫃級解決方案，有助擴大資料中心業務規模。Instinct 系列加速器每年推出新品，以及開放式軟體生態系持續改善，也將強化競爭力。",
+    "category": "AI Apps",
+    "score": 42.3,
+    "published_at": "2026-11-10T10:02:00+00:00",
+    "sources": [
+     {
+      "name": "INSIDE",
+      "url": "https://www.inside.com.tw/article/42872-amd-stock-surges-13-percent-nvidia-falls-analyst-upgrade"
+     }
+    ],
+    "primary_url": "https://www.inside.com.tw/article/42872-amd-stock-surges-13-percent-nvidia-falls-analyst-upgrade"
+   }
+  ],
+  "Skills": [
+   {
+    "id": "10ba719313a0",
+    "title": "anthropics/skills: Public repository for Agent Skills",
+    "summary": "Public repository for Agent Skills",
+    "category": "Skills",
+    "score": 54.0,
+    "published_at": "2026-11-10T14:11:13.537826+00:00",
+    "sources": [
+     {
+      "name": "GitHub Trending",
+      "url": "https://github.com/anthropics/skills"
+     }
+    ],
+    "primary_url": "https://github.com/anthropics/skills"
+   },
+   {
+    "id": "2e74d0228d63",
+    "title": "addyosmani/agent-skills: Production-grade engineering skills for AI coding agents.",
+    "summary": "Production-grade engineering skills for AI coding agents.",
+    "category": "Skills",
+    "score": 50.6,
+    "published_at": "2026-11-10T14:11:13.537826+00:00",
+    "sources": [
+     {
+      "name": "GitHub Trending",
+      "url": "https://github.com/addyosmani/agent-skills"
+     }
+    ],
+    "primary_url": "https://github.com/addyosmani/agent-skills"
+   }
+  ],
+  "MCP": [
+   {
+    "id": "81f33d0f3f66",
+    "title": "homeassistant-ai/ha-mcp: Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+    "summary": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+    "category": "MCP",
+    "score": 52.0,
+    "published_at": "2026-11-10T14:11:13.537826+00:00",
+    "sources": [
+     {
+      "name": "GitHub Trending",
+      "url": "https://github.com/homeassistant-ai/ha-mcp"
+     }
+    ],
+    "primary_url": "https://github.com/homeassistant-ai/ha-mcp"
+   },
+   {
+    "id": "f9ddc69f8317",
+    "title": "Adobe adds more AI to its products and launches an MCP",
+    "summary": "Adobe is taking on Figma with a new prototype builder tool in Firefly.",
+    "category": "MCP",
+    "score": 50.0,
+    "published_at": "2026-11-10T14:05:10+00:00",
+    "sources": [
+     {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/"
+     }
+    ],
+    "primary_url": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/"
+   }
+  ],
+  "Open Source": [
+   {
+    "id": "46e307363c08",
+    "title": "speridlabs/idol",
+    "summary": "",
+    "category": "Open Source",
+    "score": 54.0,
+    "published_at": "2026-11-10T14:11:13.537826+00:00",
+    "sources": [
+     {
+      "name": "Hugging Face Trending",
+      "url": "https://huggingface.co/speridlabs/idol"
+     }
+    ],
+    "primary_url": "https://huggingface.co/speridlabs/idol"
+   },
+   {
+    "id": "7838c87736f9",
+    "title": "moonshotai/Kimi-K3.1-Pro",
+    "summary": "",
+    "category": "Open Source",
+    "score": 52.8,
+    "published_at": "2026-11-10T14:11:13.537826+00:00",
+    "sources": [
+     {
+      "name": "Hugging Face Trending",
+      "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro"
+     }
+    ],
+    "primary_url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro"
+   },
+   {
+    "id": "276a2df43aba",
+    "title": "ricursiveAI/Ripple-65B-Preview",
+    "summary": "",
+    "category": "Open Source",
+    "score": 52.0,
+    "published_at": "2026-11-10T14:11:13.537826+00:00",
+    "sources": [
+     {
+      "name": "Hugging Face Trending",
+      "url": "https://huggingface.co/ricursiveAI/Ripple-65B-Preview"
+     }
+    ],
+    "primary_url": "https://huggingface.co/ricursiveAI/Ripple-65B-Preview"
+   },
+   {
+    "id": "04ce1345cda9",
+    "title": "Lightricks/LTX-2.5",
+    "summary": "",
+    "category": "Open Source",
+    "score": 51.6,
+    "published_at": "2026-11-10T14:11:13.537826+00:00",
+    "sources": [
+     {
+      "name": "Hugging Face Trending",
+      "url": "https://huggingface.co/Lightricks/LTX-2.5"
+     }
+    ],
+    "primary_url": "https://huggingface.co/Lightricks/LTX-2.5"
+   },
+   {
+    "id": "55ffe1fba5ed",
+    "title": "NousResearch/Arete-27B",
+    "summary": "",
+    "category": "Open Source",
+    "score": 51.4,
+    "published_at": "2026-11-10T14:11:13.537826+00:00",
+    "sources": [
+     {
+      "name": "Hugging Face Trending",
+      "url": "https://huggingface.co/NousResearch/Arete-27B"
+     }
+    ],
+    "primary_url": "https://huggingface.co/NousResearch/Arete-27B"
+   },
+   {
+    "id": "26b52d229f33",
+    "title": "anthropics/claude-quickstarts: A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+    "summary": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+    "category": "Open Source",
+    "score": 50.9,
+    "published_at": "2026-11-10T14:11:13.537826+00:00",
+    "sources": [
+     {
+      "name": "GitHub Trending",
+      "url": "https://github.com/anthropics/claude-quickstarts"
+     }
+    ],
+    "primary_url": "https://github.com/anthropics/claude-quickstarts"
+   },
+   {
+    "id": "2ed36b56a538",
+    "title": "google-deepmind/mujoco: Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+    "summary": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+    "category": "Open Source",
+    "score": 50.5,
+    "published_at": "2026-11-10T14:11:13.537826+00:00",
+    "sources": [
+     {
+      "name": "GitHub Trending",
+      "url": "https://github.com/google-deepmind/mujoco"
+     }
+    ],
+    "primary_url": "https://github.com/google-deepmind/mujoco"
+   },
+   {
+    "id": "4662bc6e15d2",
+    "title": "webAI-Official/TwIL-8B",
+    "summary": "",
+    "category": "Open Source",
+    "score": 50.4,
+    "published_at": "2026-11-10T14:11:13.537826+00:00",
+    "sources": [
+     {
+      "name": "Hugging Face Trending",
+      "url": "https://huggingface.co/webAI-Official/TwIL-8B"
+     }
+    ],
+    "primary_url": "https://huggingface.co/webAI-Official/TwIL-8B"
+   },
+   {
+    "id": "d8a967756fad",
+    "title": "Cyberattacks threaten to make open-source AI a little less open, Hugging Face exec warns",
+    "summary": "Hugging Face executive Irene Solaiman warns that growing cyberattacks on open AI platforms could force tighter security restrictions, threatening the accessibility that makes open-source communities …",
+    "category": "Open Source",
+    "score": 49.5,
+    "published_at": "2026-11-10T13:00:00+00:00",
+    "sources": [
+     {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/"
+     }
+    ],
+    "primary_url": "https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/"
+   }
+  ],
+  "Innovation": [
+   {
+    "id": "f8c1a7370c13",
+    "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+    "summary": "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption.",
+    "category": "Innovation",
+    "score": 55.1,
+    "published_at": "2026-11-10T12:02:28+00:00",
+    "sources": [
+     {
+      "name": "Google DeepMind",
+      "url": "https://deepmind.google/blog/introducing-alphaproof-code/"
+     }
+    ],
+    "primary_url": "https://deepmind.google/blog/introducing-alphaproof-code/"
+   },
+   {
+    "id": "4c35a47638c4",
+    "title": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+    "summary": "",
+    "category": "Innovation",
+    "score": 54.0,
+    "published_at": "2026-11-10T14:11:13.537826+00:00",
+    "sources": [
+     {
+      "name": "Hugging Face Trending",
+      "url": "https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic"
+     }
+    ],
+    "primary_url": "https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic"
+   },
+   {
+    "id": "1c6441623ff5",
+    "title": "ccore/Qwen3.5-4B-3D-Coder",
+    "summary": "",
+    "category": "Innovation",
+    "score": 51.2,
+    "published_at": "2026-11-10T14:11:13.537826+00:00",
+    "sources": [
+     {
+      "name": "Hugging Face Trending",
+      "url": "https://huggingface.co/ccore/Qwen3.5-4B-3D-Coder"
+     }
+    ],
+    "primary_url": "https://huggingface.co/ccore/Qwen3.5-4B-3D-Coder"
+   },
+   {
+    "id": "d0b5754fb37f",
+    "title": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
+    "summary": "",
+    "category": "Innovation",
+    "score": 51.2,
+    "published_at": "2026-11-10T14:11:13.537826+00:00",
+    "sources": [
+     {
+      "name": "Hugging Face Trending",
+      "url": "https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF"
+     }
+    ],
+    "primary_url": "https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF"
+   },
+   {
+    "id": "6c64301c09e0",
+    "title": "Qwen/Qwen3.8-27B",
+    "summary": "",
+    "category": "Innovation",
+    "score": 51.0,
+    "published_at": "2026-11-10T14:11:13.537826+00:00",
+    "sources": [
+     {
+      "name": "Hugging Face Trending",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B"
+     }
+    ],
+    "primary_url": "https://huggingface.co/Qwen/Qwen3.8-27B"
+   },
+   {
+    "id": "f37b680abcf7",
+    "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+    "summary": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
+    "category": "Innovation",
+    "score": 45.5,
+    "published_at": "2026-11-09T13:00:00+00:00",
+    "sources": [
+     {
+      "name": "OpenAI",
+      "url": "https://openai.com/index/control-room"
+     }
+    ],
+    "primary_url": "https://openai.com/index/control-room"
+   },
+   {
+    "id": "432027aa0838",
+    "title": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
+    "summary": "Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive.",
+    "category": "Innovation",
+    "score": 43.6,
+    "published_at": "2026-11-09T22:46:09+00:00",
+    "sources": [
+     {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/"
+     }
+    ],
+    "primary_url": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/"
+   },
+   {
+    "id": "7cd5e1029071",
+    "title": "Practice Makes Precise: At CoRL, NVIDIA and Partners Reveal How Robots Rehearse Delicate Work in Simulation",
+    "summary": "Simulation, which has long been the proving ground for robots learning to walk, roll and hop, is now helping researchers teach robots tasks that require a finer touch: aligning gears, connecting cabl…",
+    "category": "Innovation",
+    "score": 39.9,
+    "published_at": "2026-11-09T14:00:01+00:00",
+    "sources": [
+     {
+      "name": "NVIDIA Blog",
+      "url": "https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl/"
+     }
+    ],
+    "primary_url": "https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl/"
+   },
+   {
+    "id": "d8369c79b7c5",
+    "title": "Anthropic 發表 Fable 5.2 與 Mythos 5.2，模型「懷疑自己正在受測」的頻率高於近期 Claude 模型",
+    "summary": "Anthropic 發表 Fable 5.2 與 Mythos 5.2，這是 METR 估計其研發提速約 2 倍後的首次發表，輸入價從每百萬 token 10 美元降到 8 美元，官方也承認新模型比近期任何一款 Claude 更常懷疑自己正在受測。",
+    "category": "Innovation",
+    "score": 39.8,
+    "published_at": "2026-11-10T04:06:00+00:00",
+    "sources": [
+     {
+      "name": "INSIDE",
+      "url": "https://www.inside.com.tw/article/42865-anthropic-fable-mythos-5-2-metr-evaluation-awareness"
+     }
+    ],
+    "primary_url": "https://www.inside.com.tw/article/42865-anthropic-fable-mythos-5-2-metr-evaluation-awareness"
+   },
+   {
+    "id": "c5536f6e1237",
+    "title": "NVIDIA Dynamo Recipes Bring Korea’s Leading Open Models to Production",
+    "summary": "NVIDIA is releasing Dynamo-optimized deployment recipes for Korea’s leading open models: A.X K2 from SK Telecom, K-EXAONE 2.0 from LG AI Research, Solar Open 2 from Upstage and Motif-3 from Motif Tec…",
+    "category": "Innovation",
+    "score": 36.2,
+    "published_at": "2026-11-09T05:00:00+00:00",
+    "sources": [
+     {
+      "name": "NVIDIA Blog",
+      "url": "https://blogs.nvidia.com/blog/nvidia-dynamo-korea-open-models/"
+     }
+    ],
+    "primary_url": "https://blogs.nvidia.com/blog/nvidia-dynamo-korea-open-models/"
+   }
+  ],
+  "Security": [
+   {
+    "id": "40ae9fea1ce7",
+    "title": "WorkOS資料外洩事故出現新進展，AI滲透測試框架突破測試環境釀禍",
+    "summary": "新聞 上週 身分驗證服務公司WorkOS發生資料外洩事故 ，該公司內部銷售應用程式遭未經授權存取，攻擊者疑似使用AI滲透測試框架ARTEX自動化執行。 事隔數日此事出現新的變化 ，有研究人員承認，其實是他們正在透過ARTEX執行資安基準測試的過程當中，該AI代理意外逃脫隔離測試環境造成。WorkOS資安團隊與第三方鑑識團隊分析研究人員提供的相關技術資料，並與WorkOS內部系統記錄交叉驗證，確認…",
+    "category": "Security",
+    "score": 41.9,
+    "published_at": "2026-11-10T09:08:07+00:00",
+    "sources": [
+     {
+      "name": "iThome",
+      "url": "https://www.ithome.com.tw/news/180388"
+     }
+    ],
+    "primary_url": "https://www.ithome.com.tw/news/180388"
+   },
+   {
+    "id": "898b81faa6e2",
+    "title": "美國司法部成立AI犯罪專責單位，打擊詐騙及其他非法活動",
+    "summary": "新聞 美國司法部宣布 成立超級智慧任務編組（Super Intelligence Task Force，DOJ-SITF），以打擊美國國內外的AI詐騙或駭客行為。 這是 9月底美國總統川普 將人工智慧（AI）改名為超級智慧（SI）後，美國政府持續在法制化機構中落實確保美國在AI產業領先地位的行動。 DOJ-SITF由副司法部長Stanley Woodward及副助理司法部長Stephen Wei…",
+    "category": "Security",
+    "score": 41.2,
+    "published_at": "2026-11-10T07:21:45+00:00",
+    "sources": [
+     {
+      "name": "iThome",
+      "url": "https://www.ithome.com.tw/news/180378"
+     }
+    ],
+    "primary_url": "https://www.ithome.com.tw/news/180378"
+   },
+   {
+    "id": "019290d1ee6d",
+    "title": "【資安日報】11月10日，甫揭露的OpenSSH漏洞SSHole出現嘗試利用活動",
+    "summary": "新聞 本日新聞焦點 ● 甫揭露的OpenSSH漏洞SSHole出現嘗試利用活動 ● 法國將10月冷凍與冷藏設備網攻歸因於伊朗，波及約700處零售據點 ● SEGA集團因日本Arara資安事件外洩資料近220萬筆 ● 高雄警方破獲民眾透過AI自學架設自動化網路攻擊系統 ● DigiCert資料外洩源自伺服器遷移疏失，導致內部系統暴露網際網路 資安新聞總覽 法國將10月冷凍與冷藏設備網攻歸因於伊朗網…",
+    "category": "Security",
+    "score": 41.0,
+    "published_at": "2026-11-10T06:55:26+00:00",
+    "sources": [
+     {
+      "name": "iThome",
+      "url": "https://www.ithome.com.tw/news/180375"
+     }
+    ],
+    "primary_url": "https://www.ithome.com.tw/news/180375"
+   }
+  ],
+  "Other": [
+   {
+    "id": "534e23320d33",
+    "title": "AI usage generates a fragile codebase",
+    "summary": "",
+    "category": "Other",
+    "score": 56.3,
+    "published_at": "2026-11-10T10:25:58+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50438318"
+     }
+    ],
+    "primary_url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/"
+   },
+   {
+    "id": "ffe8a09e969f",
+    "title": "Claude Fable 5.2 and Mythos 5.2",
+    "summary": "",
+    "category": "Other",
+    "score": 55.6,
+    "published_at": "2026-11-09T18:01:10+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50429068"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50429906"
+     }
+    ],
+    "primary_url": "https://www.anthropic.com/claude-fable-and-mythos-5-2"
+   },
+   {
+    "id": "46ecb159c153",
+    "title": "Helping caregivers use AI in everyday life",
+    "summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
+    "category": "Other",
+    "score": 55.1,
+    "published_at": "2026-11-10T12:00:00+00:00",
+    "sources": [
+     {
+      "name": "OpenAI",
+      "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life"
+     }
+    ],
+    "primary_url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life"
+   },
+   {
+    "id": "1b18e8c9acf7",
+    "title": "Google Gemini routes personal Drive files and emails to human annotators",
+    "summary": "",
+    "category": "Other",
+    "score": 54.7,
+    "published_at": "2026-11-09T18:24:38+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://github.com/thisisme6598/gemini_files/"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50429426"
+     }
+    ],
+    "primary_url": "https://github.com/thisisme6598/gemini_files/"
+   },
+   {
+    "id": "458bb1a34baf",
+    "title": "CoreWeave bond yield tops 16% as AI credit stress rises",
+    "summary": "",
+    "category": "Other",
+    "score": 54.5,
+    "published_at": "2026-11-10T03:20:06+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50435660"
+     }
+    ],
+    "primary_url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html"
+   },
+   {
+    "id": "255b56db4a4a",
+    "title": "Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far",
+    "summary": "",
+    "category": "Other",
+    "score": 53.5,
+    "published_at": "2026-11-09T20:04:55+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://artificialanalysis.ai/models/claude-fable-5-2"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50431144"
+     }
+    ],
+    "primary_url": "https://artificialanalysis.ai/models/claude-fable-5-2"
+   },
+   {
+    "id": "5d3327229121",
+    "title": "A year after the 100% AI mandate nobody understands our code",
+    "summary": "",
+    "category": "Other",
+    "score": 51.7,
+    "published_at": "2026-11-09T22:19:12+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://www.reddit.com/r/ClaudeCode/comments/1xq2n3t/a_year_after_the_100_ai_mandate_nobody/"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50433079"
+     }
+    ],
+    "primary_url": "https://www.reddit.com/r/ClaudeCode/comments/1xq2n3t/a_year_after_the_100_ai_mandate_nobody/"
+   },
+   {
+    "id": "913ed88b2f74",
+    "title": "DeepX claims inference up to 100B parameters at less than 5 W",
+    "summary": "",
+    "category": "Other",
+    "score": 50.5,
+    "published_at": "2026-11-09T18:33:58+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://www.eetimes.com/deepx-tapes-out-second-gen-chip-projects-6-7x-performance-gain-with-lpddr5x-pim/"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50429545"
+     }
+    ],
+    "primary_url": "https://www.eetimes.com/deepx-tapes-out-second-gen-chip-projects-6-7x-performance-gain-with-lpddr5x-pim/"
+   },
+   {
+    "id": "06c34be0a2ca",
+    "title": "Anthropic targets $1.4 trillion IPO",
+    "summary": "Anthropic confirmed on Tuesday that its IPO could be one of the biggest ever, even while falling short of previous expectations. Its IPO price is expected to be between $70.00 and $78.00 per share an…",
+    "category": "Other",
+    "score": 50.0,
+    "published_at": "2026-11-10T14:06:54+00:00",
+    "sources": [
+     {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030703/anthropic-ipo-1-4-trillion"
+     }
+    ],
+    "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1030703/anthropic-ipo-1-4-trillion"
+   },
+   {
+    "id": "9871791e1b1f",
+    "title": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
+    "summary": "The company could end up being worth a hefty $1.404 trillion if its shares list at the top of the price range, on a fully diluted basis.",
+    "category": "Other",
+    "score": 49.9,
+    "published_at": "2026-11-10T14:01:39+00:00",
+    "sources": [
+     {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/"
+     }
+    ],
+    "primary_url": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/"
+   }
+  ]
+ },
+ "source_list": [
+  {
+   "name": "OpenAI",
+   "url": "https://openai.com/news/rss.xml"
+  },
+  {
+   "name": "Anthropic",
+   "url": "https://www.anthropic.com/sitemap.xml"
+  },
+  {
+   "name": "Google DeepMind",
+   "url": "https://deepmind.google/blog/rss.xml"
+  },
+  {
+   "name": "Microsoft Research",
+   "url": "https://www.microsoft.com/en-us/research/feed/"
+  },
+  {
+   "name": "Hugging Face Blog",
+   "url": "https://huggingface.co/blog/feed.xml"
+  },
+  {
+   "name": "Mistral AI",
+   "url": "https://mistral.ai/rss.xml"
+  },
+  {
+   "name": "NVIDIA Blog",
+   "url": "https://blogs.nvidia.com/feed/"
+  },
+  {
+   "name": "NVIDIA Developer",
+   "url": "https://developer.nvidia.com/blog/feed"
+  },
+  {
+   "name": "TechCrunch",
+   "url": "https://techcrunch.com/category/artificial-intelligence/feed/"
+  },
+  {
+   "name": "The Verge",
+   "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml"
+  },
+  {
+   "name": "MIT Technology Review",
+   "url": "https://www.technologyreview.com/topic/artificial-intelligence/feed"
+  },
+  {
+   "name": "Ars Technica",
+   "url": "https://arstechnica.com/ai/feed/"
+  },
+  {
+   "name": "Hacker News",
+   "url": "https://hn.algolia.com/api/v1/search_by_date"
+  },
+  {
+   "name": "r/MachineLearning",
+   "url": "https://www.reddit.com/r/MachineLearning/top/.rss?t=day"
+  },
+  {
+   "name": "r/LocalLLaMA",
+   "url": "https://www.reddit.com/r/LocalLLaMA/top/.rss?t=day"
+  },
+  {
+   "name": "arXiv cs.AI",
+   "url": "https://rss.arxiv.org/rss/cs.AI"
+  },
+  {
+   "name": "arXiv cs.CL",
+   "url": "https://rss.arxiv.org/rss/cs.CL"
+  },
+  {
+   "name": "arXiv cs.LG",
+   "url": "https://rss.arxiv.org/rss/cs.LG"
+  },
+  {
+   "name": "arXiv cs.CV",
+   "url": "https://rss.arxiv.org/rss/cs.CV"
+  },
+  {
+   "name": "GitHub Trending",
+   "url": "https://github.com/trending?since=daily"
+  },
+  {
+   "name": "Hugging Face Trending",
+   "url": "https://huggingface.co/api/models?sort=trendingScore&limit=10"
+  },
+  {
+   "name": "iThome",
+   "url": "https://www.ithome.com.tw/rss.xml"
+  },
+  {
+   "name": "INSIDE",
+   "url": "https://www.inside.com.tw/feed/rss"
+  }
+ ],
+ "stats": {
+  "fetched": 202,
+  "after_dedup": 201,
+  "sources_ok": 22,
+  "sources_failed": 1,
+  "failed_sources": {
+   "r/LocalLLaMA": "HTTPError: 429 Client Error: Too Many Requests for url: https://www.reddit.com/r/LocalLLaMA/top/.rss?t=day"
+  },
+  "duration_s": 10.3
+ }
+}

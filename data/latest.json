@@ -1,12 +1,12 @@
 {
- "updated_at": "2026-11-11T23:57:56+00:00",
+ "updated_at": "2026-11-12T06:17:53+00:00",
  "top10": [
   {
    "id": "fc6b6a56df7b",
    "title": "Gemini 4 Carbon is now available",
    "summary": "",
    "category": "Innovation",
-   "score": 65.4,
+   "score": 62.6,
    "published_at": "2026-11-10T16:03:47+00:00",
    "sources": [
     {
@@ -29,7 +29,7 @@
    "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
    "summary": "",
    "category": "AI Agents",
-   "score": 59.4,
+   "score": 58.4,
    "published_at": "2026-11-11T21:24:35+00:00",
    "sources": [
     {
@@ -45,10 +45,10 @@
   },
   {
    "id": "8d8bc38f54a7",
-   "title": "My AI agents found an unmapped Maya site",
+   "title": "My AI agents found an unmapped Maya site?",
    "summary": "",
    "category": "AI Agents",
-   "score": 59.1,
+   "score": 56.4,
    "published_at": "2026-11-11T12:05:22+00:00",
    "sources": [
     {
@@ -67,7 +67,7 @@
    "title": "Gemini Decisions API",
    "summary": "",
    "category": "AI Apps",
-   "score": 57.5,
+   "score": 56.2,
    "published_at": "2026-11-11T18:32:42+00:00",
    "sources": [
     {
@@ -82,84 +82,12 @@
    "primary_url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/"
   },
   {
-   "id": "4443c3f3c02e",
-   "title": "Retirement Savings Are Fueling the AI Bubble",
-   "summary": "",
-   "category": "Other",
-   "score": 56.2,
-   "published_at": "2026-11-11T19:06:43+00:00",
-   "sources": [
-    {
-     "name": "Hacker News",
-     "url": "https://lpeproject.org/blog/your-retirement-savings-are-fueling-the-ai-bubble/"
-    },
-    {
-     "name": "Hacker News 討論",
-     "url": "https://news.ycombinator.com/item?id=50457164"
-    }
-   ],
-   "primary_url": "https://lpeproject.org/blog/your-retirement-savings-are-fueling-the-ai-bubble/"
-  },
-  {
-   "id": "f28f90d2895a",
-   "title": "Gilbert + Tobin rethinks the business of law with AI",
-   "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
-   "category": "Other",
-   "score": 56.0,
-   "published_at": "2026-11-12T00:00:00+00:00",
-   "sources": [
-    {
-     "name": "OpenAI",
-     "url": "https://openai.com/index/gilbert-tobin-sam-nickless"
-    }
-   ],
-   "primary_url": "https://openai.com/index/gilbert-tobin-sam-nickless"
-  },
-  {
-   "id": "7a69c1b89eda",
-   "title": "Faster Retrieval for Better, More Efficient RAG",
-   "summary": "",
-   "category": "Other",
-   "score": 55.5,
-   "published_at": "2026-11-11T16:57:45+00:00",
-   "sources": [
-    {
-     "name": "Hacker News",
-     "url": "https://machinelearning.apple.com/research/faster-retrieval"
-    },
-    {
-     "name": "Hacker News 討論",
-     "url": "https://news.ycombinator.com/item?id=50455633"
-    }
-   ],
-   "primary_url": "https://machinelearning.apple.com/research/faster-retrieval"
-  },
-  {
-   "id": "e05d76cd3360",
-   "title": "AI, activity, and outcomes in software engineering",
-   "summary": "",
-   "category": "Other",
-   "score": 54.5,
-   "published_at": "2026-11-11T16:33:28+00:00",
-   "sources": [
-    {
-     "name": "Hacker News",
-     "url": "https://cabird.com/talks/shipping-faster/"
-    },
-    {
-     "name": "Hacker News 討論",
-     "url": "https://news.ycombinator.com/item?id=50455332"
-    }
-   ],
-   "primary_url": "https://cabird.com/talks/shipping-faster/"
-  },
-  {
    "id": "2e74d0228d63",
    "title": "addyosmani/agent-skills: Production-grade engineering skills for AI coding agents.",
    "summary": "Production-grade engineering skills for AI coding agents.",
    "category": "Skills",
    "score": 54.0,
-   "published_at": "2026-11-11T23:57:56.221976+00:00",
+   "published_at": "2026-11-12T06:17:53.685562+00:00",
    "sources": [
     {
      "name": "GitHub Trending",
@@ -174,7 +102,7 @@
    "summary": "",
    "category": "Innovation",
    "score": 54.0,
-   "published_at": "2026-11-11T23:57:56.221976+00:00",
+   "published_at": "2026-11-12T06:17:53.685562+00:00",
    "sources": [
     {
      "name": "Hugging Face Trending",
@@ -182,95 +110,13 @@
     }
    ],
    "primary_url": "https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic"
-  }
- ],
- "all": [
-  {
-   "id": "fc6b6a56df7b",
-   "title": "Gemini 4 Carbon is now available",
-   "summary": "",
-   "category": "Innovation",
-   "score": 65.4,
-   "published_at": "2026-11-10T16:03:47+00:00",
-   "sources": [
-    {
-     "name": "Google DeepMind",
-     "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/"
-    },
-    {
-     "name": "Hacker News",
-     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/"
-    },
-    {
-     "name": "Hacker News 討論",
-     "url": "https://news.ycombinator.com/item?id=50442303"
-    }
-   ],
-   "primary_url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/"
-  },
-  {
-   "id": "53bc56e14c08",
-   "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
-   "summary": "",
-   "category": "AI Agents",
-   "score": 59.4,
-   "published_at": "2026-11-11T21:24:35+00:00",
-   "sources": [
-    {
-     "name": "Hacker News",
-     "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/"
-    },
-    {
-     "name": "Hacker News 討論",
-     "url": "https://news.ycombinator.com/item?id=50458900"
-    }
-   ],
-   "primary_url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/"
-  },
-  {
-   "id": "8d8bc38f54a7",
-   "title": "My AI agents found an unmapped Maya site",
-   "summary": "",
-   "category": "AI Agents",
-   "score": 59.1,
-   "published_at": "2026-11-11T12:05:22+00:00",
-   "sources": [
-    {
-     "name": "Hacker News",
-     "url": "https://pietromiotti.com/latest/maya-site"
-    },
-    {
-     "name": "Hacker News 討論",
-     "url": "https://news.ycombinator.com/item?id=50452455"
-    }
-   ],
-   "primary_url": "https://pietromiotti.com/latest/maya-site"
-  },
-  {
-   "id": "cce714811b51",
-   "title": "Gemini Decisions API",
-   "summary": "",
-   "category": "AI Apps",
-   "score": 57.5,
-   "published_at": "2026-11-11T18:32:42+00:00",
-   "sources": [
-    {
-     "name": "Hacker News",
-     "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/"
-    },
-    {
-     "name": "Hacker News 討論",
-     "url": "https://news.ycombinator.com/item?id=50456791"
-    }
-   ],
-   "primary_url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/"
   },
   {
    "id": "4443c3f3c02e",
    "title": "Retirement Savings Are Fueling the AI Bubble",
    "summary": "",
    "category": "Other",
-   "score": 56.2,
+   "score": 53.9,
    "published_at": "2026-11-11T19:06:43+00:00",
    "sources": [
     {
@@ -285,26 +131,11 @@
    "primary_url": "https://lpeproject.org/blog/your-retirement-savings-are-fueling-the-ai-bubble/"
   },
   {
-   "id": "f28f90d2895a",
-   "title": "Gilbert + Tobin rethinks the business of law with AI",
-   "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
-   "category": "Other",
-   "score": 56.0,
-   "published_at": "2026-11-12T00:00:00+00:00",
-   "sources": [
-    {
-     "name": "OpenAI",
-     "url": "https://openai.com/index/gilbert-tobin-sam-nickless"
-    }
-   ],
-   "primary_url": "https://openai.com/index/gilbert-tobin-sam-nickless"
-  },
-  {
    "id": "7a69c1b89eda",
    "title": "Faster Retrieval for Better, More Efficient RAG",
    "summary": "",
    "category": "Other",
-   "score": 55.5,
+   "score": 53.7,
    "published_at": "2026-11-11T16:57:45+00:00",
    "sources": [
     {
@@ -317,55 +148,6 @@
     }
    ],
    "primary_url": "https://machinelearning.apple.com/research/faster-retrieval"
-  },
-  {
-   "id": "e05d76cd3360",
-   "title": "AI, activity, and outcomes in software engineering",
-   "summary": "",
-   "category": "Other",
-   "score": 54.5,
-   "published_at": "2026-11-11T16:33:28+00:00",
-   "sources": [
-    {
-     "name": "Hacker News",
-     "url": "https://cabird.com/talks/shipping-faster/"
-    },
-    {
-     "name": "Hacker News 討論",
-     "url": "https://news.ycombinator.com/item?id=50455332"
-    }
-   ],
-   "primary_url": "https://cabird.com/talks/shipping-faster/"
-  },
-  {
-   "id": "2e74d0228d63",
-   "title": "addyosmani/agent-skills: Production-grade engineering skills for AI coding agents.",
-   "summary": "Production-grade engineering skills for AI coding agents.",
-   "category": "Skills",
-   "score": 54.0,
-   "published_at": "2026-11-11T23:57:56.221976+00:00",
-   "sources": [
-    {
-     "name": "GitHub Trending",
-     "url": "https://github.com/addyosmani/agent-skills"
-    }
-   ],
-   "primary_url": "https://github.com/addyosmani/agent-skills"
-  },
-  {
-   "id": "4c35a47638c4",
-   "title": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
-   "summary": "",
-   "category": "Innovation",
-   "score": 54.0,
-   "published_at": "2026-11-11T23:57:56.221976+00:00",
-   "sources": [
-    {
-     "name": "Hugging Face Trending",
-     "url": "https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic"
-    }
-   ],
-   "primary_url": "https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic"
   },
   {
    "id": "1ceb56a3b374",
@@ -373,7 +155,7 @@
    "summary": "Browser automation CLI for AI agents",
    "category": "AI Agents",
    "score": 53.7,
-   "published_at": "2026-11-11T23:57:56.221976+00:00",
+   "published_at": "2026-11-12T06:17:53.685562+00:00",
    "sources": [
     {
      "name": "GitHub Trending",
@@ -383,12 +165,207 @@
    "primary_url": "https://github.com/vercel-labs/agent-browser"
   },
   {
+   "id": "f28f90d2895a",
+   "title": "Gilbert + Tobin rethinks the business of law with AI",
+   "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
+   "category": "Other",
+   "score": 53.4,
+   "published_at": "2026-11-12T00:00:00+00:00",
+   "sources": [
+    {
+     "name": "OpenAI",
+     "url": "https://openai.com/index/gilbert-tobin-sam-nickless"
+    }
+   ],
+   "primary_url": "https://openai.com/index/gilbert-tobin-sam-nickless"
+  }
+ ],
+ "all": [
+  {
+   "id": "fc6b6a56df7b",
+   "title": "Gemini 4 Carbon is now available",
+   "summary": "",
+   "category": "Innovation",
+   "score": 62.6,
+   "published_at": "2026-11-10T16:03:47+00:00",
+   "sources": [
+    {
+     "name": "Google DeepMind",
+     "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/"
+    },
+    {
+     "name": "Hacker News",
+     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50442303"
+    }
+   ],
+   "primary_url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/"
+  },
+  {
+   "id": "53bc56e14c08",
+   "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+   "summary": "",
+   "category": "AI Agents",
+   "score": 58.4,
+   "published_at": "2026-11-11T21:24:35+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50458900"
+    }
+   ],
+   "primary_url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/"
+  },
+  {
+   "id": "8d8bc38f54a7",
+   "title": "My AI agents found an unmapped Maya site?",
+   "summary": "",
+   "category": "AI Agents",
+   "score": 56.4,
+   "published_at": "2026-11-11T12:05:22+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://pietromiotti.com/latest/maya-site"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50452455"
+    }
+   ],
+   "primary_url": "https://pietromiotti.com/latest/maya-site"
+  },
+  {
+   "id": "cce714811b51",
+   "title": "Gemini Decisions API",
+   "summary": "",
+   "category": "AI Apps",
+   "score": 56.2,
+   "published_at": "2026-11-11T18:32:42+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50456791"
+    }
+   ],
+   "primary_url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/"
+  },
+  {
+   "id": "2e74d0228d63",
+   "title": "addyosmani/agent-skills: Production-grade engineering skills for AI coding agents.",
+   "summary": "Production-grade engineering skills for AI coding agents.",
+   "category": "Skills",
+   "score": 54.0,
+   "published_at": "2026-11-12T06:17:53.685562+00:00",
+   "sources": [
+    {
+     "name": "GitHub Trending",
+     "url": "https://github.com/addyosmani/agent-skills"
+    }
+   ],
+   "primary_url": "https://github.com/addyosmani/agent-skills"
+  },
+  {
+   "id": "4c35a47638c4",
+   "title": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+   "summary": "",
+   "category": "Innovation",
+   "score": 54.0,
+   "published_at": "2026-11-12T06:17:53.685562+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face Trending",
+     "url": "https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic"
+    }
+   ],
+   "primary_url": "https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic"
+  },
+  {
+   "id": "4443c3f3c02e",
+   "title": "Retirement Savings Are Fueling the AI Bubble",
+   "summary": "",
+   "category": "Other",
+   "score": 53.9,
+   "published_at": "2026-11-11T19:06:43+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://lpeproject.org/blog/your-retirement-savings-are-fueling-the-ai-bubble/"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50457164"
+    }
+   ],
+   "primary_url": "https://lpeproject.org/blog/your-retirement-savings-are-fueling-the-ai-bubble/"
+  },
+  {
+   "id": "7a69c1b89eda",
+   "title": "Faster Retrieval for Better, More Efficient RAG",
+   "summary": "",
+   "category": "Other",
+   "score": 53.7,
+   "published_at": "2026-11-11T16:57:45+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://machinelearning.apple.com/research/faster-retrieval"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50455633"
+    }
+   ],
+   "primary_url": "https://machinelearning.apple.com/research/faster-retrieval"
+  },
+  {
+   "id": "1ceb56a3b374",
+   "title": "vercel-labs/agent-browser: Browser automation CLI for AI agents",
+   "summary": "Browser automation CLI for AI agents",
+   "category": "AI Agents",
+   "score": 53.7,
+   "published_at": "2026-11-12T06:17:53.685562+00:00",
+   "sources": [
+    {
+     "name": "GitHub Trending",
+     "url": "https://github.com/vercel-labs/agent-browser"
+    }
+   ],
+   "primary_url": "https://github.com/vercel-labs/agent-browser"
+  },
+  {
+   "id": "f28f90d2895a",
+   "title": "Gilbert + Tobin rethinks the business of law with AI",
+   "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
+   "category": "Other",
+   "score": 53.4,
+   "published_at": "2026-11-12T00:00:00+00:00",
+   "sources": [
+    {
+     "name": "OpenAI",
+     "url": "https://openai.com/index/gilbert-tobin-sam-nickless"
+    }
+   ],
+   "primary_url": "https://openai.com/index/gilbert-tobin-sam-nickless"
+  },
+  {
    "id": "81f33d0f3f66",
    "title": "homeassistant-ai/ha-mcp: Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
    "summary": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
    "category": "MCP",
    "score": 53.4,
-   "published_at": "2026-11-11T23:57:56.221976+00:00",
+   "published_at": "2026-11-12T06:17:53.685562+00:00",
    "sources": [
     {
      "name": "GitHub Trending",
@@ -398,11 +375,60 @@
    "primary_url": "https://github.com/homeassistant-ai/ha-mcp"
   },
   {
+   "id": "e05d76cd3360",
+   "title": "AI, activity, and outcomes in software engineering",
+   "summary": "",
+   "category": "Other",
+   "score": 52.0,
+   "published_at": "2026-11-11T16:33:28+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://cabird.com/talks/shipping-faster/"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50455332"
+    }
+   ],
+   "primary_url": "https://cabird.com/talks/shipping-faster/"
+  },
+  {
+   "id": "ca7dd68b4ce7",
+   "title": "ZhuLinsen/daily_stock_analysis: LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+   "summary": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-f…",
+   "category": "Open Source",
+   "score": 50.9,
+   "published_at": "2026-11-12T06:17:53.685562+00:00",
+   "sources": [
+    {
+     "name": "GitHub Trending",
+     "url": "https://github.com/ZhuLinsen/daily_stock_analysis"
+    }
+   ],
+   "primary_url": "https://github.com/ZhuLinsen/daily_stock_analysis"
+  },
+  {
+   "id": "1f1dbabb56c4",
+   "title": "MiniMaxAI/MiniMax-H3-Image",
+   "summary": "",
+   "category": "Open Source",
+   "score": 50.6,
+   "published_at": "2026-11-12T06:17:53.685562+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face Trending",
+     "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image"
+    }
+   ],
+   "primary_url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image"
+  },
+  {
    "id": "e879c6fc35d4",
    "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
    "summary": "Predicting how DNA sequences and their variations impact specific human cell types and disease.",
    "category": "Other",
-   "score": 52.3,
+   "score": 49.6,
    "published_at": "2026-11-11T15:00:15+00:00",
    "sources": [
     {
@@ -413,26 +439,101 @@
    "primary_url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/"
   },
   {
-   "id": "ca7dd68b4ce7",
-   "title": "ZhuLinsen/daily_stock_analysis: LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-   "summary": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-f…",
+   "id": "46e307363c08",
+   "title": "speridlabs/idol",
+   "summary": "",
    "category": "Open Source",
-   "score": 52.2,
-   "published_at": "2026-11-11T23:57:56.221976+00:00",
+   "score": 49.5,
+   "published_at": "2026-11-12T06:17:53.685562+00:00",
    "sources": [
     {
-     "name": "GitHub Trending",
-     "url": "https://github.com/ZhuLinsen/daily_stock_analysis"
+     "name": "Hugging Face Trending",
+     "url": "https://huggingface.co/speridlabs/idol"
     }
    ],
-   "primary_url": "https://github.com/ZhuLinsen/daily_stock_analysis"
+   "primary_url": "https://huggingface.co/speridlabs/idol"
+  },
+  {
+   "id": "55ffe1fba5ed",
+   "title": "NousResearch/Arete-27B",
+   "summary": "",
+   "category": "Open Source",
+   "score": 49.2,
+   "published_at": "2026-11-12T06:17:53.685562+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face Trending",
+     "url": "https://huggingface.co/NousResearch/Arete-27B"
+    }
+   ],
+   "primary_url": "https://huggingface.co/NousResearch/Arete-27B"
+  },
+  {
+   "id": "04ce1345cda9",
+   "title": "Lightricks/LTX-2.5",
+   "summary": "",
+   "category": "Open Source",
+   "score": 49.1,
+   "published_at": "2026-11-12T06:17:53.685562+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face Trending",
+     "url": "https://huggingface.co/Lightricks/LTX-2.5"
+    }
+   ],
+   "primary_url": "https://huggingface.co/Lightricks/LTX-2.5"
+  },
+  {
+   "id": "df5c4c0af68f",
+   "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
+   "summary": "Nvidia has no succession plan and a CEO in hot water, so we’ve drafted a shortlist.",
+   "category": "Other",
+   "score": 48.7,
+   "published_at": "2026-11-12T03:13:10+00:00",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/"
+    }
+   ],
+   "primary_url": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/"
+  },
+  {
+   "id": "7838c87736f9",
+   "title": "moonshotai/Kimi-K3.1-Pro",
+   "summary": "",
+   "category": "Open Source",
+   "score": 48.7,
+   "published_at": "2026-11-12T06:17:53.685562+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face Trending",
+     "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro"
+    }
+   ],
+   "primary_url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro"
+  },
+  {
+   "id": "276a2df43aba",
+   "title": "ricursiveAI/Ripple-65B-Preview",
+   "summary": "",
+   "category": "Open Source",
+   "score": 48.7,
+   "published_at": "2026-11-12T06:17:53.685562+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face Trending",
+     "url": "https://huggingface.co/ricursiveAI/Ripple-65B-Preview"
+    }
+   ],
+   "primary_url": "https://huggingface.co/ricursiveAI/Ripple-65B-Preview"
   },
   {
    "id": "77d255b4e9ac",
    "title": "Apple has new Mac app coming to make running local AI models easy",
    "summary": "",
    "category": "AI Apps",
-   "score": 51.3,
+   "score": 48.6,
    "published_at": "2026-11-10T21:25:03+00:00",
    "sources": [
     {
@@ -447,11 +548,41 @@
    "primary_url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/"
   },
   {
+   "id": "d0b5754fb37f",
+   "title": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
+   "summary": "",
+   "category": "Innovation",
+   "score": 48.6,
+   "published_at": "2026-11-12T06:17:53.685562+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face Trending",
+     "url": "https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF"
+    }
+   ],
+   "primary_url": "https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF"
+  },
+  {
+   "id": "6c64301c09e0",
+   "title": "Qwen/Qwen3.8-27B",
+   "summary": "",
+   "category": "Innovation",
+   "score": 48.6,
+   "published_at": "2026-11-12T06:17:53.685562+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face Trending",
+     "url": "https://huggingface.co/Qwen/Qwen3.8-27B"
+    }
+   ],
+   "primary_url": "https://huggingface.co/Qwen/Qwen3.8-27B"
+  },
+  {
    "id": "f7afa1dd4ce8",
    "title": "Tracking Anthropic-discovered vulnerabilities",
    "summary": "",
    "category": "Security",
-   "score": 51.2,
+   "score": 48.5,
    "published_at": "2026-11-10T22:17:56+00:00",
    "sources": [
     {
@@ -466,41 +597,26 @@
    "primary_url": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update"
   },
   {
-   "id": "1f1dbabb56c4",
-   "title": "MiniMaxAI/MiniMax-H3-Image",
+   "id": "1c6441623ff5",
+   "title": "ccore/Qwen3.5-4B-3D-Coder",
    "summary": "",
-   "category": "Open Source",
-   "score": 51.2,
-   "published_at": "2026-11-11T23:57:56.221976+00:00",
+   "category": "Innovation",
+   "score": 48.5,
+   "published_at": "2026-11-12T06:17:53.685562+00:00",
    "sources": [
     {
      "name": "Hugging Face Trending",
-     "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image"
+     "url": "https://huggingface.co/ccore/Qwen3.5-4B-3D-Coder"
     }
    ],
-   "primary_url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image"
-  },
-  {
-   "id": "46e307363c08",
-   "title": "speridlabs/idol",
-   "summary": "",
-   "category": "Open Source",
-   "score": 50.3,
-   "published_at": "2026-11-11T23:57:56.221976+00:00",
-   "sources": [
-    {
-     "name": "Hugging Face Trending",
-     "url": "https://huggingface.co/speridlabs/idol"
-    }
-   ],
-   "primary_url": "https://huggingface.co/speridlabs/idol"
+   "primary_url": "https://huggingface.co/ccore/Qwen3.5-4B-3D-Coder"
   },
   {
    "id": "efdd0bfa6110",
    "title": "The unfolding Jensen Huang scandal: a timeline",
    "summary": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
    "category": "Other",
-   "score": 49.9,
+   "score": 47.3,
    "published_at": "2026-11-11T23:50:00+00:00",
    "sources": [
     {
@@ -511,26 +627,11 @@
    "primary_url": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/"
   },
   {
-   "id": "55ffe1fba5ed",
-   "title": "NousResearch/Arete-27B",
-   "summary": "",
-   "category": "Open Source",
-   "score": 49.9,
-   "published_at": "2026-11-11T23:57:56.221976+00:00",
-   "sources": [
-    {
-     "name": "Hugging Face Trending",
-     "url": "https://huggingface.co/NousResearch/Arete-27B"
-    }
-   ],
-   "primary_url": "https://huggingface.co/NousResearch/Arete-27B"
-  },
-  {
    "id": "b91248042740",
    "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
    "summary": "As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years.",
    "category": "Other",
-   "score": 49.8,
+   "score": 47.2,
    "published_at": "2026-11-11T23:28:45+00:00",
    "sources": [
     {
@@ -541,56 +642,11 @@
    "primary_url": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/"
   },
   {
-   "id": "7838c87736f9",
-   "title": "moonshotai/Kimi-K3.1-Pro",
-   "summary": "",
-   "category": "Open Source",
-   "score": 49.8,
-   "published_at": "2026-11-11T23:57:56.221976+00:00",
-   "sources": [
-    {
-     "name": "Hugging Face Trending",
-     "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro"
-    }
-   ],
-   "primary_url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro"
-  },
-  {
-   "id": "04ce1345cda9",
-   "title": "Lightricks/LTX-2.5",
-   "summary": "",
-   "category": "Open Source",
-   "score": 49.8,
-   "published_at": "2026-11-11T23:57:56.221976+00:00",
-   "sources": [
-    {
-     "name": "Hugging Face Trending",
-     "url": "https://huggingface.co/Lightricks/LTX-2.5"
-    }
-   ],
-   "primary_url": "https://huggingface.co/Lightricks/LTX-2.5"
-  },
-  {
-   "id": "276a2df43aba",
-   "title": "ricursiveAI/Ripple-65B-Preview",
-   "summary": "",
-   "category": "Open Source",
-   "score": 49.8,
-   "published_at": "2026-11-11T23:57:56.221976+00:00",
-   "sources": [
-    {
-     "name": "Hugging Face Trending",
-     "url": "https://huggingface.co/ricursiveAI/Ripple-65B-Preview"
-    }
-   ],
-   "primary_url": "https://huggingface.co/ricursiveAI/Ripple-65B-Preview"
-  },
-  {
    "id": "d8ef3fe6591f",
    "title": "Jensen Huang accused of having another affair — with an Nvidia exec",
    "summary": "Jensen Huang, who has come under fire for admitting to an affair with a woman accused of being a Chinese intelligence agent, has been accused of having a separate affair with an Nvidia subordinate.",
    "category": "AI Agents",
-   "score": 49.7,
+   "score": 47.1,
    "published_at": "2026-11-11T23:17:05+00:00",
    "sources": [
     {
@@ -605,7 +661,7 @@
    "title": "Nvidia is reportedly preparing to fire Jensen Huang",
    "summary": "Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from the New York Times about a second alleged extramarital affair, just days after he admitted to a separate affair with a …",
    "category": "Other",
-   "score": 49.5,
+   "score": 46.9,
    "published_at": "2026-11-11T22:44:36+00:00",
    "sources": [
     {
@@ -616,26 +672,11 @@
    "primary_url": "https://www.theverge.com/tech/1031652/jensen-huang-rumor"
   },
   {
-   "id": "d0b5754fb37f",
-   "title": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
-   "summary": "",
-   "category": "Innovation",
-   "score": 49.4,
-   "published_at": "2026-11-11T23:57:56.221976+00:00",
-   "sources": [
-    {
-     "name": "Hugging Face Trending",
-     "url": "https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF"
-    }
-   ],
-   "primary_url": "https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF"
-  },
-  {
    "id": "80b38ea7da37",
    "title": "ChatGPT Plus for veterans and servicemembers",
    "summary": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
    "category": "Other",
-   "score": 49.3,
+   "score": 46.7,
    "published_at": "2026-11-11T08:00:00+00:00",
    "sources": [
     {
@@ -646,41 +687,11 @@
    "primary_url": "https://openai.com/index/chatgpt-plus-for-veterans"
   },
   {
-   "id": "6c64301c09e0",
-   "title": "Qwen/Qwen3.8-27B",
-   "summary": "",
-   "category": "Innovation",
-   "score": 49.2,
-   "published_at": "2026-11-11T23:57:56.221976+00:00",
-   "sources": [
-    {
-     "name": "Hugging Face Trending",
-     "url": "https://huggingface.co/Qwen/Qwen3.8-27B"
-    }
-   ],
-   "primary_url": "https://huggingface.co/Qwen/Qwen3.8-27B"
-  },
-  {
-   "id": "1c6441623ff5",
-   "title": "ccore/Qwen3.5-4B-3D-Coder",
-   "summary": "",
-   "category": "Innovation",
-   "score": 49.2,
-   "published_at": "2026-11-11T23:57:56.221976+00:00",
-   "sources": [
-    {
-     "name": "Hugging Face Trending",
-     "url": "https://huggingface.co/ccore/Qwen3.5-4B-3D-Coder"
-    }
-   ],
-   "primary_url": "https://huggingface.co/ccore/Qwen3.5-4B-3D-Coder"
-  },
-  {
    "id": "d8ee9ab549e4",
    "title": "United won’t let your AI agent book your flight",
    "summary": "United says it won't let personal AI assistants book tickets on the airline, citing both privacy and regulatory concerns. The company says it hasn't yet seen many people try to use AI agents to book …",
    "category": "AI Agents",
-   "score": 49.1,
+   "score": 46.5,
    "published_at": "2026-11-11T21:54:21+00:00",
    "sources": [
     {
@@ -691,11 +702,26 @@
    "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents"
   },
   {
+   "id": "65f8a2e3eddb",
+   "title": "openai/codex-security: OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
+   "summary": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
+   "category": "Security",
+   "score": 45.9,
+   "published_at": "2026-11-12T06:17:53.685562+00:00",
+   "sources": [
+    {
+     "name": "GitHub Trending",
+     "url": "https://github.com/openai/codex-security"
+    }
+   ],
+   "primary_url": "https://github.com/openai/codex-security"
+  },
+  {
    "id": "ae5556d61c0b",
    "title": "Why the data center you dread might never even be built",
    "summary": "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity. Before those challenges even come into play, t…",
    "category": "Other",
-   "score": 48.5,
+   "score": 45.8,
    "published_at": "2026-11-11T20:15:15+00:00",
    "sources": [
     {
@@ -710,7 +736,7 @@
    "title": "Meta is losing its longtime head of  infrastructure",
    "summary": "Santosh Janardhan, who originally joined the company in 2009, will be stepping down from his role.",
    "category": "Other",
-   "score": 48.4,
+   "score": 45.8,
    "published_at": "2026-11-11T20:12:01+00:00",
    "sources": [
     {
@@ -725,7 +751,7 @@
    "title": "How backlash and red tape continue to slow data centers post-Blue Wave",
    "summary": "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity. Before those challenges even come into play, t…",
    "category": "Other",
-   "score": 48.4,
+   "score": 45.7,
    "published_at": "2026-11-11T20:02:14+00:00",
    "sources": [
     {
@@ -738,9 +764,9 @@
   {
    "id": "850c0644106f",
    "title": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
-   "summary": "CoreWeave is increasingly asking customers to pay upfront, borrowing against specific contracts, and even looking to short-term deals that could lead to higher prices, according to the company’s thir…",
+   "summary": "CoreWeave is increasingly asking customers to pay up front, borrowing against specific contracts, and even looking to short-term deals that could lead to higher prices, according to the company’s thi…",
    "category": "AI Apps",
-   "score": 48.3,
+   "score": 45.7,
    "published_at": "2026-11-11T19:54:00+00:00",
    "sources": [
     {
@@ -755,7 +781,7 @@
    "title": "With $720M round, Britain’s Fractile gets a leg up in the race for AI chips",
    "summary": "Fractile has now become one of the top-funded players in the race for purpose-built AI chips.",
    "category": "Other",
-   "score": 48.2,
+   "score": 45.5,
    "published_at": "2026-11-11T19:34:55+00:00",
    "sources": [
     {
@@ -770,7 +796,7 @@
    "title": "Congress to call Jensen Huang in to answer for alleged Chinese spy affair",
    "summary": "Nvidia CEO Jensen Huang has until the end of the day Wednesday to answer a call from House Republicans for a closed-door briefing on his affair with alleged Chinese spy.",
    "category": "Other",
-   "score": 48.1,
+   "score": 45.4,
    "published_at": "2026-11-11T19:22:22+00:00",
    "sources": [
     {
@@ -785,7 +811,7 @@
    "title": "Claude Whiteboards, Claude Sheets, and Claude Data",
    "summary": "",
    "category": "Other",
-   "score": 48.0,
+   "score": 45.3,
    "published_at": "2026-11-10T17:55:07+00:00",
    "sources": [
     {
@@ -804,7 +830,7 @@
    "title": "Taiwan’s chipmaking giant TSMC to invest $1B in Anthropic, OpenAI",
    "summary": "Latest example of the AI boom’s circular financing comes as AI trade wobbles.",
    "category": "Other",
-   "score": 47.6,
+   "score": 45.0,
    "published_at": "2026-11-11T18:16:40+00:00",
    "sources": [
     {
@@ -819,7 +845,7 @@
    "title": "Big Walk used AI to fix a bug. Now the indie gaming world is having a reckoning.",
    "summary": "Any amount of AI coding is too much for many Independent Games Festival judges.",
    "category": "Other",
-   "score": 47.4,
+   "score": 44.7,
    "published_at": "2026-11-11T17:37:32+00:00",
    "sources": [
     {
@@ -834,7 +860,7 @@
    "title": "AI usage generates a fragile codebase",
    "summary": "",
    "category": "Other",
-   "score": 47.3,
+   "score": 44.5,
    "published_at": "2026-11-10T10:25:58+00:00",
    "sources": [
     {
@@ -853,7 +879,7 @@
    "title": "Is Jensen Huang’s bad behavior more commonplace than it seems?",
    "summary": "“There are a lot of senior people in the industry that know this is happening, and are effectively condoning it,” an investment intel consultant said.",
    "category": "Other",
-   "score": 46.8,
+   "score": 44.2,
    "published_at": "2026-11-11T16:16:07+00:00",
    "sources": [
     {
@@ -868,7 +894,7 @@
    "title": "OpenAI’s quarterly revenue reportedly crosses $10B for the first time",
    "summary": "Sales of $10 billion represents an almost 50% jump from revenue of $6.7 billion the company recorded in the second quarter.",
    "category": "Other",
-   "score": 46.8,
+   "score": 44.1,
    "published_at": "2026-11-11T16:14:44+00:00",
    "sources": [
     {
@@ -883,7 +909,7 @@
    "title": "Google’s Tabletop AI experiment lets you build custom collaboration apps",
    "summary": "Google has cooked up a new experimental AI tool called Tabletop that generates customized collaborative hubs to help you coordinate with family, and friends. The Tabletop platform shares some visual …",
    "category": "AI Apps",
-   "score": 46.7,
+   "score": 44.0,
    "published_at": "2026-11-11T16:00:00+00:00",
    "sources": [
     {
@@ -894,11 +920,41 @@
    "primary_url": "https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability"
   },
   {
+   "id": "369023f59dfe",
+   "title": "Anthropic IPO 加私募合計最高 904 億美元，上市前傳獲數倍超額認購",
+   "summary": "彭博引述知情人士報導，Anthropic 的 IPO 路演剛啟動，8.25 億股的訂單已達發行量數倍。IPO 加上 Google、NVIDIA、台積電等 7 家的私募，合計最高約 904 億美元，完全稀釋估值上看 1.4 兆美元。",
+   "category": "Other",
+   "score": 43.9,
+   "published_at": "2026-11-12T06:08:00+00:00",
+   "sources": [
+    {
+     "name": "INSIDE",
+     "url": "https://www.inside.com.tw/article/42893-anthropic-ipo-oversubscribed-1-4-trillion-valuation"
+    }
+   ],
+   "primary_url": "https://www.inside.com.tw/article/42893-anthropic-ipo-oversubscribed-1-4-trillion-valuation"
+  },
+  {
+   "id": "d6f46ba3957c",
+   "title": "工程師連一行程式碼都沒寫！AWS 推出免費雲端模擬器，全由 AI 代理打造",
+   "summary": "負責這項專案的 AWS 資深首席工程師 Matt Goldberg 在部落格文章中寫道：「這款模擬器完全由自主 AI 代理撰寫。我們的團隊沒有撰寫或審查過其中任何一行程式碼。」",
+   "category": "AI Agents",
+   "score": 43.8,
+   "published_at": "2026-11-12T05:51:00+00:00",
+   "sources": [
+    {
+     "name": "INSIDE",
+     "url": "https://www.inside.com.tw/article/42891-aws-emulator-free-ai-agent-built-cloud-simulator"
+    }
+   ],
+   "primary_url": "https://www.inside.com.tw/article/42891-aws-emulator-free-ai-agent-built-cloud-simulator"
+  },
+  {
    "id": "6619f09dbc0d",
    "title": "Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth",
    "summary": "With Databricks at 12,000 employees, AI Ghodsi is the first to admit that he can't know everyone and that they are unlikely to confess the things that go wrong to him. But he doesn't need them to. He…",
    "category": "AI Agents",
-   "score": 46.3,
+   "score": 43.6,
    "published_at": "2026-11-11T15:00:00+00:00",
    "sources": [
     {
@@ -913,7 +969,7 @@
    "title": "Google’s AlphaGenome 2 zooms in on the cellular roots of disease",
    "summary": "Researchers at Google DeepMind have unveiled a new AI model designed to unravel how changes in our DNA affect different cells, giving scientists a more detailed view of a notoriously difficult proble…",
    "category": "Innovation",
-   "score": 46.3,
+   "score": 43.6,
    "published_at": "2026-11-11T15:00:00+00:00",
    "sources": [
     {
@@ -928,7 +984,7 @@
    "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
    "summary": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.",
    "category": "Other",
-   "score": 46.0,
+   "score": 43.4,
    "published_at": "2026-11-11T00:00:00+00:00",
    "sources": [
     {
@@ -943,7 +999,7 @@
    "title": "Google DeepMind just mathematically verified key parts of Signal",
    "summary": "The four-week project hints that AI could make formal verification far more practical.",
    "category": "Other",
-   "score": 45.9,
+   "score": 43.3,
    "published_at": "2026-11-11T14:08:57+00:00",
    "sources": [
     {
@@ -954,11 +1010,26 @@
    "primary_url": "https://arstechnica.com/ai/2026/11/signals-encryption-just-passed-an-ai-powered-mathematical-checkup/"
   },
   {
+   "id": "11f2bfa3abef",
+   "title": "OpenAI招募AI旅遊規畫平臺Odessia創辦人",
+   "summary": "新聞 OpenAI將招募以AI輔助旅遊規畫平臺新創公司Odessia創辦人暨執行長，以強化線上旅遊服務能力。 Odessia執行長 Francis Davidson本周透過X宣布這項消息。 他的LinkedIn 個人帳號職稱也已改成OpenAI旅遊部門。 雖然Odessia是一家新創業者，但顯然OpenAI並未收購整家公司，而是以收購僱用（acqui-hire）方式挖走核心人物。 Odessia…",
+   "category": "AI Agents",
+   "score": 43.3,
+   "published_at": "2026-11-12T04:33:43+00:00",
+   "sources": [
+    {
+     "name": "iThome",
+     "url": "https://www.ithome.com.tw/news/180441"
+    }
+   ],
+   "primary_url": "https://www.ithome.com.tw/news/180441"
+  },
+  {
    "id": "0ccfb511c0c8",
    "title": "Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads",
    "summary": "Like the end-to-end models trained to drive cars, AI agents are probabilistic systems operating in unpredictable environments.",
    "category": "AI Agents",
-   "score": 45.8,
+   "score": 43.2,
    "published_at": "2026-11-11T14:00:00+00:00",
    "sources": [
     {
@@ -973,7 +1044,7 @@
    "title": "Adobe’s AI experiments let you walk around in photos and interview your characters",
    "summary": "Some of the most impressive tech that Adobe showcases at its annual Max conference each year is the experimental features it's developing, and the latest of those tools are being announced today: the…",
    "category": "AI Apps",
-   "score": 45.8,
+   "score": 43.2,
    "published_at": "2026-11-11T14:00:00+00:00",
    "sources": [
     {
@@ -988,7 +1059,7 @@
    "title": "Life on Claude Nine",
    "summary": "",
    "category": "Other",
-   "score": 45.7,
+   "score": 43.0,
    "published_at": "2026-11-10T17:44:44+00:00",
    "sources": [
     {
@@ -1003,26 +1074,101 @@
    "primary_url": "https://babuschk.in/posts/2026-01-25-life-on-claude-nine.html"
   },
   {
-   "id": "1e8421e225dc",
-   "title": "DeepMind以AI代理驗證Signal加密實作安全性，數學證明擴及機器碼層級",
-   "summary": "新聞 Google DeepMind 公布 AI代理形式化驗證（Formal Verification）框架AlphaProof Code，利用AI代理驗證Signal加密通訊協定的核心程式庫libsignal，將安全性證明延伸到編譯後的機器碼。Signal協定廣泛應用於通訊服務，此次5名DeepMind研究人員與AI代理合作，4周內產出約650萬行以Lean語言撰寫的數學證明程式碼，驗證前向保…",
+   "id": "3521c2aed100",
+   "title": "ChatGPT 開放商家認領檔案，美國電商可先上架 AI 代理 Business Agent",
+   "summary": "OpenAI 推出 Businesses in ChatGPT 測試版，商家可以在 Business Hub 認領自家檔案，查看過去 28 天被 ChatGPT 提及幾次、網站被點了幾次。美國電商與線上服務業者還能上架專屬的 Business Agent。本文從驗證流程、數據定義，到 Agent 怎麼接 ChatGPT 廣告，說明商家在 ChatGPT 裡能做什麼、不能做什麼。",
    "category": "AI Agents",
-   "score": 44.0,
+   "score": 42.9,
+   "published_at": "2026-11-12T03:33:00+00:00",
+   "sources": [
+    {
+     "name": "INSIDE",
+     "url": "https://www.inside.com.tw/article/42889-openai-chatgpt-business-hub-business-agents"
+    }
+   ],
+   "primary_url": "https://www.inside.com.tw/article/42889-openai-chatgpt-business-hub-business-agents"
+  },
+  {
+   "id": "ec36174d298a",
+   "title": "OpenAI Businesses in ChatGPT挑戰Google、Meta線上商家平臺服務",
+   "summary": "新聞 OpenAI本周三（11月11日） 推出Businesses in ChatGPT ，讓商家在ChatGPT中建立官方據點，作為與消費者互動和行銷管道以拓展業務。 這項服務包括兩項工具，分別是企業中心（Business Hub）和企業代理人（Business Agents）。在企業中心，店家可以建立店家介紹檔案（profile）包括公司簡介、認證並宣稱官方身份，也能管理和更新產品、價格、型…",
+   "category": "AI Agents",
+   "score": 42.6,
+   "published_at": "2026-11-12T02:56:29+00:00",
+   "sources": [
+    {
+     "name": "iThome",
+     "url": "https://www.ithome.com.tw/news/180436"
+    }
+   ],
+   "primary_url": "https://www.ithome.com.tw/news/180436"
+  },
+  {
+   "id": "e3bfd741aba2",
+   "title": "聯合航空封鎖未授權AI代理人，限制查詢航班與訂票",
+   "summary": "新聞 美國聯合航空（United Airlines）周四（11/12）宣布 ，將限制未經授權的第三方AI代理人存取旗下數位服務，包括航班查詢與訂票，以防範個資外洩、非預期交易及違反航空法規等風險。 聯合航空表示，旗下App已提供訂票、選位、航班異動及重新安排行程等功能，但若旅客將帳戶登入憑證交給第三方AI助理，可能暴露敏感資訊，也可能導致AI擅自購票、修改帳戶資料或使用MileagePlus會員…",
+   "category": "AI Agents",
+   "score": 42.2,
+   "published_at": "2026-11-12T02:05:34+00:00",
+   "sources": [
+    {
+     "name": "iThome",
+     "url": "https://www.ithome.com.tw/news/180434"
+    }
+   ],
+   "primary_url": "https://www.ithome.com.tw/news/180434"
+  },
+  {
+   "id": "d4ecc224c43f",
+   "title": "AWS推出完全由AI代理人開發的雲端模擬器AWS Emulator",
+   "summary": "新聞 Amazon雲端服務（Amazon Web Services，AWS）周三（11/11） 宣布推出AWS Emulator ，這款供開發者在本機測試AWS應用程式的模擬器，完全由數千個自主AI代理人開發，AWS工程團隊未撰寫或審查任何一行產品程式碼，展示AI自主開發大型軟體的能力。 AWS Emulator為一AWS應用程式介面（API）的本機模擬器，開發者無需建立AWS帳號或連接真正的雲…",
+   "category": "AI Agents",
+   "score": 42.2,
+   "published_at": "2026-11-12T02:00:00+00:00",
+   "sources": [
+    {
+     "name": "iThome",
+     "url": "https://www.ithome.com.tw/news/180444"
+    }
+   ],
+   "primary_url": "https://www.ithome.com.tw/news/180444"
+  },
+  {
+   "id": "51d0264c1fd7",
+   "title": "台積電董事會核准最多 5 億美元認購 Anthropic 股票，另有最多 5 億美元投 OpenAI 特別股",
+   "summary": "台積電董事會 11 月 10 日核准，最多 5 億美元依 IPO 價格認購 Anthropic 普通股，另最多 5 億美元認購 OpenAI Group 特別股，並核准不超過 5 億美元成立投資公司。實際投入金額與完成時程未公布。",
+   "category": "Other",
+   "score": 41.7,
+   "published_at": "2026-11-12T00:41:00+00:00",
+   "sources": [
+    {
+     "name": "INSIDE",
+     "url": "https://www.inside.com.tw/article/42881-tsmc-board-approves-anthropic-ipo-price-openai-preferred-stock-500-million-each"
+    }
+   ],
+   "primary_url": "https://www.inside.com.tw/article/42881-tsmc-board-approves-anthropic-ipo-price-openai-preferred-stock-500-million-each"
+  },
+  {
+   "id": "7cf150550557",
+   "title": "Git修補6項資安漏洞，惡意儲存庫恐觸發任意程式碼執行",
+   "summary": "新聞 Git專案於11月10日修補6項資安漏洞 ，其中CVE-2026-111760可能讓攻擊者透過特製的惡意儲存庫，在特定複製情境下執行任意程式碼，CVSS 3.1風險分數為8.0，屬於高風險等級。 GitHub說明 ，CVE-2026-111760源自Git處理索引資料時的整數截斷問題。攻擊者可利用特製的超長路徑，將子模組的.git檔案替換成指向惡意設定或掛鉤（hooks）目錄的符號連結，讓…",
+   "category": "Security",
+   "score": 41.4,
    "published_at": "2026-11-12T00:00:00+00:00",
    "sources": [
     {
      "name": "iThome",
-     "url": "https://www.ithome.com.tw/news/180430"
+     "url": "https://www.ithome.com.tw/news/180432"
     }
    ],
-   "primary_url": "https://www.ithome.com.tw/news/180430"
+   "primary_url": "https://www.ithome.com.tw/news/180432"
   },
   {
    "id": "e28ff692f118",
    "title": "Nvidia’s crisis has corporate governance experts reaching for the popcorn",
    "summary": "The governance experts we talked to say nobody has seen anything like what's unfolding right now.",
    "category": "Other",
-   "score": 43.1,
+   "score": 40.5,
    "published_at": "2026-11-11T07:30:51+00:00",
    "sources": [
     {
@@ -1033,26 +1179,11 @@
    "primary_url": "https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/"
   },
   {
-   "id": "65f8a2e3eddb",
-   "title": "openai/codex-security: OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
-   "summary": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
-   "category": "Security",
-   "score": 43.1,
-   "published_at": "2026-11-11T23:57:56.221976+00:00",
-   "sources": [
-    {
-     "name": "GitHub Trending",
-     "url": "https://github.com/openai/codex-security"
-    }
-   ],
-   "primary_url": "https://github.com/openai/codex-security"
-  },
-  {
    "id": "b22522d14a17",
    "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
    "summary": "",
    "category": "AI Agents",
-   "score": 42.1,
+   "score": 39.5,
    "published_at": "2026-11-11T05:01:16+00:00",
    "sources": [
     {
@@ -1067,7 +1198,7 @@
    "title": "Fireworks AI security breach impacts Notion and their customers",
    "summary": "",
    "category": "Security",
-   "score": 42.1,
+   "score": 39.3,
    "published_at": "2026-11-10T07:19:38+00:00",
    "sources": [
     {
@@ -1086,7 +1217,7 @@
    "title": "How AI Helps Recyclers Turn Mixed Waste Into Reusable Material",
    "summary": "Vision AI and robotics pick what’s worth recovering out of conveyor belts of used clothing, bottles and mixed recyclables, diverting thousands of tons of materials from landfills.",
    "category": "Innovation",
-   "score": 41.3,
+   "score": 38.6,
    "published_at": "2026-11-11T03:00:20+00:00",
    "sources": [
     {
@@ -1101,7 +1232,7 @@
    "title": "Validating GPU Platforms with Runtime AI Inventory via the NVIDIA DSX AI Factory",
    "summary": "As teams deploy and scale AI workloads using NVIDIA Dynamo, Kubeflow, or Slurm, tracking what actually runs requires visibility beyond the platform...",
    "category": "Innovation",
-   "score": 41.1,
+   "score": 38.5,
    "published_at": "2026-11-11T17:00:00+00:00",
    "sources": [
     {
@@ -1116,7 +1247,7 @@
    "title": "Helping caregivers use AI in everyday life",
    "summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
    "category": "Other",
-   "score": 41.0,
+   "score": 38.4,
    "published_at": "2026-11-10T12:00:00+00:00",
    "sources": [
     {
@@ -1131,7 +1262,7 @@
    "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
    "summary": "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption.",
    "category": "Innovation",
-   "score": 41.0,
+   "score": 38.4,
    "published_at": "2026-11-10T12:02:28+00:00",
    "sources": [
     {
@@ -1142,30 +1273,11 @@
    "primary_url": "https://deepmind.google/blog/introducing-alphaproof-code/"
   },
   {
-   "id": "458bb1a34baf",
-   "title": "CoreWeave bond yield tops 16% as AI credit stress rises",
-   "summary": "",
-   "category": "Other",
-   "score": 40.9,
-   "published_at": "2026-11-10T03:20:06+00:00",
-   "sources": [
-    {
-     "name": "Hacker News",
-     "url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html"
-    },
-    {
-     "name": "Hacker News 討論",
-     "url": "https://news.ycombinator.com/item?id=50435660"
-    }
-   ],
-   "primary_url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html"
-  },
-  {
    "id": "26b496ffaa34",
    "title": "Anthropic launches roadshow for proposed initial public offering",
    "summary": "",
    "category": "AI Apps",
-   "score": 40.8,
+   "score": 38.2,
    "published_at": "2026-11-10T11:32:16+00:00",
    "sources": [
     {
@@ -1180,7 +1292,7 @@
    "title": "Introducing Businesses in ChatGPT",
    "summary": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
    "category": "Other",
-   "score": 40.2,
+   "score": 37.5,
    "published_at": "2026-11-10T10:00:00+00:00",
    "sources": [
     {
@@ -1195,7 +1307,7 @@
    "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
    "summary": "",
    "category": "Other",
-   "score": 40.0,
+   "score": 37.4,
    "published_at": "2026-11-11T00:00:00+00:00",
    "sources": [
     {
@@ -1206,11 +1318,26 @@
    "primary_url": "https://huggingface.co/blog/token-pooling"
   },
   {
+   "id": "0ac78af7c4d9",
+   "title": "How much does reviewer confidence matter in ICLR decisions? [D]",
+   "summary": "My ICLR submission received ratings of 3 / 3 / 2 with confidence 1 / 3 / 3. One weak accept comes from a low-confidence reviewer (Though their review seemed knowledgeable and pinpointed a key issue i…",
+   "category": "Innovation",
+   "score": 37.3,
+   "published_at": "2026-11-12T04:42:54+00:00",
+   "sources": [
+    {
+     "name": "r/MachineLearning",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1xu3n5f/how_much_does_reviewer_confidence_matter_in_iclr/"
+    }
+   ],
+   "primary_url": "https://www.reddit.com/r/MachineLearning/comments/1xu3n5f/how_much_does_reviewer_confidence_matter_in_iclr/"
+  },
+  {
    "id": "01a8528fa117",
    "title": "Closing the AI guidance gap in education",
    "summary": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
    "category": "AI Apps",
-   "score": 39.8,
+   "score": 37.1,
    "published_at": "2026-11-10T09:00:00+00:00",
    "sources": [
     {
@@ -1225,7 +1352,7 @@
    "title": "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot",
    "summary": "Amazon's roaming Ring Robotics devices will debut in late 2026 and early 2027.",
    "category": "Innovation",
-   "score": 39.4,
+   "score": 36.8,
    "published_at": "2026-11-10T22:35:01+00:00",
    "sources": [
     {
@@ -1240,7 +1367,7 @@
    "title": "Singapore Airlines elevates travel & work with OpenAI technology",
    "summary": "Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery, and employee productivity, doubling CSAT for its Kris chatbot.",
    "category": "AI Apps",
-   "score": 39.3,
+   "score": 36.7,
    "published_at": "2026-11-10T08:00:00+00:00",
    "sources": [
     {
@@ -1251,11 +1378,41 @@
    "primary_url": "https://openai.com/index/singapore-airlines-travel-work"
   },
   {
+   "id": "4f138b595836",
+   "title": "Missed Presentation [D]",
+   "summary": "Hello everyone, For some reason if you miss paper workshop presentation then what happens? submitted by /u/No_Caterpillar3174 [link] [comments]",
+   "category": "Innovation",
+   "score": 36.7,
+   "published_at": "2026-11-12T03:08:20+00:00",
+   "sources": [
+    {
+     "name": "r/MachineLearning",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1xu1szu/missed_presentation_d/"
+    }
+   ],
+   "primary_url": "https://www.reddit.com/r/MachineLearning/comments/1xu1szu/missed_presentation_d/"
+  },
+  {
+   "id": "0c15f2cf2a2a",
+   "title": "I fine-tuned EVA-02 in a week to build a neural video retrieval engine for what CLIP still won't do [P]",
+   "summary": "TL;DR: After a manic 7-day sprint, I open-sourced a local video retrieval engine built to search massive unstructured video portals by visual poses, clothing details, camera angles, and motion cadenc…",
+   "category": "Open Source",
+   "score": 36.7,
+   "published_at": "2026-11-12T03:03:34+00:00",
+   "sources": [
+    {
+     "name": "r/MachineLearning",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1xu1pg4/i_finetuned_eva02_in_a_week_to_build_a_neural/"
+    }
+   ],
+   "primary_url": "https://www.reddit.com/r/MachineLearning/comments/1xu1pg4/i_finetuned_eva02_in_a_week_to_build_a_neural/"
+  },
+  {
    "id": "3588ceed4155",
    "title": "Work at the Frontier: AI’s effect on freelance work",
    "summary": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
    "category": "Innovation",
-   "score": 38.9,
+   "score": 36.3,
    "published_at": "2026-11-10T07:00:00+00:00",
    "sources": [
     {
@@ -1266,26 +1423,11 @@
    "primary_url": "https://openai.com/index/ai-effect-on-freelance-work"
   },
   {
-   "id": "c3e82675d569",
-   "title": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
-   "summary": "Researcher finds 35,000 Grok Build apps wide open to anyone who looked for them.",
-   "category": "Security",
-   "score": 38.9,
-   "published_at": "2026-11-10T21:12:59+00:00",
-   "sources": [
-    {
-     "name": "Ars Technica",
-     "url": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/"
-    }
-   ],
-   "primary_url": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/"
-  },
-  {
    "id": "571fb0494bf3",
    "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
    "summary": "OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry.",
    "category": "Other",
-   "score": 38.8,
+   "score": 36.2,
    "published_at": "2026-11-10T21:08:52+00:00",
    "sources": [
     {
@@ -1296,11 +1438,26 @@
    "primary_url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/"
   },
   {
+   "id": "c3e82675d569",
+   "title": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
+   "summary": "Researcher finds 35,000 Grok Build apps wide open to anyone who looked for them.",
+   "category": "Security",
+   "score": 36.2,
+   "published_at": "2026-11-10T21:12:59+00:00",
+   "sources": [
+    {
+     "name": "Ars Technica",
+     "url": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/"
+    }
+   ],
+   "primary_url": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/"
+  },
+  {
    "id": "974373c40fc7",
    "title": "Lazare, veni foras: Reprogramming Dormant Neurons to Backdoor AI Agents",
    "summary": "Microsoft researchers have discovered “Lazarus,” a backdoor technique that can reprogram dormant neurons in an AI model, causing an otherwise normal AI agent to execute malicious commands when a hidd…",
    "category": "Security",
-   "score": 38.7,
+   "score": 36.1,
    "published_at": "2026-11-10T20:52:56+00:00",
    "sources": [
     {
@@ -1315,7 +1472,7 @@
    "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
    "summary": "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines.",
    "category": "Other",
-   "score": 38.7,
+   "score": 36.1,
    "published_at": "2026-11-10T20:52:13+00:00",
    "sources": [
     {
@@ -1330,7 +1487,7 @@
    "title": "What happens to mathematics when AI becomes an oracle?",
    "summary": "Mathematician Steven Strogatz discusses his new book, Big Math: The Hidden Codes That Run Our World .",
    "category": "Other",
-   "score": 38.6,
+   "score": 35.9,
    "published_at": "2026-11-10T20:30:01+00:00",
    "sources": [
     {
@@ -1345,7 +1502,7 @@
    "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
    "summary": "Each of the seven co-founders plans to sell exactly the same number of shares in the IPO, which would bring each of them about $250 million in cash at the midpoint of the price range while leaving th…",
    "category": "Other",
-   "score": 38.3,
+   "score": 35.7,
    "published_at": "2026-11-10T19:57:52+00:00",
    "sources": [
     {
@@ -1356,26 +1513,11 @@
    "primary_url": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/"
   },
   {
-   "id": "cab7251d8bc3",
-   "title": "Google推出醫療版Gemini，可串Epic、Oracle電子病歷系統，還整合AI Agent協助看診和保險審查",
-   "summary": "新聞 Google Cloud昨（10）日 推出醫療專用AI解決方案Gemini for healthcare ，讓AI Agent不只回答問題，還能跨系統查找資料、協助完成多步驟工作。這套方案整合醫療專用Skills、資料連接器和AI治理機制，可串接Epic、Oracle Health等電子病歷系統，協助醫護人員整理病史、準備看診資料，也能支援保險事前授權、理賠審查等行政工作。該方案已在美國開…",
-   "category": "AI Apps",
-   "score": 38.3,
-   "published_at": "2026-11-11T10:12:14+00:00",
-   "sources": [
-    {
-     "name": "iThome",
-     "url": "https://www.ithome.com.tw/news/180431"
-    }
-   ],
-   "primary_url": "https://www.ithome.com.tw/news/180431"
-  },
-  {
    "id": "7739f93bab44",
    "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
    "summary": "The deal comes a few weeks after Oura postponed its up to $2.2 billion IPO indefinitely, citing “uncertainty in the IPO market.”",
    "category": "Other",
-   "score": 38.1,
+   "score": 35.5,
    "published_at": "2026-11-10T19:23:34+00:00",
    "sources": [
     {
@@ -1390,7 +1532,7 @@
    "title": "PSI is trying to make a business out of AI-driven scientific discovery",
    "summary": "PSI used an unreleased Anthropic model to answer a fundamental question about quantum computing that scientists have pursued for nearly two decades.",
    "category": "Innovation",
-   "score": 38.0,
+   "score": 35.3,
    "published_at": "2026-11-10T19:03:52+00:00",
    "sources": [
     {
@@ -1405,7 +1547,7 @@
    "title": "The US is winning the AI race. Jensen Huang could have blown it",
    "summary": "As espionage targets go, Jensen Huang is perhaps one of the least surprising on Earth. The Nvidia CEO runs one of the world's most valuable companies, controls the in-demand technology fueling the AI…",
    "category": "Other",
-   "score": 38.0,
+   "score": 35.3,
    "published_at": "2026-11-10T19:04:05+00:00",
    "sources": [
     {
@@ -1416,86 +1558,11 @@
    "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy"
   },
   {
-   "id": "445fc6287a33",
-   "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
-   "summary": "OpenAI is looking to make ChatGPT a more robust consumer discovery engine, and a host of new features seek to empower businesses to help it do that.",
-   "category": "AI Apps",
-   "score": 37.9,
-   "published_at": "2026-11-10T18:49:52+00:00",
-   "sources": [
-    {
-     "name": "TechCrunch",
-     "url": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/"
-    }
-   ],
-   "primary_url": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/"
-  },
-  {
-   "id": "db29d9356b49",
-   "title": "微軟.NET 11登場，C# 15新增聯合型別、CLI導入Native AOT加速",
-   "summary": "新聞 微軟在.NET Conf 2026開發者大會 發布.NET 11正式版 ，C# 15新增聯合型別（Union Types）與封閉階層（Closed Hierarchies），.NET SDK預設啟用採Native AOT編譯的命令列啟動程式，減少常用指令的啟動時間。新版也改善建置工具效能，並擴充跨平臺應用程式及AI開發支援。 .NET是微軟的跨平臺應用程式開發平臺，涵蓋網頁、桌面及行動應用…",
-   "category": "AI Apps",
-   "score": 37.7,
-   "published_at": "2026-11-11T08:48:31+00:00",
-   "sources": [
-    {
-     "name": "iThome",
-     "url": "https://www.ithome.com.tw/news/180426"
-    }
-   ],
-   "primary_url": "https://www.ithome.com.tw/news/180426"
-  },
-  {
-   "id": "31d4a78dfbe2",
-   "title": "國網中心布局主權AI，TAIWAN AI RAP擴充模型微調能力，加速AI應用落地",
-   "summary": "新聞 生成式AI競爭快速升溫，各國不只競逐大型模型能力，也開始布局支撐AI發展所需的算力、資料與模型訓練能力。國研院國網中心主任張朝亮在本周一場公開活動中表示，台灣要發展主權AI，需要具備足夠算力，並結合模型研發與台灣資料、語料訓練能力，才能建立符合自身需求的AI能力。 張朝亮分享國網中心推動TAIWAN AI RAP平臺的成果與下一階段規畫。他指出，大型模型越來越強大，不僅能提升推理能力，也能…",
-   "category": "AI Apps",
-   "score": 37.7,
-   "published_at": "2026-11-11T08:47:44+00:00",
-   "sources": [
-    {
-     "name": "iThome",
-     "url": "https://www.ithome.com.tw/news/180427"
-    }
-   ],
-   "primary_url": "https://www.ithome.com.tw/news/180427"
-  },
-  {
-   "id": "ae4cbe975ffc",
-   "title": "Amazon ElastiCache Serverless加入向量與全文搜尋，可混合查詢即時資料",
-   "summary": "新聞 Amazon ElastiCache Serverless的Valkey快取除了原有的鍵值存取功能，現在也 支援向量搜尋、全文搜尋、混合搜尋及資料彙總（Aggregation） 。應用程式可在單次查詢中結合文字與向量條件，直接檢索持續更新的快取資料，應用於即時推薦、商品搜尋及AI系統。 ElastiCache Serverless是AWS的全託管記憶體快取服務，AWS先前已在採用Valke…",
-   "category": "AI Apps",
-   "score": 37.7,
-   "published_at": "2026-11-11T08:45:53+00:00",
-   "sources": [
-    {
-     "name": "iThome",
-     "url": "https://www.ithome.com.tw/news/180415"
-    }
-   ],
-   "primary_url": "https://www.ithome.com.tw/news/180415"
-  },
-  {
-   "id": "bc284755593d",
-   "title": "Google Gemini 4 Carbon全面上線，以較低價對打Anthropic Fable/Mythos 5.2",
-   "summary": "新聞 Google本周宣布 最新一代尖端模型Gemini 4 Carbon 已開放給企業、開發者及個人付費用戶，API存取費用為Anthropic Fable/Mythos 5.2一半。 Gemini 4 Carbon是繼Gemini 4 Argon推出的新一代尖端模型，著重強化程式開發、代理式AI、科學研究及長時間自主執行任務的能力。10月底推出時，Google僅先開放部分受信任的資安防禦人員…",
-   "category": "Innovation",
-   "score": 37.6,
-   "published_at": "2026-11-11T08:40:38+00:00",
-   "sources": [
-    {
-     "name": "iThome",
-     "url": "https://www.ithome.com.tw/news/180428"
-    }
-   ],
-   "primary_url": "https://www.ithome.com.tw/news/180428"
-  },
-  {
    "id": "454698109508",
    "title": "ChatGPT is getting verified AI ‘Business Agents’",
    "summary": "ChatGPT is going to let you chat with verified \"Business Agents\" that represent a brand to help you with things like comparison shopping. The feature, available first to \"eligible\" e-commerce and onl…",
    "category": "AI Agents",
-   "score": 37.5,
+   "score": 34.9,
    "published_at": "2026-11-10T18:00:00+00:00",
    "sources": [
     {
@@ -1510,7 +1577,7 @@
    "title": "Anthropic 更新支援地區政策，11 月 12 日起依所在地、註冊地與股權控制限制 Claude 使用",
    "summary": "Anthropic 更新 Supported Regions Policy，11 月 12 日起生效，涵蓋 Claude.ai、Claude Code、Cowork、API 與雲端平台上的 Claude 模型，依所在地、註冊地與股權控制 3 種情況判定是否在不受支援地區使用。",
    "category": "AI Apps",
-   "score": 37.4,
+   "score": 34.8,
    "published_at": "2026-11-11T08:12:00+00:00",
    "sources": [
     {
@@ -1525,7 +1592,7 @@
    "title": "The indie game community is in disarray over AI and Big Walk",
    "summary": "Some Independent Games Festival (IGF) jurors published a statement yesterday saying they would not vote for games that use generative AI in \"any capacity.\" Soon after, the developer of indie hit Big …",
    "category": "Other",
-   "score": 37.3,
+   "score": 34.7,
    "published_at": "2026-11-10T17:32:47+00:00",
    "sources": [
     {
@@ -1540,7 +1607,7 @@
    "title": "Anthropic has its own AI-powered office suite now",
    "summary": "For years, Anthropic has been known for its focus on enterprise and coding tools that attract high-flying corporate clients, inspiring competing frontier labs - like OpenAI, SpaceXSI, and Meta - to c…",
    "category": "AI Agents",
-   "score": 37.3,
+   "score": 34.7,
    "published_at": "2026-11-10T17:30:00+00:00",
    "sources": [
     {
@@ -1555,7 +1622,7 @@
    "title": "How should authors handle a suspected auto-generated review at ICLR? Flag to the AC or just rebut? [D]",
    "summary": "I'm curious how ACs and experienced authors think about this. My situation: one ICLR reviewer gave a 2 with confidence 1. The other reviewers gave 3 with confidence 3. Pangram flags the review as 100…",
    "category": "Other",
-   "score": 37.3,
+   "score": 34.7,
    "published_at": "2026-11-11T22:20:31+00:00",
    "sources": [
     {
@@ -1570,7 +1637,7 @@
    "title": "I built an explorer of 2,100+ robotics papers covering 10 years of CoRL; with TLDRs, links to code, project pages, and research trends [P]",
    "summary": "Heya roboticists and mind minders ~ I built a complete CoRL paper explorer, indexing 2,100+ robotics papers from the last 10 years (2017–2026). Added paper TLDRs, project pages, code, arXiv links, ta…",
    "category": "Innovation",
-   "score": 37.1,
+   "score": 34.4,
    "published_at": "2026-11-11T21:42:54+00:00",
    "sources": [
     {
@@ -1581,26 +1648,11 @@
    "primary_url": "https://www.reddit.com/r/MachineLearning/comments/1xtul3j/i_built_an_explorer_of_2100_robotics_papers/"
   },
   {
-   "id": "f4969533531b",
-   "title": "【資安日報】11月11日，駭客利用大數據平臺Qubole被竊憑證，入侵數十家企業AWS環境竊取資料",
-   "summary": "新聞 本日新聞焦點 ● 駭客利用大數據平臺Qubole被竊憑證，入侵數十家企業AWS環境 ● 日本警方查獲車載偽基地臺，逮捕涉嫌干擾手機通訊的男子 ● netiCRM服務商遭駭，超過30個非營利組織示警捐款人個資恐外洩 ● 微軟發布11月例行更新，修補1,094個資安漏洞 ● 韓國海運業者演練船舶資安事故，模擬供應鏈攻擊造成船岸通訊中斷 資安新聞總覽 駭客利用大數據平臺Qubole被竊憑證，入侵…",
-   "category": "Security",
-   "score": 36.9,
-   "published_at": "2026-11-11T07:00:14+00:00",
-   "sources": [
-    {
-     "name": "iThome",
-     "url": "https://www.ithome.com.tw/news/180422"
-    }
-   ],
-   "primary_url": "https://www.ithome.com.tw/news/180422"
-  },
-  {
    "id": "0bbf517ca2cf",
    "title": "eBay appears to have shut the door on third-party AI agents",
    "summary": "eBay appears to have blocked AI agents, including Meta's Muse, from browsing on the platform - the latest speed bump in the AI agent race. A reader tells The Verge that for several weeks he's had his…",
    "category": "AI Agents",
-   "score": 36.8,
+   "score": 34.2,
    "published_at": "2026-11-10T16:20:30+00:00",
    "sources": [
     {
@@ -1615,7 +1667,7 @@
    "title": "NVIDIA Expands Open Source Commitment With OpenShell Donation and New AI Infrastructure",
    "summary": "Kubernetes, the open source system that manages how applications run across thousands of AI factories, has become the foundation for AI, and the demands on it are only growing. To help meet them, NVI…",
    "category": "Open Source",
-   "score": 36.7,
+   "score": 34.0,
    "published_at": "2026-11-10T16:00:03+00:00",
    "sources": [
     {
@@ -1626,41 +1678,11 @@
    "primary_url": "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/"
   },
   {
-   "id": "093759e8c939",
-   "title": "開源版 Grok Bot！OpenMausBot 可把自己的 Claude 與 Codex 訂閱放進 AI 機器人",
-   "summary": "開源專案 OpenMausBot 自稱 Grok Bot 的開源替代品，讓用戶以自己的 Claude、Codex 或 Grok 訂閱驅動多個 AI 機器人，採 Apache 2.0 授權，並提供 MausBot Cloud 付費方案。",
-   "category": "AI Agents",
-   "score": 36.7,
-   "published_at": "2026-11-11T06:31:00+00:00",
-   "sources": [
-    {
-     "name": "INSIDE",
-     "url": "https://www.inside.com.tw/article/42883-openmausbot-open-source-grok-bot-alternative-claude-codex"
-    }
-   ],
-   "primary_url": "https://www.inside.com.tw/article/42883-openmausbot-open-source-grok-bot-alternative-claude-codex"
-  },
-  {
-   "id": "b2980b0543f7",
-   "title": "OpenAI 第三季營收首破 100 億美元、企業業務翻倍，調整後虧損仍高於營收",
-   "summary": "OpenAI 截至 9 月的第三季營收首度突破 100 億美元，季增近 50%，企業業務單季翻倍，但調整後營業虧損也擴大到 109 億美元。本文把它和同一週啟動 IPO 路演的 Anthropic 放在一起看，對照兩家的成長速度、虧損與營收規模，並帶出 Friar 對解開 Azure 合約的期待。",
-   "category": "Innovation",
-   "score": 36.7,
-   "published_at": "2026-11-11T06:25:00+00:00",
-   "sources": [
-    {
-     "name": "INSIDE",
-     "url": "https://www.inside.com.tw/article/42879-openai-q3-2026-revenue-10-billion-enterprise"
-    }
-   ],
-   "primary_url": "https://www.inside.com.tw/article/42879-openai-q3-2026-revenue-10-billion-enterprise"
-  },
-  {
    "id": "a30f7fce38a4",
    "title": "Have people given up on ICLR reviews? [D]",
    "summary": "Something weird I observed with my batch of papers and my own paper. Authors have not posted a single rebuttal yet, and no reviewer has responded to ours. This is a batch of almost 10-12 papers. Even…",
    "category": "Innovation",
-   "score": 36.6,
+   "score": 34.0,
    "published_at": "2026-11-11T20:40:40+00:00",
    "sources": [
     {
@@ -1671,26 +1693,11 @@
    "primary_url": "https://www.reddit.com/r/MachineLearning/comments/1xtt0px/have_people_given_up_on_iclr_reviews_d/"
   },
   {
-   "id": "4ba4f5c5cd54",
-   "title": "n8n Labs 推出開源個人 AI 代理 Nod，在用戶電腦開瀏覽器代辦事務，費用由模型供應商收取",
-   "summary": "n8n Labs 於 11 月 10 日以研究預覽版推出開源個人 AI 代理 Nod，可在用戶 Mac 或 Windows 電腦的沙盒中操作瀏覽器代辦事務，採 Apache 2.0 授權，AI 用量費用由用戶向模型供應商支付。",
-   "category": "AI Agents",
-   "score": 36.4,
-   "published_at": "2026-11-11T05:39:00+00:00",
-   "sources": [
-    {
-     "name": "INSIDE",
-     "url": "https://www.inside.com.tw/article/42882-n8n-labs-nod-open-source-personal-ai-agent-runs-locally"
-    }
-   ],
-   "primary_url": "https://www.inside.com.tw/article/42882-n8n-labs-nod-open-source-personal-ai-agent-runs-locally"
-  },
-  {
    "id": "0f696e8c8567",
    "title": "DeepMind reveals Gemini Robotics 2.5 and open safety benchmark \"ASIMOV-jailbreak\"",
    "summary": "The new model is up to twice as successful at some tasks.",
    "category": "Security",
-   "score": 36.3,
+   "score": 33.6,
    "published_at": "2026-11-10T15:00:39+00:00",
    "sources": [
     {
@@ -1701,49 +1708,34 @@
    "primary_url": "https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak/"
   },
   {
-   "id": "01e7e3665015",
-   "title": "換 ERP 公司就得停擺半年？不換系統也能導入 AI，傳產的「轉型困境」迎來大逆轉？｜電獺共同創辦人暨執行長 謝綸、共同創辦人暨副執行長 蘇芃翰【塞掐 Side Chat】E431",
-   "summary": "電獺 AotterClam AI 定位為「給 AI 用的工具」，不與 AI 代理競爭。其核心是整理企業既有 ERP 等系統的雜亂資料，透過 MCP 協定，讓客戶能直接在慣用的 GPT 或 Claude 上，查詢分析內部數據，獲取洞見。",
-   "category": "AI Apps",
-   "score": 36.2,
-   "published_at": "2026-11-11T05:09:00+00:00",
+   "id": "e6df1e705a6d",
+   "title": "AI ‘slop’ is a social judgement [R]",
+   "summary": "https://www.nature.com/articles/s41562-026-02639-6 A new paper argues that AI Slop isn't something you can find in the content. It’s a social judgement, made when a community decides that some AI-gen…",
+   "category": "Innovation",
+   "score": 32.9,
+   "published_at": "2026-11-11T18:03:18+00:00",
    "sources": [
     {
-     "name": "INSIDE",
-     "url": "https://www.inside.com.tw/feature/side-chat/42878-aotter-enterprise-ai-erp-side-chat"
+     "name": "r/MachineLearning",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1xtour7/ai_slop_is_a_social_judgement_r/"
     }
    ],
-   "primary_url": "https://www.inside.com.tw/feature/side-chat/42878-aotter-enterprise-ai-erp-side-chat"
+   "primary_url": "https://www.reddit.com/r/MachineLearning/comments/1xtour7/ai_slop_is_a_social_judgement_r/"
   },
   {
-   "id": "1ff74ee2cb10",
-   "title": "Cogent and OpenAI build cyber defense factories for enterprises",
-   "summary": "Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents.",
-   "category": "AI Apps",
-   "score": 36.0,
-   "published_at": "2026-11-10T00:00:00+00:00",
+   "id": "82fda640970b",
+   "title": "Ukraine’s fiber-optic drones get squeezed by AI data center demand",
+   "summary": "Ukraine competes with Russia and data centers for China’s optical fiber supply.",
+   "category": "Other",
+   "score": 32.5,
+   "published_at": "2026-11-10T12:15:32+00:00",
    "sources": [
     {
-     "name": "OpenAI",
-     "url": "https://openai.com/index/cogent-security"
+     "name": "Ars Technica",
+     "url": "https://arstechnica.com/gadgets/2026/11/ukraines-fiber-optic-drones-get-squeezed-by-ai-data-center-demand/"
     }
    ],
-   "primary_url": "https://openai.com/index/cogent-security"
-  },
-  {
-   "id": "043fdff85d44",
-   "title": "Google 推出 Gemini 4 Carbon！強化 AI 代理、資安與科學研究",
-   "summary": "Google 於 11 月 10 日宣布，旗下最新 AI 模型 Gemini 4 Carbon 正式開放使用，涵蓋開發者、企業、科學研究人員及一般消費者。Google 將 Carbon 定位為目前能力最強的模型，尤其強化網路安全、複雜軟體工程、科學研究，以及需要長時間執行的 AI 代理工作流程。",
-   "category": "Security",
-   "score": 35.9,
-   "published_at": "2026-11-11T04:30:00+00:00",
-   "sources": [
-    {
-     "name": "INSIDE",
-     "url": "https://www.inside.com.tw/article/42877-gemini-4-carbon-now-available"
-    }
-   ],
-   "primary_url": "https://www.inside.com.tw/article/42877-gemini-4-carbon-now-available"
+   "primary_url": "https://arstechnica.com/gadgets/2026/11/ukraines-fiber-optic-drones-get-squeezed-by-ai-data-center-demand/"
   }
  ],
  "highlights": {
@@ -1753,7 +1745,7 @@
     "title": "Gemini 4 Carbon is now available",
     "summary": "",
     "category": "Innovation",
-    "score": 65.4,
+    "score": 62.6,
     "published_at": "2026-11-10T16:03:47+00:00",
     "sources": [
      {
@@ -1776,7 +1768,7 @@
     "title": "Gilbert + Tobin rethinks the business of law with AI",
     "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
     "category": "Other",
-    "score": 56.0,
+    "score": 53.4,
     "published_at": "2026-11-12T00:00:00+00:00",
     "sources": [
      {
@@ -1791,7 +1783,7 @@
     "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
     "summary": "Predicting how DNA sequences and their variations impact specific human cell types and disease.",
     "category": "Other",
-    "score": 52.3,
+    "score": 49.6,
     "published_at": "2026-11-11T15:00:15+00:00",
     "sources": [
      {
@@ -1806,7 +1798,7 @@
     "title": "ChatGPT Plus for veterans and servicemembers",
     "summary": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
     "category": "Other",
-    "score": 49.3,
+    "score": 46.7,
     "published_at": "2026-11-11T08:00:00+00:00",
     "sources": [
      {
@@ -1821,7 +1813,7 @@
     "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
     "summary": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.",
     "category": "Other",
-    "score": 46.0,
+    "score": 43.4,
     "published_at": "2026-11-11T00:00:00+00:00",
     "sources": [
      {
@@ -1836,7 +1828,7 @@
     "title": "Helping caregivers use AI in everyday life",
     "summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
     "category": "Other",
-    "score": 41.0,
+    "score": 38.4,
     "published_at": "2026-11-10T12:00:00+00:00",
     "sources": [
      {
@@ -1851,7 +1843,7 @@
     "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
     "summary": "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption.",
     "category": "Innovation",
-    "score": 41.0,
+    "score": 38.4,
     "published_at": "2026-11-10T12:02:28+00:00",
     "sources": [
      {
@@ -1866,7 +1858,7 @@
     "title": "Anthropic launches roadshow for proposed initial public offering",
     "summary": "",
     "category": "AI Apps",
-    "score": 40.8,
+    "score": 38.2,
     "published_at": "2026-11-10T11:32:16+00:00",
     "sources": [
      {
@@ -1881,7 +1873,7 @@
     "title": "Introducing Businesses in ChatGPT",
     "summary": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
     "category": "Other",
-    "score": 40.2,
+    "score": 37.5,
     "published_at": "2026-11-10T10:00:00+00:00",
     "sources": [
      {
@@ -1896,7 +1888,7 @@
     "title": "Closing the AI guidance gap in education",
     "summary": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
     "category": "AI Apps",
-    "score": 39.8,
+    "score": 37.1,
     "published_at": "2026-11-10T09:00:00+00:00",
     "sources": [
      {
@@ -1910,10 +1902,10 @@
   "Dark Horses": [
    {
     "id": "8d8bc38f54a7",
-    "title": "My AI agents found an unmapped Maya site",
+    "title": "My AI agents found an unmapped Maya site?",
     "summary": "",
     "category": "AI Agents",
-    "score": 59.1,
+    "score": 56.4,
     "published_at": "2026-11-11T12:05:22+00:00",
     "sources": [
      {
@@ -1932,7 +1924,7 @@
     "title": "AI usage generates a fragile codebase",
     "summary": "",
     "category": "Other",
-    "score": 47.3,
+    "score": 44.5,
     "published_at": "2026-11-10T10:25:58+00:00",
     "sources": [
      {
@@ -1951,7 +1943,7 @@
     "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
     "summary": "",
     "category": "AI Agents",
-    "score": 59.4,
+    "score": 58.4,
     "published_at": "2026-11-11T21:24:35+00:00",
     "sources": [
      {
@@ -1966,30 +1958,11 @@
     "primary_url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/"
    },
    {
-    "id": "458bb1a34baf",
-    "title": "CoreWeave bond yield tops 16% as AI credit stress rises",
-    "summary": "",
-    "category": "Other",
-    "score": 40.9,
-    "published_at": "2026-11-10T03:20:06+00:00",
-    "sources": [
-     {
-      "name": "Hacker News",
-      "url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html"
-     },
-     {
-      "name": "Hacker News 討論",
-      "url": "https://news.ycombinator.com/item?id=50435660"
-     }
-    ],
-    "primary_url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html"
-   },
-   {
     "id": "5427c369cf5d",
     "title": "Fireworks AI security breach impacts Notion and their customers",
     "summary": "",
     "category": "Security",
-    "score": 42.1,
+    "score": 39.3,
     "published_at": "2026-11-10T07:19:38+00:00",
     "sources": [
      {
@@ -2008,7 +1981,7 @@
     "title": "Retirement Savings Are Fueling the AI Bubble",
     "summary": "",
     "category": "Other",
-    "score": 56.2,
+    "score": 53.9,
     "published_at": "2026-11-11T19:06:43+00:00",
     "sources": [
      {
@@ -2027,7 +2000,7 @@
     "title": "AI, activity, and outcomes in software engineering",
     "summary": "",
     "category": "Other",
-    "score": 54.5,
+    "score": 52.0,
     "published_at": "2026-11-11T16:33:28+00:00",
     "sources": [
      {
@@ -2049,7 +2022,7 @@
     "summary": "Production-grade engineering skills for AI coding agents.",
     "category": "Skills",
     "score": 54.0,
-    "published_at": "2026-11-11T23:57:56.221976+00:00",
+    "published_at": "2026-11-12T06:17:53.685562+00:00",
     "sources": [
      {
       "name": "GitHub Trending",
@@ -2064,7 +2037,7 @@
     "summary": "Browser automation CLI for AI agents",
     "category": "AI Agents",
     "score": 53.7,
-    "published_at": "2026-11-11T23:57:56.221976+00:00",
+    "published_at": "2026-11-12T06:17:53.685562+00:00",
     "sources": [
      {
       "name": "GitHub Trending",
@@ -2078,8 +2051,8 @@
     "title": "ZhuLinsen/daily_stock_analysis: LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
     "summary": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-f…",
     "category": "Open Source",
-    "score": 52.2,
-    "published_at": "2026-11-11T23:57:56.221976+00:00",
+    "score": 50.9,
+    "published_at": "2026-11-12T06:17:53.685562+00:00",
     "sources": [
      {
       "name": "GitHub Trending",
@@ -2093,8 +2066,8 @@
     "title": "MiniMaxAI/MiniMax-H3-Image",
     "summary": "",
     "category": "Open Source",
-    "score": 51.2,
-    "published_at": "2026-11-11T23:57:56.221976+00:00",
+    "score": 50.6,
+    "published_at": "2026-11-12T06:17:53.685562+00:00",
     "sources": [
      {
       "name": "Hugging Face Trending",
@@ -2108,8 +2081,8 @@
     "title": "speridlabs/idol",
     "summary": "",
     "category": "Open Source",
-    "score": 50.3,
-    "published_at": "2026-11-11T23:57:56.221976+00:00",
+    "score": 49.5,
+    "published_at": "2026-11-12T06:17:53.685562+00:00",
     "sources": [
      {
       "name": "Hugging Face Trending",
@@ -2123,8 +2096,8 @@
     "title": "NousResearch/Arete-27B",
     "summary": "",
     "category": "Open Source",
-    "score": 49.9,
-    "published_at": "2026-11-11T23:57:56.221976+00:00",
+    "score": 49.2,
+    "published_at": "2026-11-12T06:17:53.685562+00:00",
     "sources": [
      {
       "name": "Hugging Face Trending",
@@ -2138,8 +2111,8 @@
     "title": "Lightricks/LTX-2.5",
     "summary": "",
     "category": "Open Source",
-    "score": 49.8,
-    "published_at": "2026-11-11T23:57:56.221976+00:00",
+    "score": 49.1,
+    "published_at": "2026-11-12T06:17:53.685562+00:00",
     "sources": [
      {
       "name": "Hugging Face Trending",
@@ -2153,8 +2126,8 @@
     "title": "ricursiveAI/Ripple-65B-Preview",
     "summary": "",
     "category": "Open Source",
-    "score": 49.8,
-    "published_at": "2026-11-11T23:57:56.221976+00:00",
+    "score": 48.7,
+    "published_at": "2026-11-12T06:17:53.685562+00:00",
     "sources": [
      {
       "name": "Hugging Face Trending",
@@ -2168,8 +2141,8 @@
     "title": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
     "summary": "",
     "category": "Innovation",
-    "score": 49.4,
-    "published_at": "2026-11-11T23:57:56.221976+00:00",
+    "score": 48.6,
+    "published_at": "2026-11-12T06:17:53.685562+00:00",
     "sources": [
      {
       "name": "Hugging Face Trending",
@@ -2183,8 +2156,8 @@
     "title": "ccore/Qwen3.5-4B-3D-Coder",
     "summary": "",
     "category": "Innovation",
-    "score": 49.2,
-    "published_at": "2026-11-11T23:57:56.221976+00:00",
+    "score": 48.5,
+    "published_at": "2026-11-12T06:17:53.685562+00:00",
     "sources": [
      {
       "name": "Hugging Face Trending",
@@ -2202,7 +2175,7 @@
     "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
     "summary": "",
     "category": "AI Agents",
-    "score": 59.4,
+    "score": 58.4,
     "published_at": "2026-11-11T21:24:35+00:00",
     "sources": [
      {
@@ -2218,10 +2191,10 @@
    },
    {
     "id": "8d8bc38f54a7",
-    "title": "My AI agents found an unmapped Maya site",
+    "title": "My AI agents found an unmapped Maya site?",
     "summary": "",
     "category": "AI Agents",
-    "score": 59.1,
+    "score": 56.4,
     "published_at": "2026-11-11T12:05:22+00:00",
     "sources": [
      {
@@ -2241,7 +2214,7 @@
     "summary": "Browser automation CLI for AI agents",
     "category": "AI Agents",
     "score": 53.7,
-    "published_at": "2026-11-11T23:57:56.221976+00:00",
+    "published_at": "2026-11-12T06:17:53.685562+00:00",
     "sources": [
      {
       "name": "GitHub Trending",
@@ -2255,7 +2228,7 @@
     "title": "Jensen Huang accused of having another affair — with an Nvidia exec",
     "summary": "Jensen Huang, who has come under fire for admitting to an affair with a woman accused of being a Chinese intelligence agent, has been accused of having a separate affair with an Nvidia subordinate.",
     "category": "AI Agents",
-    "score": 49.7,
+    "score": 47.1,
     "published_at": "2026-11-11T23:17:05+00:00",
     "sources": [
      {
@@ -2270,7 +2243,7 @@
     "title": "United won’t let your AI agent book your flight",
     "summary": "United says it won't let personal AI assistants book tickets on the airline, citing both privacy and regulatory concerns. The company says it hasn't yet seen many people try to use AI agents to book …",
     "category": "AI Agents",
-    "score": 49.1,
+    "score": 46.5,
     "published_at": "2026-11-11T21:54:21+00:00",
     "sources": [
      {
@@ -2281,11 +2254,26 @@
     "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents"
    },
    {
+    "id": "d6f46ba3957c",
+    "title": "工程師連一行程式碼都沒寫！AWS 推出免費雲端模擬器，全由 AI 代理打造",
+    "summary": "負責這項專案的 AWS 資深首席工程師 Matt Goldberg 在部落格文章中寫道：「這款模擬器完全由自主 AI 代理撰寫。我們的團隊沒有撰寫或審查過其中任何一行程式碼。」",
+    "category": "AI Agents",
+    "score": 43.8,
+    "published_at": "2026-11-12T05:51:00+00:00",
+    "sources": [
+     {
+      "name": "INSIDE",
+      "url": "https://www.inside.com.tw/article/42891-aws-emulator-free-ai-agent-built-cloud-simulator"
+     }
+    ],
+    "primary_url": "https://www.inside.com.tw/article/42891-aws-emulator-free-ai-agent-built-cloud-simulator"
+   },
+   {
     "id": "6619f09dbc0d",
     "title": "Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth",
     "summary": "With Databricks at 12,000 employees, AI Ghodsi is the first to admit that he can't know everyone and that they are unlikely to confess the things that go wrong to him. But he doesn't need them to. He…",
     "category": "AI Agents",
-    "score": 46.3,
+    "score": 43.6,
     "published_at": "2026-11-11T15:00:00+00:00",
     "sources": [
      {
@@ -2296,11 +2284,26 @@
     "primary_url": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/"
    },
    {
+    "id": "11f2bfa3abef",
+    "title": "OpenAI招募AI旅遊規畫平臺Odessia創辦人",
+    "summary": "新聞 OpenAI將招募以AI輔助旅遊規畫平臺新創公司Odessia創辦人暨執行長，以強化線上旅遊服務能力。 Odessia執行長 Francis Davidson本周透過X宣布這項消息。 他的LinkedIn 個人帳號職稱也已改成OpenAI旅遊部門。 雖然Odessia是一家新創業者，但顯然OpenAI並未收購整家公司，而是以收購僱用（acqui-hire）方式挖走核心人物。 Odessia…",
+    "category": "AI Agents",
+    "score": 43.3,
+    "published_at": "2026-11-12T04:33:43+00:00",
+    "sources": [
+     {
+      "name": "iThome",
+      "url": "https://www.ithome.com.tw/news/180441"
+     }
+    ],
+    "primary_url": "https://www.ithome.com.tw/news/180441"
+   },
+   {
     "id": "0ccfb511c0c8",
     "title": "Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads",
     "summary": "Like the end-to-end models trained to drive cars, AI agents are probabilistic systems operating in unpredictable environments.",
     "category": "AI Agents",
-    "score": 45.8,
+    "score": 43.2,
     "published_at": "2026-11-11T14:00:00+00:00",
     "sources": [
      {
@@ -2311,49 +2314,19 @@
     "primary_url": "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/"
    },
    {
-    "id": "1e8421e225dc",
-    "title": "DeepMind以AI代理驗證Signal加密實作安全性，數學證明擴及機器碼層級",
-    "summary": "新聞 Google DeepMind 公布 AI代理形式化驗證（Formal Verification）框架AlphaProof Code，利用AI代理驗證Signal加密通訊協定的核心程式庫libsignal，將安全性證明延伸到編譯後的機器碼。Signal協定廣泛應用於通訊服務，此次5名DeepMind研究人員與AI代理合作，4周內產出約650萬行以Lean語言撰寫的數學證明程式碼，驗證前向保…",
+    "id": "3521c2aed100",
+    "title": "ChatGPT 開放商家認領檔案，美國電商可先上架 AI 代理 Business Agent",
+    "summary": "OpenAI 推出 Businesses in ChatGPT 測試版，商家可以在 Business Hub 認領自家檔案，查看過去 28 天被 ChatGPT 提及幾次、網站被點了幾次。美國電商與線上服務業者還能上架專屬的 Business Agent。本文從驗證流程、數據定義，到 Agent 怎麼接 ChatGPT 廣告，說明商家在 ChatGPT 裡能做什麼、不能做什麼。",
     "category": "AI Agents",
-    "score": 44.0,
-    "published_at": "2026-11-12T00:00:00+00:00",
+    "score": 42.9,
+    "published_at": "2026-11-12T03:33:00+00:00",
     "sources": [
      {
-      "name": "iThome",
-      "url": "https://www.ithome.com.tw/news/180430"
+      "name": "INSIDE",
+      "url": "https://www.inside.com.tw/article/42889-openai-chatgpt-business-hub-business-agents"
      }
     ],
-    "primary_url": "https://www.ithome.com.tw/news/180430"
-   },
-   {
-    "id": "b22522d14a17",
-    "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
-    "summary": "",
-    "category": "AI Agents",
-    "score": 42.1,
-    "published_at": "2026-11-11T05:01:16+00:00",
-    "sources": [
-     {
-      "name": "Hugging Face Blog",
-      "url": "https://huggingface.co/blog/qvac/botpsy"
-     }
-    ],
-    "primary_url": "https://huggingface.co/blog/qvac/botpsy"
-   },
-   {
-    "id": "454698109508",
-    "title": "ChatGPT is getting verified AI ‘Business Agents’",
-    "summary": "ChatGPT is going to let you chat with verified \"Business Agents\" that represent a brand to help you with things like comparison shopping. The feature, available first to \"eligible\" e-commerce and onl…",
-    "category": "AI Agents",
-    "score": 37.5,
-    "published_at": "2026-11-10T18:00:00+00:00",
-    "sources": [
-     {
-      "name": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub"
-     }
-    ],
-    "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub"
+    "primary_url": "https://www.inside.com.tw/article/42889-openai-chatgpt-business-hub-business-agents"
    }
   ],
   "AI Apps": [
@@ -2362,7 +2335,7 @@
     "title": "Gemini Decisions API",
     "summary": "",
     "category": "AI Apps",
-    "score": 57.5,
+    "score": 56.2,
     "published_at": "2026-11-11T18:32:42+00:00",
     "sources": [
      {
@@ -2381,7 +2354,7 @@
     "title": "Apple has new Mac app coming to make running local AI models easy",
     "summary": "",
     "category": "AI Apps",
-    "score": 51.3,
+    "score": 48.6,
     "published_at": "2026-11-10T21:25:03+00:00",
     "sources": [
      {
@@ -2398,9 +2371,9 @@
    {
     "id": "850c0644106f",
     "title": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
-    "summary": "CoreWeave is increasingly asking customers to pay upfront, borrowing against specific contracts, and even looking to short-term deals that could lead to higher prices, according to the company’s thir…",
+    "summary": "CoreWeave is increasingly asking customers to pay up front, borrowing against specific contracts, and even looking to short-term deals that could lead to higher prices, according to the company’s thi…",
     "category": "AI Apps",
-    "score": 48.3,
+    "score": 45.7,
     "published_at": "2026-11-11T19:54:00+00:00",
     "sources": [
      {
@@ -2415,7 +2388,7 @@
     "title": "Google’s Tabletop AI experiment lets you build custom collaboration apps",
     "summary": "Google has cooked up a new experimental AI tool called Tabletop that generates customized collaborative hubs to help you coordinate with family, and friends. The Tabletop platform shares some visual …",
     "category": "AI Apps",
-    "score": 46.7,
+    "score": 44.0,
     "published_at": "2026-11-11T16:00:00+00:00",
     "sources": [
      {
@@ -2430,7 +2403,7 @@
     "title": "Adobe’s AI experiments let you walk around in photos and interview your characters",
     "summary": "Some of the most impressive tech that Adobe showcases at its annual Max conference each year is the experimental features it's developing, and the latest of those tools are being announced today: the…",
     "category": "AI Apps",
-    "score": 45.8,
+    "score": 43.2,
     "published_at": "2026-11-11T14:00:00+00:00",
     "sources": [
      {
@@ -2445,7 +2418,7 @@
     "title": "Anthropic launches roadshow for proposed initial public offering",
     "summary": "",
     "category": "AI Apps",
-    "score": 40.8,
+    "score": 38.2,
     "published_at": "2026-11-10T11:32:16+00:00",
     "sources": [
      {
@@ -2460,7 +2433,7 @@
     "title": "Closing the AI guidance gap in education",
     "summary": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
     "category": "AI Apps",
-    "score": 39.8,
+    "score": 37.1,
     "published_at": "2026-11-10T09:00:00+00:00",
     "sources": [
      {
@@ -2475,7 +2448,7 @@
     "title": "Singapore Airlines elevates travel & work with OpenAI technology",
     "summary": "Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery, and employee productivity, doubling CSAT for its Kris chatbot.",
     "category": "AI Apps",
-    "score": 39.3,
+    "score": 36.7,
     "published_at": "2026-11-10T08:00:00+00:00",
     "sources": [
      {
@@ -2486,34 +2459,19 @@
     "primary_url": "https://openai.com/index/singapore-airlines-travel-work"
    },
    {
-    "id": "cab7251d8bc3",
-    "title": "Google推出醫療版Gemini，可串Epic、Oracle電子病歷系統，還整合AI Agent協助看診和保險審查",
-    "summary": "新聞 Google Cloud昨（10）日 推出醫療專用AI解決方案Gemini for healthcare ，讓AI Agent不只回答問題，還能跨系統查找資料、協助完成多步驟工作。這套方案整合醫療專用Skills、資料連接器和AI治理機制，可串接Epic、Oracle Health等電子病歷系統，協助醫護人員整理病史、準備看診資料，也能支援保險事前授權、理賠審查等行政工作。該方案已在美國開…",
+    "id": "e176b23506d8",
+    "title": "Anthropic 更新支援地區政策，11 月 12 日起依所在地、註冊地與股權控制限制 Claude 使用",
+    "summary": "Anthropic 更新 Supported Regions Policy，11 月 12 日起生效，涵蓋 Claude.ai、Claude Code、Cowork、API 與雲端平台上的 Claude 模型，依所在地、註冊地與股權控制 3 種情況判定是否在不受支援地區使用。",
     "category": "AI Apps",
-    "score": 38.3,
-    "published_at": "2026-11-11T10:12:14+00:00",
+    "score": 34.8,
+    "published_at": "2026-11-11T08:12:00+00:00",
     "sources": [
      {
-      "name": "iThome",
-      "url": "https://www.ithome.com.tw/news/180431"
+      "name": "INSIDE",
+      "url": "https://www.inside.com.tw/article/42880-anthropic-supported-regions-policy-nov-12-location-incorporation-ownership-control"
      }
     ],
-    "primary_url": "https://www.ithome.com.tw/news/180431"
-   },
-   {
-    "id": "445fc6287a33",
-    "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
-    "summary": "OpenAI is looking to make ChatGPT a more robust consumer discovery engine, and a host of new features seek to empower businesses to help it do that.",
-    "category": "AI Apps",
-    "score": 37.9,
-    "published_at": "2026-11-10T18:49:52+00:00",
-    "sources": [
-     {
-      "name": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/"
-     }
-    ],
-    "primary_url": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/"
+    "primary_url": "https://www.inside.com.tw/article/42880-anthropic-supported-regions-policy-nov-12-location-incorporation-ownership-control"
    }
   ],
   "Skills": [
@@ -2523,7 +2481,7 @@
     "summary": "Production-grade engineering skills for AI coding agents.",
     "category": "Skills",
     "score": 54.0,
-    "published_at": "2026-11-11T23:57:56.221976+00:00",
+    "published_at": "2026-11-12T06:17:53.685562+00:00",
     "sources": [
      {
       "name": "GitHub Trending",
@@ -2540,7 +2498,7 @@
     "summary": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
     "category": "MCP",
     "score": 53.4,
-    "published_at": "2026-11-11T23:57:56.221976+00:00",
+    "published_at": "2026-11-12T06:17:53.685562+00:00",
     "sources": [
      {
       "name": "GitHub Trending",
@@ -2556,8 +2514,8 @@
     "title": "ZhuLinsen/daily_stock_analysis: LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
     "summary": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-f…",
     "category": "Open Source",
-    "score": 52.2,
-    "published_at": "2026-11-11T23:57:56.221976+00:00",
+    "score": 50.9,
+    "published_at": "2026-11-12T06:17:53.685562+00:00",
     "sources": [
      {
       "name": "GitHub Trending",
@@ -2571,8 +2529,8 @@
     "title": "MiniMaxAI/MiniMax-H3-Image",
     "summary": "",
     "category": "Open Source",
-    "score": 51.2,
-    "published_at": "2026-11-11T23:57:56.221976+00:00",
+    "score": 50.6,
+    "published_at": "2026-11-12T06:17:53.685562+00:00",
     "sources": [
      {
       "name": "Hugging Face Trending",
@@ -2586,8 +2544,8 @@
     "title": "speridlabs/idol",
     "summary": "",
     "category": "Open Source",
-    "score": 50.3,
-    "published_at": "2026-11-11T23:57:56.221976+00:00",
+    "score": 49.5,
+    "published_at": "2026-11-12T06:17:53.685562+00:00",
     "sources": [
      {
       "name": "Hugging Face Trending",
@@ -2601,8 +2559,8 @@
     "title": "NousResearch/Arete-27B",
     "summary": "",
     "category": "Open Source",
-    "score": 49.9,
-    "published_at": "2026-11-11T23:57:56.221976+00:00",
+    "score": 49.2,
+    "published_at": "2026-11-12T06:17:53.685562+00:00",
     "sources": [
      {
       "name": "Hugging Face Trending",
@@ -2612,27 +2570,12 @@
     "primary_url": "https://huggingface.co/NousResearch/Arete-27B"
    },
    {
-    "id": "7838c87736f9",
-    "title": "moonshotai/Kimi-K3.1-Pro",
-    "summary": "",
-    "category": "Open Source",
-    "score": 49.8,
-    "published_at": "2026-11-11T23:57:56.221976+00:00",
-    "sources": [
-     {
-      "name": "Hugging Face Trending",
-      "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro"
-     }
-    ],
-    "primary_url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro"
-   },
-   {
     "id": "04ce1345cda9",
     "title": "Lightricks/LTX-2.5",
     "summary": "",
     "category": "Open Source",
-    "score": 49.8,
-    "published_at": "2026-11-11T23:57:56.221976+00:00",
+    "score": 49.1,
+    "published_at": "2026-11-12T06:17:53.685562+00:00",
     "sources": [
      {
       "name": "Hugging Face Trending",
@@ -2642,12 +2585,27 @@
     "primary_url": "https://huggingface.co/Lightricks/LTX-2.5"
    },
    {
+    "id": "7838c87736f9",
+    "title": "moonshotai/Kimi-K3.1-Pro",
+    "summary": "",
+    "category": "Open Source",
+    "score": 48.7,
+    "published_at": "2026-11-12T06:17:53.685562+00:00",
+    "sources": [
+     {
+      "name": "Hugging Face Trending",
+      "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro"
+     }
+    ],
+    "primary_url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro"
+   },
+   {
     "id": "276a2df43aba",
     "title": "ricursiveAI/Ripple-65B-Preview",
     "summary": "",
     "category": "Open Source",
-    "score": 49.8,
-    "published_at": "2026-11-11T23:57:56.221976+00:00",
+    "score": 48.7,
+    "published_at": "2026-11-12T06:17:53.685562+00:00",
     "sources": [
      {
       "name": "Hugging Face Trending",
@@ -2657,11 +2615,26 @@
     "primary_url": "https://huggingface.co/ricursiveAI/Ripple-65B-Preview"
    },
    {
+    "id": "0c15f2cf2a2a",
+    "title": "I fine-tuned EVA-02 in a week to build a neural video retrieval engine for what CLIP still won't do [P]",
+    "summary": "TL;DR: After a manic 7-day sprint, I open-sourced a local video retrieval engine built to search massive unstructured video portals by visual poses, clothing details, camera angles, and motion cadenc…",
+    "category": "Open Source",
+    "score": 36.7,
+    "published_at": "2026-11-12T03:03:34+00:00",
+    "sources": [
+     {
+      "name": "r/MachineLearning",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xu1pg4/i_finetuned_eva02_in_a_week_to_build_a_neural/"
+     }
+    ],
+    "primary_url": "https://www.reddit.com/r/MachineLearning/comments/1xu1pg4/i_finetuned_eva02_in_a_week_to_build_a_neural/"
+   },
+   {
     "id": "405fdcad1ce1",
     "title": "NVIDIA Expands Open Source Commitment With OpenShell Donation and New AI Infrastructure",
     "summary": "Kubernetes, the open source system that manages how applications run across thousands of AI factories, has become the foundation for AI, and the demands on it are only growing. To help meet them, NVI…",
     "category": "Open Source",
-    "score": 36.7,
+    "score": 34.0,
     "published_at": "2026-11-10T16:00:03+00:00",
     "sources": [
      {
@@ -2678,7 +2651,7 @@
     "title": "Gemini 4 Carbon is now available",
     "summary": "",
     "category": "Innovation",
-    "score": 65.4,
+    "score": 62.6,
     "published_at": "2026-11-10T16:03:47+00:00",
     "sources": [
      {
@@ -2702,7 +2675,7 @@
     "summary": "",
     "category": "Innovation",
     "score": 54.0,
-    "published_at": "2026-11-11T23:57:56.221976+00:00",
+    "published_at": "2026-11-12T06:17:53.685562+00:00",
     "sources": [
      {
       "name": "Hugging Face Trending",
@@ -2716,8 +2689,8 @@
     "title": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
     "summary": "",
     "category": "Innovation",
-    "score": 49.4,
-    "published_at": "2026-11-11T23:57:56.221976+00:00",
+    "score": 48.6,
+    "published_at": "2026-11-12T06:17:53.685562+00:00",
     "sources": [
      {
       "name": "Hugging Face Trending",
@@ -2731,8 +2704,8 @@
     "title": "Qwen/Qwen3.8-27B",
     "summary": "",
     "category": "Innovation",
-    "score": 49.2,
-    "published_at": "2026-11-11T23:57:56.221976+00:00",
+    "score": 48.6,
+    "published_at": "2026-11-12T06:17:53.685562+00:00",
     "sources": [
      {
       "name": "Hugging Face Trending",
@@ -2746,8 +2719,8 @@
     "title": "ccore/Qwen3.5-4B-3D-Coder",
     "summary": "",
     "category": "Innovation",
-    "score": 49.2,
-    "published_at": "2026-11-11T23:57:56.221976+00:00",
+    "score": 48.5,
+    "published_at": "2026-11-12T06:17:53.685562+00:00",
     "sources": [
      {
       "name": "Hugging Face Trending",
@@ -2761,7 +2734,7 @@
     "title": "Google’s AlphaGenome 2 zooms in on the cellular roots of disease",
     "summary": "Researchers at Google DeepMind have unveiled a new AI model designed to unravel how changes in our DNA affect different cells, giving scientists a more detailed view of a notoriously difficult proble…",
     "category": "Innovation",
-    "score": 46.3,
+    "score": 43.6,
     "published_at": "2026-11-11T15:00:00+00:00",
     "sources": [
      {
@@ -2776,7 +2749,7 @@
     "title": "How AI Helps Recyclers Turn Mixed Waste Into Reusable Material",
     "summary": "Vision AI and robotics pick what’s worth recovering out of conveyor belts of used clothing, bottles and mixed recyclables, diverting thousands of tons of materials from landfills.",
     "category": "Innovation",
-    "score": 41.3,
+    "score": 38.6,
     "published_at": "2026-11-11T03:00:20+00:00",
     "sources": [
      {
@@ -2791,7 +2764,7 @@
     "title": "Validating GPU Platforms with Runtime AI Inventory via the NVIDIA DSX AI Factory",
     "summary": "As teams deploy and scale AI workloads using NVIDIA Dynamo, Kubeflow, or Slurm, tracking what actually runs requires visibility beyond the platform...",
     "category": "Innovation",
-    "score": 41.1,
+    "score": 38.5,
     "published_at": "2026-11-11T17:00:00+00:00",
     "sources": [
      {
@@ -2806,7 +2779,7 @@
     "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
     "summary": "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption.",
     "category": "Innovation",
-    "score": 41.0,
+    "score": 38.4,
     "published_at": "2026-11-10T12:02:28+00:00",
     "sources": [
      {
@@ -2817,19 +2790,19 @@
     "primary_url": "https://deepmind.google/blog/introducing-alphaproof-code/"
    },
    {
-    "id": "9531c706dbfc",
-    "title": "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot",
-    "summary": "Amazon's roaming Ring Robotics devices will debut in late 2026 and early 2027.",
+    "id": "0ac78af7c4d9",
+    "title": "How much does reviewer confidence matter in ICLR decisions? [D]",
+    "summary": "My ICLR submission received ratings of 3 / 3 / 2 with confidence 1 / 3 / 3. One weak accept comes from a low-confidence reviewer (Though their review seemed knowledgeable and pinpointed a key issue i…",
     "category": "Innovation",
-    "score": 39.4,
-    "published_at": "2026-11-10T22:35:01+00:00",
+    "score": 37.3,
+    "published_at": "2026-11-12T04:42:54+00:00",
     "sources": [
      {
-      "name": "Ars Technica",
-      "url": "https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/"
+      "name": "r/MachineLearning",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xu3n5f/how_much_does_reviewer_confidence_matter_in_iclr/"
      }
     ],
-    "primary_url": "https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/"
+    "primary_url": "https://www.reddit.com/r/MachineLearning/comments/1xu3n5f/how_much_does_reviewer_confidence_matter_in_iclr/"
    }
   ],
   "Security": [
@@ -2838,7 +2811,7 @@
     "title": "Tracking Anthropic-discovered vulnerabilities",
     "summary": "",
     "category": "Security",
-    "score": 51.2,
+    "score": 48.5,
     "published_at": "2026-11-10T22:17:56+00:00",
     "sources": [
      {
@@ -2857,8 +2830,8 @@
     "title": "openai/codex-security: OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
     "summary": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
     "category": "Security",
-    "score": 43.1,
-    "published_at": "2026-11-11T23:57:56.221976+00:00",
+    "score": 45.9,
+    "published_at": "2026-11-12T06:17:53.685562+00:00",
     "sources": [
      {
       "name": "GitHub Trending",
@@ -2868,11 +2841,26 @@
     "primary_url": "https://github.com/openai/codex-security"
    },
    {
+    "id": "7cf150550557",
+    "title": "Git修補6項資安漏洞，惡意儲存庫恐觸發任意程式碼執行",
+    "summary": "新聞 Git專案於11月10日修補6項資安漏洞 ，其中CVE-2026-111760可能讓攻擊者透過特製的惡意儲存庫，在特定複製情境下執行任意程式碼，CVSS 3.1風險分數為8.0，屬於高風險等級。 GitHub說明 ，CVE-2026-111760源自Git處理索引資料時的整數截斷問題。攻擊者可利用特製的超長路徑，將子模組的.git檔案替換成指向惡意設定或掛鉤（hooks）目錄的符號連結，讓…",
+    "category": "Security",
+    "score": 41.4,
+    "published_at": "2026-11-12T00:00:00+00:00",
+    "sources": [
+     {
+      "name": "iThome",
+      "url": "https://www.ithome.com.tw/news/180432"
+     }
+    ],
+    "primary_url": "https://www.ithome.com.tw/news/180432"
+   },
+   {
     "id": "5427c369cf5d",
     "title": "Fireworks AI security breach impacts Notion and their customers",
     "summary": "",
     "category": "Security",
-    "score": 42.1,
+    "score": 39.3,
     "published_at": "2026-11-10T07:19:38+00:00",
     "sources": [
      {
@@ -2891,7 +2879,7 @@
     "title": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
     "summary": "Researcher finds 35,000 Grok Build apps wide open to anyone who looked for them.",
     "category": "Security",
-    "score": 38.9,
+    "score": 36.2,
     "published_at": "2026-11-10T21:12:59+00:00",
     "sources": [
      {
@@ -2906,7 +2894,7 @@
     "title": "Lazare, veni foras: Reprogramming Dormant Neurons to Backdoor AI Agents",
     "summary": "Microsoft researchers have discovered “Lazarus,” a backdoor technique that can reprogram dormant neurons in an AI model, causing an otherwise normal AI agent to execute malicious commands when a hidd…",
     "category": "Security",
-    "score": 38.7,
+    "score": 36.1,
     "published_at": "2026-11-10T20:52:56+00:00",
     "sources": [
      {
@@ -2917,26 +2905,11 @@
     "primary_url": "https://www.microsoft.com/en-us/research/blog/lazare-veni-foras-reprogramming-dormant-neurons-to-backdoor-ai-agents/"
    },
    {
-    "id": "f4969533531b",
-    "title": "【資安日報】11月11日，駭客利用大數據平臺Qubole被竊憑證，入侵數十家企業AWS環境竊取資料",
-    "summary": "新聞 本日新聞焦點 ● 駭客利用大數據平臺Qubole被竊憑證，入侵數十家企業AWS環境 ● 日本警方查獲車載偽基地臺，逮捕涉嫌干擾手機通訊的男子 ● netiCRM服務商遭駭，超過30個非營利組織示警捐款人個資恐外洩 ● 微軟發布11月例行更新，修補1,094個資安漏洞 ● 韓國海運業者演練船舶資安事故，模擬供應鏈攻擊造成船岸通訊中斷 資安新聞總覽 駭客利用大數據平臺Qubole被竊憑證，入侵…",
-    "category": "Security",
-    "score": 36.9,
-    "published_at": "2026-11-11T07:00:14+00:00",
-    "sources": [
-     {
-      "name": "iThome",
-      "url": "https://www.ithome.com.tw/news/180422"
-     }
-    ],
-    "primary_url": "https://www.ithome.com.tw/news/180422"
-   },
-   {
     "id": "0f696e8c8567",
     "title": "DeepMind reveals Gemini Robotics 2.5 and open safety benchmark \"ASIMOV-jailbreak\"",
     "summary": "The new model is up to twice as successful at some tasks.",
     "category": "Security",
-    "score": 36.3,
+    "score": 33.6,
     "published_at": "2026-11-10T15:00:39+00:00",
     "sources": [
      {
@@ -2945,21 +2918,6 @@
      }
     ],
     "primary_url": "https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak/"
-   },
-   {
-    "id": "043fdff85d44",
-    "title": "Google 推出 Gemini 4 Carbon！強化 AI 代理、資安與科學研究",
-    "summary": "Google 於 11 月 10 日宣布，旗下最新 AI 模型 Gemini 4 Carbon 正式開放使用，涵蓋開發者、企業、科學研究人員及一般消費者。Google 將 Carbon 定位為目前能力最強的模型，尤其強化網路安全、複雜軟體工程、科學研究，以及需要長時間執行的 AI 代理工作流程。",
-    "category": "Security",
-    "score": 35.9,
-    "published_at": "2026-11-11T04:30:00+00:00",
-    "sources": [
-     {
-      "name": "INSIDE",
-      "url": "https://www.inside.com.tw/article/42877-gemini-4-carbon-now-available"
-     }
-    ],
-    "primary_url": "https://www.inside.com.tw/article/42877-gemini-4-carbon-now-available"
    }
   ],
   "Other": [
@@ -2968,7 +2926,7 @@
     "title": "Retirement Savings Are Fueling the AI Bubble",
     "summary": "",
     "category": "Other",
-    "score": 56.2,
+    "score": 53.9,
     "published_at": "2026-11-11T19:06:43+00:00",
     "sources": [
      {
@@ -2983,26 +2941,11 @@
     "primary_url": "https://lpeproject.org/blog/your-retirement-savings-are-fueling-the-ai-bubble/"
    },
    {
-    "id": "f28f90d2895a",
-    "title": "Gilbert + Tobin rethinks the business of law with AI",
-    "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
-    "category": "Other",
-    "score": 56.0,
-    "published_at": "2026-11-12T00:00:00+00:00",
-    "sources": [
-     {
-      "name": "OpenAI",
-      "url": "https://openai.com/index/gilbert-tobin-sam-nickless"
-     }
-    ],
-    "primary_url": "https://openai.com/index/gilbert-tobin-sam-nickless"
-   },
-   {
     "id": "7a69c1b89eda",
     "title": "Faster Retrieval for Better, More Efficient RAG",
     "summary": "",
     "category": "Other",
-    "score": 55.5,
+    "score": 53.7,
     "published_at": "2026-11-11T16:57:45+00:00",
     "sources": [
      {
@@ -3017,11 +2960,26 @@
     "primary_url": "https://machinelearning.apple.com/research/faster-retrieval"
    },
    {
+    "id": "f28f90d2895a",
+    "title": "Gilbert + Tobin rethinks the business of law with AI",
+    "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
+    "category": "Other",
+    "score": 53.4,
+    "published_at": "2026-11-12T00:00:00+00:00",
+    "sources": [
+     {
+      "name": "OpenAI",
+      "url": "https://openai.com/index/gilbert-tobin-sam-nickless"
+     }
+    ],
+    "primary_url": "https://openai.com/index/gilbert-tobin-sam-nickless"
+   },
+   {
     "id": "e05d76cd3360",
     "title": "AI, activity, and outcomes in software engineering",
     "summary": "",
     "category": "Other",
-    "score": 54.5,
+    "score": 52.0,
     "published_at": "2026-11-11T16:33:28+00:00",
     "sources": [
      {
@@ -3040,7 +2998,7 @@
     "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
     "summary": "Predicting how DNA sequences and their variations impact specific human cell types and disease.",
     "category": "Other",
-    "score": 52.3,
+    "score": 49.6,
     "published_at": "2026-11-11T15:00:15+00:00",
     "sources": [
      {
@@ -3051,11 +3009,26 @@
     "primary_url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/"
    },
    {
+    "id": "df5c4c0af68f",
+    "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
+    "summary": "Nvidia has no succession plan and a CEO in hot water, so we’ve drafted a shortlist.",
+    "category": "Other",
+    "score": 48.7,
+    "published_at": "2026-11-12T03:13:10+00:00",
+    "sources": [
+     {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/"
+     }
+    ],
+    "primary_url": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/"
+   },
+   {
     "id": "efdd0bfa6110",
     "title": "The unfolding Jensen Huang scandal: a timeline",
     "summary": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
     "category": "Other",
-    "score": 49.9,
+    "score": 47.3,
     "published_at": "2026-11-11T23:50:00+00:00",
     "sources": [
      {
@@ -3070,7 +3043,7 @@
     "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
     "summary": "As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years.",
     "category": "Other",
-    "score": 49.8,
+    "score": 47.2,
     "published_at": "2026-11-11T23:28:45+00:00",
     "sources": [
      {
@@ -3085,7 +3058,7 @@
     "title": "Nvidia is reportedly preparing to fire Jensen Huang",
     "summary": "Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from the New York Times about a second alleged extramarital affair, just days after he admitted to a separate affair with a …",
     "category": "Other",
-    "score": 49.5,
+    "score": 46.9,
     "published_at": "2026-11-11T22:44:36+00:00",
     "sources": [
      {
@@ -3100,7 +3073,7 @@
     "title": "ChatGPT Plus for veterans and servicemembers",
     "summary": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
     "category": "Other",
-    "score": 49.3,
+    "score": 46.7,
     "published_at": "2026-11-11T08:00:00+00:00",
     "sources": [
      {
@@ -3109,21 +3082,6 @@
      }
     ],
     "primary_url": "https://openai.com/index/chatgpt-plus-for-veterans"
-   },
-   {
-    "id": "ae5556d61c0b",
-    "title": "Why the data center you dread might never even be built",
-    "summary": "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity. Before those challenges even come into play, t…",
-    "category": "Other",
-    "score": 48.5,
-    "published_at": "2026-11-11T20:15:15+00:00",
-    "sources": [
-     {
-      "name": "TechCrunch",
-      "url": "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/"
-     }
-    ],
-    "primary_url": "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/"
    }
   ]
  },
@@ -3222,13 +3180,17 @@
   }
  ],
  "stats": {
-  "fetched": 210,
-  "after_dedup": 209,
-  "sources_ok": 22,
-  "sources_failed": 1,
+  "fetched": 104,
+  "after_dedup": 103,
+  "sources_ok": 18,
+  "sources_failed": 5,
   "failed_sources": {
-   "r/LocalLLaMA": "HTTPError: 429 Client Error: Too Many Requests for url: https://www.reddit.com/r/LocalLLaMA/top/.rss?t=day"
+   "r/LocalLLaMA": "HTTPError: 429 Client Error: Too Many Requests for url: https://www.reddit.com/r/LocalLLaMA/top/.rss?t=day",
+   "arXiv cs.AI": "ValueError: feed has no entries",
+   "arXiv cs.CL": "ValueError: feed has no entries",
+   "arXiv cs.LG": "ValueError: feed has no entries",
+   "arXiv cs.CV": "ValueError: feed has no entries"
   },
-  "duration_s": 1.9
+  "duration_s": 1.6
  }
 }

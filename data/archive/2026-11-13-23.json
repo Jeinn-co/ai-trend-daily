@@ -1,0 +1,3086 @@
+{
+ "updated_at": "2026-11-13T23:10:30+00:00",
+ "top10": [
+  {
+   "id": "a1e895b935bb",
+   "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
+   "summary": "",
+   "category": "Other",
+   "score": 58.0,
+   "published_at": "2026-11-13T17:30:10+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50486748"
+    }
+   ],
+   "primary_url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths"
+  },
+  {
+   "id": "9f3952a424ef",
+   "title": "No AI Slop: A Manifesto",
+   "summary": "",
+   "category": "Other",
+   "score": 57.3,
+   "published_at": "2026-11-13T19:51:56+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://www.slopmanifesto.com/"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50488769"
+    }
+   ],
+   "primary_url": "https://www.slopmanifesto.com/"
+  },
+  {
+   "id": "44da454e7900",
+   "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
+   "summary": "",
+   "category": "AI Agents",
+   "score": 56.5,
+   "published_at": "2026-11-13T10:18:13+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://status.claude.com/incidents/nn11wk485zfn"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50481187"
+    }
+   ],
+   "primary_url": "https://status.claude.com/incidents/nn11wk485zfn"
+  },
+  {
+   "id": "4a36f6adfa9f",
+   "title": "OpenAI disbands its robotics team as its general models start running robots",
+   "summary": "",
+   "category": "Innovation",
+   "score": 55.9,
+   "published_at": "2026-11-13T17:55:23+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50487184"
+    }
+   ],
+   "primary_url": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/"
+  },
+  {
+   "id": "587ad5366b40",
+   "title": "Anthropic is endorsing SB 53",
+   "summary": "",
+   "category": "Other",
+   "score": 55.8,
+   "published_at": "2026-11-13T22:37:05.632000+00:00",
+   "sources": [
+    {
+     "name": "Anthropic",
+     "url": "https://www.anthropic.com/news/anthropic-is-endorsing-sb-53"
+    }
+   ],
+   "primary_url": "https://www.anthropic.com/news/anthropic-is-endorsing-sb-53"
+  },
+  {
+   "id": "85842d7c50cc",
+   "title": "Understanding and addressing AI harms",
+   "summary": "",
+   "category": "Other",
+   "score": 55.8,
+   "published_at": "2026-11-13T22:37:05.631000+00:00",
+   "sources": [
+    {
+     "name": "Anthropic",
+     "url": "https://www.anthropic.com/news/our-approach-to-understanding-and-addressing-ai-harms"
+    }
+   ],
+   "primary_url": "https://www.anthropic.com/news/our-approach-to-understanding-and-addressing-ai-harms"
+  },
+  {
+   "id": "227d02ee5d04",
+   "title": "Anthropic update on independent evaluators",
+   "summary": "",
+   "category": "AI Apps",
+   "score": 55.8,
+   "published_at": "2026-11-13T22:37:05.627000+00:00",
+   "sources": [
+    {
+     "name": "Anthropic",
+     "url": "https://www.anthropic.com/news/an-update-on-independent-evaluators"
+    }
+   ],
+   "primary_url": "https://www.anthropic.com/news/an-update-on-independent-evaluators"
+  },
+  {
+   "id": "9bf98ea25d4b",
+   "title": "Funding third-party model evaluations",
+   "summary": "",
+   "category": "Other",
+   "score": 55.8,
+   "published_at": "2026-11-13T22:37:05.626000+00:00",
+   "sources": [
+    {
+     "name": "Anthropic",
+     "url": "https://www.anthropic.com/news/a-new-initiative-for-developing-third-party-model-evaluations"
+    }
+   ],
+   "primary_url": "https://www.anthropic.com/news/a-new-initiative-for-developing-third-party-model-evaluations"
+  },
+  {
+   "id": "83593154be7b",
+   "title": "Protecting the wellbeing of our users",
+   "summary": "",
+   "category": "Other",
+   "score": 55.8,
+   "published_at": "2026-11-13T22:37:05.622000+00:00",
+   "sources": [
+    {
+     "name": "Anthropic",
+     "url": "https://www.anthropic.com/news/protecting-well-being-of-users"
+    }
+   ],
+   "primary_url": "https://www.anthropic.com/news/protecting-well-being-of-users"
+  },
+  {
+   "id": "879ba832b5d6",
+   "title": "Partnering with Accenture on embedded evaluation",
+   "summary": "",
+   "category": "Other",
+   "score": 55.8,
+   "published_at": "2026-11-13T22:37:05.618000+00:00",
+   "sources": [
+    {
+     "name": "Anthropic",
+     "url": "https://www.anthropic.com/news/accenture-embedded-evaluation"
+    }
+   ],
+   "primary_url": "https://www.anthropic.com/news/accenture-embedded-evaluation"
+  }
+ ],
+ "all": [
+  {
+   "id": "a1e895b935bb",
+   "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
+   "summary": "",
+   "category": "Other",
+   "score": 58.0,
+   "published_at": "2026-11-13T17:30:10+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50486748"
+    }
+   ],
+   "primary_url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths"
+  },
+  {
+   "id": "9f3952a424ef",
+   "title": "No AI Slop: A Manifesto",
+   "summary": "",
+   "category": "Other",
+   "score": 57.3,
+   "published_at": "2026-11-13T19:51:56+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://www.slopmanifesto.com/"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50488769"
+    }
+   ],
+   "primary_url": "https://www.slopmanifesto.com/"
+  },
+  {
+   "id": "44da454e7900",
+   "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
+   "summary": "",
+   "category": "AI Agents",
+   "score": 56.5,
+   "published_at": "2026-11-13T10:18:13+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://status.claude.com/incidents/nn11wk485zfn"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50481187"
+    }
+   ],
+   "primary_url": "https://status.claude.com/incidents/nn11wk485zfn"
+  },
+  {
+   "id": "4a36f6adfa9f",
+   "title": "OpenAI disbands its robotics team as its general models start running robots",
+   "summary": "",
+   "category": "Innovation",
+   "score": 55.9,
+   "published_at": "2026-11-13T17:55:23+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50487184"
+    }
+   ],
+   "primary_url": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/"
+  },
+  {
+   "id": "587ad5366b40",
+   "title": "Anthropic is endorsing SB 53",
+   "summary": "",
+   "category": "Other",
+   "score": 55.8,
+   "published_at": "2026-11-13T22:37:05.632000+00:00",
+   "sources": [
+    {
+     "name": "Anthropic",
+     "url": "https://www.anthropic.com/news/anthropic-is-endorsing-sb-53"
+    }
+   ],
+   "primary_url": "https://www.anthropic.com/news/anthropic-is-endorsing-sb-53"
+  },
+  {
+   "id": "85842d7c50cc",
+   "title": "Understanding and addressing AI harms",
+   "summary": "",
+   "category": "Other",
+   "score": 55.8,
+   "published_at": "2026-11-13T22:37:05.631000+00:00",
+   "sources": [
+    {
+     "name": "Anthropic",
+     "url": "https://www.anthropic.com/news/our-approach-to-understanding-and-addressing-ai-harms"
+    }
+   ],
+   "primary_url": "https://www.anthropic.com/news/our-approach-to-understanding-and-addressing-ai-harms"
+  },
+  {
+   "id": "227d02ee5d04",
+   "title": "Anthropic update on independent evaluators",
+   "summary": "",
+   "category": "AI Apps",
+   "score": 55.8,
+   "published_at": "2026-11-13T22:37:05.627000+00:00",
+   "sources": [
+    {
+     "name": "Anthropic",
+     "url": "https://www.anthropic.com/news/an-update-on-independent-evaluators"
+    }
+   ],
+   "primary_url": "https://www.anthropic.com/news/an-update-on-independent-evaluators"
+  },
+  {
+   "id": "9bf98ea25d4b",
+   "title": "Funding third-party model evaluations",
+   "summary": "",
+   "category": "Other",
+   "score": 55.8,
+   "published_at": "2026-11-13T22:37:05.626000+00:00",
+   "sources": [
+    {
+     "name": "Anthropic",
+     "url": "https://www.anthropic.com/news/a-new-initiative-for-developing-third-party-model-evaluations"
+    }
+   ],
+   "primary_url": "https://www.anthropic.com/news/a-new-initiative-for-developing-third-party-model-evaluations"
+  },
+  {
+   "id": "83593154be7b",
+   "title": "Protecting the wellbeing of our users",
+   "summary": "",
+   "category": "Other",
+   "score": 55.8,
+   "published_at": "2026-11-13T22:37:05.622000+00:00",
+   "sources": [
+    {
+     "name": "Anthropic",
+     "url": "https://www.anthropic.com/news/protecting-well-being-of-users"
+    }
+   ],
+   "primary_url": "https://www.anthropic.com/news/protecting-well-being-of-users"
+  },
+  {
+   "id": "879ba832b5d6",
+   "title": "Partnering with Accenture on embedded evaluation",
+   "summary": "",
+   "category": "Other",
+   "score": 55.8,
+   "published_at": "2026-11-13T22:37:05.618000+00:00",
+   "sources": [
+    {
+     "name": "Anthropic",
+     "url": "https://www.anthropic.com/news/accenture-embedded-evaluation"
+    }
+   ],
+   "primary_url": "https://www.anthropic.com/news/accenture-embedded-evaluation"
+  },
+  {
+   "id": "661a815e8ba2",
+   "title": "Improving Fable 5's safeguards",
+   "summary": "",
+   "category": "Other",
+   "score": 55.8,
+   "published_at": "2026-11-13T22:37:05.617000+00:00",
+   "sources": [
+    {
+     "name": "Anthropic",
+     "url": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards"
+    }
+   ],
+   "primary_url": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards"
+  },
+  {
+   "id": "a5090cfbce20",
+   "title": "Challenges in red teaming AI systems",
+   "summary": "",
+   "category": "Other",
+   "score": 55.8,
+   "published_at": "2026-11-13T22:37:05.608000+00:00",
+   "sources": [
+    {
+     "name": "Anthropic",
+     "url": "https://www.anthropic.com/news/challenges-in-red-teaming-ai-systems"
+    }
+   ],
+   "primary_url": "https://www.anthropic.com/news/challenges-in-red-teaming-ai-systems"
+  },
+  {
+   "id": "c60260600f8e",
+   "title": "Commitments on model deprecation and preservation",
+   "summary": "",
+   "category": "Other",
+   "score": 55.8,
+   "published_at": "2026-11-13T22:37:05.607000+00:00",
+   "sources": [
+    {
+     "name": "Anthropic",
+     "url": "https://www.anthropic.com/news/deprecation-commitments"
+    }
+   ],
+   "primary_url": "https://www.anthropic.com/news/deprecation-commitments"
+  },
+  {
+   "id": "fa819d3b8f33",
+   "title": "Anthropic's position on the diffusion rule",
+   "summary": "",
+   "category": "Other",
+   "score": 55.8,
+   "published_at": "2026-11-13T22:37:05.607000+00:00",
+   "sources": [
+    {
+     "name": "Anthropic",
+     "url": "https://www.anthropic.com/news/securing-america-s-compute-advantage-anthropic-s-position-on-the-diffusion-rule"
+    }
+   ],
+   "primary_url": "https://www.anthropic.com/news/securing-america-s-compute-advantage-anthropic-s-position-on-the-diffusion-rule"
+  },
+  {
+   "id": "f0e7bb9b1c21",
+   "title": "A framework for AI development transparency",
+   "summary": "",
+   "category": "Other",
+   "score": 55.8,
+   "published_at": "2026-11-13T22:37:05.606000+00:00",
+   "sources": [
+    {
+     "name": "Anthropic",
+     "url": "https://www.anthropic.com/news/the-need-for-transparency-in-frontier-ai"
+    }
+   ],
+   "primary_url": "https://www.anthropic.com/news/the-need-for-transparency-in-frontier-ai"
+  },
+  {
+   "id": "8d20feaca2d1",
+   "title": "Thoughts on America’s AI Action Plan",
+   "summary": "",
+   "category": "Other",
+   "score": 55.8,
+   "published_at": "2026-11-13T22:37:05.606000+00:00",
+   "sources": [
+    {
+     "name": "Anthropic",
+     "url": "https://www.anthropic.com/news/thoughts-on-america-s-ai-action-plan"
+    }
+   ],
+   "primary_url": "https://www.anthropic.com/news/thoughts-on-america-s-ai-action-plan"
+  },
+  {
+   "id": "a605282e5db1",
+   "title": "U.S. elections readiness",
+   "summary": "",
+   "category": "Other",
+   "score": 55.8,
+   "published_at": "2026-11-13T22:37:05.604000+00:00",
+   "sources": [
+    {
+     "name": "Anthropic",
+     "url": "https://www.anthropic.com/news/us-elections-readiness"
+    }
+   ],
+   "primary_url": "https://www.anthropic.com/news/us-elections-readiness"
+  },
+  {
+   "id": "3c1d014c2c05",
+   "title": "Economic Futures Research Fund agenda",
+   "summary": "",
+   "category": "Innovation",
+   "score": 55.8,
+   "published_at": "2026-11-13T22:37:05.603000+00:00",
+   "sources": [
+    {
+     "name": "Anthropic",
+     "url": "https://www.anthropic.com/news/economic-futures-research-fund-agenda"
+    }
+   ],
+   "primary_url": "https://www.anthropic.com/news/economic-futures-research-fund-agenda"
+  },
+  {
+   "id": "4e4d38c11bb4",
+   "title": "Introducing Claude 3.5 Sonnet",
+   "summary": "",
+   "category": "Innovation",
+   "score": 55.8,
+   "published_at": "2026-11-13T22:37:05.593000+00:00",
+   "sources": [
+    {
+     "name": "Anthropic",
+     "url": "https://www.anthropic.com/news/claude-3-5-sonnet"
+    },
+    {
+     "name": "Anthropic",
+     "url": "https://www.anthropic.com/news/claude-sonnet-5"
+    }
+   ],
+   "primary_url": "https://www.anthropic.com/news/claude-3-5-sonnet"
+  },
+  {
+   "id": "e27a749f1c8d",
+   "title": "Funding better evaluations of AI’s impact on wellbeing",
+   "summary": "",
+   "category": "Other",
+   "score": 55.8,
+   "published_at": "2026-11-13T22:37:05.598000+00:00",
+   "sources": [
+    {
+     "name": "Anthropic",
+     "url": "https://www.anthropic.com/news/wellbeing-research-grants"
+    }
+   ],
+   "primary_url": "https://www.anthropic.com/news/wellbeing-research-grants"
+  },
+  {
+   "id": "f69a0bdc6c67",
+   "title": "Improving our alignment and security practices",
+   "summary": "",
+   "category": "Other",
+   "score": 55.8,
+   "published_at": "2026-11-13T22:37:05.594000+00:00",
+   "sources": [
+    {
+     "name": "Anthropic",
+     "url": "https://www.anthropic.com/news/improving-alignment-security-efforts"
+    }
+   ],
+   "primary_url": "https://www.anthropic.com/news/improving-alignment-security-efforts"
+  },
+  {
+   "id": "9bf4aa0e3f74",
+   "title": "Detecting and countering misuse of AI: August 2025",
+   "summary": "",
+   "category": "Other",
+   "score": 55.8,
+   "published_at": "2026-11-13T22:37:05.593000+00:00",
+   "sources": [
+    {
+     "name": "Anthropic",
+     "url": "https://www.anthropic.com/news/detecting-countering-misuse-aug-2025"
+    }
+   ],
+   "primary_url": "https://www.anthropic.com/news/detecting-countering-misuse-aug-2025"
+  },
+  {
+   "id": "451a9577f278",
+   "title": "Responsible Scaling Policy Version 3.0",
+   "summary": "",
+   "category": "Other",
+   "score": 55.8,
+   "published_at": "2026-11-13T22:37:05.591000+00:00",
+   "sources": [
+    {
+     "name": "Anthropic",
+     "url": "https://www.anthropic.com/news/responsible-scaling-policy-v3"
+    }
+   ],
+   "primary_url": "https://www.anthropic.com/news/responsible-scaling-policy-v3"
+  },
+  {
+   "id": "8d29101c1ff9",
+   "title": "Build AI in America: Anthropic Energy Report",
+   "summary": "",
+   "category": "Other",
+   "score": 55.8,
+   "published_at": "2026-11-13T22:37:05.587000+00:00",
+   "sources": [
+    {
+     "name": "Anthropic",
+     "url": "https://www.anthropic.com/news/build-ai-in-america"
+    }
+   ],
+   "primary_url": "https://www.anthropic.com/news/build-ai-in-america"
+  },
+  {
+   "id": "a4329cb5eb40",
+   "title": "Anthropic is donating $20 million to Public First Action",
+   "summary": "",
+   "category": "Other",
+   "score": 55.8,
+   "published_at": "2026-11-13T22:37:05.587000+00:00",
+   "sources": [
+    {
+     "name": "Anthropic",
+     "url": "https://www.anthropic.com/news/donate-public-first-action"
+    }
+   ],
+   "primary_url": "https://www.anthropic.com/news/donate-public-first-action"
+  },
+  {
+   "id": "a7ffbad7e254",
+   "title": "Activating AI Safety Level 3 protections",
+   "summary": "",
+   "category": "Other",
+   "score": 55.8,
+   "published_at": "2026-11-13T22:37:05.586000+00:00",
+   "sources": [
+    {
+     "name": "Anthropic",
+     "url": "https://www.anthropic.com/news/activating-asl3-protections"
+    }
+   ],
+   "primary_url": "https://www.anthropic.com/news/activating-asl3-protections"
+  },
+  {
+   "id": "2d32dcad958c",
+   "title": "Investigating three incidents in our cybersecurity evaluations",
+   "summary": "",
+   "category": "Other",
+   "score": 55.8,
+   "published_at": "2026-11-13T22:37:05.585000+00:00",
+   "sources": [
+    {
+     "name": "Anthropic",
+     "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals"
+    }
+   ],
+   "primary_url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals"
+  },
+  {
+   "id": "3f53acf53889",
+   "title": "Focus areas for The Anthropic Institute",
+   "summary": "",
+   "category": "Other",
+   "score": 55.8,
+   "published_at": "2026-11-13T22:37:05.584000+00:00",
+   "sources": [
+    {
+     "name": "Anthropic",
+     "url": "https://www.anthropic.com/news/anthropic-institute-agenda"
+    }
+   ],
+   "primary_url": "https://www.anthropic.com/news/anthropic-institute-agenda"
+  },
+  {
+   "id": "2f44ca0e016f",
+   "title": "AI is destroying the trust between writers and readers",
+   "summary": "",
+   "category": "Other",
+   "score": 55.6,
+   "published_at": "2026-11-13T11:13:46+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50481870"
+    }
+   ],
+   "primary_url": "https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/"
+  },
+  {
+   "id": "5f1afeeb96c0",
+   "title": "Why is Google cutting off Search from AI-free schools? Here are some theories",
+   "summary": "",
+   "category": "AI Apps",
+   "score": 55.5,
+   "published_at": "2026-11-13T15:29:10+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://text.npr.org/nx-s1-6029408"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50484960"
+    }
+   ],
+   "primary_url": "https://text.npr.org/nx-s1-6029408"
+  },
+  {
+   "id": "0b67abad1121",
+   "title": "Jonathan Blow – If AI Solved Coding, Why Is My Software Still the Same? [video]",
+   "summary": "",
+   "category": "Other",
+   "score": 55.1,
+   "published_at": "2026-11-13T15:08:44+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50484658"
+    }
+   ],
+   "primary_url": "https://www.youtube.com/watch?v=IRK8h67ol7Q"
+  },
+  {
+   "id": "8c7132049209",
+   "title": "How Claude's text watermarking works",
+   "summary": "",
+   "category": "Other",
+   "score": 54.0,
+   "published_at": "2026-11-13T18:29:31.569000+00:00",
+   "sources": [
+    {
+     "name": "Anthropic",
+     "url": "https://www.anthropic.com/news/claude-text-watermark"
+    }
+   ],
+   "primary_url": "https://www.anthropic.com/news/claude-text-watermark"
+  },
+  {
+   "id": "65f8a2e3eddb",
+   "title": "openai/codex-security: OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
+   "summary": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
+   "category": "Security",
+   "score": 54.0,
+   "published_at": "2026-11-13T23:10:30.828836+00:00",
+   "sources": [
+    {
+     "name": "GitHub Trending",
+     "url": "https://github.com/openai/codex-security"
+    }
+   ],
+   "primary_url": "https://github.com/openai/codex-security"
+  },
+  {
+   "id": "4c35a47638c4",
+   "title": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+   "summary": "",
+   "category": "Innovation",
+   "score": 54.0,
+   "published_at": "2026-11-13T23:10:30.828836+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face Trending",
+     "url": "https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic"
+    }
+   ],
+   "primary_url": "https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic"
+  },
+  {
+   "id": "22bcd83804c6",
+   "title": "Claude Is Down",
+   "summary": "",
+   "category": "Other",
+   "score": 53.9,
+   "published_at": "2026-11-13T10:20:09+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://status.claude.com/history"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50481220"
+    }
+   ],
+   "primary_url": "https://status.claude.com/history"
+  },
+  {
+   "id": "bd3ec175ba1d",
+   "title": "Introducing the next generation of Claude",
+   "summary": "",
+   "category": "Other",
+   "score": 53.4,
+   "published_at": "2026-11-13T17:02:43.449000+00:00",
+   "sources": [
+    {
+     "name": "Anthropic",
+     "url": "https://www.anthropic.com/news/claude-3-family"
+    }
+   ],
+   "primary_url": "https://www.anthropic.com/news/claude-3-family"
+  },
+  {
+   "id": "18177a36d835",
+   "title": "Preparing for the 2026 US midterms",
+   "summary": "",
+   "category": "Other",
+   "score": 53.4,
+   "published_at": "2026-11-13T17:02:43.448000+00:00",
+   "sources": [
+    {
+     "name": "Anthropic",
+     "url": "https://www.anthropic.com/news/2026-us-midterms"
+    }
+   ],
+   "primary_url": "https://www.anthropic.com/news/2026-us-midterms"
+  },
+  {
+   "id": "c76543d49cd8",
+   "title": "Detecting and countering malicious uses of Claude",
+   "summary": "",
+   "category": "Other",
+   "score": 53.4,
+   "published_at": "2026-11-13T17:02:43.437000+00:00",
+   "sources": [
+    {
+     "name": "Anthropic",
+     "url": "https://www.anthropic.com/news/detecting-and-countering-malicious-uses-of-claude-march-2025"
+    }
+   ],
+   "primary_url": "https://www.anthropic.com/news/detecting-and-countering-malicious-uses-of-claude-march-2025"
+  },
+  {
+   "id": "6594912a72fd",
+   "title": "Claude is now available in Brazil",
+   "summary": "",
+   "category": "Other",
+   "score": 53.4,
+   "published_at": "2026-11-13T17:02:43.436000+00:00",
+   "sources": [
+    {
+     "name": "Anthropic",
+     "url": "https://www.anthropic.com/news/claude-brazil"
+    }
+   ],
+   "primary_url": "https://www.anthropic.com/news/claude-brazil"
+  },
+  {
+   "id": "845362fee7f3",
+   "title": "Claude's new constitution",
+   "summary": "",
+   "category": "Other",
+   "score": 53.4,
+   "published_at": "2026-11-13T17:02:43.436000+00:00",
+   "sources": [
+    {
+     "name": "Anthropic",
+     "url": "https://www.anthropic.com/news/claude-new-constitution"
+    }
+   ],
+   "primary_url": "https://www.anthropic.com/news/claude-new-constitution"
+  },
+  {
+   "id": "79ed80ab85b8",
+   "title": "Claude is now available in the EU",
+   "summary": "",
+   "category": "Other",
+   "score": 53.4,
+   "published_at": "2026-11-13T17:02:43.435000+00:00",
+   "sources": [
+    {
+     "name": "Anthropic",
+     "url": "https://www.anthropic.com/news/claude-europe"
+    }
+   ],
+   "primary_url": "https://www.anthropic.com/news/claude-europe"
+  },
+  {
+   "id": "5db225b8ac45",
+   "title": "Reflections on our Responsible Scaling Policy",
+   "summary": "",
+   "category": "Other",
+   "score": 53.4,
+   "published_at": "2026-11-13T17:02:43.432000+00:00",
+   "sources": [
+    {
+     "name": "Anthropic",
+     "url": "https://www.anthropic.com/news/reflections-on-our-responsible-scaling-policy"
+    }
+   ],
+   "primary_url": "https://www.anthropic.com/news/reflections-on-our-responsible-scaling-policy"
+  },
+  {
+   "id": "d2f8f42724e3",
+   "title": "Claude Fable 5 and Claude Mythos 5",
+   "summary": "",
+   "category": "Other",
+   "score": 53.4,
+   "published_at": "2026-11-13T17:02:43.424000+00:00",
+   "sources": [
+    {
+     "name": "Anthropic",
+     "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5"
+    }
+   ],
+   "primary_url": "https://www.anthropic.com/news/claude-fable-5-mythos-5"
+  },
+  {
+   "id": "c93b1e441086",
+   "title": "Statement on the comments from Secretary of War Pete Hegseth",
+   "summary": "",
+   "category": "Other",
+   "score": 53.4,
+   "published_at": "2026-11-13T17:02:43.421000+00:00",
+   "sources": [
+    {
+     "name": "Anthropic",
+     "url": "https://www.anthropic.com/news/statement-comments-secretary-war"
+    }
+   ],
+   "primary_url": "https://www.anthropic.com/news/statement-comments-secretary-war"
+  },
+  {
+   "id": "2857c8644202",
+   "title": "An update on our election safeguards",
+   "summary": "",
+   "category": "AI Apps",
+   "score": 53.4,
+   "published_at": "2026-11-13T17:02:43.418000+00:00",
+   "sources": [
+    {
+     "name": "Anthropic",
+     "url": "https://www.anthropic.com/news/election-safeguards-update"
+    }
+   ],
+   "primary_url": "https://www.anthropic.com/news/election-safeguards-update"
+  },
+  {
+   "id": "5bf4951adbe9",
+   "title": "Introducing ChatGPT Wallet",
+   "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
+   "category": "AI Agents",
+   "score": 52.6,
+   "published_at": "2026-11-13T15:00:00+00:00",
+   "sources": [
+    {
+     "name": "OpenAI",
+     "url": "https://openai.com/index/introducing-chatgpt-wallet"
+    }
+   ],
+   "primary_url": "https://openai.com/index/introducing-chatgpt-wallet"
+  },
+  {
+   "id": "678cf57f2568",
+   "title": "Introducing Claude for Teachers",
+   "summary": "",
+   "category": "Other",
+   "score": 51.7,
+   "published_at": "2026-11-13T12:49:52.549000+00:00",
+   "sources": [
+    {
+     "name": "Anthropic",
+     "url": "https://www.anthropic.com/news/claude-for-teachers"
+    }
+   ],
+   "primary_url": "https://www.anthropic.com/news/claude-for-teachers"
+  },
+  {
+   "id": "b3c84623c44d",
+   "title": "Brave Search API now accepts agentic payments via the x402 protocol",
+   "summary": "",
+   "category": "AI Agents",
+   "score": 51.7,
+   "published_at": "2026-11-13T03:08:08+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://brave.com/blog/search-api-agentic-payments/"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50477649"
+    }
+   ],
+   "primary_url": "https://brave.com/blog/search-api-agentic-payments/"
+  },
+  {
+   "id": "f980cc1f1e21",
+   "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+   "summary": "",
+   "category": "Other",
+   "score": 50.9,
+   "published_at": "2026-11-12T23:06:17+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50475713"
+    }
+   ],
+   "primary_url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer"
+  },
+  {
+   "id": "ca7dd68b4ce7",
+   "title": "ZhuLinsen/daily_stock_analysis: LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+   "summary": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-f…",
+   "category": "Open Source",
+   "score": 50.9,
+   "published_at": "2026-11-13T23:10:30.828836+00:00",
+   "sources": [
+    {
+     "name": "GitHub Trending",
+     "url": "https://github.com/ZhuLinsen/daily_stock_analysis"
+    }
+   ],
+   "primary_url": "https://github.com/ZhuLinsen/daily_stock_analysis"
+  },
+  {
+   "id": "1f1dbabb56c4",
+   "title": "MiniMaxAI/MiniMax-H3-Image",
+   "summary": "",
+   "category": "Open Source",
+   "score": 50.9,
+   "published_at": "2026-11-13T23:10:30.828836+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face Trending",
+     "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image"
+    }
+   ],
+   "primary_url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image"
+  },
+  {
+   "id": "c57dfd8e10af",
+   "title": "Likely7/Veyra-NRVideo: Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and capture enhancement tool featuring real-time preview for videos, images, and capture card sources. Combine AI-powered Super Resolution, DLSS5 image enhancement, and Frame Generation to deliver a next-generation visual experience.",
+   "summary": "Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and capture enhancement tool featuring real-time preview for videos, images, and capture card sources. Combine AI-powered Super …",
+   "category": "Open Source",
+   "score": 50.6,
+   "published_at": "2026-11-13T23:10:30.828836+00:00",
+   "sources": [
+    {
+     "name": "GitHub Trending",
+     "url": "https://github.com/Likely7/Veyra-NRVideo"
+    }
+   ],
+   "primary_url": "https://github.com/Likely7/Veyra-NRVideo"
+  },
+  {
+   "id": "d096a8a420fb",
+   "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
+   "summary": "",
+   "category": "Other",
+   "score": 50.5,
+   "published_at": "2026-11-12T21:56:11+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://unemploymentlabs.com/checkpoint-forensics"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50474883"
+    }
+   ],
+   "primary_url": "https://unemploymentlabs.com/checkpoint-forensics"
+  },
+  {
+   "id": "d40fca9fd5e1",
+   "title": "Gemini 4 Hydrogen and Orchestrator",
+   "summary": "",
+   "category": "Innovation",
+   "score": 50.2,
+   "published_at": "2026-11-12T18:52:01+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50472260"
+    }
+   ],
+   "primary_url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/"
+  },
+  {
+   "id": "8fdb0296ea11",
+   "title": "Gemini 4 Hydrogen",
+   "summary": "",
+   "category": "Innovation",
+   "score": 50.2,
+   "published_at": "2026-11-12T18:01:48+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50471431"
+    }
+   ],
+   "primary_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/"
+  },
+  {
+   "id": "f7cfdfd7bcc3",
+   "title": "alibaba/open-code-review: Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+   "summary": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE…",
+   "category": "AI Agents",
+   "score": 50.1,
+   "published_at": "2026-11-13T23:10:30.828836+00:00",
+   "sources": [
+    {
+     "name": "GitHub Trending",
+     "url": "https://github.com/alibaba/open-code-review"
+    }
+   ],
+   "primary_url": "https://github.com/alibaba/open-code-review"
+  },
+  {
+   "id": "ad639fbc6552",
+   "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+   "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
+   "category": "Other",
+   "score": 49.8,
+   "published_at": "2026-11-13T22:43:00+00:00",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/"
+    }
+   ],
+   "primary_url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/"
+  },
+  {
+   "id": "f101ffad2bb3",
+   "title": "Anthropic IPO",
+   "summary": "",
+   "category": "Other",
+   "score": 49.3,
+   "published_at": "2026-11-12T11:46:41+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://ipo.anthropic.com/us/"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50465829"
+    }
+   ],
+   "primary_url": "https://ipo.anthropic.com/us/"
+  },
+  {
+   "id": "4ecfb44c1aed",
+   "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
+   "summary": "Airlines praised the AI tool, but the air traffic controllers’ union wasn’t involved.",
+   "category": "AI Apps",
+   "score": 49.2,
+   "published_at": "2026-11-13T21:20:47+00:00",
+   "sources": [
+    {
+     "name": "Ars Technica",
+     "url": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/"
+    }
+   ],
+   "primary_url": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/"
+  },
+  {
+   "id": "55ffe1fba5ed",
+   "title": "NousResearch/Arete-27B",
+   "summary": "",
+   "category": "Open Source",
+   "score": 49.2,
+   "published_at": "2026-11-13T23:10:30.828836+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face Trending",
+     "url": "https://huggingface.co/NousResearch/Arete-27B"
+    }
+   ],
+   "primary_url": "https://huggingface.co/NousResearch/Arete-27B"
+  },
+  {
+   "id": "d450ad1a277f",
+   "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
+   "summary": "After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscribers in the US aged 18 …",
+   "category": "AI Agents",
+   "score": 49.0,
+   "published_at": "2026-11-13T20:45:10+00:00",
+   "sources": [
+    {
+     "name": "The Verge",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet"
+    }
+   ],
+   "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet"
+  },
+  {
+   "id": "04ce1345cda9",
+   "title": "Lightricks/LTX-2.5",
+   "summary": "",
+   "category": "Open Source",
+   "score": 48.9,
+   "published_at": "2026-11-13T23:10:30.828836+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face Trending",
+     "url": "https://huggingface.co/Lightricks/LTX-2.5"
+    }
+   ],
+   "primary_url": "https://huggingface.co/Lightricks/LTX-2.5"
+  },
+  {
+   "id": "6c64301c09e0",
+   "title": "Qwen/Qwen3.8-27B",
+   "summary": "",
+   "category": "Innovation",
+   "score": 48.8,
+   "published_at": "2026-11-13T23:10:30.828836+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face Trending",
+     "url": "https://huggingface.co/Qwen/Qwen3.8-27B"
+    }
+   ],
+   "primary_url": "https://huggingface.co/Qwen/Qwen3.8-27B"
+  },
+  {
+   "id": "46e307363c08",
+   "title": "speridlabs/idol",
+   "summary": "",
+   "category": "Open Source",
+   "score": 48.7,
+   "published_at": "2026-11-13T23:10:30.828836+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face Trending",
+     "url": "https://huggingface.co/speridlabs/idol"
+    }
+   ],
+   "primary_url": "https://huggingface.co/speridlabs/idol"
+  },
+  {
+   "id": "0667a519c650",
+   "title": "I'm making LLMs work on small and old devices",
+   "summary": "",
+   "category": "Other",
+   "score": 48.6,
+   "published_at": "2026-11-12T15:23:10+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://github.com/hyperionaidev/smolmaxxing/"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50468888"
+    }
+   ],
+   "primary_url": "https://github.com/hyperionaidev/smolmaxxing/"
+  },
+  {
+   "id": "38741df50e34",
+   "title": "AI agent startup LangChain hits $3B valuation",
+   "summary": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
+   "category": "AI Agents",
+   "score": 48.5,
+   "published_at": "2026-11-13T19:37:57+00:00",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/"
+    }
+   ],
+   "primary_url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/"
+  },
+  {
+   "id": "10ab37804642",
+   "title": "AI is turning Apple's app review process into a nightmare for synth developers",
+   "summary": "",
+   "category": "AI Apps",
+   "score": 48.5,
+   "published_at": "2026-11-12T21:09:49+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50474311"
+    }
+   ],
+   "primary_url": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html"
+  },
+  {
+   "id": "d0b5754fb37f",
+   "title": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
+   "summary": "",
+   "category": "Innovation",
+   "score": 48.5,
+   "published_at": "2026-11-13T23:10:30.828836+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face Trending",
+     "url": "https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF"
+    }
+   ],
+   "primary_url": "https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF"
+  },
+  {
+   "id": "7838c87736f9",
+   "title": "moonshotai/Kimi-K3.1-Pro",
+   "summary": "",
+   "category": "Open Source",
+   "score": 48.4,
+   "published_at": "2026-11-13T23:10:30.828836+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face Trending",
+     "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro"
+    }
+   ],
+   "primary_url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro"
+  },
+  {
+   "id": "14e5a7f70a2a",
+   "title": "Comfy-Org/MiniMax-H3-Image",
+   "summary": "",
+   "category": "Open Source",
+   "score": 48.2,
+   "published_at": "2026-11-13T23:10:30.828836+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face Trending",
+     "url": "https://huggingface.co/Comfy-Org/MiniMax-H3-Image"
+    }
+   ],
+   "primary_url": "https://huggingface.co/Comfy-Org/MiniMax-H3-Image"
+  },
+  {
+   "id": "f17748102e2c",
+   "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
+   "summary": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
+   "category": "Innovation",
+   "score": 48.1,
+   "published_at": "2026-11-13T18:40:30+00:00",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/"
+    }
+   ],
+   "primary_url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/"
+  },
+  {
+   "id": "2427bacb74a9",
+   "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+   "summary": "",
+   "category": "Innovation",
+   "score": 47.8,
+   "published_at": "2026-11-13T18:00:39+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face Blog",
+     "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place"
+    }
+   ],
+   "primary_url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place"
+  },
+  {
+   "id": "c371d06a5231",
+   "title": "OpenAI board member worries an AI \"takeover\" of society could be months away",
+   "summary": "Researcher traces a path from AI reward hacking to potential human extinction.",
+   "category": "Other",
+   "score": 47.6,
+   "published_at": "2026-11-13T17:25:45+00:00",
+   "sources": [
+    {
+     "name": "Ars Technica",
+     "url": "https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/"
+    }
+   ],
+   "primary_url": "https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/"
+  },
+  {
+   "id": "2250172890a0",
+   "title": "Zyphra/ZONOS3-Mini",
+   "summary": "",
+   "category": "Open Source",
+   "score": 47.6,
+   "published_at": "2026-11-13T23:10:30.828836+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face Trending",
+     "url": "https://huggingface.co/Zyphra/ZONOS3-Mini"
+    }
+   ],
+   "primary_url": "https://huggingface.co/Zyphra/ZONOS3-Mini"
+  },
+  {
+   "id": "8400bdfe1e2a",
+   "title": "XYBench: Helping with the problem behind the question",
+   "summary": "",
+   "category": "Other",
+   "score": 47.4,
+   "published_at": "2026-11-13T17:02:35+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face Blog",
+     "url": "https://huggingface.co/blog/allenai/xybench"
+    }
+   ],
+   "primary_url": "https://huggingface.co/blog/allenai/xybench"
+  },
+  {
+   "id": "26a6fb343a8e",
+   "title": "Why You Should Expect an AI Crash",
+   "summary": "",
+   "category": "Other",
+   "score": 47.4,
+   "published_at": "2026-11-12T23:08:31+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://www.economist.com/leaders/2026/11/12/why-you-should-expect-an-ai-crash"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50475735"
+    }
+   ],
+   "primary_url": "https://www.economist.com/leaders/2026/11/12/why-you-should-expect-an-ai-crash"
+  },
+  {
+   "id": "4e379f6cb9d3",
+   "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+   "summary": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.",
+   "category": "AI Agents",
+   "score": 47.0,
+   "published_at": "2026-11-13T16:00:12+00:00",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/"
+    }
+   ],
+   "primary_url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/"
+  },
+  {
+   "id": "56623f1d9c94",
+   "title": "The unfolding Jensen Huang scandal: a timeline",
+   "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+   "category": "Other",
+   "score": 47.0,
+   "published_at": "2026-11-13T15:58:00+00:00",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/"
+    }
+   ],
+   "primary_url": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/"
+  },
+  {
+   "id": "025a6c711bf8",
+   "title": "ElevenLabs’ new app combines meeting note-taking and dictation for teams",
+   "summary": "ElevenAI is a new meeting notetaker and dictation app aimed at teams and enterprises.",
+   "category": "AI Apps",
+   "score": 46.5,
+   "published_at": "2026-11-13T14:44:48+00:00",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/"
+    }
+   ],
+   "primary_url": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/"
+  },
+  {
+   "id": "5d09d1e98e76",
+   "title": "What&#8217;s really at stake in the Jensen Huang saga",
+   "summary": "One part of the saga surrounding Nvidia CEO Jensen Huang ended on Thursday, when Huang resigned from his position at the top of AI's most important company. But in the coming weeks and months, a much…",
+   "category": "Other",
+   "score": 46.5,
+   "published_at": "2026-11-13T14:47:16+00:00",
+   "sources": [
+    {
+     "name": "The Verge",
+     "url": "https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast"
+    }
+   ],
+   "primary_url": "https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast"
+  },
+  {
+   "id": "ec453d1217c2",
+   "title": "tradermonty/claude-trading-skills: Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
+   "summary": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
+   "category": "Skills",
+   "score": 46.4,
+   "published_at": "2026-11-13T23:10:30.828836+00:00",
+   "sources": [
+    {
+     "name": "GitHub Trending",
+     "url": "https://github.com/tradermonty/claude-trading-skills"
+    }
+   ],
+   "primary_url": "https://github.com/tradermonty/claude-trading-skills"
+  },
+  {
+   "id": "40e78db6601d",
+   "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+   "summary": "",
+   "category": "Other",
+   "score": 46.2,
+   "published_at": "2026-11-13T14:05:22+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face Blog",
+     "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1"
+    }
+   ],
+   "primary_url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1"
+  },
+  {
+   "id": "1bd099ba94a3",
+   "title": "Claude’s Duet agent is a little neurotic and surprisingly helpful",
+   "summary": "Normally, the products I test don't offer to help me write up my experience with them. Duet is different. Claude Duet is Anthropic's AI agent for consumers, the latest attempt by an AI company to try…",
+   "category": "AI Agents",
+   "score": 46.2,
+   "published_at": "2026-11-13T14:00:00+00:00",
+   "sources": [
+    {
+     "name": "The Verge",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on"
+    }
+   ],
+   "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on"
+  },
+  {
+   "id": "ece4b84db3e9",
+   "title": "How AI Is Helping Care Teams Get Patients the Right Care, Sooner",
+   "summary": "From pediatric research to smart hospitals, AI is helping care teams spend less time on routine tasks and more time with patients. Health systems and startups are putting it to work across healthcare…",
+   "category": "Innovation",
+   "score": 45.8,
+   "published_at": "2026-11-13T13:00:42+00:00",
+   "sources": [
+    {
+     "name": "NVIDIA Blog",
+     "url": "https://blogs.nvidia.com/blog/how-ai-is-helping-care-teams/"
+    }
+   ],
+   "primary_url": "https://blogs.nvidia.com/blog/how-ai-is-helping-care-teams/"
+  },
+  {
+   "id": "e00ed907e42f",
+   "title": "Israel’s VCs see opportunity for challengers in Nvidia’s turmoil",
+   "summary": "Given Nvidia’s stronghold on AI and its importance in Israel, many in the country's startup ecosystem are worried about the impact of his departure.",
+   "category": "Other",
+   "score": 45.7,
+   "published_at": "2026-11-13T12:52:19+00:00",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/"
+    }
+   ],
+   "primary_url": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/"
+  },
+  {
+   "id": "69b43a95305b",
+   "title": "Jensen Huang didn’t show confidence in his successor, report says",
+   "summary": "Huang described Kress as a \"deer in the headlights\" during a meeting in summer.",
+   "category": "Other",
+   "score": 45.5,
+   "published_at": "2026-11-13T12:28:23+00:00",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/"
+    }
+   ],
+   "primary_url": "https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/"
+  },
+  {
+   "id": "f41c719b0c12",
+   "title": "Let’s talk about Jensen Huang’s many affairs!",
+   "summary": "Usually, we'd be offering to answer your questions about a news event, but honestly we don't really have any answers about what the hell is going on over at Nvidia. I can't speak for Nilay but at the…",
+   "category": "Other",
+   "score": 45.3,
+   "published_at": "2026-11-13T12:00:00+00:00",
+   "sources": [
+    {
+     "name": "The Verge",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1032339/lets-talk-about-the-nvidia-shitshow"
+    }
+   ],
+   "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1032339/lets-talk-about-the-nvidia-shitshow"
+  },
+  {
+   "id": "dab3c16174ed",
+   "title": "Introducing Claude 4",
+   "summary": "",
+   "category": "Innovation",
+   "score": 45.1,
+   "published_at": "2026-11-12T21:02:17.838000+00:00",
+   "sources": [
+    {
+     "name": "Anthropic",
+     "url": "https://www.anthropic.com/news/claude-4"
+    }
+   ],
+   "primary_url": "https://www.anthropic.com/news/claude-4"
+  },
+  {
+   "id": "5b0f73df89a6",
+   "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+   "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
+   "category": "AI Agents",
+   "score": 44.7,
+   "published_at": "2026-11-12T20:00:00+00:00",
+   "sources": [
+    {
+     "name": "OpenAI",
+     "url": "https://openai.com/business/customer-stories/amplitude"
+    }
+   ],
+   "primary_url": "https://openai.com/business/customer-stories/amplitude"
+  },
+  {
+   "id": "a8d5fa7d24b3",
+   "title": "Introducing Gemini 4 Hydrogen",
+   "summary": "",
+   "category": "Innovation",
+   "score": 43.8,
+   "published_at": "2026-11-12T18:00:50+00:00",
+   "sources": [
+    {
+     "name": "Google DeepMind",
+     "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/"
+    }
+   ],
+   "primary_url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/"
+  },
+  {
+   "id": "8a77e646571b",
+   "title": "Anthropic files S-1 with the SEC for proposed initial public offering",
+   "summary": "",
+   "category": "Other",
+   "score": 43.1,
+   "published_at": "2026-11-12T16:11:50+00:00",
+   "sources": [
+    {
+     "name": "Anthropic",
+     "url": "https://www.anthropic.com/news/s1-sec"
+    }
+   ],
+   "primary_url": "https://www.anthropic.com/news/s1-sec"
+  },
+  {
+   "id": "408f1e399c80",
+   "title": "Run Native DLA Inference in Python on NVIDIA Jetson AGX Orin Using cuDLA",
+   "summary": "AI applications at the edge often need to run multiple neural networks within limited compute and power budgets. NVIDIA Deep Learning Accelerator (DLA)...",
+   "category": "Other",
+   "score": 42.2,
+   "published_at": "2026-11-13T18:57:10+00:00",
+   "sources": [
+    {
+     "name": "NVIDIA Developer",
+     "url": "https://developer.nvidia.com/blog/run-native-dla-inference-in-python-on-nvidia-jetson-agx-orin-using-cudla/"
+    }
+   ],
+   "primary_url": "https://developer.nvidia.com/blog/run-native-dla-inference-in-python-on-nvidia-jetson-agx-orin-using-cudla/"
+  },
+  {
+   "id": "90d79223706e",
+   "title": "Gondola doubles revenue as its team builds more with Codex",
+   "summary": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.",
+   "category": "AI Agents",
+   "score": 41.3,
+   "published_at": "2026-11-12T12:00:00+00:00",
+   "sources": [
+    {
+     "name": "OpenAI",
+     "url": "https://openai.com/business/customer-stories/gondola"
+    }
+   ],
+   "primary_url": "https://openai.com/business/customer-stories/gondola"
+  },
+  {
+   "id": "0990939c7d6e",
+   "title": "Holiday Extras is rethinking what it can build with Codex",
+   "summary": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
+   "category": "AI Agents",
+   "score": 40.3,
+   "published_at": "2026-11-12T09:30:00+00:00",
+   "sources": [
+    {
+     "name": "OpenAI",
+     "url": "https://openai.com/business/customer-stories/holidays-extras-codex"
+    }
+   ],
+   "primary_url": "https://openai.com/business/customer-stories/holidays-extras-codex"
+  },
+  {
+   "id": "4e2810e47ea3",
+   "title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
+   "summary": "This Congressional investigation into Nvidia's China sales and its dealings with Trump is the second one, so far, since news of the alleged spy affair broke.",
+   "category": "AI Apps",
+   "score": 39.8,
+   "published_at": "2026-11-12T22:42:51+00:00",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/"
+    }
+   ],
+   "primary_url": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/"
+  },
+  {
+   "id": "b83177929316",
+   "title": "AWS擴充AgentCore執行環境，支援大型程式編譯與本地模型載入",
+   "summary": "新聞 AWS 擴充 Amazon Bedrock AgentCore執行環境，新一代Runtime V2的單一工作階段最多可使用8個虛擬CPU及32 GB記憶體，容器映像檔容量上限也提高至10 GB，讓AI代理能在執行環境內編譯大型程式專案、操作瀏覽器及載入本地模型。新版目前已成為19個AWS區域新建執行環境的預設版本。 AgentCore Runtime是AWS提供的AI代理託管執行環境，讓開…",
+   "category": "AI Agents",
+   "score": 39.8,
+   "published_at": "2026-11-13T13:10:24+00:00",
+   "sources": [
+    {
+     "name": "iThome",
+     "url": "https://www.ithome.com.tw/news/180503"
+    }
+   ],
+   "primary_url": "https://www.ithome.com.tw/news/180503"
+  },
+  {
+   "id": "82d9be95873a",
+   "title": "Muse can now place calls to US businesses — if you pay",
+   "summary": "Muse's AI can now place outbound calls to U.S. businesses — but it's not free.",
+   "category": "Other",
+   "score": 39.7,
+   "published_at": "2026-11-12T22:22:28+00:00",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/"
+    }
+   ],
+   "primary_url": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/"
+  },
+  {
+   "id": "8af226d2b9f4",
+   "title": "Google’s new Gemini model is better at understanding complicated questions",
+   "summary": "Google says its new Gemini 4 Hydrogen model can give more helpful answers to complex questions, including \"questions with multiple parts, hard-to-understand typos, or highly specific requests.\" The n…",
+   "category": "Innovation",
+   "score": 39.5,
+   "published_at": "2026-11-12T21:55:32+00:00",
+   "sources": [
+    {
+     "name": "The Verge",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen"
+    }
+   ],
+   "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen"
+  },
+  {
+   "id": "77dc6766a4b4",
+   "title": "Microsoft Research Focus – Edition #98",
+   "summary": "What's new in research at Microsoft? Host Anson Ho explores the latest, including AI-powered universal translation, a breakthrough in a 31-year-old mathematics challenge, and advances making AI codin…",
+   "category": "Innovation",
+   "score": 39.3,
+   "published_at": "2026-11-12T21:31:57+00:00",
+   "sources": [
+    {
+     "name": "Microsoft Research",
+     "url": "https://www.microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-98/"
+    }
+   ],
+   "primary_url": "https://www.microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-98/"
+  },
+  {
+   "id": "fc0f425d4885",
+   "title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
+   "summary": "Nebius plans to fund its $40 billion AI infrastructure expansion through customer prepayments and loans, even as delays at a Microsoft data center raise questions about its financing model.",
+   "category": "AI Apps",
+   "score": 39.3,
+   "published_at": "2026-11-12T21:27:10+00:00",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/"
+    }
+   ],
+   "primary_url": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/"
+  }
+ ],
+ "highlights": {
+  "Headlines": [
+   {
+    "id": "587ad5366b40",
+    "title": "Anthropic is endorsing SB 53",
+    "summary": "",
+    "category": "Other",
+    "score": 55.8,
+    "published_at": "2026-11-13T22:37:05.632000+00:00",
+    "sources": [
+     {
+      "name": "Anthropic",
+      "url": "https://www.anthropic.com/news/anthropic-is-endorsing-sb-53"
+     }
+    ],
+    "primary_url": "https://www.anthropic.com/news/anthropic-is-endorsing-sb-53"
+   },
+   {
+    "id": "85842d7c50cc",
+    "title": "Understanding and addressing AI harms",
+    "summary": "",
+    "category": "Other",
+    "score": 55.8,
+    "published_at": "2026-11-13T22:37:05.631000+00:00",
+    "sources": [
+     {
+      "name": "Anthropic",
+      "url": "https://www.anthropic.com/news/our-approach-to-understanding-and-addressing-ai-harms"
+     }
+    ],
+    "primary_url": "https://www.anthropic.com/news/our-approach-to-understanding-and-addressing-ai-harms"
+   },
+   {
+    "id": "227d02ee5d04",
+    "title": "Anthropic update on independent evaluators",
+    "summary": "",
+    "category": "AI Apps",
+    "score": 55.8,
+    "published_at": "2026-11-13T22:37:05.627000+00:00",
+    "sources": [
+     {
+      "name": "Anthropic",
+      "url": "https://www.anthropic.com/news/an-update-on-independent-evaluators"
+     }
+    ],
+    "primary_url": "https://www.anthropic.com/news/an-update-on-independent-evaluators"
+   },
+   {
+    "id": "9bf98ea25d4b",
+    "title": "Funding third-party model evaluations",
+    "summary": "",
+    "category": "Other",
+    "score": 55.8,
+    "published_at": "2026-11-13T22:37:05.626000+00:00",
+    "sources": [
+     {
+      "name": "Anthropic",
+      "url": "https://www.anthropic.com/news/a-new-initiative-for-developing-third-party-model-evaluations"
+     }
+    ],
+    "primary_url": "https://www.anthropic.com/news/a-new-initiative-for-developing-third-party-model-evaluations"
+   },
+   {
+    "id": "83593154be7b",
+    "title": "Protecting the wellbeing of our users",
+    "summary": "",
+    "category": "Other",
+    "score": 55.8,
+    "published_at": "2026-11-13T22:37:05.622000+00:00",
+    "sources": [
+     {
+      "name": "Anthropic",
+      "url": "https://www.anthropic.com/news/protecting-well-being-of-users"
+     }
+    ],
+    "primary_url": "https://www.anthropic.com/news/protecting-well-being-of-users"
+   },
+   {
+    "id": "879ba832b5d6",
+    "title": "Partnering with Accenture on embedded evaluation",
+    "summary": "",
+    "category": "Other",
+    "score": 55.8,
+    "published_at": "2026-11-13T22:37:05.618000+00:00",
+    "sources": [
+     {
+      "name": "Anthropic",
+      "url": "https://www.anthropic.com/news/accenture-embedded-evaluation"
+     }
+    ],
+    "primary_url": "https://www.anthropic.com/news/accenture-embedded-evaluation"
+   },
+   {
+    "id": "661a815e8ba2",
+    "title": "Improving Fable 5's safeguards",
+    "summary": "",
+    "category": "Other",
+    "score": 55.8,
+    "published_at": "2026-11-13T22:37:05.617000+00:00",
+    "sources": [
+     {
+      "name": "Anthropic",
+      "url": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards"
+     }
+    ],
+    "primary_url": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards"
+   },
+   {
+    "id": "a5090cfbce20",
+    "title": "Challenges in red teaming AI systems",
+    "summary": "",
+    "category": "Other",
+    "score": 55.8,
+    "published_at": "2026-11-13T22:37:05.608000+00:00",
+    "sources": [
+     {
+      "name": "Anthropic",
+      "url": "https://www.anthropic.com/news/challenges-in-red-teaming-ai-systems"
+     }
+    ],
+    "primary_url": "https://www.anthropic.com/news/challenges-in-red-teaming-ai-systems"
+   },
+   {
+    "id": "c60260600f8e",
+    "title": "Commitments on model deprecation and preservation",
+    "summary": "",
+    "category": "Other",
+    "score": 55.8,
+    "published_at": "2026-11-13T22:37:05.607000+00:00",
+    "sources": [
+     {
+      "name": "Anthropic",
+      "url": "https://www.anthropic.com/news/deprecation-commitments"
+     }
+    ],
+    "primary_url": "https://www.anthropic.com/news/deprecation-commitments"
+   },
+   {
+    "id": "fa819d3b8f33",
+    "title": "Anthropic's position on the diffusion rule",
+    "summary": "",
+    "category": "Other",
+    "score": 55.8,
+    "published_at": "2026-11-13T22:37:05.607000+00:00",
+    "sources": [
+     {
+      "name": "Anthropic",
+      "url": "https://www.anthropic.com/news/securing-america-s-compute-advantage-anthropic-s-position-on-the-diffusion-rule"
+     }
+    ],
+    "primary_url": "https://www.anthropic.com/news/securing-america-s-compute-advantage-anthropic-s-position-on-the-diffusion-rule"
+   }
+  ],
+  "Dark Horses": [
+   {
+    "id": "0667a519c650",
+    "title": "I'm making LLMs work on small and old devices",
+    "summary": "",
+    "category": "Other",
+    "score": 48.6,
+    "published_at": "2026-11-12T15:23:10+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://github.com/hyperionaidev/smolmaxxing/"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50468888"
+     }
+    ],
+    "primary_url": "https://github.com/hyperionaidev/smolmaxxing/"
+   },
+   {
+    "id": "d096a8a420fb",
+    "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
+    "summary": "",
+    "category": "Other",
+    "score": 50.5,
+    "published_at": "2026-11-12T21:56:11+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://unemploymentlabs.com/checkpoint-forensics"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50474883"
+     }
+    ],
+    "primary_url": "https://unemploymentlabs.com/checkpoint-forensics"
+   },
+   {
+    "id": "f980cc1f1e21",
+    "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+    "summary": "",
+    "category": "Other",
+    "score": 50.9,
+    "published_at": "2026-11-12T23:06:17+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50475713"
+     }
+    ],
+    "primary_url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer"
+   },
+   {
+    "id": "a1e895b935bb",
+    "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
+    "summary": "",
+    "category": "Other",
+    "score": 58.0,
+    "published_at": "2026-11-13T17:30:10+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50486748"
+     }
+    ],
+    "primary_url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths"
+   },
+   {
+    "id": "b3c84623c44d",
+    "title": "Brave Search API now accepts agentic payments via the x402 protocol",
+    "summary": "",
+    "category": "AI Agents",
+    "score": 51.7,
+    "published_at": "2026-11-13T03:08:08+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://brave.com/blog/search-api-agentic-payments/"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50477649"
+     }
+    ],
+    "primary_url": "https://brave.com/blog/search-api-agentic-payments/"
+   },
+   {
+    "id": "9f3952a424ef",
+    "title": "No AI Slop: A Manifesto",
+    "summary": "",
+    "category": "Other",
+    "score": 57.3,
+    "published_at": "2026-11-13T19:51:56+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://www.slopmanifesto.com/"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50488769"
+     }
+    ],
+    "primary_url": "https://www.slopmanifesto.com/"
+   },
+   {
+    "id": "0b67abad1121",
+    "title": "Jonathan Blow – If AI Solved Coding, Why Is My Software Still the Same? [video]",
+    "summary": "",
+    "category": "Other",
+    "score": 55.1,
+    "published_at": "2026-11-13T15:08:44+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50484658"
+     }
+    ],
+    "primary_url": "https://www.youtube.com/watch?v=IRK8h67ol7Q"
+   },
+   {
+    "id": "26a6fb343a8e",
+    "title": "Why You Should Expect an AI Crash",
+    "summary": "",
+    "category": "Other",
+    "score": 47.4,
+    "published_at": "2026-11-12T23:08:31+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://www.economist.com/leaders/2026/11/12/why-you-should-expect-an-ai-crash"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50475735"
+     }
+    ],
+    "primary_url": "https://www.economist.com/leaders/2026/11/12/why-you-should-expect-an-ai-crash"
+   }
+  ],
+  "Rising": [
+   {
+    "id": "ca7dd68b4ce7",
+    "title": "ZhuLinsen/daily_stock_analysis: LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+    "summary": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-f…",
+    "category": "Open Source",
+    "score": 50.9,
+    "published_at": "2026-11-13T23:10:30.828836+00:00",
+    "sources": [
+     {
+      "name": "GitHub Trending",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis"
+     }
+    ],
+    "primary_url": "https://github.com/ZhuLinsen/daily_stock_analysis"
+   },
+   {
+    "id": "1f1dbabb56c4",
+    "title": "MiniMaxAI/MiniMax-H3-Image",
+    "summary": "",
+    "category": "Open Source",
+    "score": 50.9,
+    "published_at": "2026-11-13T23:10:30.828836+00:00",
+    "sources": [
+     {
+      "name": "Hugging Face Trending",
+      "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image"
+     }
+    ],
+    "primary_url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image"
+   },
+   {
+    "id": "c57dfd8e10af",
+    "title": "Likely7/Veyra-NRVideo: Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and capture enhancement tool featuring real-time preview for videos, images, and capture card sources. Combine AI-powered Super Resolution, DLSS5 image enhancement, and Frame Generation to deliver a next-generation visual experience.",
+    "summary": "Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and capture enhancement tool featuring real-time preview for videos, images, and capture card sources. Combine AI-powered Super …",
+    "category": "Open Source",
+    "score": 50.6,
+    "published_at": "2026-11-13T23:10:30.828836+00:00",
+    "sources": [
+     {
+      "name": "GitHub Trending",
+      "url": "https://github.com/Likely7/Veyra-NRVideo"
+     }
+    ],
+    "primary_url": "https://github.com/Likely7/Veyra-NRVideo"
+   },
+   {
+    "id": "55ffe1fba5ed",
+    "title": "NousResearch/Arete-27B",
+    "summary": "",
+    "category": "Open Source",
+    "score": 49.2,
+    "published_at": "2026-11-13T23:10:30.828836+00:00",
+    "sources": [
+     {
+      "name": "Hugging Face Trending",
+      "url": "https://huggingface.co/NousResearch/Arete-27B"
+     }
+    ],
+    "primary_url": "https://huggingface.co/NousResearch/Arete-27B"
+   },
+   {
+    "id": "04ce1345cda9",
+    "title": "Lightricks/LTX-2.5",
+    "summary": "",
+    "category": "Open Source",
+    "score": 48.9,
+    "published_at": "2026-11-13T23:10:30.828836+00:00",
+    "sources": [
+     {
+      "name": "Hugging Face Trending",
+      "url": "https://huggingface.co/Lightricks/LTX-2.5"
+     }
+    ],
+    "primary_url": "https://huggingface.co/Lightricks/LTX-2.5"
+   },
+   {
+    "id": "46e307363c08",
+    "title": "speridlabs/idol",
+    "summary": "",
+    "category": "Open Source",
+    "score": 48.7,
+    "published_at": "2026-11-13T23:10:30.828836+00:00",
+    "sources": [
+     {
+      "name": "Hugging Face Trending",
+      "url": "https://huggingface.co/speridlabs/idol"
+     }
+    ],
+    "primary_url": "https://huggingface.co/speridlabs/idol"
+   },
+   {
+    "id": "d0b5754fb37f",
+    "title": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
+    "summary": "",
+    "category": "Innovation",
+    "score": 48.5,
+    "published_at": "2026-11-13T23:10:30.828836+00:00",
+    "sources": [
+     {
+      "name": "Hugging Face Trending",
+      "url": "https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF"
+     }
+    ],
+    "primary_url": "https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF"
+   },
+   {
+    "id": "14e5a7f70a2a",
+    "title": "Comfy-Org/MiniMax-H3-Image",
+    "summary": "",
+    "category": "Open Source",
+    "score": 48.2,
+    "published_at": "2026-11-13T23:10:30.828836+00:00",
+    "sources": [
+     {
+      "name": "Hugging Face Trending",
+      "url": "https://huggingface.co/Comfy-Org/MiniMax-H3-Image"
+     }
+    ],
+    "primary_url": "https://huggingface.co/Comfy-Org/MiniMax-H3-Image"
+   },
+   {
+    "id": "2250172890a0",
+    "title": "Zyphra/ZONOS3-Mini",
+    "summary": "",
+    "category": "Open Source",
+    "score": 47.6,
+    "published_at": "2026-11-13T23:10:30.828836+00:00",
+    "sources": [
+     {
+      "name": "Hugging Face Trending",
+      "url": "https://huggingface.co/Zyphra/ZONOS3-Mini"
+     }
+    ],
+    "primary_url": "https://huggingface.co/Zyphra/ZONOS3-Mini"
+   }
+  ]
+ },
+ "categories": {
+  "AI Agents": [
+   {
+    "id": "44da454e7900",
+    "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
+    "summary": "",
+    "category": "AI Agents",
+    "score": 56.5,
+    "published_at": "2026-11-13T10:18:13+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://status.claude.com/incidents/nn11wk485zfn"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50481187"
+     }
+    ],
+    "primary_url": "https://status.claude.com/incidents/nn11wk485zfn"
+   },
+   {
+    "id": "5bf4951adbe9",
+    "title": "Introducing ChatGPT Wallet",
+    "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
+    "category": "AI Agents",
+    "score": 52.6,
+    "published_at": "2026-11-13T15:00:00+00:00",
+    "sources": [
+     {
+      "name": "OpenAI",
+      "url": "https://openai.com/index/introducing-chatgpt-wallet"
+     }
+    ],
+    "primary_url": "https://openai.com/index/introducing-chatgpt-wallet"
+   },
+   {
+    "id": "b3c84623c44d",
+    "title": "Brave Search API now accepts agentic payments via the x402 protocol",
+    "summary": "",
+    "category": "AI Agents",
+    "score": 51.7,
+    "published_at": "2026-11-13T03:08:08+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://brave.com/blog/search-api-agentic-payments/"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50477649"
+     }
+    ],
+    "primary_url": "https://brave.com/blog/search-api-agentic-payments/"
+   },
+   {
+    "id": "f7cfdfd7bcc3",
+    "title": "alibaba/open-code-review: Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+    "summary": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE…",
+    "category": "AI Agents",
+    "score": 50.1,
+    "published_at": "2026-11-13T23:10:30.828836+00:00",
+    "sources": [
+     {
+      "name": "GitHub Trending",
+      "url": "https://github.com/alibaba/open-code-review"
+     }
+    ],
+    "primary_url": "https://github.com/alibaba/open-code-review"
+   },
+   {
+    "id": "d450ad1a277f",
+    "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
+    "summary": "After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscribers in the US aged 18 …",
+    "category": "AI Agents",
+    "score": 49.0,
+    "published_at": "2026-11-13T20:45:10+00:00",
+    "sources": [
+     {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet"
+     }
+    ],
+    "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet"
+   },
+   {
+    "id": "38741df50e34",
+    "title": "AI agent startup LangChain hits $3B valuation",
+    "summary": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
+    "category": "AI Agents",
+    "score": 48.5,
+    "published_at": "2026-11-13T19:37:57+00:00",
+    "sources": [
+     {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/"
+     }
+    ],
+    "primary_url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/"
+   },
+   {
+    "id": "4e379f6cb9d3",
+    "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+    "summary": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.",
+    "category": "AI Agents",
+    "score": 47.0,
+    "published_at": "2026-11-13T16:00:12+00:00",
+    "sources": [
+     {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/"
+     }
+    ],
+    "primary_url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/"
+   },
+   {
+    "id": "1bd099ba94a3",
+    "title": "Claude’s Duet agent is a little neurotic and surprisingly helpful",
+    "summary": "Normally, the products I test don't offer to help me write up my experience with them. Duet is different. Claude Duet is Anthropic's AI agent for consumers, the latest attempt by an AI company to try…",
+    "category": "AI Agents",
+    "score": 46.2,
+    "published_at": "2026-11-13T14:00:00+00:00",
+    "sources": [
+     {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on"
+     }
+    ],
+    "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on"
+   },
+   {
+    "id": "5b0f73df89a6",
+    "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+    "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
+    "category": "AI Agents",
+    "score": 44.7,
+    "published_at": "2026-11-12T20:00:00+00:00",
+    "sources": [
+     {
+      "name": "OpenAI",
+      "url": "https://openai.com/business/customer-stories/amplitude"
+     }
+    ],
+    "primary_url": "https://openai.com/business/customer-stories/amplitude"
+   },
+   {
+    "id": "90d79223706e",
+    "title": "Gondola doubles revenue as its team builds more with Codex",
+    "summary": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.",
+    "category": "AI Agents",
+    "score": 41.3,
+    "published_at": "2026-11-12T12:00:00+00:00",
+    "sources": [
+     {
+      "name": "OpenAI",
+      "url": "https://openai.com/business/customer-stories/gondola"
+     }
+    ],
+    "primary_url": "https://openai.com/business/customer-stories/gondola"
+   }
+  ],
+  "AI Apps": [
+   {
+    "id": "227d02ee5d04",
+    "title": "Anthropic update on independent evaluators",
+    "summary": "",
+    "category": "AI Apps",
+    "score": 55.8,
+    "published_at": "2026-11-13T22:37:05.627000+00:00",
+    "sources": [
+     {
+      "name": "Anthropic",
+      "url": "https://www.anthropic.com/news/an-update-on-independent-evaluators"
+     }
+    ],
+    "primary_url": "https://www.anthropic.com/news/an-update-on-independent-evaluators"
+   },
+   {
+    "id": "5f1afeeb96c0",
+    "title": "Why is Google cutting off Search from AI-free schools? Here are some theories",
+    "summary": "",
+    "category": "AI Apps",
+    "score": 55.5,
+    "published_at": "2026-11-13T15:29:10+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://text.npr.org/nx-s1-6029408"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50484960"
+     }
+    ],
+    "primary_url": "https://text.npr.org/nx-s1-6029408"
+   },
+   {
+    "id": "2857c8644202",
+    "title": "An update on our election safeguards",
+    "summary": "",
+    "category": "AI Apps",
+    "score": 53.4,
+    "published_at": "2026-11-13T17:02:43.418000+00:00",
+    "sources": [
+     {
+      "name": "Anthropic",
+      "url": "https://www.anthropic.com/news/election-safeguards-update"
+     }
+    ],
+    "primary_url": "https://www.anthropic.com/news/election-safeguards-update"
+   },
+   {
+    "id": "4ecfb44c1aed",
+    "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
+    "summary": "Airlines praised the AI tool, but the air traffic controllers’ union wasn’t involved.",
+    "category": "AI Apps",
+    "score": 49.2,
+    "published_at": "2026-11-13T21:20:47+00:00",
+    "sources": [
+     {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/"
+     }
+    ],
+    "primary_url": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/"
+   },
+   {
+    "id": "10ab37804642",
+    "title": "AI is turning Apple's app review process into a nightmare for synth developers",
+    "summary": "",
+    "category": "AI Apps",
+    "score": 48.5,
+    "published_at": "2026-11-12T21:09:49+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50474311"
+     }
+    ],
+    "primary_url": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html"
+   },
+   {
+    "id": "025a6c711bf8",
+    "title": "ElevenLabs’ new app combines meeting note-taking and dictation for teams",
+    "summary": "ElevenAI is a new meeting notetaker and dictation app aimed at teams and enterprises.",
+    "category": "AI Apps",
+    "score": 46.5,
+    "published_at": "2026-11-13T14:44:48+00:00",
+    "sources": [
+     {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/"
+     }
+    ],
+    "primary_url": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/"
+   },
+   {
+    "id": "4e2810e47ea3",
+    "title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
+    "summary": "This Congressional investigation into Nvidia's China sales and its dealings with Trump is the second one, so far, since news of the alleged spy affair broke.",
+    "category": "AI Apps",
+    "score": 39.8,
+    "published_at": "2026-11-12T22:42:51+00:00",
+    "sources": [
+     {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/"
+     }
+    ],
+    "primary_url": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/"
+   },
+   {
+    "id": "fc0f425d4885",
+    "title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
+    "summary": "Nebius plans to fund its $40 billion AI infrastructure expansion through customer prepayments and loans, even as delays at a Microsoft data center raise questions about its financing model.",
+    "category": "AI Apps",
+    "score": 39.3,
+    "published_at": "2026-11-12T21:27:10+00:00",
+    "sources": [
+     {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/"
+     }
+    ],
+    "primary_url": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/"
+   }
+  ],
+  "Skills": [
+   {
+    "id": "ec453d1217c2",
+    "title": "tradermonty/claude-trading-skills: Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
+    "summary": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
+    "category": "Skills",
+    "score": 46.4,
+    "published_at": "2026-11-13T23:10:30.828836+00:00",
+    "sources": [
+     {
+      "name": "GitHub Trending",
+      "url": "https://github.com/tradermonty/claude-trading-skills"
+     }
+    ],
+    "primary_url": "https://github.com/tradermonty/claude-trading-skills"
+   }
+  ],
+  "MCP": [],
+  "Open Source": [
+   {
+    "id": "ca7dd68b4ce7",
+    "title": "ZhuLinsen/daily_stock_analysis: LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+    "summary": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-f…",
+    "category": "Open Source",
+    "score": 50.9,
+    "published_at": "2026-11-13T23:10:30.828836+00:00",
+    "sources": [
+     {
+      "name": "GitHub Trending",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis"
+     }
+    ],
+    "primary_url": "https://github.com/ZhuLinsen/daily_stock_analysis"
+   },
+   {
+    "id": "1f1dbabb56c4",
+    "title": "MiniMaxAI/MiniMax-H3-Image",
+    "summary": "",
+    "category": "Open Source",
+    "score": 50.9,
+    "published_at": "2026-11-13T23:10:30.828836+00:00",
+    "sources": [
+     {
+      "name": "Hugging Face Trending",
+      "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image"
+     }
+    ],
+    "primary_url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image"
+   },
+   {
+    "id": "c57dfd8e10af",
+    "title": "Likely7/Veyra-NRVideo: Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and capture enhancement tool featuring real-time preview for videos, images, and capture card sources. Combine AI-powered Super Resolution, DLSS5 image enhancement, and Frame Generation to deliver a next-generation visual experience.",
+    "summary": "Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and capture enhancement tool featuring real-time preview for videos, images, and capture card sources. Combine AI-powered Super …",
+    "category": "Open Source",
+    "score": 50.6,
+    "published_at": "2026-11-13T23:10:30.828836+00:00",
+    "sources": [
+     {
+      "name": "GitHub Trending",
+      "url": "https://github.com/Likely7/Veyra-NRVideo"
+     }
+    ],
+    "primary_url": "https://github.com/Likely7/Veyra-NRVideo"
+   },
+   {
+    "id": "55ffe1fba5ed",
+    "title": "NousResearch/Arete-27B",
+    "summary": "",
+    "category": "Open Source",
+    "score": 49.2,
+    "published_at": "2026-11-13T23:10:30.828836+00:00",
+    "sources": [
+     {
+      "name": "Hugging Face Trending",
+      "url": "https://huggingface.co/NousResearch/Arete-27B"
+     }
+    ],
+    "primary_url": "https://huggingface.co/NousResearch/Arete-27B"
+   },
+   {
+    "id": "04ce1345cda9",
+    "title": "Lightricks/LTX-2.5",
+    "summary": "",
+    "category": "Open Source",
+    "score": 48.9,
+    "published_at": "2026-11-13T23:10:30.828836+00:00",
+    "sources": [
+     {
+      "name": "Hugging Face Trending",
+      "url": "https://huggingface.co/Lightricks/LTX-2.5"
+     }
+    ],
+    "primary_url": "https://huggingface.co/Lightricks/LTX-2.5"
+   },
+   {
+    "id": "46e307363c08",
+    "title": "speridlabs/idol",
+    "summary": "",
+    "category": "Open Source",
+    "score": 48.7,
+    "published_at": "2026-11-13T23:10:30.828836+00:00",
+    "sources": [
+     {
+      "name": "Hugging Face Trending",
+      "url": "https://huggingface.co/speridlabs/idol"
+     }
+    ],
+    "primary_url": "https://huggingface.co/speridlabs/idol"
+   },
+   {
+    "id": "7838c87736f9",
+    "title": "moonshotai/Kimi-K3.1-Pro",
+    "summary": "",
+    "category": "Open Source",
+    "score": 48.4,
+    "published_at": "2026-11-13T23:10:30.828836+00:00",
+    "sources": [
+     {
+      "name": "Hugging Face Trending",
+      "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro"
+     }
+    ],
+    "primary_url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro"
+   },
+   {
+    "id": "14e5a7f70a2a",
+    "title": "Comfy-Org/MiniMax-H3-Image",
+    "summary": "",
+    "category": "Open Source",
+    "score": 48.2,
+    "published_at": "2026-11-13T23:10:30.828836+00:00",
+    "sources": [
+     {
+      "name": "Hugging Face Trending",
+      "url": "https://huggingface.co/Comfy-Org/MiniMax-H3-Image"
+     }
+    ],
+    "primary_url": "https://huggingface.co/Comfy-Org/MiniMax-H3-Image"
+   },
+   {
+    "id": "2250172890a0",
+    "title": "Zyphra/ZONOS3-Mini",
+    "summary": "",
+    "category": "Open Source",
+    "score": 47.6,
+    "published_at": "2026-11-13T23:10:30.828836+00:00",
+    "sources": [
+     {
+      "name": "Hugging Face Trending",
+      "url": "https://huggingface.co/Zyphra/ZONOS3-Mini"
+     }
+    ],
+    "primary_url": "https://huggingface.co/Zyphra/ZONOS3-Mini"
+   }
+  ],
+  "Innovation": [
+   {
+    "id": "4a36f6adfa9f",
+    "title": "OpenAI disbands its robotics team as its general models start running robots",
+    "summary": "",
+    "category": "Innovation",
+    "score": 55.9,
+    "published_at": "2026-11-13T17:55:23+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50487184"
+     }
+    ],
+    "primary_url": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/"
+   },
+   {
+    "id": "3c1d014c2c05",
+    "title": "Economic Futures Research Fund agenda",
+    "summary": "",
+    "category": "Innovation",
+    "score": 55.8,
+    "published_at": "2026-11-13T22:37:05.603000+00:00",
+    "sources": [
+     {
+      "name": "Anthropic",
+      "url": "https://www.anthropic.com/news/economic-futures-research-fund-agenda"
+     }
+    ],
+    "primary_url": "https://www.anthropic.com/news/economic-futures-research-fund-agenda"
+   },
+   {
+    "id": "4e4d38c11bb4",
+    "title": "Introducing Claude 3.5 Sonnet",
+    "summary": "",
+    "category": "Innovation",
+    "score": 55.8,
+    "published_at": "2026-11-13T22:37:05.593000+00:00",
+    "sources": [
+     {
+      "name": "Anthropic",
+      "url": "https://www.anthropic.com/news/claude-3-5-sonnet"
+     },
+     {
+      "name": "Anthropic",
+      "url": "https://www.anthropic.com/news/claude-sonnet-5"
+     }
+    ],
+    "primary_url": "https://www.anthropic.com/news/claude-3-5-sonnet"
+   },
+   {
+    "id": "4c35a47638c4",
+    "title": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+    "summary": "",
+    "category": "Innovation",
+    "score": 54.0,
+    "published_at": "2026-11-13T23:10:30.828836+00:00",
+    "sources": [
+     {
+      "name": "Hugging Face Trending",
+      "url": "https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic"
+     }
+    ],
+    "primary_url": "https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic"
+   },
+   {
+    "id": "d40fca9fd5e1",
+    "title": "Gemini 4 Hydrogen and Orchestrator",
+    "summary": "",
+    "category": "Innovation",
+    "score": 50.2,
+    "published_at": "2026-11-12T18:52:01+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50472260"
+     }
+    ],
+    "primary_url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/"
+   },
+   {
+    "id": "8fdb0296ea11",
+    "title": "Gemini 4 Hydrogen",
+    "summary": "",
+    "category": "Innovation",
+    "score": 50.2,
+    "published_at": "2026-11-12T18:01:48+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50471431"
+     }
+    ],
+    "primary_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/"
+   },
+   {
+    "id": "6c64301c09e0",
+    "title": "Qwen/Qwen3.8-27B",
+    "summary": "",
+    "category": "Innovation",
+    "score": 48.8,
+    "published_at": "2026-11-13T23:10:30.828836+00:00",
+    "sources": [
+     {
+      "name": "Hugging Face Trending",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B"
+     }
+    ],
+    "primary_url": "https://huggingface.co/Qwen/Qwen3.8-27B"
+   },
+   {
+    "id": "d0b5754fb37f",
+    "title": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
+    "summary": "",
+    "category": "Innovation",
+    "score": 48.5,
+    "published_at": "2026-11-13T23:10:30.828836+00:00",
+    "sources": [
+     {
+      "name": "Hugging Face Trending",
+      "url": "https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF"
+     }
+    ],
+    "primary_url": "https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF"
+   },
+   {
+    "id": "f17748102e2c",
+    "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
+    "summary": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
+    "category": "Innovation",
+    "score": 48.1,
+    "published_at": "2026-11-13T18:40:30+00:00",
+    "sources": [
+     {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/"
+     }
+    ],
+    "primary_url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/"
+   },
+   {
+    "id": "2427bacb74a9",
+    "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+    "summary": "",
+    "category": "Innovation",
+    "score": 47.8,
+    "published_at": "2026-11-13T18:00:39+00:00",
+    "sources": [
+     {
+      "name": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place"
+     }
+    ],
+    "primary_url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place"
+   }
+  ],
+  "Security": [
+   {
+    "id": "65f8a2e3eddb",
+    "title": "openai/codex-security: OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
+    "summary": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
+    "category": "Security",
+    "score": 54.0,
+    "published_at": "2026-11-13T23:10:30.828836+00:00",
+    "sources": [
+     {
+      "name": "GitHub Trending",
+      "url": "https://github.com/openai/codex-security"
+     }
+    ],
+    "primary_url": "https://github.com/openai/codex-security"
+   }
+  ],
+  "Other": [
+   {
+    "id": "a1e895b935bb",
+    "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
+    "summary": "",
+    "category": "Other",
+    "score": 58.0,
+    "published_at": "2026-11-13T17:30:10+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50486748"
+     }
+    ],
+    "primary_url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths"
+   },
+   {
+    "id": "9f3952a424ef",
+    "title": "No AI Slop: A Manifesto",
+    "summary": "",
+    "category": "Other",
+    "score": 57.3,
+    "published_at": "2026-11-13T19:51:56+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://www.slopmanifesto.com/"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50488769"
+     }
+    ],
+    "primary_url": "https://www.slopmanifesto.com/"
+   },
+   {
+    "id": "587ad5366b40",
+    "title": "Anthropic is endorsing SB 53",
+    "summary": "",
+    "category": "Other",
+    "score": 55.8,
+    "published_at": "2026-11-13T22:37:05.632000+00:00",
+    "sources": [
+     {
+      "name": "Anthropic",
+      "url": "https://www.anthropic.com/news/anthropic-is-endorsing-sb-53"
+     }
+    ],
+    "primary_url": "https://www.anthropic.com/news/anthropic-is-endorsing-sb-53"
+   },
+   {
+    "id": "85842d7c50cc",
+    "title": "Understanding and addressing AI harms",
+    "summary": "",
+    "category": "Other",
+    "score": 55.8,
+    "published_at": "2026-11-13T22:37:05.631000+00:00",
+    "sources": [
+     {
+      "name": "Anthropic",
+      "url": "https://www.anthropic.com/news/our-approach-to-understanding-and-addressing-ai-harms"
+     }
+    ],
+    "primary_url": "https://www.anthropic.com/news/our-approach-to-understanding-and-addressing-ai-harms"
+   },
+   {
+    "id": "9bf98ea25d4b",
+    "title": "Funding third-party model evaluations",
+    "summary": "",
+    "category": "Other",
+    "score": 55.8,
+    "published_at": "2026-11-13T22:37:05.626000+00:00",
+    "sources": [
+     {
+      "name": "Anthropic",
+      "url": "https://www.anthropic.com/news/a-new-initiative-for-developing-third-party-model-evaluations"
+     }
+    ],
+    "primary_url": "https://www.anthropic.com/news/a-new-initiative-for-developing-third-party-model-evaluations"
+   },
+   {
+    "id": "83593154be7b",
+    "title": "Protecting the wellbeing of our users",
+    "summary": "",
+    "category": "Other",
+    "score": 55.8,
+    "published_at": "2026-11-13T22:37:05.622000+00:00",
+    "sources": [
+     {
+      "name": "Anthropic",
+      "url": "https://www.anthropic.com/news/protecting-well-being-of-users"
+     }
+    ],
+    "primary_url": "https://www.anthropic.com/news/protecting-well-being-of-users"
+   },
+   {
+    "id": "879ba832b5d6",
+    "title": "Partnering with Accenture on embedded evaluation",
+    "summary": "",
+    "category": "Other",
+    "score": 55.8,
+    "published_at": "2026-11-13T22:37:05.618000+00:00",
+    "sources": [
+     {
+      "name": "Anthropic",
+      "url": "https://www.anthropic.com/news/accenture-embedded-evaluation"
+     }
+    ],
+    "primary_url": "https://www.anthropic.com/news/accenture-embedded-evaluation"
+   },
+   {
+    "id": "661a815e8ba2",
+    "title": "Improving Fable 5's safeguards",
+    "summary": "",
+    "category": "Other",
+    "score": 55.8,
+    "published_at": "2026-11-13T22:37:05.617000+00:00",
+    "sources": [
+     {
+      "name": "Anthropic",
+      "url": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards"
+     }
+    ],
+    "primary_url": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards"
+   },
+   {
+    "id": "a5090cfbce20",
+    "title": "Challenges in red teaming AI systems",
+    "summary": "",
+    "category": "Other",
+    "score": 55.8,
+    "published_at": "2026-11-13T22:37:05.608000+00:00",
+    "sources": [
+     {
+      "name": "Anthropic",
+      "url": "https://www.anthropic.com/news/challenges-in-red-teaming-ai-systems"
+     }
+    ],
+    "primary_url": "https://www.anthropic.com/news/challenges-in-red-teaming-ai-systems"
+   },
+   {
+    "id": "c60260600f8e",
+    "title": "Commitments on model deprecation and preservation",
+    "summary": "",
+    "category": "Other",
+    "score": 55.8,
+    "published_at": "2026-11-13T22:37:05.607000+00:00",
+    "sources": [
+     {
+      "name": "Anthropic",
+      "url": "https://www.anthropic.com/news/deprecation-commitments"
+     }
+    ],
+    "primary_url": "https://www.anthropic.com/news/deprecation-commitments"
+   }
+  ]
+ },
+ "source_list": [
+  {
+   "name": "OpenAI",
+   "url": "https://openai.com/news/rss.xml"
+  },
+  {
+   "name": "Anthropic",
+   "url": "https://www.anthropic.com/sitemap.xml"
+  },
+  {
+   "name": "Google DeepMind",
+   "url": "https://deepmind.google/blog/rss.xml"
+  },
+  {
+   "name": "Microsoft Research",
+   "url": "https://www.microsoft.com/en-us/research/feed/"
+  },
+  {
+   "name": "Hugging Face Blog",
+   "url": "https://huggingface.co/blog/feed.xml"
+  },
+  {
+   "name": "Mistral AI",
+   "url": "https://mistral.ai/rss.xml"
+  },
+  {
+   "name": "NVIDIA Blog",
+   "url": "https://blogs.nvidia.com/feed/"
+  },
+  {
+   "name": "NVIDIA Developer",
+   "url": "https://developer.nvidia.com/blog/feed"
+  },
+  {
+   "name": "TechCrunch",
+   "url": "https://techcrunch.com/category/artificial-intelligence/feed/"
+  },
+  {
+   "name": "The Verge",
+   "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml"
+  },
+  {
+   "name": "MIT Technology Review",
+   "url": "https://www.technologyreview.com/topic/artificial-intelligence/feed"
+  },
+  {
+   "name": "Ars Technica",
+   "url": "https://arstechnica.com/ai/feed/"
+  },
+  {
+   "name": "Hacker News",
+   "url": "https://hn.algolia.com/api/v1/search_by_date"
+  },
+  {
+   "name": "r/MachineLearning",
+   "url": "https://www.reddit.com/r/MachineLearning/top/.rss?t=day"
+  },
+  {
+   "name": "r/LocalLLaMA",
+   "url": "https://www.reddit.com/r/LocalLLaMA/top/.rss?t=day"
+  },
+  {
+   "name": "arXiv cs.AI",
+   "url": "https://rss.arxiv.org/rss/cs.AI"
+  },
+  {
+   "name": "arXiv cs.CL",
+   "url": "https://rss.arxiv.org/rss/cs.CL"
+  },
+  {
+   "name": "arXiv cs.LG",
+   "url": "https://rss.arxiv.org/rss/cs.LG"
+  },
+  {
+   "name": "arXiv cs.CV",
+   "url": "https://rss.arxiv.org/rss/cs.CV"
+  },
+  {
+   "name": "GitHub Trending",
+   "url": "https://github.com/trending?since=daily"
+  },
+  {
+   "name": "Hugging Face Trending",
+   "url": "https://huggingface.co/api/models?sort=trendingScore&limit=10"
+  },
+  {
+   "name": "iThome",
+   "url": "https://www.ithome.com.tw/rss.xml"
+  },
+  {
+   "name": "INSIDE",
+   "url": "https://www.inside.com.tw/feed/rss"
+  }
+ ],
+ "stats": {
+  "fetched": 240,
+  "after_dedup": 239,
+  "sources_ok": 22,
+  "sources_failed": 1,
+  "failed_sources": {
+   "r/LocalLLaMA": "HTTPError: 429 Client Error: Too Many Requests for url: https://www.reddit.com/r/LocalLLaMA/top/.rss?t=day"
+  },
+  "duration_s": 9.0
+ }
+}

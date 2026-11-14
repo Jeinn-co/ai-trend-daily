@@ -7,12 +7,12 @@
     <meta name="description" content="AI news from around the world, collected every 6 hours, with links to every original source." />
     <style>
       :root {
-        --paper: #ebe8e3;
-        --ink: #34302c;
-        --muted: #7a736c;
-        --line: #dcd7d0;
-        --sheet: #f7f5f2;
-        --accent: #8c7d9e;
+        --paper: #f1f4f9;
+        --ink: #172033;
+        --muted: #556175;
+        --line: #dce3ee;
+        --sheet: #ffffff;
+        --accent: #4f5bd5;
         color-scheme: light;
         font-family: "IBM Plex Sans", "Avenir Next", "Segoe UI", "PingFang TC", "Noto Sans TC", sans-serif;
         color: var(--ink);
@@ -21,12 +21,12 @@
         text-rendering: optimizeLegibility;
       }
       :root[data-theme="dark"] {
-        --paper: #1e1c1a;
-        --ink: #e6e1db;
-        --muted: #a39b93;
-        --line: #36322e;
-        --sheet: #272421;
-        --accent: #b3a5c4;
+        --paper: #0e131c;
+        --ink: #e8edf5;
+        --muted: #9ba7b9;
+        --line: #263042;
+        --sheet: #161d2a;
+        --accent: #8d97ff;
         color-scheme: dark;
       }
       * { box-sizing: border-box; }
@@ -38,7 +38,6 @@
 
       .sheet { max-width: 1120px; margin: 0 auto; padding: 28px 20px 48px; }
       .head { display: flex; flex-wrap: wrap; align-items: flex-end; justify-content: space-between; gap: 16px; margin-bottom: 20px; }
-      .eyebrow { margin: 0 0 4px; color: var(--muted); font-size: 12px; letter-spacing: 0.08em; text-transform: uppercase; }
       h1 { margin: 0; font-size: 40px; font-weight: 600; letter-spacing: -0.04em; line-height: 1; }
       .meta { margin: 10px 0 0; color: var(--muted); font-size: 15px; }
       .meta b { color: var(--ink); font-weight: 500; }
@@ -48,7 +47,18 @@
       .btn { padding: 9px 14px; font-size: 16px; border: 1px solid var(--line); border-radius: 8px; background: var(--sheet); cursor: pointer; }
       .btn:hover { border-color: var(--muted); }
 
-      .tabs { display: flex; gap: 4px; margin: 16px 0; overflow-x: auto; border-bottom: 1px solid var(--line); scrollbar-width: none; }
+      .tabs-wrap { position: relative; margin: 16px 0; border-bottom: 1px solid var(--line); }
+      .tabs { display: flex; gap: 4px; overflow-x: auto; scroll-behavior: smooth; scrollbar-width: none; }
+      .tabs::-webkit-scrollbar { display: none; }
+      /* arrows + edge fade appear only on the side that has more tabs to scroll to */
+      .tabs-arrow { position: absolute; top: 0; bottom: 0; z-index: 1; display: none; align-items: center; width: 56px; padding: 0 6px;
+        border: 0; cursor: pointer; color: var(--ink); font-size: 18px; }
+      .tabs-arrow span { display: grid; place-items: center; width: 32px; height: 32px; border: 1px solid var(--line); border-radius: 50%;
+        background: var(--sheet); box-shadow: 0 2px 8px color-mix(in srgb, var(--ink) 14%, transparent); }
+      .tabs-arrow:hover span { border-color: var(--accent); color: var(--accent); }
+      .tabs-arrow.prev { left: 0; justify-content: flex-start; background: linear-gradient(to right, var(--paper) 45%, transparent); }
+      .tabs-arrow.next { right: 0; justify-content: flex-end; background: linear-gradient(to left, var(--paper) 45%, transparent); }
+      .tabs-wrap.can-prev .prev, .tabs-wrap.can-next .next { display: flex; }
       .tab { flex: none; padding: 10px 14px; font-size: 16px; border: 0; border-bottom: 2px solid transparent; background: none; color: var(--muted); cursor: pointer; }
       .tab[aria-selected="true"] { color: color-mix(in srgb, var(--c) 60%, var(--ink)); border-bottom-color: var(--c); font-weight: 600; }
       .tab .dot { display: inline-block; width: 8px; height: 8px; margin-right: 6px; border-radius: 50%; background: var(--c); vertical-align: 1px; }
@@ -95,9 +105,8 @@
     <div class="sheet">
       <header class="head">
         <div>
-          <p class="eyebrow mono">Updated every 6 hours</p>
           <h1>AI Trend Daily</h1>
-          <p class="meta">Updated <b id="updated">—</b> (Taipei time) · Next update in <b id="countdown" class="mono">—</b></p>
+          <p class="meta">Updated <b id="updated">—</b> (Taipei time)</p>
         </div>
         <div class="bar">
           <input id="q" class="search" type="search" placeholder="Search" aria-label="Search titles and descriptions" />
@@ -105,7 +114,11 @@
         </div>
       </header>
 
-      <nav id="tabs" class="tabs" role="tablist"></nav>
+      <div id="tabs-wrap" class="tabs-wrap">
+        <button class="tabs-arrow prev" type="button" aria-label="Scroll tabs left" data-dir="-1"><span>‹</span></button>
+        <nav id="tabs" class="tabs" role="tablist"></nav>
+        <button class="tabs-arrow next" type="button" aria-label="Scroll tabs right" data-dir="1"><span>›</span></button>
+      </div>
       <main id="view"></main>
 
       <footer>
@@ -128,12 +141,12 @@
     <script>
       const HIGHLIGHTS = ["Headlines", "Dark Horses", "Rising"];
       const COLOR = {
-        // Morandi palette: muted, grey-toned
-        Headlines: "#b9806a", "Dark Horses": "#8c7d9e", Rising: "#7b91a6",
-        Models: "#c08f98", "Agents & Dev Tools": "#9a86a3", Products: "#7c9f96", "Open Source": "#8ca37c",
-        Research: "#7d9cad", "Policy & Safety": "#ad6f69", Business: "#bfa071", Other: "#9b958f",
+        // clear, mid-saturation hues that read on both the light and the dark sheet
+        Headlines: "#f26b3a", "Dark Horses": "#8b5cf6", Rising: "#0ea5a4",
+        Models: "#e5487f", "Agents & Dev Tools": "#5b6cf0", Products: "#12a36f", "Open Source": "#5f9e1f",
+        Research: "#1f8fd6", "Policy & Safety": "#e04848", Business: "#d4920f", Other: "#738199",
       };
-      const color = (k) => COLOR[k] || "#9b958f";
+      const color = (k) => COLOR[k] || "#738199";
       const CATEGORIES = ["Models", "Agents & Dev Tools", "Products", "Open Source", "Research", "Policy & Safety", "Business", "Other"];
       // tab and tag labels: English · 中文; the data keeps the English names
       const ZH = { Models: "模型", "Agents & Dev Tools": "Agent 與開發工具", Products: "產品應用", "Open Source": "開源",
@@ -177,6 +190,14 @@
         $("tabs").innerHTML = tabs
           .map(([id, label, n]) => `<button class="tab" role="tab" style="--c:${color(id)}" data-tab="${esc(id)}" aria-selected="${id === state.tab}"><span class="dot"></span>${esc(label)}<span class="n mono">${n}</span></button>`)
           .join("");
+        updateArrows();
+        $("tabs").querySelector('[aria-selected="true"]')?.scrollIntoView({ block: "nearest", inline: "nearest" });
+      }
+
+      function updateArrows() {
+        const t = $("tabs");
+        $("tabs-wrap").classList.toggle("can-prev", t.scrollLeft > 4);
+        $("tabs-wrap").classList.toggle("can-next", t.scrollLeft + t.clientWidth < t.scrollWidth - 4);
       }
 
       function renderView() {
@@ -201,16 +222,6 @@
         $("srclist").innerHTML = (d.source_list || []).map((s) => `<li>${link(new URL(s.url).origin, s.name)}</li>`).join("");
       }
 
-      // the workflow runs at 00/06/12/18 UTC; GitHub may start it a few minutes late
-      function tick() {
-        const now = new Date();
-        const next = new Date(now);
-        next.setUTCHours(Math.floor(now.getUTCHours() / 6) * 6 + 6, 0, 0, 0);
-        const s = Math.max(0, Math.floor((next - now) / 1000));
-        const p = (n) => String(n).padStart(2, "0");
-        $("countdown").textContent = `${p(Math.floor(s / 3600))}:${p(Math.floor((s % 3600) / 60))}:${p(s % 60)}`;
-      }
-
       async function load(path) {
         const res = await fetch(`${path}?t=${Date.now()}`);
         if (!res.ok) throw new Error(`${path}: ${res.status}`);
@@ -233,6 +244,10 @@
         $("archive").innerHTML += names.map((n) => `<option value="${esc(n)}">${esc(n.replace(/^(\d{4}-\d{2}-\d{2})-(\d{2})$/, "$1 $2:00 UTC"))}</option>`).join("");
       }
 
+      $("tabs").addEventListener("scroll", updateArrows, { passive: true });
+      window.addEventListener("resize", updateArrows);
+      document.querySelectorAll(".tabs-arrow").forEach((b) =>
+        b.addEventListener("click", () => $("tabs").scrollBy({ left: b.dataset.dir * $("tabs").clientWidth * 0.7 })));
       $("tabs").addEventListener("click", (e) => {
         const b = e.target.closest("[data-tab]");
         if (!b) return;
@@ -266,8 +281,6 @@
       const showError = (err) => {
         $("view").innerHTML = `<p class="empty">Could not load the data. Please try again later. (${esc(err.message)})</p>`;
       };
-      tick();
-      setInterval(tick, 1000);
       load("data/latest.json").catch(showError);
       loadArchive();
       loadVersion();

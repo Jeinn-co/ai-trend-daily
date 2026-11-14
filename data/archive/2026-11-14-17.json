@@ -1,0 +1,3576 @@
+{
+ "updated_at": "2026-11-14T17:54:06+00:00",
+ "top10": [
+  {
+   "id": "830fc498a0c3",
+   "title": "晶泰科技发布「科学家」计划：开放真实产业命题，招募全球青年科研团队",
+   "summary": "晶泰科技发布「科学家」计划，面向全球青年科研团队开放真实产业课题，搭建从科研创意、实验验证到成果落地的通道，同步启用全新北京创新中心。该计划是长期开放式创新与人才孵化机制，采用特定模式，先征集生态企业真实科研难题打磨为标准化公开命题，面向全球相关青年科研群体招募，首批命题年底发榜。入选团队可获最高 10 万元科研资源服务券及多项配套权益，优秀方案可推进联合研发，核心团队可获工作 offer 与创…",
+   "category": "Research",
+   "score": 69.1,
+   "published_at": "2026-11-14T15:40:26+00:00",
+   "sources": [
+    {
+     "name": "Readhub",
+     "url": "https://readhub.cn/topic/8y2yfTYhd4k"
+    }
+   ],
+   "primary_url": "https://readhub.cn/topic/8y2yfTYhd4k"
+  },
+  {
+   "id": "b26717d449a4",
+   "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+   "summary": "",
+   "category": "Business",
+   "score": 63.7,
+   "published_at": "2026-11-14T02:52:59+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50493251"
+    }
+   ],
+   "primary_url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus"
+  },
+  {
+   "id": "e5cfce432e46",
+   "title": "Claude 协助破译哥德尔未发表笔记，挖出数百条全新定理",
+   "summary": "逻辑学家哥德尔 1978 年离世，留下数万页未发表的加贝尔斯贝格速记手稿。芬兰教授 Jan von Plato 临近退休时启动破译项目，团队耗时数年将千页速记笔记转写为现代英文，但因内容高度浓缩，人工消化进度极慢。后借助 Claude 处理这批材料，数日内就产出完整解读，梳理出 663 条定理雏形，经验证 440 余条完全成立或核心思路无误。Claude 还发现哥德尔早在上世纪 40 年代就差 …",
+   "category": "Research",
+   "score": 63.0,
+   "published_at": "2026-11-14T16:24:22.422000+00:00",
+   "sources": [
+    {
+     "name": "Readhub",
+     "url": "https://readhub.cn/topic/8y2tfCYP4Cg"
+    }
+   ],
+   "primary_url": "https://readhub.cn/topic/8y2tfCYP4Cg"
+  },
+  {
+   "id": "d6d02b25bdeb",
+   "title": "Anthropic CEO 谈 IPO：不在乎上市时间与市场条件 强调少承诺多兑现",
+   "summary": "Anthropic CEO 达里奥・阿莫迪在与摩根大通 CEO 杰米・戴蒙的炉边对话中表示，公司并不特别在意上市的具体月份和对应的市场条件，希望采取「少承诺、多兑现」的策略，认同不应让公司估值高出其真实价值 1 美元的理念，在近期 AI 板块大幅震荡、科技股估值承压的背景下，对 IPO 定价保持审慎。目前 Anthropic 目标估值约 1.33 万亿美元或更高，计划以每股 70 至 78 美元…",
+   "category": "Business",
+   "score": 62.7,
+   "published_at": "2026-11-14T15:30:30.461000+00:00",
+   "sources": [
+    {
+     "name": "Readhub",
+     "url": "https://readhub.cn/topic/8y2aN4dHy6n"
+    }
+   ],
+   "primary_url": "https://readhub.cn/topic/8y2aN4dHy6n"
+  },
+  {
+   "id": "1cd6c3ec19d7",
+   "title": "The Claude Delusion",
+   "summary": "",
+   "category": "Other",
+   "score": 62.3,
+   "published_at": "2026-11-14T13:36:17+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://www.netmeister.org/blog/claude-delusion.html"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50496921"
+    }
+   ],
+   "primary_url": "https://www.netmeister.org/blog/claude-delusion.html"
+  },
+  {
+   "id": "10c60fc60c0f",
+   "title": "Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update",
+   "summary": "",
+   "category": "Models",
+   "score": 58.4,
+   "published_at": "2026-11-14T00:06:04+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://unsloth.ai/docs/models/qwen3.8"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50491980"
+    }
+   ],
+   "primary_url": "https://unsloth.ai/docs/models/qwen3.8"
+  },
+  {
+   "id": "a1e895b935bb",
+   "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
+   "summary": "",
+   "category": "Research",
+   "score": 57.4,
+   "published_at": "2026-11-13T17:30:10+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50486748"
+    }
+   ],
+   "primary_url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths"
+  },
+  {
+   "id": "0b67abad1121",
+   "title": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
+   "summary": "",
+   "category": "Other",
+   "score": 56.6,
+   "published_at": "2026-11-13T15:08:44+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50484658"
+    }
+   ],
+   "primary_url": "https://www.youtube.com/watch?v=IRK8h67ol7Q"
+  },
+  {
+   "id": "9f3952a424ef",
+   "title": "No AI Slop: A Manifesto",
+   "summary": "",
+   "category": "Other",
+   "score": 56.5,
+   "published_at": "2026-11-13T19:51:56+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://www.slopmanifesto.com/"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50488769"
+    }
+   ],
+   "primary_url": "https://www.slopmanifesto.com/"
+  },
+  {
+   "id": "21ab7432dba4",
+   "title": "Claude Meetings",
+   "summary": "",
+   "category": "Other",
+   "score": 55.6,
+   "published_at": "2026-11-13T22:39:15+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://claude.com/resources/articles/claude-meetings"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50491097"
+    }
+   ],
+   "primary_url": "https://claude.com/resources/articles/claude-meetings"
+  }
+ ],
+ "all": [
+  {
+   "id": "830fc498a0c3",
+   "title": "晶泰科技发布「科学家」计划：开放真实产业命题，招募全球青年科研团队",
+   "summary": "晶泰科技发布「科学家」计划，面向全球青年科研团队开放真实产业课题，搭建从科研创意、实验验证到成果落地的通道，同步启用全新北京创新中心。该计划是长期开放式创新与人才孵化机制，采用特定模式，先征集生态企业真实科研难题打磨为标准化公开命题，面向全球相关青年科研群体招募，首批命题年底发榜。入选团队可获最高 10 万元科研资源服务券及多项配套权益，优秀方案可推进联合研发，核心团队可获工作 offer 与创…",
+   "category": "Research",
+   "score": 69.1,
+   "published_at": "2026-11-14T15:40:26+00:00",
+   "sources": [
+    {
+     "name": "Readhub",
+     "url": "https://readhub.cn/topic/8y2yfTYhd4k"
+    }
+   ],
+   "primary_url": "https://readhub.cn/topic/8y2yfTYhd4k"
+  },
+  {
+   "id": "b26717d449a4",
+   "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+   "summary": "",
+   "category": "Business",
+   "score": 63.7,
+   "published_at": "2026-11-14T02:52:59+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50493251"
+    }
+   ],
+   "primary_url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus"
+  },
+  {
+   "id": "e5cfce432e46",
+   "title": "Claude 协助破译哥德尔未发表笔记，挖出数百条全新定理",
+   "summary": "逻辑学家哥德尔 1978 年离世，留下数万页未发表的加贝尔斯贝格速记手稿。芬兰教授 Jan von Plato 临近退休时启动破译项目，团队耗时数年将千页速记笔记转写为现代英文，但因内容高度浓缩，人工消化进度极慢。后借助 Claude 处理这批材料，数日内就产出完整解读，梳理出 663 条定理雏形，经验证 440 余条完全成立或核心思路无误。Claude 还发现哥德尔早在上世纪 40 年代就差 …",
+   "category": "Research",
+   "score": 63.0,
+   "published_at": "2026-11-14T16:24:22.422000+00:00",
+   "sources": [
+    {
+     "name": "Readhub",
+     "url": "https://readhub.cn/topic/8y2tfCYP4Cg"
+    }
+   ],
+   "primary_url": "https://readhub.cn/topic/8y2tfCYP4Cg"
+  },
+  {
+   "id": "d6d02b25bdeb",
+   "title": "Anthropic CEO 谈 IPO：不在乎上市时间与市场条件 强调少承诺多兑现",
+   "summary": "Anthropic CEO 达里奥・阿莫迪在与摩根大通 CEO 杰米・戴蒙的炉边对话中表示，公司并不特别在意上市的具体月份和对应的市场条件，希望采取「少承诺、多兑现」的策略，认同不应让公司估值高出其真实价值 1 美元的理念，在近期 AI 板块大幅震荡、科技股估值承压的背景下，对 IPO 定价保持审慎。目前 Anthropic 目标估值约 1.33 万亿美元或更高，计划以每股 70 至 78 美元…",
+   "category": "Business",
+   "score": 62.7,
+   "published_at": "2026-11-14T15:30:30.461000+00:00",
+   "sources": [
+    {
+     "name": "Readhub",
+     "url": "https://readhub.cn/topic/8y2aN4dHy6n"
+    }
+   ],
+   "primary_url": "https://readhub.cn/topic/8y2aN4dHy6n"
+  },
+  {
+   "id": "1cd6c3ec19d7",
+   "title": "The Claude Delusion",
+   "summary": "",
+   "category": "Other",
+   "score": 62.3,
+   "published_at": "2026-11-14T13:36:17+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://www.netmeister.org/blog/claude-delusion.html"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50496921"
+    }
+   ],
+   "primary_url": "https://www.netmeister.org/blog/claude-delusion.html"
+  },
+  {
+   "id": "10c60fc60c0f",
+   "title": "Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update",
+   "summary": "",
+   "category": "Models",
+   "score": 58.4,
+   "published_at": "2026-11-14T00:06:04+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://unsloth.ai/docs/models/qwen3.8"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50491980"
+    }
+   ],
+   "primary_url": "https://unsloth.ai/docs/models/qwen3.8"
+  },
+  {
+   "id": "a1e895b935bb",
+   "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
+   "summary": "",
+   "category": "Research",
+   "score": 57.4,
+   "published_at": "2026-11-13T17:30:10+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50486748"
+    }
+   ],
+   "primary_url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths"
+  },
+  {
+   "id": "0b67abad1121",
+   "title": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
+   "summary": "",
+   "category": "Other",
+   "score": 56.6,
+   "published_at": "2026-11-13T15:08:44+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50484658"
+    }
+   ],
+   "primary_url": "https://www.youtube.com/watch?v=IRK8h67ol7Q"
+  },
+  {
+   "id": "9f3952a424ef",
+   "title": "No AI Slop: A Manifesto",
+   "summary": "",
+   "category": "Other",
+   "score": 56.5,
+   "published_at": "2026-11-13T19:51:56+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://www.slopmanifesto.com/"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50488769"
+    }
+   ],
+   "primary_url": "https://www.slopmanifesto.com/"
+  },
+  {
+   "id": "21ab7432dba4",
+   "title": "Claude Meetings",
+   "summary": "",
+   "category": "Other",
+   "score": 55.6,
+   "published_at": "2026-11-13T22:39:15+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://claude.com/resources/articles/claude-meetings"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50491097"
+    }
+   ],
+   "primary_url": "https://claude.com/resources/articles/claude-meetings"
+  },
+  {
+   "id": "4a36f6adfa9f",
+   "title": "OpenAI disbands its robotics team as its general models start running robots",
+   "summary": "",
+   "category": "Research",
+   "score": 55.1,
+   "published_at": "2026-11-13T17:55:23+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50487184"
+    }
+   ],
+   "primary_url": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/"
+  },
+  {
+   "id": "44da454e7900",
+   "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
+   "summary": "",
+   "category": "Agents & Dev Tools",
+   "score": 54.9,
+   "published_at": "2026-11-13T10:18:13+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://status.claude.com/incidents/nn11wk485zfn"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50481187"
+    }
+   ],
+   "primary_url": "https://status.claude.com/incidents/nn11wk485zfn"
+  },
+  {
+   "id": "2f44ca0e016f",
+   "title": "AI is destroying the trust between writers and readers",
+   "summary": "",
+   "category": "Other",
+   "score": 54.4,
+   "published_at": "2026-11-13T11:13:46+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50481870"
+    }
+   ],
+   "primary_url": "https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/"
+  },
+  {
+   "id": "5f1afeeb96c0",
+   "title": "Why is Google cutting off Search from AI-free schools? Here are some theories",
+   "summary": "",
+   "category": "Products",
+   "score": 54.3,
+   "published_at": "2026-11-13T15:29:10+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://text.npr.org/nx-s1-6029408"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50484960"
+    }
+   ],
+   "primary_url": "https://text.npr.org/nx-s1-6029408"
+  },
+  {
+   "id": "f7cfdfd7bcc3",
+   "title": "alibaba/open-code-review: Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+   "summary": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE…",
+   "category": "Policy & Safety",
+   "score": 54.0,
+   "published_at": "2026-11-14T17:54:06.675721+00:00",
+   "sources": [
+    {
+     "name": "GitHub Trending",
+     "url": "https://github.com/alibaba/open-code-review"
+    }
+   ],
+   "primary_url": "https://github.com/alibaba/open-code-review"
+  },
+  {
+   "id": "1f1dbabb56c4",
+   "title": "MiniMaxAI/MiniMax-H3-Image",
+   "summary": "",
+   "category": "Open Source",
+   "score": 54.0,
+   "published_at": "2026-11-14T17:54:06.675721+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face Trending",
+     "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image"
+    }
+   ],
+   "primary_url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image"
+  },
+  {
+   "id": "ec453d1217c2",
+   "title": "tradermonty/claude-trading-skills: Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
+   "summary": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
+   "category": "Agents & Dev Tools",
+   "score": 52.6,
+   "published_at": "2026-11-14T17:54:06.675721+00:00",
+   "sources": [
+    {
+     "name": "GitHub Trending",
+     "url": "https://github.com/tradermonty/claude-trading-skills"
+    }
+   ],
+   "primary_url": "https://github.com/tradermonty/claude-trading-skills"
+  },
+  {
+   "id": "22bcd83804c6",
+   "title": "Claude Is Down",
+   "summary": "",
+   "category": "Other",
+   "score": 52.3,
+   "published_at": "2026-11-13T10:20:09+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://status.claude.com/history"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50481220"
+    }
+   ],
+   "primary_url": "https://status.claude.com/history"
+  },
+  {
+   "id": "404dff4b1cea",
+   "title": "dream-num/univer: Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
+   "summary": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
+   "category": "Agents & Dev Tools",
+   "score": 52.3,
+   "published_at": "2026-11-14T17:54:06.675721+00:00",
+   "sources": [
+    {
+     "name": "GitHub Trending",
+     "url": "https://github.com/dream-num/univer"
+    }
+   ],
+   "primary_url": "https://github.com/dream-num/univer"
+  },
+  {
+   "id": "c57dfd8e10af",
+   "title": "Likely7/Veyra-NRVideo: Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and capture enhancement tool featuring real-time preview for videos, images, and capture card sources. Combine AI-powered Super Resolution, DLSS5 image enhancement, and Frame Generation to deliver a next-generation visual experience.",
+   "summary": "Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and capture enhancement tool featuring real-time preview for videos, images, and capture card sources. Combine AI-powered Super …",
+   "category": "Open Source",
+   "score": 51.8,
+   "published_at": "2026-11-14T17:54:06.675721+00:00",
+   "sources": [
+    {
+     "name": "GitHub Trending",
+     "url": "https://github.com/Likely7/Veyra-NRVideo"
+    }
+   ],
+   "primary_url": "https://github.com/Likely7/Veyra-NRVideo"
+  },
+  {
+   "id": "9af7a7bb1826",
+   "title": "Operand, which offers AI-powered due diligence tools for PE firms, raised $31M across a seed and a Series A led by Khosla Ventures at a $220M valuation (Lucinda Shen/Axios)",
+   "summary": "Lucinda Shen / Axios : Operand, which offers AI-powered due diligence tools for PE firms, raised $31M across a seed and a Series A led by Khosla Ventures at a $220M valuation — Operand, which uses AI…",
+   "category": "Business",
+   "score": 51.5,
+   "published_at": "2026-11-14T07:02:17+00:00",
+   "sources": [
+    {
+     "name": "Techmeme",
+     "url": "https://www.techmeme.com/261114/p6#a261114p6"
+    }
+   ],
+   "primary_url": "https://www.techmeme.com/261114/p6#a261114p6"
+  },
+  {
+   "id": "04ce1345cda9",
+   "title": "Lightricks/LTX-2.5",
+   "summary": "",
+   "category": "Open Source",
+   "score": 51.5,
+   "published_at": "2026-11-14T17:54:06.675721+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face Trending",
+     "url": "https://huggingface.co/Lightricks/LTX-2.5"
+    }
+   ],
+   "primary_url": "https://huggingface.co/Lightricks/LTX-2.5"
+  },
+  {
+   "id": "6c64301c09e0",
+   "title": "Qwen/Qwen3.8-27B",
+   "summary": "",
+   "category": "Models",
+   "score": 51.5,
+   "published_at": "2026-11-14T17:54:06.675721+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face Trending",
+     "url": "https://huggingface.co/Qwen/Qwen3.8-27B"
+    }
+   ],
+   "primary_url": "https://huggingface.co/Qwen/Qwen3.8-27B"
+  },
+  {
+   "id": "7a3f1296623a",
+   "title": "WhiteMatter, which builds \"guardian\" AI agents to oversee file access, software use, decision making, and actions of existing AI agents, raised a $20M Series A (Alice Tecotzky/Business Insider)",
+   "summary": "Alice Tecotzky / Business Insider : WhiteMatter, which builds “guardian” AI agents to oversee file access, software use, decision making, and actions of existing AI agents, raised a $20M Series A — A…",
+   "category": "Agents & Dev Tools",
+   "score": 51.4,
+   "published_at": "2026-11-14T06:55:00+00:00",
+   "sources": [
+    {
+     "name": "Techmeme",
+     "url": "https://www.techmeme.com/261114/p5#a261114p5"
+    }
+   ],
+   "primary_url": "https://www.techmeme.com/261114/p5#a261114p5"
+  },
+  {
+   "id": "349771dbeadd",
+   "title": "Charta Health, which offers AI-powered tools to automate medical chart review, billing, and coding workflows, raised a $55M Series B led by Insight Partners (Jessica Hagen/MobiHealthNews)",
+   "summary": "Jessica Hagen / MobiHealthNews : Charta Health, which offers AI-powered tools to automate medical chart review, billing, and coding workflows, raised a $55M Series B led by Insight Partners — The rou…",
+   "category": "Business",
+   "score": 51.3,
+   "published_at": "2026-11-14T06:35:00+00:00",
+   "sources": [
+    {
+     "name": "Techmeme",
+     "url": "https://www.techmeme.com/261114/p4#a261114p4"
+    }
+   ],
+   "primary_url": "https://www.techmeme.com/261114/p4#a261114p4"
+  },
+  {
+   "id": "b9a58f2b9d1e",
+   "title": "Luminal, which provides an inference cloud and develops inference compiler software to test running AI models on different chips, raised a $25M Series A (Chris Metinko/Axios)",
+   "summary": "Chris Metinko / Axios : Luminal, which provides an inference cloud and develops inference compiler software to test running AI models on different chips, raised a $25M Series A — Luminal, a search co…",
+   "category": "Business",
+   "score": 51.3,
+   "published_at": "2026-11-14T06:30:09+00:00",
+   "sources": [
+    {
+     "name": "Techmeme",
+     "url": "https://www.techmeme.com/261114/p3#a261114p3"
+    }
+   ],
+   "primary_url": "https://www.techmeme.com/261114/p3#a261114p3"
+  },
+  {
+   "id": "55ffe1fba5ed",
+   "title": "NousResearch/Arete-27B",
+   "summary": "",
+   "category": "Open Source",
+   "score": 51.1,
+   "published_at": "2026-11-14T17:54:06.675721+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face Trending",
+     "url": "https://huggingface.co/NousResearch/Arete-27B"
+    }
+   ],
+   "primary_url": "https://huggingface.co/NousResearch/Arete-27B"
+  },
+  {
+   "id": "46e307363c08",
+   "title": "speridlabs/idol",
+   "summary": "",
+   "category": "Open Source",
+   "score": 51.0,
+   "published_at": "2026-11-14T17:54:06.675721+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face Trending",
+     "url": "https://huggingface.co/speridlabs/idol"
+    }
+   ],
+   "primary_url": "https://huggingface.co/speridlabs/idol"
+  },
+  {
+   "id": "14e5a7f70a2a",
+   "title": "Comfy-Org/MiniMax-H3-Image",
+   "summary": "",
+   "category": "Open Source",
+   "score": 50.9,
+   "published_at": "2026-11-14T17:54:06.675721+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face Trending",
+     "url": "https://huggingface.co/Comfy-Org/MiniMax-H3-Image"
+    }
+   ],
+   "primary_url": "https://huggingface.co/Comfy-Org/MiniMax-H3-Image"
+  },
+  {
+   "id": "7838c87736f9",
+   "title": "moonshotai/Kimi-K3.1-Pro",
+   "summary": "",
+   "category": "Open Source",
+   "score": 50.8,
+   "published_at": "2026-11-14T17:54:06.675721+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face Trending",
+     "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro"
+    }
+   ],
+   "primary_url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro"
+  },
+  {
+   "id": "2250172890a0",
+   "title": "Zyphra/ZONOS3-Mini",
+   "summary": "",
+   "category": "Open Source",
+   "score": 50.5,
+   "published_at": "2026-11-14T17:54:06.675721+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face Trending",
+     "url": "https://huggingface.co/Zyphra/ZONOS3-Mini"
+    }
+   ],
+   "primary_url": "https://huggingface.co/Zyphra/ZONOS3-Mini"
+  },
+  {
+   "id": "2c9708b63937",
+   "title": "Analysis: Sam Bankman-Fried's $500M Anthropic investment in 2021 would be worth ~$37B if Anthropic lists at ~$1.5T; he relinquished his stake in 2024 for ~$1.3B (George Hammond/Financial Times)",
+   "summary": "George Hammond / Financial Times : Analysis: Sam Bankman-Fried's $500M Anthropic investment in 2021 would be worth ~$37B if Anthropic lists at ~$1.5T; he relinquished his stake in 2024 for ~$1.3B — J…",
+   "category": "Business",
+   "score": 50.4,
+   "published_at": "2026-11-14T04:25:01+00:00",
+   "sources": [
+    {
+     "name": "Techmeme",
+     "url": "https://www.techmeme.com/261113/p42#a261113p42"
+    }
+   ],
+   "primary_url": "https://www.techmeme.com/261113/p42#a261113p42"
+  },
+  {
+   "id": "6ae972136210",
+   "title": "thinkingmachines/Inkling-2-Small",
+   "summary": "",
+   "category": "Open Source",
+   "score": 50.4,
+   "published_at": "2026-11-14T17:54:06.675721+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face Trending",
+     "url": "https://huggingface.co/thinkingmachines/Inkling-2-Small"
+    }
+   ],
+   "primary_url": "https://huggingface.co/thinkingmachines/Inkling-2-Small"
+  },
+  {
+   "id": "b3c84623c44d",
+   "title": "Brave Search API now accepts agentic payments via the x402 protocol",
+   "summary": "",
+   "category": "Agents & Dev Tools",
+   "score": 50.1,
+   "published_at": "2026-11-13T03:08:08+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://brave.com/blog/search-api-agentic-payments/"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50477649"
+    }
+   ],
+   "primary_url": "https://brave.com/blog/search-api-agentic-payments/"
+  },
+  {
+   "id": "368feff4c462",
+   "title": "black-forest-labs/flux-3-image-klein-comfy",
+   "summary": "",
+   "category": "Open Source",
+   "score": 50.0,
+   "published_at": "2026-11-14T17:54:06.675721+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face Trending",
+     "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy"
+    }
+   ],
+   "primary_url": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy"
+  },
+  {
+   "id": "233409616a1b",
+   "title": "tencent/Qwen3.8-27B-DSpine-b16",
+   "summary": "",
+   "category": "Models",
+   "score": 49.7,
+   "published_at": "2026-11-14T17:54:06.675721+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face Trending",
+     "url": "https://huggingface.co/tencent/Qwen3.8-27B-DSpine-b16"
+    }
+   ],
+   "primary_url": "https://huggingface.co/tencent/Qwen3.8-27B-DSpine-b16"
+  },
+  {
+   "id": "68431e57dcdc",
+   "title": "Edge0/Edge0-145B-NVFP4",
+   "summary": "",
+   "category": "Open Source",
+   "score": 49.6,
+   "published_at": "2026-11-14T17:54:06.675721+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face Trending",
+     "url": "https://huggingface.co/Edge0/Edge0-145B-NVFP4"
+    }
+   ],
+   "primary_url": "https://huggingface.co/Edge0/Edge0-145B-NVFP4"
+  },
+  {
+   "id": "669158398996",
+   "title": "facebook/sam3",
+   "summary": "",
+   "category": "Open Source",
+   "score": 49.6,
+   "published_at": "2026-11-14T17:54:06.675721+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face Trending",
+     "url": "https://huggingface.co/facebook/sam3"
+    }
+   ],
+   "primary_url": "https://huggingface.co/facebook/sam3"
+  },
+  {
+   "id": "fcbb13559872",
+   "title": "Cactus-Compute/mirage",
+   "summary": "",
+   "category": "Open Source",
+   "score": 49.5,
+   "published_at": "2026-11-14T17:54:06.675721+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face Trending",
+     "url": "https://huggingface.co/Cactus-Compute/mirage"
+    }
+   ],
+   "primary_url": "https://huggingface.co/Cactus-Compute/mirage"
+  },
+  {
+   "id": "814b7d5ac505",
+   "title": "Viggle/Viggle-Remake",
+   "summary": "",
+   "category": "Open Source",
+   "score": 49.5,
+   "published_at": "2026-11-14T17:54:06.675721+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face Trending",
+     "url": "https://huggingface.co/Viggle/Viggle-Remake"
+    }
+   ],
+   "primary_url": "https://huggingface.co/Viggle/Viggle-Remake"
+  },
+  {
+   "id": "f980cc1f1e21",
+   "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+   "summary": "",
+   "category": "Other",
+   "score": 49.2,
+   "published_at": "2026-11-12T23:06:17+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50475713"
+    }
+   ],
+   "primary_url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer"
+  },
+  {
+   "id": "d096a8a420fb",
+   "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
+   "summary": "",
+   "category": "Business",
+   "score": 48.9,
+   "published_at": "2026-11-12T21:56:11+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://unemploymentlabs.com/checkpoint-forensics"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50474883"
+    }
+   ],
+   "primary_url": "https://unemploymentlabs.com/checkpoint-forensics"
+  },
+  {
+   "id": "8fdb0296ea11",
+   "title": "Gemini 4 Hydrogen",
+   "summary": "",
+   "category": "Models",
+   "score": 48.6,
+   "published_at": "2026-11-12T18:01:48+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50471431"
+    }
+   ],
+   "primary_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/"
+  },
+  {
+   "id": "d40fca9fd5e1",
+   "title": "Gemini 4 Hydrogen and Orchestrator",
+   "summary": "",
+   "category": "Models",
+   "score": 48.5,
+   "published_at": "2026-11-12T18:52:01+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50472260"
+    }
+   ],
+   "primary_url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/"
+  },
+  {
+   "id": "7afe22db314e",
+   "title": "SO-Arena: Benchmarking the Capability Spectrum and Reliability of System One Models",
+   "summary": "System One models promise fast, general-purpose decision-making without lengthy token generation. However, understanding their capability spectrum and decision reliability requires more than aggregat…",
+   "category": "Research",
+   "score": 48.0,
+   "published_at": "2026-11-14T17:54:06.675721+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face Papers",
+     "url": "https://huggingface.co/papers/2611.15777"
+    }
+   ],
+   "primary_url": "https://huggingface.co/papers/2611.15777"
+  },
+  {
+   "id": "5ad23f0e2e10",
+   "title": "QwenLM/qwen-code: An open-source AI coding agent that lives in your terminal.",
+   "summary": "An open-source AI coding agent that lives in your terminal.",
+   "category": "Agents & Dev Tools",
+   "score": 48.0,
+   "published_at": "2026-11-14T17:54:06.675721+00:00",
+   "sources": [
+    {
+     "name": "GitHub Trending",
+     "url": "https://github.com/QwenLM/qwen-code"
+    }
+   ],
+   "primary_url": "https://github.com/QwenLM/qwen-code"
+  },
+  {
+   "id": "6a36938791d1",
+   "title": "Tencent/LoopForge: Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.",
+   "summary": "Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.",
+   "category": "Agents & Dev Tools",
+   "score": 47.6,
+   "published_at": "2026-11-14T17:54:06.675721+00:00",
+   "sources": [
+    {
+     "name": "GitHub Trending",
+     "url": "https://github.com/Tencent/LoopForge"
+    }
+   ],
+   "primary_url": "https://github.com/Tencent/LoopForge"
+  },
+  {
+   "id": "10ab37804642",
+   "title": "AI is turning Apple's app review process into a nightmare for synth developers",
+   "summary": "",
+   "category": "Products",
+   "score": 46.8,
+   "published_at": "2026-11-12T21:09:49+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50474311"
+    }
+   ],
+   "primary_url": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html"
+  },
+  {
+   "id": "26a6fb343a8e",
+   "title": "Why You Should Expect an AI Crash",
+   "summary": "",
+   "category": "Other",
+   "score": 45.7,
+   "published_at": "2026-11-12T23:08:31+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://www.economist.com/leaders/2026/11/12/why-you-should-expect-an-ai-crash"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50475735"
+    }
+   ],
+   "primary_url": "https://www.economist.com/leaders/2026/11/12/why-you-should-expect-an-ai-crash"
+  },
+  {
+   "id": "059822022bf8",
+   "title": "BirdDreams: Joint Perspective and BEV Video Generation for a Plausible, Reactive Driving World Model",
+   "summary": "Driving world models aim to simulate how a scene unfolds under different ego actions. This requires plausible motion of surrounding vehicles as well as precise ego-trajectory control. Learning vehicl…",
+   "category": "Research",
+   "score": 44.3,
+   "published_at": "2026-11-14T17:54:06.675721+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face Papers",
+     "url": "https://huggingface.co/papers/2611.14815"
+    }
+   ],
+   "primary_url": "https://huggingface.co/papers/2611.14815"
+  },
+  {
+   "id": "9d279f8afefe",
+   "title": "PhysLoop: Harnessing LLMs' Physics Awareness for Self-Improving Video Generation Models",
+   "summary": "Video generation models produce visually realistic videos but still struggle with physical dynamics and causal consistency. Learning from generated videos requires fine-grained physical supervision, …",
+   "category": "Research",
+   "score": 43.9,
+   "published_at": "2026-11-14T17:54:06.675721+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face Papers",
+     "url": "https://huggingface.co/papers/2611.16748"
+    }
+   ],
+   "primary_url": "https://huggingface.co/papers/2611.16748"
+  },
+  {
+   "id": "b08cefd9996d",
+   "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+   "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+   "category": "Products",
+   "score": 43.8,
+   "published_at": "2026-11-14T17:30:00+00:00",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/"
+    }
+   ],
+   "primary_url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/"
+  },
+  {
+   "id": "aac4e777518b",
+   "title": "G-STAR: Group-Scaled Token Capacity for Deeply Compressed Autoregressive Generation",
+   "summary": "Discrete autoregressive models offer a scalable framework for image generation. However, they face a fundamental trade-off: long token sequences preserve representation quality but slow generation, w…",
+   "category": "Research",
+   "score": 43.8,
+   "published_at": "2026-11-14T17:54:06.675721+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face Papers",
+     "url": "https://huggingface.co/papers/2611.13004"
+    }
+   ],
+   "primary_url": "https://huggingface.co/papers/2611.13004"
+  },
+  {
+   "id": "d82d2c1dae8d",
+   "title": "Gemini 4 Carbon takes the MathArena crown but costs 15 times more than GPT-6.1 Sol",
+   "summary": "For the first time in a while, no OpenAI model leads the MathArena AI math benchmark. Google's Gemini 4 Carbon and Anthropic's Fable 5.2 have knocked GPT-6.1 Sol from the top, though both cost signif…",
+   "category": "Models",
+   "score": 43.5,
+   "published_at": "2026-11-14T16:48:01+00:00",
+   "sources": [
+    {
+     "name": "The Decoder",
+     "url": "https://the-decoder.com/gemini-4-carbon-takes-the-matharena-crown-but-costs-15-times-more-than-gpt-6-1-sol/"
+    }
+   ],
+   "primary_url": "https://the-decoder.com/gemini-4-carbon-takes-the-matharena-crown-but-costs-15-times-more-than-gpt-6-1-sol/"
+  },
+  {
+   "id": "a5dca2d386f6",
+   "title": "Anthropic says outdated prompting habits are slowing down Claude Opus 5.5",
+   "summary": "Anthropic has made Claude Opus 5.5 the default model on all paid plans and published a guide that does away with old prompting habits. The main takeaway is to drop \"think hard\" and start at Medium ef…",
+   "category": "Models",
+   "score": 43.5,
+   "published_at": "2026-11-14T16:42:56+00:00",
+   "sources": [
+    {
+     "name": "The Decoder",
+     "url": "https://the-decoder.com/anthropic-says-outdated-prompting-habits-are-slowing-down-claude-opus-5-5/"
+    }
+   ],
+   "primary_url": "https://the-decoder.com/anthropic-says-outdated-prompting-habits-are-slowing-down-claude-opus-5-5/"
+  },
+  {
+   "id": "2a2bfff1121f",
+   "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
+   "summary": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations.",
+   "category": "Business",
+   "score": 43.4,
+   "published_at": "2026-11-14T16:34:15+00:00",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/"
+    }
+   ],
+   "primary_url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/"
+  },
+  {
+   "id": "2741c921d019",
+   "title": "Duo: A Reciprocal World Model for Full-Duplex Interaction",
+   "summary": "In this report, we introduce the Reciprocal World Model (RWM) and present Duo v1, a full-duplex world model that continuously perceives audiovisual inputs while responding to users in real time. The …",
+   "category": "Research",
+   "score": 43.4,
+   "published_at": "2026-11-14T17:54:06.675721+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face Papers",
+     "url": "https://huggingface.co/papers/2611.15131"
+    }
+   ],
+   "primary_url": "https://huggingface.co/papers/2611.15131"
+  },
+  {
+   "id": "0c816ad6b558",
+   "title": "AI趨勢周報第294期：AI Agent不只要會看圖，Google新Benchmark直接考專業工作實戰",
+   "summary": "新聞 重點新聞（1106～1112） AI Agent AI評測 Google DeepMind AI Agent不只要會看圖，Google新Benchmark直接考專業工作實戰 Google DeepMind與Artificial Analysis聯手推出Multimodal Knowledge Agent（MKA）Benchmark基準測試，要評估AI代理能不能處理真正的「視覺型知識工作」。…",
+   "category": "Agents & Dev Tools",
+   "score": 43.0,
+   "published_at": "2026-11-14T15:29:39+00:00",
+   "sources": [
+    {
+     "name": "iThome",
+     "url": "https://www.ithome.com.tw/news/180507"
+    }
+   ],
+   "primary_url": "https://www.ithome.com.tw/news/180507"
+  },
+  {
+   "id": "19d340976929",
+   "title": "The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs",
+   "summary": "Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part two of our series on AI in real life. Hel…",
+   "category": "Policy & Safety",
+   "score": 42.8,
+   "published_at": "2026-11-14T15:00:00+00:00",
+   "sources": [
+    {
+     "name": "The Verge",
+     "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview"
+    }
+   ],
+   "primary_url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview"
+  },
+  {
+   "id": "abae26331e95",
+   "title": "Open Vision Banana: A Fully Open Recipe for Generative Visual Perception",
+   "summary": "Recent work suggests that pretrained image generators encode real-world understanding beyond image synthesis. Vision Banana exploits this by framing vision tasks as conditional image editing. However…",
+   "category": "Research",
+   "score": 42.6,
+   "published_at": "2026-11-14T17:54:06.675721+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face Papers",
+     "url": "https://huggingface.co/papers/2611.15844"
+    }
+   ],
+   "primary_url": "https://huggingface.co/papers/2611.15844"
+  },
+  {
+   "id": "731431771b9c",
+   "title": "Actor, Judge, or Teacher? Understanding Decision Models in Long-Horizon Agents",
+   "summary": "Decision models answer a question with a typed output, such as a choice among options with a probability for each, so one model can choose an agent's actions, evaluate actions already taken, or score…",
+   "category": "Research",
+   "score": 42.6,
+   "published_at": "2026-11-14T17:54:06.675721+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face Papers",
+     "url": "https://huggingface.co/papers/2611.17167"
+    }
+   ],
+   "primary_url": "https://huggingface.co/papers/2611.17167"
+  },
+  {
+   "id": "563f8cc9ef90",
+   "title": "On the Design of Hyper-Connections: Simplification, Stability, and Scalability",
+   "summary": "Hyper-Connections (HC) architectures are increasingly adopted in frontier language models, yet their components remain insufficiently understood and introduce non-negligible training overhead. In thi…",
+   "category": "Research",
+   "score": 41.9,
+   "published_at": "2026-11-14T17:54:06.675721+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face Papers",
+     "url": "https://huggingface.co/papers/2611.05984"
+    }
+   ],
+   "primary_url": "https://huggingface.co/papers/2611.05984"
+  },
+  {
+   "id": "d7b46d3d8c2d",
+   "title": "Ropedia Xperience 2: A Gold Standard for Scaling Physical AI Environments and Behaviors",
+   "summary": "Large foundation models such as GPT-6 Astra and Claude Fable 5.1 have recently been shown to control robots directly from visual observations. They nevertheless remain brittle on long-horizon, contac…",
+   "category": "Research",
+   "score": 41.7,
+   "published_at": "2026-11-14T17:54:06.675721+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face Papers",
+     "url": "https://huggingface.co/papers/2611.17060"
+    }
+   ],
+   "primary_url": "https://huggingface.co/papers/2611.17060"
+  },
+  {
+   "id": "c46863c30810",
+   "title": "Jensen Huang and the decline of the visionary showman founder CEO",
+   "summary": "On January 6th, 2025, Nvidia CEO Jensen Huang got his rockstar moment at last. He strode triumphantly onstage, hand raised in the air, to the claps and cheers of a 14,000-person arena absolutely pack…",
+   "category": "Business",
+   "score": 41.5,
+   "published_at": "2026-11-14T12:00:00+00:00",
+   "sources": [
+    {
+     "name": "The Verge",
+     "url": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo"
+    }
+   ],
+   "primary_url": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo"
+  },
+  {
+   "id": "3fecc6a9d4a0",
+   "title": "OpenAI reassigns robotics researchers to other teams as general-purpose models might make specialized robotics AI unnecessary",
+   "summary": "OpenAI is dissolving its standalone robotics team for the second time, but not because it lacks data. General-purpose models like GPT-6 Astra can apparently control robots directly, making a dedicate…",
+   "category": "Research",
+   "score": 41.4,
+   "published_at": "2026-11-14T11:40:51+00:00",
+   "sources": [
+    {
+     "name": "The Decoder",
+     "url": "https://the-decoder.com/openai-reassigns-robotics-researchers-to-other-teams-as-general-purpose-models-might-make-specialized-robotics-ai-unnecessary/"
+    }
+   ],
+   "primary_url": "https://the-decoder.com/openai-reassigns-robotics-researchers-to-other-teams-as-general-purpose-models-might-make-specialized-robotics-ai-unnecessary/"
+  },
+  {
+   "id": "938a8fdebfb4",
+   "title": "Anthropic can already retrain Mythos with \"a fraction of the compute originally needed,\" says former researcher Coxon",
+   "summary": "Former OpenAI and Anthropic researcher Jacob Coxon points to a slide from Anthropic's IPO roadshow as a reason he left, saying it shows the company's algorithms are improving not just quickly but at …",
+   "category": "Business",
+   "score": 41.3,
+   "published_at": "2026-11-14T11:21:41+00:00",
+   "sources": [
+    {
+     "name": "The Decoder",
+     "url": "https://the-decoder.com/anthropic-can-already-retrain-mythos-with-a-fraction-of-the-compute-originally-needed-says-former-researcher-coxon/"
+    }
+   ],
+   "primary_url": "https://the-decoder.com/anthropic-can-already-retrain-mythos-with-a-fraction-of-the-compute-originally-needed-says-former-researcher-coxon/"
+  },
+  {
+   "id": "04469787bcf4",
+   "title": "TTB: Test-time Baking for Efficient Rendering of Decoder-only View Synthesis Models",
+   "summary": "Decoder-only Large View Synthesis Models (LVSMs) with KV-cache have recently achieved state-of-the-art quality by regressing novel views from neural networks without reconstructing 3D geometry, while…",
+   "category": "Research",
+   "score": 41.1,
+   "published_at": "2026-11-14T17:54:06.675721+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face Papers",
+     "url": "https://huggingface.co/papers/2611.17331"
+    }
+   ],
+   "primary_url": "https://huggingface.co/papers/2611.17331"
+  },
+  {
+   "id": "0bcca453470d",
+   "title": "英伟达上演“奥特曼2.0”，员工集体请愿：让老黄回家！",
+   "summary": "马斯克也签名了",
+   "category": "Other",
+   "score": 40.8,
+   "published_at": "2026-11-14T10:08:08+00:00",
+   "sources": [
+    {
+     "name": "量子位",
+     "url": "https://www.qbitai.com/2026/11/510297.html"
+    }
+   ],
+   "primary_url": "https://www.qbitai.com/2026/11/510297.html"
+  },
+  {
+   "id": "0563f648c822",
+   "title": "「史上最严」湿实验预测基准发布！推理拉满、算力翻5倍也白搭",
+   "summary": "斯坦福、哈佛、康奈尔……十余家顶尖团队齐坐一桌了",
+   "category": "Business",
+   "score": 40.7,
+   "published_at": "2026-11-14T09:58:22+00:00",
+   "sources": [
+    {
+     "name": "量子位",
+     "url": "https://www.qbitai.com/2026/11/510232.html"
+    }
+   ],
+   "primary_url": "https://www.qbitai.com/2026/11/510232.html"
+  },
+  {
+   "id": "7bfee235c168",
+   "title": "Runway's open-source Praxis-1 turns video AI into a robot controller",
+   "summary": "Runway releases its robotics model Praxis-1 with open weights and source code under the Apache 2.0 license. The model uses knowledge from video training for robot control and leads the World Action M…",
+   "category": "Open Source",
+   "score": 40.6,
+   "published_at": "2026-11-14T09:45:45+00:00",
+   "sources": [
+    {
+     "name": "The Decoder",
+     "url": "https://the-decoder.com/runways-open-source-praxis-1-turns-video-ai-into-a-robot-controller/"
+    }
+   ],
+   "primary_url": "https://the-decoder.com/runways-open-source-praxis-1-turns-video-ai-into-a-robot-controller/"
+  },
+  {
+   "id": "94b4d3764c12",
+   "title": "程序员集体沉迷折纸飞机！最长滞空31.2秒",
+   "summary": "童年的纸飞机，现在终于飞回我手里～",
+   "category": "Other",
+   "score": 40.6,
+   "published_at": "2026-11-14T09:48:34+00:00",
+   "sources": [
+    {
+     "name": "量子位",
+     "url": "https://www.qbitai.com/2026/11/510150.html"
+    }
+   ],
+   "primary_url": "https://www.qbitai.com/2026/11/510150.html"
+  },
+  {
+   "id": "ef364eb212fb",
+   "title": "绿电进Token出！联想重新定义词元工厂",
+   "summary": "年产2000万亿Token，成本狂降70%",
+   "category": "Other",
+   "score": 40.6,
+   "published_at": "2026-11-14T09:41:02+00:00",
+   "sources": [
+    {
+     "name": "量子位",
+     "url": "https://www.qbitai.com/2026/11/510094.html"
+    }
+   ],
+   "primary_url": "https://www.qbitai.com/2026/11/510094.html"
+  },
+  {
+   "id": "5bf4951adbe9",
+   "title": "Introducing ChatGPT Wallet",
+   "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
+   "category": "Agents & Dev Tools",
+   "score": 38.8,
+   "published_at": "2026-11-13T15:00:00+00:00",
+   "sources": [
+    {
+     "name": "OpenAI",
+     "url": "https://openai.com/index/introducing-chatgpt-wallet"
+    }
+   ],
+   "primary_url": "https://openai.com/index/introducing-chatgpt-wallet"
+  },
+  {
+   "id": "cc817b288322",
+   "title": "OpenAI 推出 Daybreak Defense Factory 與 Red Team 自動找漏洞、補漏洞並模擬攻擊",
+   "summary": "OpenAI 在 11 月 12 日的 Cyber at the Frontier 活動推出 Daybreak Defense Factory 與 Daybreak Red Team。前者由 AI 代理找出漏洞並備妥修補，後者以 OpenAI 模型自動測試網頁應用程式，目前為早期試用。",
+   "category": "Policy & Safety",
+   "score": 37.9,
+   "published_at": "2026-11-14T03:13:00+00:00",
+   "sources": [
+    {
+     "name": "INSIDE",
+     "url": "https://www.inside.com.tw/article/42910-openai-daybreak-defense-factory-red-team-automated-patching-cyber-at-the-frontier"
+    }
+   ],
+   "primary_url": "https://www.inside.com.tw/article/42910-openai-daybreak-defense-factory-red-team-automated-patching-cyber-at-the-frontier"
+  },
+  {
+   "id": "943bbe3227f0",
+   "title": "中专生拍出《哈利·波特》爆款！欧美明星、好莱坞制片人集体点赞",
+   "summary": "狂揽3000万播放量",
+   "category": "Other",
+   "score": 37.8,
+   "published_at": "2026-11-14T02:59:35+00:00",
+   "sources": [
+    {
+     "name": "量子位",
+     "url": "https://www.qbitai.com/2026/11/510013.html"
+    }
+   ],
+   "primary_url": "https://www.qbitai.com/2026/11/510013.html"
+  },
+  {
+   "id": "90edbcec53d5",
+   "title": "突发！DeepSeek开放全家桶API",
+   "summary": "官方App功能均可自由组合调用",
+   "category": "Products",
+   "score": 37.7,
+   "published_at": "2026-11-14T02:39:56+00:00",
+   "sources": [
+    {
+     "name": "量子位",
+     "url": "https://www.qbitai.com/2026/11/510003.html"
+    }
+   ],
+   "primary_url": "https://www.qbitai.com/2026/11/510003.html"
+  },
+  {
+   "id": "c0dbc63313b7",
+   "title": "模型更新，指令也要更新！Claude Code 可用 /doctor prompt-audit 檢查 CLAUDE.md 與 skills 裡過時的舊提示詞",
+   "summary": "Claude Code 的 /doctor prompt-audit 指令會檢查 CLAUDE.md、skills、agents 與 commands，找出為舊模型寫的提示寫法、失效路徑與互相矛盾的規則，並先產出報告，使用者確認後才會修改。",
+   "category": "Agents & Dev Tools",
+   "score": 37.6,
+   "published_at": "2026-11-14T02:27:00+00:00",
+   "sources": [
+    {
+     "name": "INSIDE",
+     "url": "https://www.inside.com.tw/article/42908-claude-code-doctor-prompt-audit-checks-claude-md-skills-agents-outdated-instructions"
+    }
+   ],
+   "primary_url": "https://www.inside.com.tw/article/42908-claude-code-doctor-prompt-audit-checks-claude-md-skills-agents-outdated-instructions"
+  },
+  {
+   "id": "fb423011ee46",
+   "title": "Should short-horizon price forecasting papers benchmark against market-implied forecasts, not just naive baselines? [D]",
+   "summary": "been reading a bunch of papers on short term crypto and commodity price forecasting (transformers, LSTMs, the usual). almost all of them compare against ARIMA, a random walk, maybe a simple LSTM, and…",
+   "category": "Models",
+   "score": 37.4,
+   "published_at": "2026-11-14T16:23:34+00:00",
+   "sources": [
+    {
+     "name": "r/MachineLearning",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1xw6fk9/should_shorthorizon_price_forecasting_papers/"
+    }
+   ],
+   "primary_url": "https://www.reddit.com/r/MachineLearning/comments/1xw6fk9/should_shorthorizon_price_forecasting_papers/"
+  },
+  {
+   "id": "74288d6c5bd8",
+   "title": "Ethical Alternatives to Kaggle [D]",
+   "summary": "I personally find it unconscionable to mandate biometric verification - with a controversial vendor on the top of that - to access a competition. Not to cash a prize, just to submit a solution. What …",
+   "category": "Other",
+   "score": 37.4,
+   "published_at": "2026-11-14T16:20:55+00:00",
+   "sources": [
+    {
+     "name": "r/MachineLearning",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1xw6d7n/ethical_alternatives_to_kaggle_d/"
+    }
+   ],
+   "primary_url": "https://www.reddit.com/r/MachineLearning/comments/1xw6d7n/ethical_alternatives_to_kaggle_d/"
+  },
+  {
+   "id": "386e99bc7589",
+   "title": "ICLR 2027 Rebuttal [D]",
+   "summary": "For anyone who’s updating their manuscript during rebuttals - the guidelines seems to suggest a pdf diff will be applied automatically to the updated pdf. Can anyone see this? I can’t seem to see any…",
+   "category": "Products",
+   "score": 37.2,
+   "published_at": "2026-11-14T16:00:01+00:00",
+   "sources": [
+    {
+     "name": "r/MachineLearning",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1xw5uwe/iclr_2027_rebuttal_d/"
+    }
+   ],
+   "primary_url": "https://www.reddit.com/r/MachineLearning/comments/1xw5uwe/iclr_2027_rebuttal_d/"
+  },
+  {
+   "id": "c7a109442d56",
+   "title": "马斯克再度力挺黄仁勋：没有他，英伟达将失去部分关键合作",
+   "summary": "IT之家 11 月 14 日消息，今天（14 日）晚间，马斯克在 X 平台发文称，随着黄仁勋离任 CEO，英伟达将 失去一些至关重要的商业合作 。 马斯克称赞黄仁勋在供应链管理方面表现出色，指出英伟达许多交易都是靠黄仁勋 与合作方握手达成的 ， 并没有签署书面合同 。 紧接着，马斯克又补充说：“如果黄仁勋答应向我交付算力，或者我要求加快零部件供应， 他每次都能说到做到 。当然，我们之后还是会补上…",
+   "category": "Business",
+   "score": 37.0,
+   "published_at": "2026-11-14T15:28:14+00:00",
+   "sources": [
+    {
+     "name": "IT之家",
+     "url": "https://www.ithome.com/1/027/247.htm"
+    }
+   ],
+   "primary_url": "https://www.ithome.com/1/027/247.htm"
+  },
+  {
+   "id": "c3c6e5dcbe82",
+   "title": "OpenAI 傳向國會表態支持 3 項對中管制法案，限制中國取得 AI 晶片與製造設備",
+   "summary": "OpenAI 傳出本週已向國會議員確認，支持限制中國取得 AI 晶片與晶片製造設備的跨黨派法案，據報導包括 Chip Security Act、MATCH Act 與 AI OVERWATCH Act。",
+   "category": "Policy & Safety",
+   "score": 37.0,
+   "published_at": "2026-11-14T01:08:00+00:00",
+   "sources": [
+    {
+     "name": "INSIDE",
+     "url": "https://www.inside.com.tw/article/42906-openai-backs-china-chip-export-control-bills"
+    }
+   ],
+   "primary_url": "https://www.inside.com.tw/article/42906-openai-backs-china-chip-export-control-bills"
+  },
+  {
+   "id": "bd63db1eed16",
+   "title": "Graph Attention Networks for Detecting Epilepsy From EEG Signals Using Accessible Hardware in Low-Resource Settings [R]",
+   "summary": "is there any chance those models are going to be deployed for real? submitted by /u/rottoneuro [link] [comments]",
+   "category": "Other",
+   "score": 36.6,
+   "published_at": "2026-11-14T14:31:29+00:00",
+   "sources": [
+    {
+     "name": "r/MachineLearning",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1xw3si8/graph_attention_networks_for_detecting_epilepsy/"
+    }
+   ],
+   "primary_url": "https://www.reddit.com/r/MachineLearning/comments/1xw3si8/graph_attention_networks_for_detecting_epilepsy/"
+  },
+  {
+   "id": "135cf13301dc",
+   "title": "Is it compulsory to upload neurips poster by 15th Nov? [D]",
+   "summary": "I received this mail which said \"Please upload your poster and thumbnail by clicking on the poster upload page link on the paper metadata page.\" The mail contains 15th November as a date, do we reall…",
+   "category": "Research",
+   "score": 36.6,
+   "published_at": "2026-11-14T14:28:42+00:00",
+   "sources": [
+    {
+     "name": "r/MachineLearning",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1xw3q5f/is_it_compulsory_to_upload_neurips_poster_by_15th/"
+    }
+   ],
+   "primary_url": "https://www.reddit.com/r/MachineLearning/comments/1xw3q5f/is_it_compulsory_to_upload_neurips_poster_by_15th/"
+  },
+  {
+   "id": "43a8bca0b077",
+   "title": "Amazon has a plan to index the world’s online shopping data",
+   "summary": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reut…",
+   "category": "Other",
+   "score": 36.5,
+   "published_at": "2026-11-13T23:49:11+00:00",
+   "sources": [
+    {
+     "name": "The Verge",
+     "url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search"
+    }
+   ],
+   "primary_url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search"
+  },
+  {
+   "id": "255260062f70",
+   "title": "智能体帮你联络商家或保险公司，Meta 旗下 Muse 上线代打电话功能",
+   "summary": "IT之家 11 月 14 日消息，Meta 旗下 AI 智能体 Muse 推出代打电话功能，开通高级付费订阅后，用户就能让 Muse 代自己联系美国商家。Meta 称，Muse 可以帮助用户处理各种烦琐事务，完成待办事项。 13 日凌晨，Meta 首席 AI 官汪滔在 X 上发文宣布：“Muse 能帮你打完所有不想亲自打的电话。” 据悉，用户可以借助 Muse 联 系保险公司或有线电视服务商、预…",
+   "category": "Agents & Dev Tools",
+   "score": 36.3,
+   "published_at": "2026-11-14T13:46:56+00:00",
+   "sources": [
+    {
+     "name": "IT之家",
+     "url": "https://www.ithome.com/1/027/238.htm"
+    }
+   ],
+   "primary_url": "https://www.ithome.com/1/027/238.htm"
+  },
+  {
+   "id": "ad639fbc6552",
+   "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+   "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
+   "category": "Business",
+   "score": 36.0,
+   "published_at": "2026-11-13T22:43:00+00:00",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/"
+    }
+   ],
+   "primary_url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/"
+  },
+  {
+   "id": "48bd9fc0fa77",
+   "title": "白宫“超级智能工作组”呼吁放宽问责政策，鼓励 AI 企业报告网络安全事件",
+   "summary": "IT之家 11 月 14 日消息，据彭博社报道，当地时间 13 日，美国政府新设的“超级智能工作组”在白宫开会， 建议联邦机构放宽网络安全事件的问责政策，鼓励 AI 企业主动报告重大安全事件 。 一名不愿具名的政府官员透露，工作组认为，过去处理网络安全事件时采用的监管处罚标准可能不再适用，甚至会 让企业不敢分享重要的安全信息 。 工作组因此敦促各机构，未来 12 个月内应限制企业因安全事件承担的…",
+   "category": "Policy & Safety",
+   "score": 36.0,
+   "published_at": "2026-11-14T13:03:22+00:00",
+   "sources": [
+    {
+     "name": "IT之家",
+     "url": "https://www.ithome.com/1/027/229.htm"
+    }
+   ],
+   "primary_url": "https://www.ithome.com/1/027/229.htm"
+  },
+  {
+   "id": "d1318183fe17",
+   "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+   "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
+   "category": "Agents & Dev Tools",
+   "score": 35.9,
+   "published_at": "2026-11-13T08:00:00+00:00",
+   "sources": [
+    {
+     "name": "OpenAI",
+     "url": "https://openai.com/business/customer-stories/shield"
+    }
+   ],
+   "primary_url": "https://openai.com/business/customer-stories/shield"
+  },
+  {
+   "id": "91ec84025cb4",
+   "title": "英伟达副总裁卡坦扎罗否认签署要求前 CEO 黄仁勋复职的公开信，表态支持董事会和临时 CEO 克雷斯",
+   "summary": "IT之家 11 月 14 日消息，英伟达应用深度学习研究副总裁布莱恩 · 卡坦扎罗（Bryan Catanzaro）在社交平台 X 上公开发文辟谣，否认自己参与签署网传要求前 CEO 黄仁勋复职的公开信，称该信件系伪造，并明确表态支持英伟达董事会及临时 CEO 科莱特 · 克雷斯（Colette Kress）。 布莱恩 · 卡坦扎罗声称，即便（公开信）是真的，他也不会签字。 IT之家注意到，黄仁…",
+   "category": "Business",
+   "score": 35.9,
+   "published_at": "2026-11-14T12:45:55+00:00",
+   "sources": [
+    {
+     "name": "IT之家",
+     "url": "https://www.ithome.com/1/027/228.htm"
+    }
+   ],
+   "primary_url": "https://www.ithome.com/1/027/228.htm"
+  },
+  {
+   "id": "c73788906a62",
+   "title": "Facebook 擅自读取意大利用户相册，Meta 被处以 8.05 亿欧元重罚",
+   "summary": "IT之家 11 月 14 日消息，因在 未经意大利用户单独授权、也未充分告知用户 的情况下，通过 Android 版 Facebook 应用读取手机中保存的照片、视频及附带的元数据，意大利数据保护局今天（14 日）对 Meta 开出 8.05 亿欧元 （IT之家注：现汇率约合 59.36 亿元人民币） 罚单。 意大利数据保护局声明指出，此次处罚针对的是 Facebook 于 2023 年开始提供…",
+   "category": "Products",
+   "score": 35.8,
+   "published_at": "2026-11-14T12:42:51+00:00",
+   "sources": [
+    {
+     "name": "IT之家",
+     "url": "https://www.ithome.com/1/027/227.htm"
+    }
+   ],
+   "primary_url": "https://www.ithome.com/1/027/227.htm"
+  },
+  {
+   "id": "8baffb302f07",
+   "title": "借助 Claude 和 Arduino 开发板，达人让 1994 款切诺基通过加州排放检测",
+   "summary": "IT之家 11 月 14 日消息，当地时间 13 日，据外媒 Tom's Hardware 报道，美国的一名 AI 爱好者穆罕默德 · 祖拉利靠着 AI 和简单的电子接线操作，成功让一辆有 32 年车龄的 1994 款 Jeep 切诺基通过了美国加州的尾气检测。 这辆老车的发动机电脑功能十分有限，但祖拉利借助 Arduino Nano 开发板将其连接到笔记本电脑后， 不仅能够读取车辆数据，还逐步…",
+   "category": "Products",
+   "score": 35.8,
+   "published_at": "2026-11-14T12:36:29+00:00",
+   "sources": [
+    {
+     "name": "IT之家",
+     "url": "https://www.ithome.com/1/027/226.htm"
+    }
+   ],
+   "primary_url": "https://www.ithome.com/1/027/226.htm"
+  },
+  {
+   "id": "c692ce1b4f8c",
+   "title": "ICLR rebuttal [R]",
+   "summary": "I'm about to submit my iclr rebuttal, and I was wondering if it's okay to highlight the changes I've made to my manuscript using a different text color to make them easier for the reviewers to identi…",
+   "category": "Other",
+   "score": 35.7,
+   "published_at": "2026-11-14T12:29:37+00:00",
+   "sources": [
+    {
+     "name": "r/MachineLearning",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1xw19o8/iclr_rebuttal_r/"
+    }
+   ],
+   "primary_url": "https://www.reddit.com/r/MachineLearning/comments/1xw19o8/iclr_rebuttal_r/"
+  },
+  {
+   "id": "269538539bef",
+   "title": "Great Video for Understanding How Cosine Similarity Works [D]",
+   "summary": "This video does a great job of explaining dot products from both algebraic POV and geometric POV, using that to derive cosine similarity and how it applies to embeddings. submitted by /u/johnolafenwa…",
+   "category": "Other",
+   "score": 35.4,
+   "published_at": "2026-11-14T11:39:39+00:00",
+   "sources": [
+    {
+     "name": "r/MachineLearning",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1xw0dgg/great_video_for_understanding_how_cosine/"
+    }
+   ],
+   "primary_url": "https://www.reddit.com/r/MachineLearning/comments/1xw0dgg/great_video_for_understanding_how_cosine/"
+  },
+  {
+   "id": "4ecfb44c1aed",
+   "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
+   "summary": "Airlines praised the AI tool, but the air traffic controllers’ union wasn’t involved.",
+   "category": "Products",
+   "score": 35.4,
+   "published_at": "2026-11-13T21:20:47+00:00",
+   "sources": [
+    {
+     "name": "Ars Technica",
+     "url": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/"
+    }
+   ],
+   "primary_url": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/"
+  },
+  {
+   "id": "372e393937b2",
+   "title": "前 Anthropic 研究员考克森：当今若要重新训练 Mythos，只需初始的一小部分算力",
+   "summary": "IT之家 11 月 14 日消息，曾任职于 OpenAI 和 Anthropic、因公开警告 AI 风险而受到广泛关注的研究员雅各布 · 考克森称，Anthropic 在 IPO 路演中展示的一张幻灯片，是促使他离职的重要原因。 考克森在 Anthropic 只工作了约四个月。让他决定离职的原因之一，是公司 IPO 路演中 一张展示 AI 模型训练算力需求变化的图表 。图表采用压缩坐标轴，即使算…",
+   "category": "Research",
+   "score": 35.4,
+   "published_at": "2026-11-14T11:45:39+00:00",
+   "sources": [
+    {
+     "name": "IT之家",
+     "url": "https://www.ithome.com/1/027/221.htm"
+    }
+   ],
+   "primary_url": "https://www.ithome.com/1/027/221.htm"
+  },
+  {
+   "id": "a0ad5d70f459",
+   "title": "网约车平台 Uber 优步遭黑客攻击，致美国多州司机驾照信息外泄",
+   "summary": "IT之家 11 月 14 日消息，网约车平台 Uber 优步披露公司遭遇数据泄露事件，导致数千名司机的个人信息及驾照信息被盗，涉及美国马萨诸塞州、南卡罗来纳州、罗得岛州和伊利诺伊州等地。 IT之家参考通报获悉，黑客首先入侵了该公司的一家第三方服务供应商，并窃取员工登录凭据，随后利用这些信息访问 Uber 的系统及数据，目前 Uber 已开始通知受影响司机具体信息泄露情况。 目前，Uber 尚未说…",
+   "category": "Policy & Safety",
+   "score": 35.3,
+   "published_at": "2026-11-14T11:23:33+00:00",
+   "sources": [
+    {
+     "name": "IT之家",
+     "url": "https://www.ithome.com/1/027/219.htm"
+    }
+   ],
+   "primary_url": "https://www.ithome.com/1/027/219.htm"
+  },
+  {
+   "id": "d450ad1a277f",
+   "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
+   "summary": "After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscribers in the US aged 18 …",
+   "category": "Agents & Dev Tools",
+   "score": 35.2,
+   "published_at": "2026-11-13T20:45:10+00:00",
+   "sources": [
+    {
+     "name": "The Verge",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet"
+    }
+   ],
+   "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet"
+  },
+  {
+   "id": "b2112fbbefb8",
+   "title": "Building a Local AI Photography Editing Assistant. Anyone working on something similar? [D]",
+   "summary": "Building a Local AI Photography Editing Assistant. Anyone working on something similar? I'm exploring how to build a local AI system that can automate advanced photo-editing workflows for landscape a…",
+   "category": "Products",
+   "score": 35.1,
+   "published_at": "2026-11-14T10:51:23+00:00",
+   "sources": [
+    {
+     "name": "r/MachineLearning",
+     "url": "https://www.reddit.com/r/MachineLearning/comments/1xvzkwz/building_a_local_ai_photography_editing_assistant/"
+    }
+   ],
+   "primary_url": "https://www.reddit.com/r/MachineLearning/comments/1xvzkwz/building_a_local_ai_photography_editing_assistant/"
+  },
+  {
+   "id": "63b115c8f032",
+   "title": "Cursor 披露安全事件调查结果，恶意 Claude Code 扩展最多波及 5000 用户",
+   "summary": "IT之家 11 月 14 日消息，当地时间 10 月 29 日， Cursor 发布公告 ，称 Cursor VS Code 扩展市场中出现了一个恶意且未经授权的 Anthropic Claude Code 扩展副本。 当地时间 11 月 13 日，经过过去两周的全面调查， Cursor 披露了此次安全事件调查结果 。官方称绝大多数客户未受影响， 最多波及 5,000 名用户 ；对于受影响的客户…",
+   "category": "Policy & Safety",
+   "score": 35.1,
+   "published_at": "2026-11-14T10:52:39+00:00",
+   "sources": [
+    {
+     "name": "IT之家",
+     "url": "https://www.ithome.com/1/027/215.htm"
+    }
+   ],
+   "primary_url": "https://www.ithome.com/1/027/215.htm"
+  }
+ ],
+ "highlights": {
+  "Headlines": [
+   {
+    "id": "830fc498a0c3",
+    "title": "晶泰科技发布「科学家」计划：开放真实产业命题，招募全球青年科研团队",
+    "summary": "晶泰科技发布「科学家」计划，面向全球青年科研团队开放真实产业课题，搭建从科研创意、实验验证到成果落地的通道，同步启用全新北京创新中心。该计划是长期开放式创新与人才孵化机制，采用特定模式，先征集生态企业真实科研难题打磨为标准化公开命题，面向全球相关青年科研群体招募，首批命题年底发榜。入选团队可获最高 10 万元科研资源服务券及多项配套权益，优秀方案可推进联合研发，核心团队可获工作 offer 与创…",
+    "category": "Research",
+    "score": 69.1,
+    "published_at": "2026-11-14T15:40:26+00:00",
+    "sources": [
+     {
+      "name": "Readhub",
+      "url": "https://readhub.cn/topic/8y2yfTYhd4k"
+     }
+    ],
+    "primary_url": "https://readhub.cn/topic/8y2yfTYhd4k"
+   },
+   {
+    "id": "b26717d449a4",
+    "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+    "summary": "",
+    "category": "Business",
+    "score": 63.7,
+    "published_at": "2026-11-14T02:52:59+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50493251"
+     }
+    ],
+    "primary_url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus"
+   },
+   {
+    "id": "8fdb0296ea11",
+    "title": "Gemini 4 Hydrogen",
+    "summary": "",
+    "category": "Models",
+    "score": 48.6,
+    "published_at": "2026-11-12T18:01:48+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50471431"
+     }
+    ],
+    "primary_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/"
+   },
+   {
+    "id": "d40fca9fd5e1",
+    "title": "Gemini 4 Hydrogen and Orchestrator",
+    "summary": "",
+    "category": "Models",
+    "score": 48.5,
+    "published_at": "2026-11-12T18:52:01+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50472260"
+     }
+    ],
+    "primary_url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/"
+   },
+   {
+    "id": "44da454e7900",
+    "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
+    "summary": "",
+    "category": "Agents & Dev Tools",
+    "score": 54.9,
+    "published_at": "2026-11-13T10:18:13+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://status.claude.com/incidents/nn11wk485zfn"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50481187"
+     }
+    ],
+    "primary_url": "https://status.claude.com/incidents/nn11wk485zfn"
+   },
+   {
+    "id": "0b67abad1121",
+    "title": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
+    "summary": "",
+    "category": "Other",
+    "score": 56.6,
+    "published_at": "2026-11-13T15:08:44+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50484658"
+     }
+    ],
+    "primary_url": "https://www.youtube.com/watch?v=IRK8h67ol7Q"
+   },
+   {
+    "id": "a1e895b935bb",
+    "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
+    "summary": "",
+    "category": "Research",
+    "score": 57.4,
+    "published_at": "2026-11-13T17:30:10+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50486748"
+     }
+    ],
+    "primary_url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths"
+   },
+   {
+    "id": "d096a8a420fb",
+    "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
+    "summary": "",
+    "category": "Business",
+    "score": 48.9,
+    "published_at": "2026-11-12T21:56:11+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://unemploymentlabs.com/checkpoint-forensics"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50474883"
+     }
+    ],
+    "primary_url": "https://unemploymentlabs.com/checkpoint-forensics"
+   },
+   {
+    "id": "2f44ca0e016f",
+    "title": "AI is destroying the trust between writers and readers",
+    "summary": "",
+    "category": "Other",
+    "score": 54.4,
+    "published_at": "2026-11-13T11:13:46+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50481870"
+     }
+    ],
+    "primary_url": "https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/"
+   },
+   {
+    "id": "f980cc1f1e21",
+    "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+    "summary": "",
+    "category": "Other",
+    "score": 49.2,
+    "published_at": "2026-11-12T23:06:17+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50475713"
+     }
+    ],
+    "primary_url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer"
+   }
+  ],
+  "Dark Horses": [
+   {
+    "id": "830fc498a0c3",
+    "title": "晶泰科技发布「科学家」计划：开放真实产业命题，招募全球青年科研团队",
+    "summary": "晶泰科技发布「科学家」计划，面向全球青年科研团队开放真实产业课题，搭建从科研创意、实验验证到成果落地的通道，同步启用全新北京创新中心。该计划是长期开放式创新与人才孵化机制，采用特定模式，先征集生态企业真实科研难题打磨为标准化公开命题，面向全球相关青年科研群体招募，首批命题年底发榜。入选团队可获最高 10 万元科研资源服务券及多项配套权益，优秀方案可推进联合研发，核心团队可获工作 offer 与创…",
+    "category": "Research",
+    "score": 69.1,
+    "published_at": "2026-11-14T15:40:26+00:00",
+    "sources": [
+     {
+      "name": "Readhub",
+      "url": "https://readhub.cn/topic/8y2yfTYhd4k"
+     }
+    ],
+    "primary_url": "https://readhub.cn/topic/8y2yfTYhd4k"
+   },
+   {
+    "id": "0b67abad1121",
+    "title": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
+    "summary": "",
+    "category": "Other",
+    "score": 56.6,
+    "published_at": "2026-11-13T15:08:44+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50484658"
+     }
+    ],
+    "primary_url": "https://www.youtube.com/watch?v=IRK8h67ol7Q"
+   },
+   {
+    "id": "a1e895b935bb",
+    "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
+    "summary": "",
+    "category": "Research",
+    "score": 57.4,
+    "published_at": "2026-11-13T17:30:10+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50486748"
+     }
+    ],
+    "primary_url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths"
+   },
+   {
+    "id": "d096a8a420fb",
+    "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
+    "summary": "",
+    "category": "Business",
+    "score": 48.9,
+    "published_at": "2026-11-12T21:56:11+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://unemploymentlabs.com/checkpoint-forensics"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50474883"
+     }
+    ],
+    "primary_url": "https://unemploymentlabs.com/checkpoint-forensics"
+   },
+   {
+    "id": "f980cc1f1e21",
+    "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+    "summary": "",
+    "category": "Other",
+    "score": 49.2,
+    "published_at": "2026-11-12T23:06:17+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50475713"
+     }
+    ],
+    "primary_url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer"
+   },
+   {
+    "id": "b3c84623c44d",
+    "title": "Brave Search API now accepts agentic payments via the x402 protocol",
+    "summary": "",
+    "category": "Agents & Dev Tools",
+    "score": 50.1,
+    "published_at": "2026-11-13T03:08:08+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://brave.com/blog/search-api-agentic-payments/"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50477649"
+     }
+    ],
+    "primary_url": "https://brave.com/blog/search-api-agentic-payments/"
+   },
+   {
+    "id": "10c60fc60c0f",
+    "title": "Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update",
+    "summary": "",
+    "category": "Models",
+    "score": 58.4,
+    "published_at": "2026-11-14T00:06:04+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://unsloth.ai/docs/models/qwen3.8"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50491980"
+     }
+    ],
+    "primary_url": "https://unsloth.ai/docs/models/qwen3.8"
+   },
+   {
+    "id": "9f3952a424ef",
+    "title": "No AI Slop: A Manifesto",
+    "summary": "",
+    "category": "Other",
+    "score": 56.5,
+    "published_at": "2026-11-13T19:51:56+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://www.slopmanifesto.com/"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50488769"
+     }
+    ],
+    "primary_url": "https://www.slopmanifesto.com/"
+   },
+   {
+    "id": "26a6fb343a8e",
+    "title": "Why You Should Expect an AI Crash",
+    "summary": "",
+    "category": "Other",
+    "score": 45.7,
+    "published_at": "2026-11-12T23:08:31+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://www.economist.com/leaders/2026/11/12/why-you-should-expect-an-ai-crash"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50475735"
+     }
+    ],
+    "primary_url": "https://www.economist.com/leaders/2026/11/12/why-you-should-expect-an-ai-crash"
+   }
+  ],
+  "Rising": [
+   {
+    "id": "1f1dbabb56c4",
+    "title": "MiniMaxAI/MiniMax-H3-Image",
+    "summary": "",
+    "category": "Open Source",
+    "score": 54.0,
+    "published_at": "2026-11-14T17:54:06.675721+00:00",
+    "sources": [
+     {
+      "name": "Hugging Face Trending",
+      "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image"
+     }
+    ],
+    "primary_url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image"
+   },
+   {
+    "id": "404dff4b1cea",
+    "title": "dream-num/univer: Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
+    "summary": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
+    "category": "Agents & Dev Tools",
+    "score": 52.3,
+    "published_at": "2026-11-14T17:54:06.675721+00:00",
+    "sources": [
+     {
+      "name": "GitHub Trending",
+      "url": "https://github.com/dream-num/univer"
+     }
+    ],
+    "primary_url": "https://github.com/dream-num/univer"
+   },
+   {
+    "id": "c57dfd8e10af",
+    "title": "Likely7/Veyra-NRVideo: Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and capture enhancement tool featuring real-time preview for videos, images, and capture card sources. Combine AI-powered Super Resolution, DLSS5 image enhancement, and Frame Generation to deliver a next-generation visual experience.",
+    "summary": "Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and capture enhancement tool featuring real-time preview for videos, images, and capture card sources. Combine AI-powered Super …",
+    "category": "Open Source",
+    "score": 51.8,
+    "published_at": "2026-11-14T17:54:06.675721+00:00",
+    "sources": [
+     {
+      "name": "GitHub Trending",
+      "url": "https://github.com/Likely7/Veyra-NRVideo"
+     }
+    ],
+    "primary_url": "https://github.com/Likely7/Veyra-NRVideo"
+   },
+   {
+    "id": "04ce1345cda9",
+    "title": "Lightricks/LTX-2.5",
+    "summary": "",
+    "category": "Open Source",
+    "score": 51.5,
+    "published_at": "2026-11-14T17:54:06.675721+00:00",
+    "sources": [
+     {
+      "name": "Hugging Face Trending",
+      "url": "https://huggingface.co/Lightricks/LTX-2.5"
+     }
+    ],
+    "primary_url": "https://huggingface.co/Lightricks/LTX-2.5"
+   },
+   {
+    "id": "55ffe1fba5ed",
+    "title": "NousResearch/Arete-27B",
+    "summary": "",
+    "category": "Open Source",
+    "score": 51.1,
+    "published_at": "2026-11-14T17:54:06.675721+00:00",
+    "sources": [
+     {
+      "name": "Hugging Face Trending",
+      "url": "https://huggingface.co/NousResearch/Arete-27B"
+     }
+    ],
+    "primary_url": "https://huggingface.co/NousResearch/Arete-27B"
+   },
+   {
+    "id": "46e307363c08",
+    "title": "speridlabs/idol",
+    "summary": "",
+    "category": "Open Source",
+    "score": 51.0,
+    "published_at": "2026-11-14T17:54:06.675721+00:00",
+    "sources": [
+     {
+      "name": "Hugging Face Trending",
+      "url": "https://huggingface.co/speridlabs/idol"
+     }
+    ],
+    "primary_url": "https://huggingface.co/speridlabs/idol"
+   },
+   {
+    "id": "14e5a7f70a2a",
+    "title": "Comfy-Org/MiniMax-H3-Image",
+    "summary": "",
+    "category": "Open Source",
+    "score": 50.9,
+    "published_at": "2026-11-14T17:54:06.675721+00:00",
+    "sources": [
+     {
+      "name": "Hugging Face Trending",
+      "url": "https://huggingface.co/Comfy-Org/MiniMax-H3-Image"
+     }
+    ],
+    "primary_url": "https://huggingface.co/Comfy-Org/MiniMax-H3-Image"
+   },
+   {
+    "id": "2250172890a0",
+    "title": "Zyphra/ZONOS3-Mini",
+    "summary": "",
+    "category": "Open Source",
+    "score": 50.5,
+    "published_at": "2026-11-14T17:54:06.675721+00:00",
+    "sources": [
+     {
+      "name": "Hugging Face Trending",
+      "url": "https://huggingface.co/Zyphra/ZONOS3-Mini"
+     }
+    ],
+    "primary_url": "https://huggingface.co/Zyphra/ZONOS3-Mini"
+   },
+   {
+    "id": "6ae972136210",
+    "title": "thinkingmachines/Inkling-2-Small",
+    "summary": "",
+    "category": "Open Source",
+    "score": 50.4,
+    "published_at": "2026-11-14T17:54:06.675721+00:00",
+    "sources": [
+     {
+      "name": "Hugging Face Trending",
+      "url": "https://huggingface.co/thinkingmachines/Inkling-2-Small"
+     }
+    ],
+    "primary_url": "https://huggingface.co/thinkingmachines/Inkling-2-Small"
+   },
+   {
+    "id": "368feff4c462",
+    "title": "black-forest-labs/flux-3-image-klein-comfy",
+    "summary": "",
+    "category": "Open Source",
+    "score": 50.0,
+    "published_at": "2026-11-14T17:54:06.675721+00:00",
+    "sources": [
+     {
+      "name": "Hugging Face Trending",
+      "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy"
+     }
+    ],
+    "primary_url": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy"
+   }
+  ]
+ },
+ "categories": {
+  "Models": [
+   {
+    "id": "10c60fc60c0f",
+    "title": "Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update",
+    "summary": "",
+    "category": "Models",
+    "score": 58.4,
+    "published_at": "2026-11-14T00:06:04+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://unsloth.ai/docs/models/qwen3.8"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50491980"
+     }
+    ],
+    "primary_url": "https://unsloth.ai/docs/models/qwen3.8"
+   },
+   {
+    "id": "6c64301c09e0",
+    "title": "Qwen/Qwen3.8-27B",
+    "summary": "",
+    "category": "Models",
+    "score": 51.5,
+    "published_at": "2026-11-14T17:54:06.675721+00:00",
+    "sources": [
+     {
+      "name": "Hugging Face Trending",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B"
+     }
+    ],
+    "primary_url": "https://huggingface.co/Qwen/Qwen3.8-27B"
+   },
+   {
+    "id": "233409616a1b",
+    "title": "tencent/Qwen3.8-27B-DSpine-b16",
+    "summary": "",
+    "category": "Models",
+    "score": 49.7,
+    "published_at": "2026-11-14T17:54:06.675721+00:00",
+    "sources": [
+     {
+      "name": "Hugging Face Trending",
+      "url": "https://huggingface.co/tencent/Qwen3.8-27B-DSpine-b16"
+     }
+    ],
+    "primary_url": "https://huggingface.co/tencent/Qwen3.8-27B-DSpine-b16"
+   },
+   {
+    "id": "8fdb0296ea11",
+    "title": "Gemini 4 Hydrogen",
+    "summary": "",
+    "category": "Models",
+    "score": 48.6,
+    "published_at": "2026-11-12T18:01:48+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50471431"
+     }
+    ],
+    "primary_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/"
+   },
+   {
+    "id": "d40fca9fd5e1",
+    "title": "Gemini 4 Hydrogen and Orchestrator",
+    "summary": "",
+    "category": "Models",
+    "score": 48.5,
+    "published_at": "2026-11-12T18:52:01+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50472260"
+     }
+    ],
+    "primary_url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/"
+   },
+   {
+    "id": "d82d2c1dae8d",
+    "title": "Gemini 4 Carbon takes the MathArena crown but costs 15 times more than GPT-6.1 Sol",
+    "summary": "For the first time in a while, no OpenAI model leads the MathArena AI math benchmark. Google's Gemini 4 Carbon and Anthropic's Fable 5.2 have knocked GPT-6.1 Sol from the top, though both cost signif…",
+    "category": "Models",
+    "score": 43.5,
+    "published_at": "2026-11-14T16:48:01+00:00",
+    "sources": [
+     {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/gemini-4-carbon-takes-the-matharena-crown-but-costs-15-times-more-than-gpt-6-1-sol/"
+     }
+    ],
+    "primary_url": "https://the-decoder.com/gemini-4-carbon-takes-the-matharena-crown-but-costs-15-times-more-than-gpt-6-1-sol/"
+   },
+   {
+    "id": "a5dca2d386f6",
+    "title": "Anthropic says outdated prompting habits are slowing down Claude Opus 5.5",
+    "summary": "Anthropic has made Claude Opus 5.5 the default model on all paid plans and published a guide that does away with old prompting habits. The main takeaway is to drop \"think hard\" and start at Medium ef…",
+    "category": "Models",
+    "score": 43.5,
+    "published_at": "2026-11-14T16:42:56+00:00",
+    "sources": [
+     {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/anthropic-says-outdated-prompting-habits-are-slowing-down-claude-opus-5-5/"
+     }
+    ],
+    "primary_url": "https://the-decoder.com/anthropic-says-outdated-prompting-habits-are-slowing-down-claude-opus-5-5/"
+   },
+   {
+    "id": "fb423011ee46",
+    "title": "Should short-horizon price forecasting papers benchmark against market-implied forecasts, not just naive baselines? [D]",
+    "summary": "been reading a bunch of papers on short term crypto and commodity price forecasting (transformers, LSTMs, the usual). almost all of them compare against ARIMA, a random walk, maybe a simple LSTM, and…",
+    "category": "Models",
+    "score": 37.4,
+    "published_at": "2026-11-14T16:23:34+00:00",
+    "sources": [
+     {
+      "name": "r/MachineLearning",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xw6fk9/should_shorthorizon_price_forecasting_papers/"
+     }
+    ],
+    "primary_url": "https://www.reddit.com/r/MachineLearning/comments/1xw6fk9/should_shorthorizon_price_forecasting_papers/"
+   }
+  ],
+  "Agents & Dev Tools": [
+   {
+    "id": "44da454e7900",
+    "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
+    "summary": "",
+    "category": "Agents & Dev Tools",
+    "score": 54.9,
+    "published_at": "2026-11-13T10:18:13+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://status.claude.com/incidents/nn11wk485zfn"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50481187"
+     }
+    ],
+    "primary_url": "https://status.claude.com/incidents/nn11wk485zfn"
+   },
+   {
+    "id": "ec453d1217c2",
+    "title": "tradermonty/claude-trading-skills: Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
+    "summary": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
+    "category": "Agents & Dev Tools",
+    "score": 52.6,
+    "published_at": "2026-11-14T17:54:06.675721+00:00",
+    "sources": [
+     {
+      "name": "GitHub Trending",
+      "url": "https://github.com/tradermonty/claude-trading-skills"
+     }
+    ],
+    "primary_url": "https://github.com/tradermonty/claude-trading-skills"
+   },
+   {
+    "id": "404dff4b1cea",
+    "title": "dream-num/univer: Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
+    "summary": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
+    "category": "Agents & Dev Tools",
+    "score": 52.3,
+    "published_at": "2026-11-14T17:54:06.675721+00:00",
+    "sources": [
+     {
+      "name": "GitHub Trending",
+      "url": "https://github.com/dream-num/univer"
+     }
+    ],
+    "primary_url": "https://github.com/dream-num/univer"
+   },
+   {
+    "id": "7a3f1296623a",
+    "title": "WhiteMatter, which builds \"guardian\" AI agents to oversee file access, software use, decision making, and actions of existing AI agents, raised a $20M Series A (Alice Tecotzky/Business Insider)",
+    "summary": "Alice Tecotzky / Business Insider : WhiteMatter, which builds “guardian” AI agents to oversee file access, software use, decision making, and actions of existing AI agents, raised a $20M Series A — A…",
+    "category": "Agents & Dev Tools",
+    "score": 51.4,
+    "published_at": "2026-11-14T06:55:00+00:00",
+    "sources": [
+     {
+      "name": "Techmeme",
+      "url": "https://www.techmeme.com/261114/p5#a261114p5"
+     }
+    ],
+    "primary_url": "https://www.techmeme.com/261114/p5#a261114p5"
+   },
+   {
+    "id": "b3c84623c44d",
+    "title": "Brave Search API now accepts agentic payments via the x402 protocol",
+    "summary": "",
+    "category": "Agents & Dev Tools",
+    "score": 50.1,
+    "published_at": "2026-11-13T03:08:08+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://brave.com/blog/search-api-agentic-payments/"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50477649"
+     }
+    ],
+    "primary_url": "https://brave.com/blog/search-api-agentic-payments/"
+   },
+   {
+    "id": "5ad23f0e2e10",
+    "title": "QwenLM/qwen-code: An open-source AI coding agent that lives in your terminal.",
+    "summary": "An open-source AI coding agent that lives in your terminal.",
+    "category": "Agents & Dev Tools",
+    "score": 48.0,
+    "published_at": "2026-11-14T17:54:06.675721+00:00",
+    "sources": [
+     {
+      "name": "GitHub Trending",
+      "url": "https://github.com/QwenLM/qwen-code"
+     }
+    ],
+    "primary_url": "https://github.com/QwenLM/qwen-code"
+   },
+   {
+    "id": "6a36938791d1",
+    "title": "Tencent/LoopForge: Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.",
+    "summary": "Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.",
+    "category": "Agents & Dev Tools",
+    "score": 47.6,
+    "published_at": "2026-11-14T17:54:06.675721+00:00",
+    "sources": [
+     {
+      "name": "GitHub Trending",
+      "url": "https://github.com/Tencent/LoopForge"
+     }
+    ],
+    "primary_url": "https://github.com/Tencent/LoopForge"
+   },
+   {
+    "id": "0c816ad6b558",
+    "title": "AI趨勢周報第294期：AI Agent不只要會看圖，Google新Benchmark直接考專業工作實戰",
+    "summary": "新聞 重點新聞（1106～1112） AI Agent AI評測 Google DeepMind AI Agent不只要會看圖，Google新Benchmark直接考專業工作實戰 Google DeepMind與Artificial Analysis聯手推出Multimodal Knowledge Agent（MKA）Benchmark基準測試，要評估AI代理能不能處理真正的「視覺型知識工作」。…",
+    "category": "Agents & Dev Tools",
+    "score": 43.0,
+    "published_at": "2026-11-14T15:29:39+00:00",
+    "sources": [
+     {
+      "name": "iThome",
+      "url": "https://www.ithome.com.tw/news/180507"
+     }
+    ],
+    "primary_url": "https://www.ithome.com.tw/news/180507"
+   },
+   {
+    "id": "5bf4951adbe9",
+    "title": "Introducing ChatGPT Wallet",
+    "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
+    "category": "Agents & Dev Tools",
+    "score": 38.8,
+    "published_at": "2026-11-13T15:00:00+00:00",
+    "sources": [
+     {
+      "name": "OpenAI",
+      "url": "https://openai.com/index/introducing-chatgpt-wallet"
+     }
+    ],
+    "primary_url": "https://openai.com/index/introducing-chatgpt-wallet"
+   },
+   {
+    "id": "c0dbc63313b7",
+    "title": "模型更新，指令也要更新！Claude Code 可用 /doctor prompt-audit 檢查 CLAUDE.md 與 skills 裡過時的舊提示詞",
+    "summary": "Claude Code 的 /doctor prompt-audit 指令會檢查 CLAUDE.md、skills、agents 與 commands，找出為舊模型寫的提示寫法、失效路徑與互相矛盾的規則，並先產出報告，使用者確認後才會修改。",
+    "category": "Agents & Dev Tools",
+    "score": 37.6,
+    "published_at": "2026-11-14T02:27:00+00:00",
+    "sources": [
+     {
+      "name": "INSIDE",
+      "url": "https://www.inside.com.tw/article/42908-claude-code-doctor-prompt-audit-checks-claude-md-skills-agents-outdated-instructions"
+     }
+    ],
+    "primary_url": "https://www.inside.com.tw/article/42908-claude-code-doctor-prompt-audit-checks-claude-md-skills-agents-outdated-instructions"
+   }
+  ],
+  "Products": [
+   {
+    "id": "5f1afeeb96c0",
+    "title": "Why is Google cutting off Search from AI-free schools? Here are some theories",
+    "summary": "",
+    "category": "Products",
+    "score": 54.3,
+    "published_at": "2026-11-13T15:29:10+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://text.npr.org/nx-s1-6029408"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50484960"
+     }
+    ],
+    "primary_url": "https://text.npr.org/nx-s1-6029408"
+   },
+   {
+    "id": "10ab37804642",
+    "title": "AI is turning Apple's app review process into a nightmare for synth developers",
+    "summary": "",
+    "category": "Products",
+    "score": 46.8,
+    "published_at": "2026-11-12T21:09:49+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50474311"
+     }
+    ],
+    "primary_url": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html"
+   },
+   {
+    "id": "b08cefd9996d",
+    "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+    "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+    "category": "Products",
+    "score": 43.8,
+    "published_at": "2026-11-14T17:30:00+00:00",
+    "sources": [
+     {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/"
+     }
+    ],
+    "primary_url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/"
+   },
+   {
+    "id": "90edbcec53d5",
+    "title": "突发！DeepSeek开放全家桶API",
+    "summary": "官方App功能均可自由组合调用",
+    "category": "Products",
+    "score": 37.7,
+    "published_at": "2026-11-14T02:39:56+00:00",
+    "sources": [
+     {
+      "name": "量子位",
+      "url": "https://www.qbitai.com/2026/11/510003.html"
+     }
+    ],
+    "primary_url": "https://www.qbitai.com/2026/11/510003.html"
+   },
+   {
+    "id": "386e99bc7589",
+    "title": "ICLR 2027 Rebuttal [D]",
+    "summary": "For anyone who’s updating their manuscript during rebuttals - the guidelines seems to suggest a pdf diff will be applied automatically to the updated pdf. Can anyone see this? I can’t seem to see any…",
+    "category": "Products",
+    "score": 37.2,
+    "published_at": "2026-11-14T16:00:01+00:00",
+    "sources": [
+     {
+      "name": "r/MachineLearning",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xw5uwe/iclr_2027_rebuttal_d/"
+     }
+    ],
+    "primary_url": "https://www.reddit.com/r/MachineLearning/comments/1xw5uwe/iclr_2027_rebuttal_d/"
+   },
+   {
+    "id": "c73788906a62",
+    "title": "Facebook 擅自读取意大利用户相册，Meta 被处以 8.05 亿欧元重罚",
+    "summary": "IT之家 11 月 14 日消息，因在 未经意大利用户单独授权、也未充分告知用户 的情况下，通过 Android 版 Facebook 应用读取手机中保存的照片、视频及附带的元数据，意大利数据保护局今天（14 日）对 Meta 开出 8.05 亿欧元 （IT之家注：现汇率约合 59.36 亿元人民币） 罚单。 意大利数据保护局声明指出，此次处罚针对的是 Facebook 于 2023 年开始提供…",
+    "category": "Products",
+    "score": 35.8,
+    "published_at": "2026-11-14T12:42:51+00:00",
+    "sources": [
+     {
+      "name": "IT之家",
+      "url": "https://www.ithome.com/1/027/227.htm"
+     }
+    ],
+    "primary_url": "https://www.ithome.com/1/027/227.htm"
+   },
+   {
+    "id": "8baffb302f07",
+    "title": "借助 Claude 和 Arduino 开发板，达人让 1994 款切诺基通过加州排放检测",
+    "summary": "IT之家 11 月 14 日消息，当地时间 13 日，据外媒 Tom's Hardware 报道，美国的一名 AI 爱好者穆罕默德 · 祖拉利靠着 AI 和简单的电子接线操作，成功让一辆有 32 年车龄的 1994 款 Jeep 切诺基通过了美国加州的尾气检测。 这辆老车的发动机电脑功能十分有限，但祖拉利借助 Arduino Nano 开发板将其连接到笔记本电脑后， 不仅能够读取车辆数据，还逐步…",
+    "category": "Products",
+    "score": 35.8,
+    "published_at": "2026-11-14T12:36:29+00:00",
+    "sources": [
+     {
+      "name": "IT之家",
+      "url": "https://www.ithome.com/1/027/226.htm"
+     }
+    ],
+    "primary_url": "https://www.ithome.com/1/027/226.htm"
+   },
+   {
+    "id": "4ecfb44c1aed",
+    "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
+    "summary": "Airlines praised the AI tool, but the air traffic controllers’ union wasn’t involved.",
+    "category": "Products",
+    "score": 35.4,
+    "published_at": "2026-11-13T21:20:47+00:00",
+    "sources": [
+     {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/"
+     }
+    ],
+    "primary_url": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/"
+   },
+   {
+    "id": "b2112fbbefb8",
+    "title": "Building a Local AI Photography Editing Assistant. Anyone working on something similar? [D]",
+    "summary": "Building a Local AI Photography Editing Assistant. Anyone working on something similar? I'm exploring how to build a local AI system that can automate advanced photo-editing workflows for landscape a…",
+    "category": "Products",
+    "score": 35.1,
+    "published_at": "2026-11-14T10:51:23+00:00",
+    "sources": [
+     {
+      "name": "r/MachineLearning",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xvzkwz/building_a_local_ai_photography_editing_assistant/"
+     }
+    ],
+    "primary_url": "https://www.reddit.com/r/MachineLearning/comments/1xvzkwz/building_a_local_ai_photography_editing_assistant/"
+   }
+  ],
+  "Open Source": [
+   {
+    "id": "1f1dbabb56c4",
+    "title": "MiniMaxAI/MiniMax-H3-Image",
+    "summary": "",
+    "category": "Open Source",
+    "score": 54.0,
+    "published_at": "2026-11-14T17:54:06.675721+00:00",
+    "sources": [
+     {
+      "name": "Hugging Face Trending",
+      "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image"
+     }
+    ],
+    "primary_url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image"
+   },
+   {
+    "id": "c57dfd8e10af",
+    "title": "Likely7/Veyra-NRVideo: Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and capture enhancement tool featuring real-time preview for videos, images, and capture card sources. Combine AI-powered Super Resolution, DLSS5 image enhancement, and Frame Generation to deliver a next-generation visual experience.",
+    "summary": "Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and capture enhancement tool featuring real-time preview for videos, images, and capture card sources. Combine AI-powered Super …",
+    "category": "Open Source",
+    "score": 51.8,
+    "published_at": "2026-11-14T17:54:06.675721+00:00",
+    "sources": [
+     {
+      "name": "GitHub Trending",
+      "url": "https://github.com/Likely7/Veyra-NRVideo"
+     }
+    ],
+    "primary_url": "https://github.com/Likely7/Veyra-NRVideo"
+   },
+   {
+    "id": "04ce1345cda9",
+    "title": "Lightricks/LTX-2.5",
+    "summary": "",
+    "category": "Open Source",
+    "score": 51.5,
+    "published_at": "2026-11-14T17:54:06.675721+00:00",
+    "sources": [
+     {
+      "name": "Hugging Face Trending",
+      "url": "https://huggingface.co/Lightricks/LTX-2.5"
+     }
+    ],
+    "primary_url": "https://huggingface.co/Lightricks/LTX-2.5"
+   },
+   {
+    "id": "55ffe1fba5ed",
+    "title": "NousResearch/Arete-27B",
+    "summary": "",
+    "category": "Open Source",
+    "score": 51.1,
+    "published_at": "2026-11-14T17:54:06.675721+00:00",
+    "sources": [
+     {
+      "name": "Hugging Face Trending",
+      "url": "https://huggingface.co/NousResearch/Arete-27B"
+     }
+    ],
+    "primary_url": "https://huggingface.co/NousResearch/Arete-27B"
+   },
+   {
+    "id": "46e307363c08",
+    "title": "speridlabs/idol",
+    "summary": "",
+    "category": "Open Source",
+    "score": 51.0,
+    "published_at": "2026-11-14T17:54:06.675721+00:00",
+    "sources": [
+     {
+      "name": "Hugging Face Trending",
+      "url": "https://huggingface.co/speridlabs/idol"
+     }
+    ],
+    "primary_url": "https://huggingface.co/speridlabs/idol"
+   },
+   {
+    "id": "14e5a7f70a2a",
+    "title": "Comfy-Org/MiniMax-H3-Image",
+    "summary": "",
+    "category": "Open Source",
+    "score": 50.9,
+    "published_at": "2026-11-14T17:54:06.675721+00:00",
+    "sources": [
+     {
+      "name": "Hugging Face Trending",
+      "url": "https://huggingface.co/Comfy-Org/MiniMax-H3-Image"
+     }
+    ],
+    "primary_url": "https://huggingface.co/Comfy-Org/MiniMax-H3-Image"
+   },
+   {
+    "id": "7838c87736f9",
+    "title": "moonshotai/Kimi-K3.1-Pro",
+    "summary": "",
+    "category": "Open Source",
+    "score": 50.8,
+    "published_at": "2026-11-14T17:54:06.675721+00:00",
+    "sources": [
+     {
+      "name": "Hugging Face Trending",
+      "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro"
+     }
+    ],
+    "primary_url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro"
+   },
+   {
+    "id": "2250172890a0",
+    "title": "Zyphra/ZONOS3-Mini",
+    "summary": "",
+    "category": "Open Source",
+    "score": 50.5,
+    "published_at": "2026-11-14T17:54:06.675721+00:00",
+    "sources": [
+     {
+      "name": "Hugging Face Trending",
+      "url": "https://huggingface.co/Zyphra/ZONOS3-Mini"
+     }
+    ],
+    "primary_url": "https://huggingface.co/Zyphra/ZONOS3-Mini"
+   },
+   {
+    "id": "6ae972136210",
+    "title": "thinkingmachines/Inkling-2-Small",
+    "summary": "",
+    "category": "Open Source",
+    "score": 50.4,
+    "published_at": "2026-11-14T17:54:06.675721+00:00",
+    "sources": [
+     {
+      "name": "Hugging Face Trending",
+      "url": "https://huggingface.co/thinkingmachines/Inkling-2-Small"
+     }
+    ],
+    "primary_url": "https://huggingface.co/thinkingmachines/Inkling-2-Small"
+   },
+   {
+    "id": "368feff4c462",
+    "title": "black-forest-labs/flux-3-image-klein-comfy",
+    "summary": "",
+    "category": "Open Source",
+    "score": 50.0,
+    "published_at": "2026-11-14T17:54:06.675721+00:00",
+    "sources": [
+     {
+      "name": "Hugging Face Trending",
+      "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy"
+     }
+    ],
+    "primary_url": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy"
+   }
+  ],
+  "Research": [
+   {
+    "id": "830fc498a0c3",
+    "title": "晶泰科技发布「科学家」计划：开放真实产业命题，招募全球青年科研团队",
+    "summary": "晶泰科技发布「科学家」计划，面向全球青年科研团队开放真实产业课题，搭建从科研创意、实验验证到成果落地的通道，同步启用全新北京创新中心。该计划是长期开放式创新与人才孵化机制，采用特定模式，先征集生态企业真实科研难题打磨为标准化公开命题，面向全球相关青年科研群体招募，首批命题年底发榜。入选团队可获最高 10 万元科研资源服务券及多项配套权益，优秀方案可推进联合研发，核心团队可获工作 offer 与创…",
+    "category": "Research",
+    "score": 69.1,
+    "published_at": "2026-11-14T15:40:26+00:00",
+    "sources": [
+     {
+      "name": "Readhub",
+      "url": "https://readhub.cn/topic/8y2yfTYhd4k"
+     }
+    ],
+    "primary_url": "https://readhub.cn/topic/8y2yfTYhd4k"
+   },
+   {
+    "id": "e5cfce432e46",
+    "title": "Claude 协助破译哥德尔未发表笔记，挖出数百条全新定理",
+    "summary": "逻辑学家哥德尔 1978 年离世，留下数万页未发表的加贝尔斯贝格速记手稿。芬兰教授 Jan von Plato 临近退休时启动破译项目，团队耗时数年将千页速记笔记转写为现代英文，但因内容高度浓缩，人工消化进度极慢。后借助 Claude 处理这批材料，数日内就产出完整解读，梳理出 663 条定理雏形，经验证 440 余条完全成立或核心思路无误。Claude 还发现哥德尔早在上世纪 40 年代就差 …",
+    "category": "Research",
+    "score": 63.0,
+    "published_at": "2026-11-14T16:24:22.422000+00:00",
+    "sources": [
+     {
+      "name": "Readhub",
+      "url": "https://readhub.cn/topic/8y2tfCYP4Cg"
+     }
+    ],
+    "primary_url": "https://readhub.cn/topic/8y2tfCYP4Cg"
+   },
+   {
+    "id": "a1e895b935bb",
+    "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
+    "summary": "",
+    "category": "Research",
+    "score": 57.4,
+    "published_at": "2026-11-13T17:30:10+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50486748"
+     }
+    ],
+    "primary_url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths"
+   },
+   {
+    "id": "4a36f6adfa9f",
+    "title": "OpenAI disbands its robotics team as its general models start running robots",
+    "summary": "",
+    "category": "Research",
+    "score": 55.1,
+    "published_at": "2026-11-13T17:55:23+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50487184"
+     }
+    ],
+    "primary_url": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/"
+   },
+   {
+    "id": "7afe22db314e",
+    "title": "SO-Arena: Benchmarking the Capability Spectrum and Reliability of System One Models",
+    "summary": "System One models promise fast, general-purpose decision-making without lengthy token generation. However, understanding their capability spectrum and decision reliability requires more than aggregat…",
+    "category": "Research",
+    "score": 48.0,
+    "published_at": "2026-11-14T17:54:06.675721+00:00",
+    "sources": [
+     {
+      "name": "Hugging Face Papers",
+      "url": "https://huggingface.co/papers/2611.15777"
+     }
+    ],
+    "primary_url": "https://huggingface.co/papers/2611.15777"
+   },
+   {
+    "id": "059822022bf8",
+    "title": "BirdDreams: Joint Perspective and BEV Video Generation for a Plausible, Reactive Driving World Model",
+    "summary": "Driving world models aim to simulate how a scene unfolds under different ego actions. This requires plausible motion of surrounding vehicles as well as precise ego-trajectory control. Learning vehicl…",
+    "category": "Research",
+    "score": 44.3,
+    "published_at": "2026-11-14T17:54:06.675721+00:00",
+    "sources": [
+     {
+      "name": "Hugging Face Papers",
+      "url": "https://huggingface.co/papers/2611.14815"
+     }
+    ],
+    "primary_url": "https://huggingface.co/papers/2611.14815"
+   },
+   {
+    "id": "9d279f8afefe",
+    "title": "PhysLoop: Harnessing LLMs' Physics Awareness for Self-Improving Video Generation Models",
+    "summary": "Video generation models produce visually realistic videos but still struggle with physical dynamics and causal consistency. Learning from generated videos requires fine-grained physical supervision, …",
+    "category": "Research",
+    "score": 43.9,
+    "published_at": "2026-11-14T17:54:06.675721+00:00",
+    "sources": [
+     {
+      "name": "Hugging Face Papers",
+      "url": "https://huggingface.co/papers/2611.16748"
+     }
+    ],
+    "primary_url": "https://huggingface.co/papers/2611.16748"
+   },
+   {
+    "id": "aac4e777518b",
+    "title": "G-STAR: Group-Scaled Token Capacity for Deeply Compressed Autoregressive Generation",
+    "summary": "Discrete autoregressive models offer a scalable framework for image generation. However, they face a fundamental trade-off: long token sequences preserve representation quality but slow generation, w…",
+    "category": "Research",
+    "score": 43.8,
+    "published_at": "2026-11-14T17:54:06.675721+00:00",
+    "sources": [
+     {
+      "name": "Hugging Face Papers",
+      "url": "https://huggingface.co/papers/2611.13004"
+     }
+    ],
+    "primary_url": "https://huggingface.co/papers/2611.13004"
+   },
+   {
+    "id": "2741c921d019",
+    "title": "Duo: A Reciprocal World Model for Full-Duplex Interaction",
+    "summary": "In this report, we introduce the Reciprocal World Model (RWM) and present Duo v1, a full-duplex world model that continuously perceives audiovisual inputs while responding to users in real time. The …",
+    "category": "Research",
+    "score": 43.4,
+    "published_at": "2026-11-14T17:54:06.675721+00:00",
+    "sources": [
+     {
+      "name": "Hugging Face Papers",
+      "url": "https://huggingface.co/papers/2611.15131"
+     }
+    ],
+    "primary_url": "https://huggingface.co/papers/2611.15131"
+   },
+   {
+    "id": "abae26331e95",
+    "title": "Open Vision Banana: A Fully Open Recipe for Generative Visual Perception",
+    "summary": "Recent work suggests that pretrained image generators encode real-world understanding beyond image synthesis. Vision Banana exploits this by framing vision tasks as conditional image editing. However…",
+    "category": "Research",
+    "score": 42.6,
+    "published_at": "2026-11-14T17:54:06.675721+00:00",
+    "sources": [
+     {
+      "name": "Hugging Face Papers",
+      "url": "https://huggingface.co/papers/2611.15844"
+     }
+    ],
+    "primary_url": "https://huggingface.co/papers/2611.15844"
+   }
+  ],
+  "Policy & Safety": [
+   {
+    "id": "f7cfdfd7bcc3",
+    "title": "alibaba/open-code-review: Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+    "summary": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE…",
+    "category": "Policy & Safety",
+    "score": 54.0,
+    "published_at": "2026-11-14T17:54:06.675721+00:00",
+    "sources": [
+     {
+      "name": "GitHub Trending",
+      "url": "https://github.com/alibaba/open-code-review"
+     }
+    ],
+    "primary_url": "https://github.com/alibaba/open-code-review"
+   },
+   {
+    "id": "19d340976929",
+    "title": "The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs",
+    "summary": "Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part two of our series on AI in real life. Hel…",
+    "category": "Policy & Safety",
+    "score": 42.8,
+    "published_at": "2026-11-14T15:00:00+00:00",
+    "sources": [
+     {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview"
+     }
+    ],
+    "primary_url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview"
+   },
+   {
+    "id": "cc817b288322",
+    "title": "OpenAI 推出 Daybreak Defense Factory 與 Red Team 自動找漏洞、補漏洞並模擬攻擊",
+    "summary": "OpenAI 在 11 月 12 日的 Cyber at the Frontier 活動推出 Daybreak Defense Factory 與 Daybreak Red Team。前者由 AI 代理找出漏洞並備妥修補，後者以 OpenAI 模型自動測試網頁應用程式，目前為早期試用。",
+    "category": "Policy & Safety",
+    "score": 37.9,
+    "published_at": "2026-11-14T03:13:00+00:00",
+    "sources": [
+     {
+      "name": "INSIDE",
+      "url": "https://www.inside.com.tw/article/42910-openai-daybreak-defense-factory-red-team-automated-patching-cyber-at-the-frontier"
+     }
+    ],
+    "primary_url": "https://www.inside.com.tw/article/42910-openai-daybreak-defense-factory-red-team-automated-patching-cyber-at-the-frontier"
+   },
+   {
+    "id": "c3c6e5dcbe82",
+    "title": "OpenAI 傳向國會表態支持 3 項對中管制法案，限制中國取得 AI 晶片與製造設備",
+    "summary": "OpenAI 傳出本週已向國會議員確認，支持限制中國取得 AI 晶片與晶片製造設備的跨黨派法案，據報導包括 Chip Security Act、MATCH Act 與 AI OVERWATCH Act。",
+    "category": "Policy & Safety",
+    "score": 37.0,
+    "published_at": "2026-11-14T01:08:00+00:00",
+    "sources": [
+     {
+      "name": "INSIDE",
+      "url": "https://www.inside.com.tw/article/42906-openai-backs-china-chip-export-control-bills"
+     }
+    ],
+    "primary_url": "https://www.inside.com.tw/article/42906-openai-backs-china-chip-export-control-bills"
+   },
+   {
+    "id": "48bd9fc0fa77",
+    "title": "白宫“超级智能工作组”呼吁放宽问责政策，鼓励 AI 企业报告网络安全事件",
+    "summary": "IT之家 11 月 14 日消息，据彭博社报道，当地时间 13 日，美国政府新设的“超级智能工作组”在白宫开会， 建议联邦机构放宽网络安全事件的问责政策，鼓励 AI 企业主动报告重大安全事件 。 一名不愿具名的政府官员透露，工作组认为，过去处理网络安全事件时采用的监管处罚标准可能不再适用，甚至会 让企业不敢分享重要的安全信息 。 工作组因此敦促各机构，未来 12 个月内应限制企业因安全事件承担的…",
+    "category": "Policy & Safety",
+    "score": 36.0,
+    "published_at": "2026-11-14T13:03:22+00:00",
+    "sources": [
+     {
+      "name": "IT之家",
+      "url": "https://www.ithome.com/1/027/229.htm"
+     }
+    ],
+    "primary_url": "https://www.ithome.com/1/027/229.htm"
+   },
+   {
+    "id": "a0ad5d70f459",
+    "title": "网约车平台 Uber 优步遭黑客攻击，致美国多州司机驾照信息外泄",
+    "summary": "IT之家 11 月 14 日消息，网约车平台 Uber 优步披露公司遭遇数据泄露事件，导致数千名司机的个人信息及驾照信息被盗，涉及美国马萨诸塞州、南卡罗来纳州、罗得岛州和伊利诺伊州等地。 IT之家参考通报获悉，黑客首先入侵了该公司的一家第三方服务供应商，并窃取员工登录凭据，随后利用这些信息访问 Uber 的系统及数据，目前 Uber 已开始通知受影响司机具体信息泄露情况。 目前，Uber 尚未说…",
+    "category": "Policy & Safety",
+    "score": 35.3,
+    "published_at": "2026-11-14T11:23:33+00:00",
+    "sources": [
+     {
+      "name": "IT之家",
+      "url": "https://www.ithome.com/1/027/219.htm"
+     }
+    ],
+    "primary_url": "https://www.ithome.com/1/027/219.htm"
+   },
+   {
+    "id": "63b115c8f032",
+    "title": "Cursor 披露安全事件调查结果，恶意 Claude Code 扩展最多波及 5000 用户",
+    "summary": "IT之家 11 月 14 日消息，当地时间 10 月 29 日， Cursor 发布公告 ，称 Cursor VS Code 扩展市场中出现了一个恶意且未经授权的 Anthropic Claude Code 扩展副本。 当地时间 11 月 13 日，经过过去两周的全面调查， Cursor 披露了此次安全事件调查结果 。官方称绝大多数客户未受影响， 最多波及 5,000 名用户 ；对于受影响的客户…",
+    "category": "Policy & Safety",
+    "score": 35.1,
+    "published_at": "2026-11-14T10:52:39+00:00",
+    "sources": [
+     {
+      "name": "IT之家",
+      "url": "https://www.ithome.com/1/027/215.htm"
+     }
+    ],
+    "primary_url": "https://www.ithome.com/1/027/215.htm"
+   }
+  ],
+  "Business": [
+   {
+    "id": "b26717d449a4",
+    "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+    "summary": "",
+    "category": "Business",
+    "score": 63.7,
+    "published_at": "2026-11-14T02:52:59+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50493251"
+     }
+    ],
+    "primary_url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus"
+   },
+   {
+    "id": "d6d02b25bdeb",
+    "title": "Anthropic CEO 谈 IPO：不在乎上市时间与市场条件 强调少承诺多兑现",
+    "summary": "Anthropic CEO 达里奥・阿莫迪在与摩根大通 CEO 杰米・戴蒙的炉边对话中表示，公司并不特别在意上市的具体月份和对应的市场条件，希望采取「少承诺、多兑现」的策略，认同不应让公司估值高出其真实价值 1 美元的理念，在近期 AI 板块大幅震荡、科技股估值承压的背景下，对 IPO 定价保持审慎。目前 Anthropic 目标估值约 1.33 万亿美元或更高，计划以每股 70 至 78 美元…",
+    "category": "Business",
+    "score": 62.7,
+    "published_at": "2026-11-14T15:30:30.461000+00:00",
+    "sources": [
+     {
+      "name": "Readhub",
+      "url": "https://readhub.cn/topic/8y2aN4dHy6n"
+     }
+    ],
+    "primary_url": "https://readhub.cn/topic/8y2aN4dHy6n"
+   },
+   {
+    "id": "9af7a7bb1826",
+    "title": "Operand, which offers AI-powered due diligence tools for PE firms, raised $31M across a seed and a Series A led by Khosla Ventures at a $220M valuation (Lucinda Shen/Axios)",
+    "summary": "Lucinda Shen / Axios : Operand, which offers AI-powered due diligence tools for PE firms, raised $31M across a seed and a Series A led by Khosla Ventures at a $220M valuation — Operand, which uses AI…",
+    "category": "Business",
+    "score": 51.5,
+    "published_at": "2026-11-14T07:02:17+00:00",
+    "sources": [
+     {
+      "name": "Techmeme",
+      "url": "https://www.techmeme.com/261114/p6#a261114p6"
+     }
+    ],
+    "primary_url": "https://www.techmeme.com/261114/p6#a261114p6"
+   },
+   {
+    "id": "349771dbeadd",
+    "title": "Charta Health, which offers AI-powered tools to automate medical chart review, billing, and coding workflows, raised a $55M Series B led by Insight Partners (Jessica Hagen/MobiHealthNews)",
+    "summary": "Jessica Hagen / MobiHealthNews : Charta Health, which offers AI-powered tools to automate medical chart review, billing, and coding workflows, raised a $55M Series B led by Insight Partners — The rou…",
+    "category": "Business",
+    "score": 51.3,
+    "published_at": "2026-11-14T06:35:00+00:00",
+    "sources": [
+     {
+      "name": "Techmeme",
+      "url": "https://www.techmeme.com/261114/p4#a261114p4"
+     }
+    ],
+    "primary_url": "https://www.techmeme.com/261114/p4#a261114p4"
+   },
+   {
+    "id": "b9a58f2b9d1e",
+    "title": "Luminal, which provides an inference cloud and develops inference compiler software to test running AI models on different chips, raised a $25M Series A (Chris Metinko/Axios)",
+    "summary": "Chris Metinko / Axios : Luminal, which provides an inference cloud and develops inference compiler software to test running AI models on different chips, raised a $25M Series A — Luminal, a search co…",
+    "category": "Business",
+    "score": 51.3,
+    "published_at": "2026-11-14T06:30:09+00:00",
+    "sources": [
+     {
+      "name": "Techmeme",
+      "url": "https://www.techmeme.com/261114/p3#a261114p3"
+     }
+    ],
+    "primary_url": "https://www.techmeme.com/261114/p3#a261114p3"
+   },
+   {
+    "id": "2c9708b63937",
+    "title": "Analysis: Sam Bankman-Fried's $500M Anthropic investment in 2021 would be worth ~$37B if Anthropic lists at ~$1.5T; he relinquished his stake in 2024 for ~$1.3B (George Hammond/Financial Times)",
+    "summary": "George Hammond / Financial Times : Analysis: Sam Bankman-Fried's $500M Anthropic investment in 2021 would be worth ~$37B if Anthropic lists at ~$1.5T; he relinquished his stake in 2024 for ~$1.3B — J…",
+    "category": "Business",
+    "score": 50.4,
+    "published_at": "2026-11-14T04:25:01+00:00",
+    "sources": [
+     {
+      "name": "Techmeme",
+      "url": "https://www.techmeme.com/261113/p42#a261113p42"
+     }
+    ],
+    "primary_url": "https://www.techmeme.com/261113/p42#a261113p42"
+   },
+   {
+    "id": "d096a8a420fb",
+    "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
+    "summary": "",
+    "category": "Business",
+    "score": 48.9,
+    "published_at": "2026-11-12T21:56:11+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://unemploymentlabs.com/checkpoint-forensics"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50474883"
+     }
+    ],
+    "primary_url": "https://unemploymentlabs.com/checkpoint-forensics"
+   },
+   {
+    "id": "2a2bfff1121f",
+    "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
+    "summary": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations.",
+    "category": "Business",
+    "score": 43.4,
+    "published_at": "2026-11-14T16:34:15+00:00",
+    "sources": [
+     {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/"
+     }
+    ],
+    "primary_url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/"
+   },
+   {
+    "id": "c46863c30810",
+    "title": "Jensen Huang and the decline of the visionary showman founder CEO",
+    "summary": "On January 6th, 2025, Nvidia CEO Jensen Huang got his rockstar moment at last. He strode triumphantly onstage, hand raised in the air, to the claps and cheers of a 14,000-person arena absolutely pack…",
+    "category": "Business",
+    "score": 41.5,
+    "published_at": "2026-11-14T12:00:00+00:00",
+    "sources": [
+     {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo"
+     }
+    ],
+    "primary_url": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo"
+   },
+   {
+    "id": "938a8fdebfb4",
+    "title": "Anthropic can already retrain Mythos with \"a fraction of the compute originally needed,\" says former researcher Coxon",
+    "summary": "Former OpenAI and Anthropic researcher Jacob Coxon points to a slide from Anthropic's IPO roadshow as a reason he left, saying it shows the company's algorithms are improving not just quickly but at …",
+    "category": "Business",
+    "score": 41.3,
+    "published_at": "2026-11-14T11:21:41+00:00",
+    "sources": [
+     {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/anthropic-can-already-retrain-mythos-with-a-fraction-of-the-compute-originally-needed-says-former-researcher-coxon/"
+     }
+    ],
+    "primary_url": "https://the-decoder.com/anthropic-can-already-retrain-mythos-with-a-fraction-of-the-compute-originally-needed-says-former-researcher-coxon/"
+   }
+  ],
+  "Other": [
+   {
+    "id": "1cd6c3ec19d7",
+    "title": "The Claude Delusion",
+    "summary": "",
+    "category": "Other",
+    "score": 62.3,
+    "published_at": "2026-11-14T13:36:17+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://www.netmeister.org/blog/claude-delusion.html"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50496921"
+     }
+    ],
+    "primary_url": "https://www.netmeister.org/blog/claude-delusion.html"
+   },
+   {
+    "id": "0b67abad1121",
+    "title": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
+    "summary": "",
+    "category": "Other",
+    "score": 56.6,
+    "published_at": "2026-11-13T15:08:44+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50484658"
+     }
+    ],
+    "primary_url": "https://www.youtube.com/watch?v=IRK8h67ol7Q"
+   },
+   {
+    "id": "9f3952a424ef",
+    "title": "No AI Slop: A Manifesto",
+    "summary": "",
+    "category": "Other",
+    "score": 56.5,
+    "published_at": "2026-11-13T19:51:56+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://www.slopmanifesto.com/"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50488769"
+     }
+    ],
+    "primary_url": "https://www.slopmanifesto.com/"
+   },
+   {
+    "id": "21ab7432dba4",
+    "title": "Claude Meetings",
+    "summary": "",
+    "category": "Other",
+    "score": 55.6,
+    "published_at": "2026-11-13T22:39:15+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://claude.com/resources/articles/claude-meetings"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50491097"
+     }
+    ],
+    "primary_url": "https://claude.com/resources/articles/claude-meetings"
+   },
+   {
+    "id": "2f44ca0e016f",
+    "title": "AI is destroying the trust between writers and readers",
+    "summary": "",
+    "category": "Other",
+    "score": 54.4,
+    "published_at": "2026-11-13T11:13:46+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50481870"
+     }
+    ],
+    "primary_url": "https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/"
+   },
+   {
+    "id": "22bcd83804c6",
+    "title": "Claude Is Down",
+    "summary": "",
+    "category": "Other",
+    "score": 52.3,
+    "published_at": "2026-11-13T10:20:09+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://status.claude.com/history"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50481220"
+     }
+    ],
+    "primary_url": "https://status.claude.com/history"
+   },
+   {
+    "id": "f980cc1f1e21",
+    "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+    "summary": "",
+    "category": "Other",
+    "score": 49.2,
+    "published_at": "2026-11-12T23:06:17+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50475713"
+     }
+    ],
+    "primary_url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer"
+   },
+   {
+    "id": "26a6fb343a8e",
+    "title": "Why You Should Expect an AI Crash",
+    "summary": "",
+    "category": "Other",
+    "score": 45.7,
+    "published_at": "2026-11-12T23:08:31+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://www.economist.com/leaders/2026/11/12/why-you-should-expect-an-ai-crash"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50475735"
+     }
+    ],
+    "primary_url": "https://www.economist.com/leaders/2026/11/12/why-you-should-expect-an-ai-crash"
+   },
+   {
+    "id": "0bcca453470d",
+    "title": "英伟达上演“奥特曼2.0”，员工集体请愿：让老黄回家！",
+    "summary": "马斯克也签名了",
+    "category": "Other",
+    "score": 40.8,
+    "published_at": "2026-11-14T10:08:08+00:00",
+    "sources": [
+     {
+      "name": "量子位",
+      "url": "https://www.qbitai.com/2026/11/510297.html"
+     }
+    ],
+    "primary_url": "https://www.qbitai.com/2026/11/510297.html"
+   },
+   {
+    "id": "94b4d3764c12",
+    "title": "程序员集体沉迷折纸飞机！最长滞空31.2秒",
+    "summary": "童年的纸飞机，现在终于飞回我手里～",
+    "category": "Other",
+    "score": 40.6,
+    "published_at": "2026-11-14T09:48:34+00:00",
+    "sources": [
+     {
+      "name": "量子位",
+      "url": "https://www.qbitai.com/2026/11/510150.html"
+     }
+    ],
+    "primary_url": "https://www.qbitai.com/2026/11/510150.html"
+   }
+  ]
+ },
+ "source_list": [
+  {
+   "name": "Techmeme",
+   "url": "https://www.techmeme.com/feed.xml"
+  },
+  {
+   "name": "Hacker News",
+   "url": "https://hn.algolia.com/api/v1/search_by_date"
+  },
+  {
+   "name": "Readhub",
+   "url": "https://api.readhub.cn/topic/list"
+  },
+  {
+   "name": "r/MachineLearning",
+   "url": "https://www.reddit.com/r/MachineLearning/top/.rss?t=day"
+  },
+  {
+   "name": "r/LocalLLaMA",
+   "url": "https://www.reddit.com/r/LocalLLaMA/top/.rss?t=day"
+  },
+  {
+   "name": "OpenAI",
+   "url": "https://openai.com/news/rss.xml"
+  },
+  {
+   "name": "Google DeepMind",
+   "url": "https://deepmind.google/blog/rss.xml"
+  },
+  {
+   "name": "Hugging Face Blog",
+   "url": "https://huggingface.co/blog/feed.xml"
+  },
+  {
+   "name": "Mistral AI",
+   "url": "https://mistral.ai/rss.xml"
+  },
+  {
+   "name": "NVIDIA Blog",
+   "url": "https://blogs.nvidia.com/feed/"
+  },
+  {
+   "name": "TechCrunch",
+   "url": "https://techcrunch.com/category/artificial-intelligence/feed/"
+  },
+  {
+   "name": "The Verge",
+   "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml"
+  },
+  {
+   "name": "MIT Technology Review",
+   "url": "https://www.technologyreview.com/topic/artificial-intelligence/feed"
+  },
+  {
+   "name": "Ars Technica",
+   "url": "https://arstechnica.com/ai/feed/"
+  },
+  {
+   "name": "The Decoder",
+   "url": "https://the-decoder.com/feed/"
+  },
+  {
+   "name": "Hugging Face Papers",
+   "url": "https://huggingface.co/api/daily_papers"
+  },
+  {
+   "name": "GitHub Trending",
+   "url": "https://github.com/trending?since=daily"
+  },
+  {
+   "name": "Hugging Face Trending",
+   "url": "https://huggingface.co/api/models?sort=trendingScore&limit=20"
+  },
+  {
+   "name": "量子位",
+   "url": "https://www.qbitai.com/feed"
+  },
+  {
+   "name": "IT之家",
+   "url": "https://www.ithome.com/rss/"
+  },
+  {
+   "name": "iThome",
+   "url": "https://www.ithome.com.tw/rss.xml"
+  },
+  {
+   "name": "INSIDE",
+   "url": "https://www.inside.com.tw/feed/rss"
+  }
+ ],
+ "stats": {
+  "fetched": 162,
+  "after_dedup": 162,
+  "sources_ok": 21,
+  "sources_failed": 1,
+  "failed_sources": {
+   "r/LocalLLaMA": "HTTPError: 429 Client Error: Too Many Requests for url: https://www.reddit.com/r/LocalLLaMA/top/.rss?t=day"
+  },
+  "duration_s": 2.7
+ }
+}

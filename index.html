@@ -128,11 +128,15 @@
       const COLOR = {
         // Morandi palette: muted, grey-toned
         Headlines: "#b9806a", "Dark Horses": "#8c7d9e", Rising: "#7b91a6",
-        "AI Agents": "#9a86a3", "AI Apps": "#7c9f96", Skills: "#bfa071", MCP: "#7d9cad",
-        "Open Source": "#8ca37c", Innovation: "#c08f98", Security: "#ad6f69", Other: "#9b958f",
+        Models: "#c08f98", "Agents & Dev Tools": "#9a86a3", Products: "#7c9f96", "Open Source": "#8ca37c",
+        Research: "#7d9cad", "Policy & Safety": "#ad6f69", Business: "#bfa071", Other: "#9b958f",
       };
       const color = (k) => COLOR[k] || "#9b958f";
-      const CATEGORIES = ["AI Agents", "AI Apps", "Skills", "MCP", "Open Source", "Innovation", "Security", "Other"];
+      const CATEGORIES = ["Models", "Agents & Dev Tools", "Products", "Open Source", "Research", "Policy & Safety", "Business", "Other"];
+      // tab and tag labels: English · 中文; the data keeps the English names
+      const ZH = { Models: "模型", "Agents & Dev Tools": "Agent 與開發工具", Products: "產品應用", "Open Source": "開源",
+        Research: "研究", "Policy & Safety": "政策與安全", Business: "產業", Other: "其他" };
+      const label = (c) => (ZH[c] ? `${c} · ${ZH[c]}` : c);
       const $ = (id) => document.getElementById(id);
       const state = { data: null, tab: "Headlines", expanded: false, q: "" };
       const listFor = (tab) => (state.data.highlights || {})[tab] || state.data.categories[tab] || [];
@@ -152,7 +156,7 @@
 
       function card(it, rank) {
         return `<article class="card" style="--c:${color(it.category)}">
-          <div class="card-top"><span class="rank mono${rank <= 3 ? " top" : ""}">#${rank}</span><span class="tag">${esc(it.category)}</span><span class="score mono">${it.score}</span></div>
+          <div class="card-top"><span class="rank mono${rank <= 3 ? " top" : ""}">#${rank}</span><span class="tag">${esc(label(it.category))}</span><span class="score mono">${it.score}</span></div>
           <h2>${link(it.primary_url, it.title)}</h2>
           ${it.summary ? `<p class="summary">${esc(it.summary)}</p>` : ""}
           ${sourcesBlock(it)}
@@ -167,7 +171,7 @@
 
       function renderTabs() {
         const d = state.data;
-        const tabs = [...HIGHLIGHTS, ...CATEGORIES].map((t) => [t, t, listFor(t).length]);
+        const tabs = [...HIGHLIGHTS, ...CATEGORIES].map((t) => [t, label(t), listFor(t).length]);
         $("tabs").innerHTML = tabs
           .map(([id, label, n]) => `<button class="tab" role="tab" style="--c:${color(id)}" data-tab="${esc(id)}" aria-selected="${id === state.tab}"><span class="dot"></span>${esc(label)}<span class="n mono">${n}</span></button>`)
           .join("");

@@ -27,11 +27,11 @@ uv pip install --python .venv/bin/python -r requirements.txt
 
 | 步驟 | 做法 |
 |---|---|
-| 抓取 | `sources.yaml` 列出的來源，只取 48 小時內的項目；單一來源失敗只記 log |
+| 抓取 | `sources.yaml` 列出的來源，只取 48 小時內的項目；單一來源失敗只記 log。優先用帶熱度訊號的來源（Techmeme、HN、Readhub、Hugging Face Papers、GitHub／HF 熱門榜）；官方部落格與媒體 RSS 權重較低，主要用來增加跨來源報導數。中文來源有量子位、IT之家、Readhub（簡體）與 iThome、INSIDE（繁體） |
 | 去重與聚類 | 網址去掉 utm 等追蹤參數和結尾斜線；標題相似度 > 0.85 視為同一事件，保留所有來源連結 |
-| 評分（0–100） | 來源權重 30%、跨來源報導數 30%（最多計 5 個來源）、時效 20%（48 小時線性遞減）、社群熱度 20%（HN 分數、GitHub 當日星數、HF 熱度，分類型取對數正規化） |
-| 分類 | `pipeline/classify.py` 的關鍵字規則：AI Agents、AI Apps、Skills、MCP、Open Source、Innovation、Security、Other。先比對標題，標題沒有符合再看描述；第一個符合的類別勝出。arXiv 歸 Innovation，GitHub／HF 熱門榜沒有更具體的類別時歸 Open Source |
-| 精選 | Headlines（必知大新聞）：大廠官方發布或多來源報導，報導數多的優先；Dark Horses（受歡迎的黑馬）：HN 熱門但與大廠無關；Rising（最有潛力）：GitHub／HF 熱門榜與 Show HN 上非大廠的專案。三者都從整輪所有新聞中挑，各取 10 則 |
+| 評分（0–100） | 來源權重 30%、跨來源報導數 30%（最多計 5 個來源）、時效 20%（48 小時線性遞減）、社群熱度 20%（HN 分數、Readhub 報導家數、HF Papers upvotes、GitHub 當日星數、HF 熱度，分類型取對數正規化） |
+| 分類 | `pipeline/classify.py` 的關鍵字規則（中文關鍵字含繁簡）：Policy & Safety、Agents & Dev Tools、Open Source、Models、Research、Business、Products，都沒符合歸 Other；頁面顯示中英對照（例：Models · 模型）。先比對標題，標題沒有符合再看描述；依上列順序，第一個符合的類別勝出。Hugging Face Papers 歸 Research，GitHub／HF 熱門榜沒有更具體的類別時歸 Open Source |
+| 精選 | Headlines（必知大新聞）：有社群熱度（HN、Readhub）、出自 Techmeme，或至少兩個來源報導的新聞，依報導數加熱度排序，同一網站最多 2 則；官方發布本身不再直接入選，只在新聞不足時補位；Dark Horses（受歡迎的黑馬）：HN 熱門但與大廠無關；Rising（最有潛力）：GitHub／HF 熱門榜與 Show HN 上非大廠的專案。三者都從整輪所有新聞中挑，各取 10 則 |
 | 語言 | 頁面介面是英文；新聞標題與描述維持各來源的原文，不翻譯 |
 | 簡介 | 來源 RSS 自帶的描述，截到 200 字；沒有描述的項目只顯示標題 |
 | 發布 | 寫入 `data/latest.json` 和 `data/archive/YYYY-MM-DD-HH.json`（UTC），由 workflow 提交並部署 |
@@ -44,6 +44,7 @@ uv pip install --python .venv/bin/python -r requirements.txt
 - **熱門榜沒有發布時間**：GitHub Trending 與 Hugging Face trending 沒有日期，時效分數固定給 0.5。
 - **Reddit 沒有 upvotes**：Reddit JSON API 對未登入請求回 403，只能用 RSS，因此 Reddit 項目不計社群熱度。Reddit 也常對雲端主機限流，失敗時跳過。
 - **移除的來源**：Meta AI、VentureBeat、數位時代沒有可用的格式，詳見 `sources_report.md`。
+- **2026-11-14 調整**：Anthropic 暫停（sitemap 的 lastmod 會在網站重新部署時全部刷新，舊文章被當成新的）；拿掉 Microsoft Research、NVIDIA Developer 與 arXiv 四個分類，論文改用 Hugging Face Papers 前一天的榜單；Hugging Face 熱門模型排除 uncensored、merge、GGUF 這類改版；GitHub Trending 只收當日 100 星以上。
 
 ## 著作權與來源標示
 

@@ -22,7 +22,8 @@ AI_WORDS = re.compile(
     r"|artificial intelligence|machine learning|deep learning|neural|transformer|diffusion|"
     r"language model|openai|anthropic|claude|gemini|deepmind|llama|mistral|qwen|deepseek|kimi|"
     r"copilot|chatbot|agentic|inference|embedding|fine-tun|multimodal|"
-    r"人工智慧|生成式|大模型|語言模型|機器學習|深度學習|神經網路|智慧代理|聊天機器人|算力",
+    r"人工智慧|人工智能|生成式|大模型|語言模型|语言模型|機器學習|机器学习|深度學習|深度学习|神經網路|神经网络|"
+    r"智慧代理|智能體|智能体|聊天機器人|聊天机器人|算力|具身智能|豆包|文心|通义|元宝|智谱|月之暗面",
     re.IGNORECASE,
 )
 
@@ -132,15 +133,45 @@ def fetch_github_trending(src, now):
             continue
         m = re.search(r"([\d,]+) stars today", row.get_text())
         stars = int(m.group(1).replace(",", "")) if m else 0
+        if stars < src.get("min_stars", 0):
+            continue
         out.append(item(src, f"{repo}: {desc}" if desc else repo, f"https://github.com/{repo}", now, desc,
                         heat=("github", stars), undated=True))
     return out
 
 
+# fine-tune remixes that top the trending list without being news
+HF_NOISE = re.compile(r"uncensored|abliterat|heretic|merge|gguf|-exl\d|\bnsfw\b", re.IGNORECASE)
+
+
 def fetch_hf_models(src, now):
     models = get(src["url"]).json()
     return [item(src, m["id"], f"https://huggingface.co/{m['id']}", now, heat=("hf", m.get("trendingScore", 0)), undated=True)
-            for m in models]
+            for m in models if not HF_NOISE.search(m["id"])]
+
+
+def fetch_hf_papers(src, now):
+    # yesterday's list is complete; its upvotes are the heat. The paper's own date is its arXiv date, so treat it as undated
+    day = (now - timedelta(days=1)).strftime("%Y-%m-%d")
+    papers = get(f"{src['url']}?date={day}").json()
+    papers.sort(key=lambda p: p["paper"].get("upvotes", 0), reverse=True)
+    return [item(src, p["title"], f"https://huggingface.co/papers/{p['paper']['id']}", now, p.get("summary", ""),
+                 heat=("hf_papers", p["paper"].get("upvotes", 0)), undated=True) for p in papers]
+
+
+def fetch_readhub(src, now):
+    # Readhub clusters Chinese tech coverage; siteCount = how many outlets reported the event
+    topics = get(src["url"]).json()["data"]
+    topics = topics.get("items", topics) if isinstance(topics, dict) else topics
+    out = []
+    for t in topics:
+        summary = t.get("summary", "")
+        if src.get("ai_filter") and not is_ai(t.get("title"), summary):
+            continue
+        published = datetime.fromisoformat(t["publishDate"].replace("Z", "+00:00"))
+        out.append(item(src, t["title"], f"https://readhub.cn/topic/{t['uid']}", published, summary,
+                        heat=("readhub", t.get("siteCount", 0))))
+    return out
 
 
 FETCHERS = {
@@ -149,6 +180,8 @@ FETCHERS = {
     "hn": fetch_hn,
     "github_trending": fetch_github_trending,
     "hf_models": fetch_hf_models,
+    "hf_papers": fetch_hf_papers,
+    "readhub": fetch_readhub,
 }
 
 

@@ -2,7 +2,7 @@ name: Update AI trend data
 
 on:
   schedule:
-    - cron: "0 */6 * * *" # UTC
+    - cron: "0 */12 * * *" # UTC
   workflow_dispatch:
   push:
     branches: [main]

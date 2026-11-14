@@ -1,11 +1,11 @@
 # AI 趨勢日報
 
-每 6 小時自動抓取全球 AI 新聞，經過去重、評分、分類後存成 JSON，發布成 GitHub Pages 靜態網站。每則新聞都標出來源並附原文連結。不使用 AI、不需要任何 API 金鑰。
+每 12 小時自動抓取全球 AI 新聞，經過去重、評分、分類後存成 JSON，發布成 GitHub Pages 靜態網站。每則新聞都標出來源並附原文連結。不使用 AI、不需要任何 API 金鑰。
 
 ## 第一次設定
 
 1. 啟用 Pages：Settings → Pages → Build and deployment → Source 選 **GitHub Actions**。免費方案的 organization 只有 public repo 能用 Pages。
-2. 手動跑第一次：Actions → Update AI trend data → Run workflow。之後每天 00、06、12、18 點（UTC）自動執行。
+2. 手動跑第一次：Actions → Update AI trend data → Run workflow。之後每天 00、12 點（UTC，台北 08、20 點）自動執行。
 
 ## 本機執行
 

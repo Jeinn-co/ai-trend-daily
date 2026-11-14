@@ -1,76 +1,91 @@
 {
- "updated_at": "2026-11-14T03:11:54+00:00",
+ "updated_at": "2026-11-14T04:39:32+00:00",
  "top10": [
   {
-   "id": "92484d158abd",
-   "title": "苹果推送 tvOS 27.2.1 更新，第二/三代 Apple TV 4K 新增 Siri AI 支持",
-   "summary": "IT之家 11 月 14 日消息，科技媒体 MacRumors 今天（11 月 14 日）发布博文，报道称苹果已推送 tvOS 27.2.1 以及 HomePod Software 27.2.1，内部开发代号均为 24K157。 本次 tvOS 27.2.1 更新最大的亮点， 是苹果面向第二代和第三代 Apple TV 4K 推送 Siri AI 支持 。对这些设备的用户而言，无须更换新款硬件，…",
+   "id": "9f90376053e4",
+   "title": "中证协启动券商财务数智化应用调研",
+   "summary": "中国证券业协会向各证券公司下发通知，开展财务数智化应用调研，为行业深化财务数智化建设、提升财务核算质效、推动财务职能升级提供参考。此次调研问卷将财务数智化建设划分为五个依次递进的阶段，聚焦六大财务领域，同时将 AI 相关风险列为重点，兼顾提效与安全。",
    "category": "Products",
-   "score": 71.4,
-   "published_at": "2026-11-14T02:11:43+00:00",
+   "score": 69.6,
+   "published_at": "2026-11-14T03:40:27.250000+00:00",
    "sources": [
     {
      "name": "Readhub",
-     "url": "https://readhub.cn/topic/8y1nm7f1hRe"
+     "url": "https://readhub.cn/topic/8y2hWnw8xOb"
+    }
+   ],
+   "primary_url": "https://readhub.cn/topic/8y2hWnw8xOb"
+  },
+  {
+   "id": "8fc9301cb208",
+   "title": "吴清：进一步深化人工智能与资本市场双向赋能研究",
+   "summary": "证监会相关致辞指出，要进一步深化人工智能与资本市场双向赋能研究。当前人工智能正快速对科研、产业创新和生产生活产生系统性深层次影响，但其长远影响仍需结合技术迭代、场景落地、组织变革和有效治理等持续观察。资本市场既要积极适应新技术变革，在估值定价、信息披露等方面加强制度研究，精准支持相关硬科技企业发展壮大，有效增进社会福祉。也要深入研究人工智能对生产力和生产关系的重塑在资本市场的传导映射，加快研究责…",
+   "category": "Research",
+   "score": 67.1,
+   "published_at": "2026-11-14T04:25:14.375000+00:00",
+   "sources": [
+    {
+     "name": "Readhub",
+     "url": "https://readhub.cn/topic/8y2kj4Ixvnl"
+    }
+   ],
+   "primary_url": "https://readhub.cn/topic/8y2kj4Ixvnl"
+  },
+  {
+   "id": "bdeca5f2b445",
+   "title": "网页端代码浮现额度管理机制，DeepSeek 订阅制收费或提上日程",
+   "summary": "此前 DeepSeek 面向个人用户仅开放平台 API 按 Token 用量计费，聊天产品始终免费，从未推出过会员换对话次数的模式。近日开发者发现其聊天产品前端代码暗藏完整额度管理逻辑，相关额度耗尽提示、状态轮询、界面替换等功能均已就位，整套体系指向名为「Coding Plan」的专属套餐，社区猜测其可能伴随 DeepSeek V4.1 Pro 上线推出首个 C 端付费方案，目前官方尚未披露订阅…",
+   "category": "Business",
+   "score": 67.0,
+   "published_at": "2026-11-14T04:10:19.921000+00:00",
+   "sources": [
+    {
+     "name": "Readhub",
+     "url": "https://readhub.cn/topic/8y2ZfNfbK0M"
+    }
+   ],
+   "primary_url": "https://readhub.cn/topic/8y2ZfNfbK0M"
+  },
+  {
+   "id": "6f9dcba0cb74",
+   "title": "小米澎湃 OS 4 第三批正式版开启推送：覆盖小米 15、REDMI K80 系列等",
+   "summary": "小米官方宣布澎湃 OS 4 第三批机型正式版即日起陆续推送，符合条件的设备可在系统更新中检测新版本。澎湃 OS 4 是小米新一代操作系统，在 AI 能力、跨设备协同和基础流畅度方面全面升级，融合超级小爱 2.0 和自研 MiMo 大模型，带来专家模式、灵感球交互等全新特性。UI 方面首发柔光玻璃交互材质，支持桌面自定义全面放开，全新柔性悬浮框架适配手机和平板。流畅度经底层内核优化，连续 9 小时…",
+   "category": "Models",
+   "score": 66.8,
+   "published_at": "2026-11-14T03:40:26.603000+00:00",
+   "sources": [
+    {
+     "name": "Readhub",
+     "url": "https://readhub.cn/topic/8y1XOxZOb8u"
+    }
+   ],
+   "primary_url": "https://readhub.cn/topic/8y1XOxZOb8u"
+  },
+  {
+   "id": "b26717d449a4",
+   "title": "Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs",
+   "summary": "",
+   "category": "Business",
+   "score": 62.9,
+   "published_at": "2026-11-14T02:52:59+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus"
     },
     {
-     "name": "IT之家",
-     "url": "https://www.ithome.com/1/027/052.htm"
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50493251"
     }
    ],
-   "primary_url": "https://readhub.cn/topic/8y1nm7f1hRe"
-  },
-  {
-   "id": "a13596b95a2b",
-   "title": "华为首款鸿蒙小折叠电脑 MateBook Fold S 开启预订",
-   "summary": "华为首款鸿蒙小折叠电脑 MateBook Fold S 正式开启预订，11 月 24 日付尾款，暂未公布售价，国补 1500 元，售价暗示超 9999 元。产品提供幻夜黑、天际白、云海蓝三种配色，共四个存储版本，顶配版本额外附赠手写笔。该产品为纵向小尺寸折叠形态，机身接近书本大小，面向移动办公场景，展开后是 14.7 英寸大屏，支持分屏多窗口操作。机身外侧配有 Live 小方屏，折叠状态下可查看…",
-   "category": "Products",
-   "score": 69.8,
-   "published_at": "2026-11-14T02:40:23.518000+00:00",
-   "sources": [
-    {
-     "name": "Readhub",
-     "url": "https://readhub.cn/topic/8y2aNWrF10g"
-    }
-   ],
-   "primary_url": "https://readhub.cn/topic/8y2aNWrF10g"
-  },
-  {
-   "id": "0fcb9bee46e3",
-   "title": "llama.cpp 与 ggml 双双迈入 1.0.0，本地大模型推理库迎来稳定新阶段",
-   "summary": "支撑本地大语言模型运行的核心项目 llama.cpp 及其底层张量库 ggml 正式同步发布 1.0.0 版本。llama.cpp 主打让大模型脱离云端依赖直接在本地设备运行，兼顾本地部署与云端推理场景，核心目标是降低部署难度、最大化释放设备算力。ggml 作为底层机器学习张量库，可通过专用后端对接不同硬件平台，实现跨硬件灵活适配。此次 1.0.0 版本明确划定兼容性边界，落地语义化版本规则，让…",
-   "category": "Models",
-   "score": 69.6,
-   "published_at": "2026-11-14T02:10:26.279000+00:00",
-   "sources": [
-    {
-     "name": "Readhub",
-     "url": "https://readhub.cn/topic/8y2UeOQ9G6b"
-    }
-   ],
-   "primary_url": "https://readhub.cn/topic/8y2UeOQ9G6b"
-  },
-  {
-   "id": "dbcbc77c48e8",
-   "title": "DeepSeek 开放多项功能 API 开发者无需自行拼接整合",
-   "summary": "DeepSeek 正式开放应用全家桶 API，将此前仅在自家 App 和网页端可用的深度思考搜索、文件上传、链接阅读、语音交互、文字识别等功能全部整合进接口，开发者可直接调用，官方称凭此可 1:1 复刻完整的 DeepSeek 应用。此前开发者复刻同类应用需自行部署大模型、对接各类外部工具，流程繁琐。此次新 API 由服务端完成工具调用、上下文拼接等工作，开发者只需开启对应参数即可使用完整能力，…",
-   "category": "Products",
-   "score": 65.0,
-   "published_at": "2026-11-14T01:10:20.177000+00:00",
-   "sources": [
-    {
-     "name": "Readhub",
-     "url": "https://readhub.cn/topic/8y1oVAQ4VH7"
-    }
-   ],
-   "primary_url": "https://readhub.cn/topic/8y1oVAQ4VH7"
+   "primary_url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus"
   },
   {
    "id": "a1e895b935bb",
    "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
    "summary": "",
    "category": "Research",
-   "score": 62.9,
+   "score": 62.4,
    "published_at": "2026-11-13T17:30:10+00:00",
    "sources": [
     {
@@ -89,7 +104,7 @@
    "title": "No AI Slop: A Manifesto",
    "summary": "",
    "category": "Other",
-   "score": 62.1,
+   "score": 61.5,
    "published_at": "2026-11-13T19:51:56+00:00",
    "sources": [
     {
@@ -108,7 +123,7 @@
    "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
    "summary": "",
    "category": "Agents & Dev Tools",
-   "score": 60.9,
+   "score": 60.3,
    "published_at": "2026-11-13T10:18:13+00:00",
    "sources": [
     {
@@ -127,7 +142,7 @@
    "title": "OpenAI disbands its robotics team as its general models start running robots",
    "summary": "",
    "category": "Research",
-   "score": 60.6,
+   "score": 60.1,
    "published_at": "2026-11-13T17:55:23+00:00",
    "sources": [
     {
@@ -146,7 +161,7 @@
    "title": "Why is Google cutting off Search from AI-free schools? Here are some theories",
    "summary": "",
    "category": "Products",
-   "score": 60.0,
+   "score": 59.5,
    "published_at": "2026-11-13T15:29:10+00:00",
    "sources": [
     {
@@ -159,98 +174,94 @@
     }
    ],
    "primary_url": "https://text.npr.org/nx-s1-6029408"
-  },
-  {
-   "id": "2f44ca0e016f",
-   "title": "AI is destroying the trust between writers and readers",
-   "summary": "",
-   "category": "Other",
-   "score": 60.0,
-   "published_at": "2026-11-13T11:13:46+00:00",
-   "sources": [
-    {
-     "name": "Hacker News",
-     "url": "https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/"
-    },
-    {
-     "name": "Hacker News 討論",
-     "url": "https://news.ycombinator.com/item?id=50481870"
-    }
-   ],
-   "primary_url": "https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/"
   }
  ],
  "all": [
   {
-   "id": "92484d158abd",
-   "title": "苹果推送 tvOS 27.2.1 更新，第二/三代 Apple TV 4K 新增 Siri AI 支持",
-   "summary": "IT之家 11 月 14 日消息，科技媒体 MacRumors 今天（11 月 14 日）发布博文，报道称苹果已推送 tvOS 27.2.1 以及 HomePod Software 27.2.1，内部开发代号均为 24K157。 本次 tvOS 27.2.1 更新最大的亮点， 是苹果面向第二代和第三代 Apple TV 4K 推送 Siri AI 支持 。对这些设备的用户而言，无须更换新款硬件，…",
+   "id": "9f90376053e4",
+   "title": "中证协启动券商财务数智化应用调研",
+   "summary": "中国证券业协会向各证券公司下发通知，开展财务数智化应用调研，为行业深化财务数智化建设、提升财务核算质效、推动财务职能升级提供参考。此次调研问卷将财务数智化建设划分为五个依次递进的阶段，聚焦六大财务领域，同时将 AI 相关风险列为重点，兼顾提效与安全。",
    "category": "Products",
-   "score": 71.4,
-   "published_at": "2026-11-14T02:11:43+00:00",
+   "score": 69.6,
+   "published_at": "2026-11-14T03:40:27.250000+00:00",
    "sources": [
     {
      "name": "Readhub",
-     "url": "https://readhub.cn/topic/8y1nm7f1hRe"
+     "url": "https://readhub.cn/topic/8y2hWnw8xOb"
+    }
+   ],
+   "primary_url": "https://readhub.cn/topic/8y2hWnw8xOb"
+  },
+  {
+   "id": "8fc9301cb208",
+   "title": "吴清：进一步深化人工智能与资本市场双向赋能研究",
+   "summary": "证监会相关致辞指出，要进一步深化人工智能与资本市场双向赋能研究。当前人工智能正快速对科研、产业创新和生产生活产生系统性深层次影响，但其长远影响仍需结合技术迭代、场景落地、组织变革和有效治理等持续观察。资本市场既要积极适应新技术变革，在估值定价、信息披露等方面加强制度研究，精准支持相关硬科技企业发展壮大，有效增进社会福祉。也要深入研究人工智能对生产力和生产关系的重塑在资本市场的传导映射，加快研究责…",
+   "category": "Research",
+   "score": 67.1,
+   "published_at": "2026-11-14T04:25:14.375000+00:00",
+   "sources": [
+    {
+     "name": "Readhub",
+     "url": "https://readhub.cn/topic/8y2kj4Ixvnl"
+    }
+   ],
+   "primary_url": "https://readhub.cn/topic/8y2kj4Ixvnl"
+  },
+  {
+   "id": "bdeca5f2b445",
+   "title": "网页端代码浮现额度管理机制，DeepSeek 订阅制收费或提上日程",
+   "summary": "此前 DeepSeek 面向个人用户仅开放平台 API 按 Token 用量计费，聊天产品始终免费，从未推出过会员换对话次数的模式。近日开发者发现其聊天产品前端代码暗藏完整额度管理逻辑，相关额度耗尽提示、状态轮询、界面替换等功能均已就位，整套体系指向名为「Coding Plan」的专属套餐，社区猜测其可能伴随 DeepSeek V4.1 Pro 上线推出首个 C 端付费方案，目前官方尚未披露订阅…",
+   "category": "Business",
+   "score": 67.0,
+   "published_at": "2026-11-14T04:10:19.921000+00:00",
+   "sources": [
+    {
+     "name": "Readhub",
+     "url": "https://readhub.cn/topic/8y2ZfNfbK0M"
+    }
+   ],
+   "primary_url": "https://readhub.cn/topic/8y2ZfNfbK0M"
+  },
+  {
+   "id": "6f9dcba0cb74",
+   "title": "小米澎湃 OS 4 第三批正式版开启推送：覆盖小米 15、REDMI K80 系列等",
+   "summary": "小米官方宣布澎湃 OS 4 第三批机型正式版即日起陆续推送，符合条件的设备可在系统更新中检测新版本。澎湃 OS 4 是小米新一代操作系统，在 AI 能力、跨设备协同和基础流畅度方面全面升级，融合超级小爱 2.0 和自研 MiMo 大模型，带来专家模式、灵感球交互等全新特性。UI 方面首发柔光玻璃交互材质，支持桌面自定义全面放开，全新柔性悬浮框架适配手机和平板。流畅度经底层内核优化，连续 9 小时…",
+   "category": "Models",
+   "score": 66.8,
+   "published_at": "2026-11-14T03:40:26.603000+00:00",
+   "sources": [
+    {
+     "name": "Readhub",
+     "url": "https://readhub.cn/topic/8y1XOxZOb8u"
+    }
+   ],
+   "primary_url": "https://readhub.cn/topic/8y1XOxZOb8u"
+  },
+  {
+   "id": "b26717d449a4",
+   "title": "Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs",
+   "summary": "",
+   "category": "Business",
+   "score": 62.9,
+   "published_at": "2026-11-14T02:52:59+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus"
     },
     {
-     "name": "IT之家",
-     "url": "https://www.ithome.com/1/027/052.htm"
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50493251"
     }
    ],
-   "primary_url": "https://readhub.cn/topic/8y1nm7f1hRe"
-  },
-  {
-   "id": "a13596b95a2b",
-   "title": "华为首款鸿蒙小折叠电脑 MateBook Fold S 开启预订",
-   "summary": "华为首款鸿蒙小折叠电脑 MateBook Fold S 正式开启预订，11 月 24 日付尾款，暂未公布售价，国补 1500 元，售价暗示超 9999 元。产品提供幻夜黑、天际白、云海蓝三种配色，共四个存储版本，顶配版本额外附赠手写笔。该产品为纵向小尺寸折叠形态，机身接近书本大小，面向移动办公场景，展开后是 14.7 英寸大屏，支持分屏多窗口操作。机身外侧配有 Live 小方屏，折叠状态下可查看…",
-   "category": "Products",
-   "score": 69.8,
-   "published_at": "2026-11-14T02:40:23.518000+00:00",
-   "sources": [
-    {
-     "name": "Readhub",
-     "url": "https://readhub.cn/topic/8y2aNWrF10g"
-    }
-   ],
-   "primary_url": "https://readhub.cn/topic/8y2aNWrF10g"
-  },
-  {
-   "id": "0fcb9bee46e3",
-   "title": "llama.cpp 与 ggml 双双迈入 1.0.0，本地大模型推理库迎来稳定新阶段",
-   "summary": "支撑本地大语言模型运行的核心项目 llama.cpp 及其底层张量库 ggml 正式同步发布 1.0.0 版本。llama.cpp 主打让大模型脱离云端依赖直接在本地设备运行，兼顾本地部署与云端推理场景，核心目标是降低部署难度、最大化释放设备算力。ggml 作为底层机器学习张量库，可通过专用后端对接不同硬件平台，实现跨硬件灵活适配。此次 1.0.0 版本明确划定兼容性边界，落地语义化版本规则，让…",
-   "category": "Models",
-   "score": 69.6,
-   "published_at": "2026-11-14T02:10:26.279000+00:00",
-   "sources": [
-    {
-     "name": "Readhub",
-     "url": "https://readhub.cn/topic/8y2UeOQ9G6b"
-    }
-   ],
-   "primary_url": "https://readhub.cn/topic/8y2UeOQ9G6b"
-  },
-  {
-   "id": "dbcbc77c48e8",
-   "title": "DeepSeek 开放多项功能 API 开发者无需自行拼接整合",
-   "summary": "DeepSeek 正式开放应用全家桶 API，将此前仅在自家 App 和网页端可用的深度思考搜索、文件上传、链接阅读、语音交互、文字识别等功能全部整合进接口，开发者可直接调用，官方称凭此可 1:1 复刻完整的 DeepSeek 应用。此前开发者复刻同类应用需自行部署大模型、对接各类外部工具，流程繁琐。此次新 API 由服务端完成工具调用、上下文拼接等工作，开发者只需开启对应参数即可使用完整能力，…",
-   "category": "Products",
-   "score": 65.0,
-   "published_at": "2026-11-14T01:10:20.177000+00:00",
-   "sources": [
-    {
-     "name": "Readhub",
-     "url": "https://readhub.cn/topic/8y1oVAQ4VH7"
-    }
-   ],
-   "primary_url": "https://readhub.cn/topic/8y1oVAQ4VH7"
+   "primary_url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus"
   },
   {
    "id": "a1e895b935bb",
    "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
    "summary": "",
    "category": "Research",
-   "score": 62.9,
+   "score": 62.4,
    "published_at": "2026-11-13T17:30:10+00:00",
    "sources": [
     {
@@ -269,7 +280,7 @@
    "title": "No AI Slop: A Manifesto",
    "summary": "",
    "category": "Other",
-   "score": 62.1,
+   "score": 61.5,
    "published_at": "2026-11-13T19:51:56+00:00",
    "sources": [
     {
@@ -288,7 +299,7 @@
    "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
    "summary": "",
    "category": "Agents & Dev Tools",
-   "score": 60.9,
+   "score": 60.3,
    "published_at": "2026-11-13T10:18:13+00:00",
    "sources": [
     {
@@ -307,7 +318,7 @@
    "title": "OpenAI disbands its robotics team as its general models start running robots",
    "summary": "",
    "category": "Research",
-   "score": 60.6,
+   "score": 60.1,
    "published_at": "2026-11-13T17:55:23+00:00",
    "sources": [
     {
@@ -326,7 +337,7 @@
    "title": "Why is Google cutting off Search from AI-free schools? Here are some theories",
    "summary": "",
    "category": "Products",
-   "score": 60.0,
+   "score": 59.5,
    "published_at": "2026-11-13T15:29:10+00:00",
    "sources": [
     {
@@ -345,7 +356,7 @@
    "title": "AI is destroying the trust between writers and readers",
    "summary": "",
    "category": "Other",
-   "score": 60.0,
+   "score": 59.5,
    "published_at": "2026-11-13T11:13:46+00:00",
    "sources": [
     {
@@ -361,10 +372,10 @@
   },
   {
    "id": "0b67abad1121",
-   "title": "Jonathan Blow – If AI Solved Coding, Why Is My Software Still the Same? [video]",
+   "title": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
    "summary": "",
    "category": "Other",
-   "score": 59.5,
+   "score": 59.2,
    "published_at": "2026-11-13T15:08:44+00:00",
    "sources": [
     {
@@ -383,7 +394,7 @@
    "title": "Claude Is Down",
    "summary": "",
    "category": "Other",
-   "score": 58.3,
+   "score": 57.7,
    "published_at": "2026-11-13T10:20:09+00:00",
    "sources": [
     {
@@ -398,11 +409,26 @@
    "primary_url": "https://status.claude.com/history"
   },
   {
+   "id": "2c9708b63937",
+   "title": "Analysis: Sam Bankman-Fried's $500M Anthropic investment in 2021 would be worth ~$37B if Anthropic lists at ~$1.5T; he relinquished his stake in 2024 for ~$1.3B (George Hammond/Financial Times)",
+   "summary": "George Hammond / Financial Times : Analysis: Sam Bankman-Fried's $500M Anthropic investment in 2021 would be worth ~$37B if Anthropic lists at ~$1.5T; he relinquished his stake in 2024 for ~$1.3B — J…",
+   "category": "Business",
+   "score": 55.9,
+   "published_at": "2026-11-14T04:25:01+00:00",
+   "sources": [
+    {
+     "name": "Techmeme",
+     "url": "https://www.techmeme.com/261113/p42#a261113p42"
+    }
+   ],
+   "primary_url": "https://www.techmeme.com/261113/p42#a261113p42"
+  },
+  {
    "id": "b3c84623c44d",
    "title": "Brave Search API now accepts agentic payments via the x402 protocol",
    "summary": "",
    "category": "Agents & Dev Tools",
-   "score": 56.1,
+   "score": 55.5,
    "published_at": "2026-11-13T03:08:08+00:00",
    "sources": [
     {
@@ -421,7 +447,7 @@
    "title": "AI's impact on math is a preview of what AI will do to AI research, with AI matching top human researchers potentially just a couple of years away (Dwarkesh Patel/Dwarkesh Podcast)",
    "summary": "Dwarkesh Patel / Dwarkesh Podcast : AI's impact on math is a preview of what AI will do to AI research, with AI matching top human researchers potentially just a couple of years away — Many thanks to…",
    "category": "Research",
-   "score": 55.5,
+   "score": 54.9,
    "published_at": "2026-11-14T01:55:00+00:00",
    "sources": [
     {
@@ -436,7 +462,7 @@
    "title": "Doc: Amazon, wary of AI agents favoring sites with better data, plans to gather data on nearly every product sold anywhere, including by crawling rivals' sites (Greg Bensinger/Reuters)",
    "summary": "Greg Bensinger / Reuters : Doc: Amazon, wary of AI agents favoring sites with better data, plans to gather data on nearly every product sold anywhere, including by crawling rivals' sites — Amazon (AM…",
    "category": "Agents & Dev Tools",
-   "score": 55.2,
+   "score": 54.6,
    "published_at": "2026-11-14T01:15:03+00:00",
    "sources": [
     {
@@ -451,7 +477,7 @@
    "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
    "summary": "",
    "category": "Other",
-   "score": 55.2,
+   "score": 54.6,
    "published_at": "2026-11-12T23:06:17+00:00",
    "sources": [
     {
@@ -470,7 +496,7 @@
    "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
    "summary": "",
    "category": "Business",
-   "score": 54.8,
+   "score": 54.2,
    "published_at": "2026-11-12T21:56:11+00:00",
    "sources": [
     {
@@ -485,11 +511,41 @@
    "primary_url": "https://unemploymentlabs.com/checkpoint-forensics"
   },
   {
+   "id": "65f8a2e3eddb",
+   "title": "openai/codex-security: OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
+   "summary": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
+   "category": "Policy & Safety",
+   "score": 54.0,
+   "published_at": "2026-11-14T04:39:32.925129+00:00",
+   "sources": [
+    {
+     "name": "GitHub Trending",
+     "url": "https://github.com/openai/codex-security"
+    }
+   ],
+   "primary_url": "https://github.com/openai/codex-security"
+  },
+  {
+   "id": "1f1dbabb56c4",
+   "title": "MiniMaxAI/MiniMax-H3-Image",
+   "summary": "",
+   "category": "Open Source",
+   "score": 54.0,
+   "published_at": "2026-11-14T04:39:32.925129+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face Trending",
+     "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image"
+    }
+   ],
+   "primary_url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image"
+  },
+  {
    "id": "bff36d56523f",
    "title": "ASI, developer of AI tool SMART, says the FAA outage \"is not based on or a result of the SMART system, any product of ASI, or our integration with FAA and ATC\" (Asi/@airspaceintel)",
    "summary": "Asi / @airspaceintel : ASI, developer of AI tool SMART, says the FAA outage “is not based on or a result of the SMART system, any product of ASI, or our integration with FAA and ATC” — The current gr…",
    "category": "Products",
-   "score": 54.5,
+   "score": 53.9,
    "published_at": "2026-11-13T23:35:00+00:00",
    "sources": [
     {
@@ -504,7 +560,7 @@
    "title": "Gemini 4 Hydrogen and Orchestrator",
    "summary": "",
    "category": "Models",
-   "score": 54.5,
+   "score": 53.9,
    "published_at": "2026-11-12T18:52:01+00:00",
    "sources": [
     {
@@ -523,7 +579,7 @@
    "title": "Gemini 4 Hydrogen",
    "summary": "",
    "category": "Models",
-   "score": 54.5,
+   "score": 53.9,
    "published_at": "2026-11-12T18:01:48+00:00",
    "sources": [
     {
@@ -538,41 +594,11 @@
    "primary_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/"
   },
   {
-   "id": "65f8a2e3eddb",
-   "title": "openai/codex-security: OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
-   "summary": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
-   "category": "Policy & Safety",
-   "score": 54.0,
-   "published_at": "2026-11-14T03:11:54.176874+00:00",
-   "sources": [
-    {
-     "name": "GitHub Trending",
-     "url": "https://github.com/openai/codex-security"
-    }
-   ],
-   "primary_url": "https://github.com/openai/codex-security"
-  },
-  {
-   "id": "1f1dbabb56c4",
-   "title": "MiniMaxAI/MiniMax-H3-Image",
-   "summary": "",
-   "category": "Open Source",
-   "score": 54.0,
-   "published_at": "2026-11-14T03:11:54.176874+00:00",
-   "sources": [
-    {
-     "name": "Hugging Face Trending",
-     "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image"
-    }
-   ],
-   "primary_url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image"
-  },
-  {
    "id": "4e5a504f8ed1",
    "title": "The FAA announced on November 10 that it has expanded the use of SMART, an AI tool for advising air traffic controllers to manage congestion, across the US (Jeremy Hsu/Ars Technica)",
    "summary": "Jeremy Hsu / Ars Technica : The FAA announced on November 10 that it has expanded the use of SMART, an AI tool for advising air traffic controllers to manage congestion, across the US — The US govern…",
    "category": "Products",
-   "score": 53.9,
+   "score": 53.3,
    "published_at": "2026-11-13T22:10:02+00:00",
    "sources": [
     {
@@ -587,7 +613,7 @@
    "title": "Sources: Moonshot AI is deactivating its Cayman holding company and moving investors' stakes to its primary operating entity in China to pave the way for an IPO (Wall Street Journal)",
    "summary": "Wall Street Journal : Sources: Moonshot AI is deactivating its Cayman holding company and moving investors' stakes to its primary operating entity in China to pave the way for an IPO — Chinese artifi…",
    "category": "Business",
-   "score": 53.8,
+   "score": 53.2,
    "published_at": "2026-11-13T22:01:42+00:00",
    "sources": [
     {
@@ -602,7 +628,7 @@
    "title": "Anthropic IPO",
    "summary": "",
    "category": "Business",
-   "score": 53.6,
+   "score": 53.0,
    "published_at": "2026-11-12T11:46:41+00:00",
    "sources": [
     {
@@ -621,7 +647,7 @@
    "title": "Microsoft apologizes for the outage, calling it a \"technical issue\" from a \"network capacity upgrade\", and says it was \"not related to cyber or AI/agents\" (@microsoft)",
    "summary": "@microsoft : Microsoft apologizes for the outage, calling it a “technical issue” from a “network capacity upgrade”, and says it was “not related to cyber or AI/agents” — We are deeply sorry for the d…",
    "category": "Agents & Dev Tools",
-   "score": 53.3,
+   "score": 52.7,
    "published_at": "2026-11-13T20:40:02+00:00",
    "sources": [
     {
@@ -636,7 +662,7 @@
    "title": "I'm making LLMs work on small and old devices",
    "summary": "",
    "category": "Models",
-   "score": 52.9,
+   "score": 52.3,
    "published_at": "2026-11-12T15:23:10+00:00",
    "sources": [
     {
@@ -655,7 +681,7 @@
    "title": "AI is turning Apple's app review process into a nightmare for synth developers",
    "summary": "",
    "category": "Products",
-   "score": 52.8,
+   "score": 52.2,
    "published_at": "2026-11-12T21:09:49+00:00",
    "sources": [
     {
@@ -670,31 +696,12 @@
    "primary_url": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html"
   },
   {
-   "id": "26a6fb343a8e",
-   "title": "Why You Should Expect an AI Crash",
-   "summary": "",
-   "category": "Other",
-   "score": 51.7,
-   "published_at": "2026-11-12T23:08:31+00:00",
-   "sources": [
-    {
-     "name": "Hacker News",
-     "url": "https://www.economist.com/leaders/2026/11/12/why-you-should-expect-an-ai-crash"
-    },
-    {
-     "name": "Hacker News 討論",
-     "url": "https://news.ycombinator.com/item?id=50475735"
-    }
-   ],
-   "primary_url": "https://www.economist.com/leaders/2026/11/12/why-you-should-expect-an-ai-crash"
-  },
-  {
    "id": "55ffe1fba5ed",
    "title": "NousResearch/Arete-27B",
    "summary": "",
    "category": "Open Source",
    "score": 51.6,
-   "published_at": "2026-11-14T03:11:54.176874+00:00",
+   "published_at": "2026-11-14T04:39:32.925129+00:00",
    "sources": [
     {
      "name": "Hugging Face Trending",
@@ -709,7 +716,7 @@
    "summary": "",
    "category": "Open Source",
    "score": 51.6,
-   "published_at": "2026-11-14T03:11:54.176874+00:00",
+   "published_at": "2026-11-14T04:39:32.925129+00:00",
    "sources": [
     {
      "name": "Hugging Face Trending",
@@ -724,7 +731,7 @@
    "summary": "",
    "category": "Models",
    "score": 51.5,
-   "published_at": "2026-11-14T03:11:54.176874+00:00",
+   "published_at": "2026-11-14T04:39:32.925129+00:00",
    "sources": [
     {
      "name": "Hugging Face Trending",
@@ -738,8 +745,8 @@
    "title": "speridlabs/idol",
    "summary": "",
    "category": "Open Source",
-   "score": 51.4,
-   "published_at": "2026-11-14T03:11:54.176874+00:00",
+   "score": 51.3,
+   "published_at": "2026-11-14T04:39:32.925129+00:00",
    "sources": [
     {
      "name": "Hugging Face Trending",
@@ -749,12 +756,31 @@
    "primary_url": "https://huggingface.co/speridlabs/idol"
   },
   {
+   "id": "26a6fb343a8e",
+   "title": "Why You Should Expect an AI Crash",
+   "summary": "",
+   "category": "Other",
+   "score": 51.1,
+   "published_at": "2026-11-12T23:08:31+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://www.economist.com/leaders/2026/11/12/why-you-should-expect-an-ai-crash"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50475735"
+    }
+   ],
+   "primary_url": "https://www.economist.com/leaders/2026/11/12/why-you-should-expect-an-ai-crash"
+  },
+  {
    "id": "7838c87736f9",
    "title": "moonshotai/Kimi-K3.1-Pro",
    "summary": "",
    "category": "Open Source",
-   "score": 51.0,
-   "published_at": "2026-11-14T03:11:54.176874+00:00",
+   "score": 50.9,
+   "published_at": "2026-11-14T04:39:32.925129+00:00",
    "sources": [
     {
      "name": "Hugging Face Trending",
@@ -769,7 +795,7 @@
    "summary": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-f…",
    "category": "Models",
    "score": 50.8,
-   "published_at": "2026-11-14T03:11:54.176874+00:00",
+   "published_at": "2026-11-14T04:39:32.925129+00:00",
    "sources": [
     {
      "name": "GitHub Trending",
@@ -784,7 +810,7 @@
    "summary": "Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and capture enhancement tool featuring real-time preview for videos, images, and capture card sources. Combine AI-powered Super …",
    "category": "Open Source",
    "score": 50.8,
-   "published_at": "2026-11-14T03:11:54.176874+00:00",
+   "published_at": "2026-11-14T04:39:32.925129+00:00",
    "sources": [
     {
      "name": "GitHub Trending",
@@ -799,7 +825,7 @@
    "summary": "",
    "category": "Open Source",
    "score": 50.8,
-   "published_at": "2026-11-14T03:11:54.176874+00:00",
+   "published_at": "2026-11-14T04:39:32.925129+00:00",
    "sources": [
     {
      "name": "Hugging Face Trending",
@@ -814,7 +840,7 @@
    "summary": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE…",
    "category": "Policy & Safety",
    "score": 50.2,
-   "published_at": "2026-11-14T03:11:54.176874+00:00",
+   "published_at": "2026-11-14T04:39:32.925129+00:00",
    "sources": [
     {
      "name": "GitHub Trending",
@@ -829,7 +855,7 @@
    "summary": "",
    "category": "Open Source",
    "score": 50.2,
-   "published_at": "2026-11-14T03:11:54.176874+00:00",
+   "published_at": "2026-11-14T04:39:32.925129+00:00",
    "sources": [
     {
      "name": "Hugging Face Trending",
@@ -839,27 +865,12 @@
    "primary_url": "https://huggingface.co/Zyphra/ZONOS3-Mini"
   },
   {
-   "id": "1c6441623ff5",
-   "title": "ccore/Qwen3.5-4B-3D-Coder",
-   "summary": "",
-   "category": "Models",
-   "score": 50.0,
-   "published_at": "2026-11-14T03:11:54.176874+00:00",
-   "sources": [
-    {
-     "name": "Hugging Face Trending",
-     "url": "https://huggingface.co/ccore/Qwen3.5-4B-3D-Coder"
-    }
-   ],
-   "primary_url": "https://huggingface.co/ccore/Qwen3.5-4B-3D-Coder"
-  },
-  {
    "id": "368feff4c462",
    "title": "black-forest-labs/flux-3-image-klein-comfy",
    "summary": "",
    "category": "Open Source",
    "score": 50.0,
-   "published_at": "2026-11-14T03:11:54.176874+00:00",
+   "published_at": "2026-11-14T04:39:32.925129+00:00",
    "sources": [
     {
      "name": "Hugging Face Trending",
@@ -874,7 +885,7 @@
    "summary": "",
    "category": "Open Source",
    "score": 50.0,
-   "published_at": "2026-11-14T03:11:54.176874+00:00",
+   "published_at": "2026-11-14T04:39:32.925129+00:00",
    "sources": [
     {
      "name": "Hugging Face Trending",
@@ -884,12 +895,27 @@
    "primary_url": "https://huggingface.co/thinkingmachines/Inkling-2-Small"
   },
   {
+   "id": "1c6441623ff5",
+   "title": "ccore/Qwen3.5-4B-3D-Coder",
+   "summary": "",
+   "category": "Models",
+   "score": 49.9,
+   "published_at": "2026-11-14T04:39:32.925129+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face Trending",
+     "url": "https://huggingface.co/ccore/Qwen3.5-4B-3D-Coder"
+    }
+   ],
+   "primary_url": "https://huggingface.co/ccore/Qwen3.5-4B-3D-Coder"
+  },
+  {
    "id": "233409616a1b",
    "title": "tencent/Qwen3.8-27B-DSpine-b16",
    "summary": "",
    "category": "Models",
-   "score": 49.6,
-   "published_at": "2026-11-14T03:11:54.176874+00:00",
+   "score": 49.7,
+   "published_at": "2026-11-14T04:39:32.925129+00:00",
    "sources": [
     {
      "name": "Hugging Face Trending",
@@ -904,7 +930,7 @@
    "summary": "",
    "category": "Open Source",
    "score": 49.6,
-   "published_at": "2026-11-14T03:11:54.176874+00:00",
+   "published_at": "2026-11-14T04:39:32.925129+00:00",
    "sources": [
     {
      "name": "Hugging Face Trending",
@@ -919,7 +945,7 @@
    "summary": "",
    "category": "Open Source",
    "score": 49.6,
-   "published_at": "2026-11-14T03:11:54.176874+00:00",
+   "published_at": "2026-11-14T04:39:32.925129+00:00",
    "sources": [
     {
      "name": "Hugging Face Trending",
@@ -934,7 +960,7 @@
    "summary": "",
    "category": "Open Source",
    "score": 49.5,
-   "published_at": "2026-11-14T03:11:54.176874+00:00",
+   "published_at": "2026-11-14T04:39:32.925129+00:00",
    "sources": [
     {
      "name": "Hugging Face Trending",
@@ -949,7 +975,7 @@
    "summary": "",
    "category": "Open Source",
    "score": 49.5,
-   "published_at": "2026-11-14T03:11:54.176874+00:00",
+   "published_at": "2026-11-14T04:39:32.925129+00:00",
    "sources": [
     {
      "name": "Hugging Face Trending",
@@ -964,7 +990,7 @@
    "summary": "System One models promise fast, general-purpose decision-making without lengthy token generation. However, understanding their capability spectrum and decision reliability requires more than aggregat…",
    "category": "Research",
    "score": 48.0,
-   "published_at": "2026-11-14T03:11:54.176874+00:00",
+   "published_at": "2026-11-14T04:39:32.925129+00:00",
    "sources": [
     {
      "name": "Hugging Face Papers",
@@ -978,8 +1004,8 @@
    "title": "BirdDreams: Joint Perspective and BEV Video Generation for a Plausible, Reactive Driving World Model",
    "summary": "Driving world models aim to simulate how a scene unfolds under different ego actions. This requires plausible motion of surrounding vehicles as well as precise ego-trajectory control. Learning vehicl…",
    "category": "Research",
-   "score": 45.5,
-   "published_at": "2026-11-14T03:11:54.176874+00:00",
+   "score": 45.4,
+   "published_at": "2026-11-14T04:39:32.925129+00:00",
    "sources": [
     {
      "name": "Hugging Face Papers",
@@ -993,8 +1019,8 @@
    "title": "PhysLoop: Harnessing LLMs' Physics Awareness for Self-Improving Video Generation Models",
    "summary": "Video generation models produce visually realistic videos but still struggle with physical dynamics and causal consistency. Learning from generated videos requires fine-grained physical supervision, …",
    "category": "Research",
-   "score": 45.1,
-   "published_at": "2026-11-14T03:11:54.176874+00:00",
+   "score": 45.0,
+   "published_at": "2026-11-14T04:39:32.925129+00:00",
    "sources": [
     {
      "name": "Hugging Face Papers",
@@ -1008,8 +1034,8 @@
    "title": "G-STAR: Group-Scaled Token Capacity for Deeply Compressed Autoregressive Generation",
    "summary": "Discrete autoregressive models offer a scalable framework for image generation. However, they face a fundamental trade-off: long token sequences preserve representation quality but slow generation, w…",
    "category": "Research",
-   "score": 45.0,
-   "published_at": "2026-11-14T03:11:54.176874+00:00",
+   "score": 44.9,
+   "published_at": "2026-11-14T04:39:32.925129+00:00",
    "sources": [
     {
      "name": "Hugging Face Papers",
@@ -1019,11 +1045,26 @@
    "primary_url": "https://huggingface.co/papers/2611.13004"
   },
   {
+   "id": "2741c921d019",
+   "title": "Duo: A Reciprocal World Model for Full-Duplex Interaction",
+   "summary": "In this report, we introduce the Reciprocal World Model (RWM) and present Duo v1, a full-duplex world model that continuously perceives audiovisual inputs while responding to users in real time. The …",
+   "category": "Research",
+   "score": 44.5,
+   "published_at": "2026-11-14T04:39:32.925129+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face Papers",
+     "url": "https://huggingface.co/papers/2611.15131"
+    }
+   ],
+   "primary_url": "https://huggingface.co/papers/2611.15131"
+  },
+  {
    "id": "5bf4951adbe9",
    "title": "Introducing ChatGPT Wallet",
    "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
    "category": "Agents & Dev Tools",
-   "score": 44.9,
+   "score": 44.3,
    "published_at": "2026-11-13T15:00:00+00:00",
    "sources": [
     {
@@ -1034,42 +1075,12 @@
    "primary_url": "https://openai.com/index/introducing-chatgpt-wallet"
   },
   {
-   "id": "2741c921d019",
-   "title": "Duo: A Reciprocal World Model for Full-Duplex Interaction",
-   "summary": "In this report, we introduce the Reciprocal World Model (RWM) and present Duo v1, a full-duplex world model that continuously perceives audiovisual inputs while responding to users in real time. The …",
-   "category": "Research",
-   "score": 44.6,
-   "published_at": "2026-11-14T03:11:54.176874+00:00",
-   "sources": [
-    {
-     "name": "Hugging Face Papers",
-     "url": "https://huggingface.co/papers/2611.15131"
-    }
-   ],
-   "primary_url": "https://huggingface.co/papers/2611.15131"
-  },
-  {
-   "id": "c0dbc63313b7",
-   "title": "模型更新，指令也要更新！Claude Code 可用 /doctor prompt-audit 檢查 CLAUDE.md 與 skills 裡過時的舊提示詞",
-   "summary": "Claude Code 的 /doctor prompt-audit 指令會檢查 CLAUDE.md、skills、agents 與 commands，找出為舊模型寫的提示寫法、失效路徑與互相矛盾的規則，並先產出報告，使用者確認後才會修改。",
-   "category": "Agents & Dev Tools",
-   "score": 43.7,
-   "published_at": "2026-11-14T02:27:00+00:00",
-   "sources": [
-    {
-     "name": "INSIDE",
-     "url": "https://www.inside.com.tw/article/42908-claude-code-doctor-prompt-audit-checks-claude-md-skills-agents-outdated-instructions"
-    }
-   ],
-   "primary_url": "https://www.inside.com.tw/article/42908-claude-code-doctor-prompt-audit-checks-claude-md-skills-agents-outdated-instructions"
-  },
-  {
    "id": "abae26331e95",
    "title": "Open Vision Banana: A Fully Open Recipe for Generative Visual Perception",
    "summary": "Recent work suggests that pretrained image generators encode real-world understanding beyond image synthesis. Vision Banana exploits this by framing vision tasks as conditional image editing. However…",
    "category": "Research",
-   "score": 43.6,
-   "published_at": "2026-11-14T03:11:54.176874+00:00",
+   "score": 43.7,
+   "published_at": "2026-11-14T04:39:32.925129+00:00",
    "sources": [
     {
      "name": "Hugging Face Papers",
@@ -1083,8 +1094,8 @@
    "title": "Actor, Judge, or Teacher? Understanding Decision Models in Long-Horizon Agents",
    "summary": "Decision models answer a question with a typed output, such as a choice among options with a probability for each, so one model can choose an agent's actions, evaluate actions already taken, or score…",
    "category": "Research",
-   "score": 43.5,
-   "published_at": "2026-11-14T03:11:54.176874+00:00",
+   "score": 43.4,
+   "published_at": "2026-11-14T04:39:32.925129+00:00",
    "sources": [
     {
      "name": "Hugging Face Papers",
@@ -1094,27 +1105,42 @@
    "primary_url": "https://huggingface.co/papers/2611.17167"
   },
   {
-   "id": "c3c6e5dcbe82",
-   "title": "OpenAI 傳向國會表態支持 3 項對中管制法案，限制中國取得 AI 晶片與製造設備",
-   "summary": "OpenAI 傳出本週已向國會議員確認，支持限制中國取得 AI 晶片與晶片製造設備的跨黨派法案，據報導包括 Chip Security Act、MATCH Act 與 AI OVERWATCH Act。",
+   "id": "cc817b288322",
+   "title": "OpenAI 推出 Daybreak Defense Factory 與 Red Team 自動找漏洞、補漏洞並模擬攻擊",
+   "summary": "OpenAI 在 11 月 12 日的 Cyber at the Frontier 活動推出 Daybreak Defense Factory 與 Daybreak Red Team。前者由 AI 代理找出漏洞並備妥修補，後者以 OpenAI 模型自動測試網頁應用程式，目前為早期試用。",
    "category": "Policy & Safety",
-   "score": 43.1,
-   "published_at": "2026-11-14T01:08:00+00:00",
+   "score": 43.4,
+   "published_at": "2026-11-14T03:13:00+00:00",
    "sources": [
     {
      "name": "INSIDE",
-     "url": "https://www.inside.com.tw/article/42906-openai-backs-china-chip-export-control-bills"
+     "url": "https://www.inside.com.tw/article/42910-openai-daybreak-defense-factory-red-team-automated-patching-cyber-at-the-frontier"
     }
    ],
-   "primary_url": "https://www.inside.com.tw/article/42906-openai-backs-china-chip-export-control-bills"
+   "primary_url": "https://www.inside.com.tw/article/42910-openai-daybreak-defense-factory-red-team-automated-patching-cyber-at-the-frontier"
+  },
+  {
+   "id": "c0dbc63313b7",
+   "title": "模型更新，指令也要更新！Claude Code 可用 /doctor prompt-audit 檢查 CLAUDE.md 與 skills 裡過時的舊提示詞",
+   "summary": "Claude Code 的 /doctor prompt-audit 指令會檢查 CLAUDE.md、skills、agents 與 commands，找出為舊模型寫的提示寫法、失效路徑與互相矛盾的規則，並先產出報告，使用者確認後才會修改。",
+   "category": "Agents & Dev Tools",
+   "score": 43.1,
+   "published_at": "2026-11-14T02:27:00+00:00",
+   "sources": [
+    {
+     "name": "INSIDE",
+     "url": "https://www.inside.com.tw/article/42908-claude-code-doctor-prompt-audit-checks-claude-md-skills-agents-outdated-instructions"
+    }
+   ],
+   "primary_url": "https://www.inside.com.tw/article/42908-claude-code-doctor-prompt-audit-checks-claude-md-skills-agents-outdated-instructions"
   },
   {
    "id": "d7b46d3d8c2d",
    "title": "Ropedia Xperience 2: A Gold Standard for Scaling Physical AI Environments and Behaviors",
    "summary": "Large foundation models such as GPT-6 Astra and Claude Fable 5.1 have recently been shown to control robots directly from visual observations. They nevertheless remain brittle on long-horizon, contac…",
    "category": "Research",
-   "score": 43.0,
-   "published_at": "2026-11-14T03:11:54.176874+00:00",
+   "score": 42.9,
+   "published_at": "2026-11-14T04:39:32.925129+00:00",
    "sources": [
     {
      "name": "Hugging Face Papers",
@@ -1128,8 +1154,8 @@
    "title": "On the Design of Hyper-Connections: Simplification, Stability, and Scalability",
    "summary": "Hyper-Connections (HC) architectures are increasingly adopted in frontier language models, yet their components remain insufficiently understood and introduce non-negligible training overhead. In thi…",
    "category": "Research",
-   "score": 43.0,
-   "published_at": "2026-11-14T03:11:54.176874+00:00",
+   "score": 42.9,
+   "published_at": "2026-11-14T04:39:32.925129+00:00",
    "sources": [
     {
      "name": "Hugging Face Papers",
@@ -1139,11 +1165,26 @@
    "primary_url": "https://huggingface.co/papers/2611.05984"
   },
   {
+   "id": "c3c6e5dcbe82",
+   "title": "OpenAI 傳向國會表態支持 3 項對中管制法案，限制中國取得 AI 晶片與製造設備",
+   "summary": "OpenAI 傳出本週已向國會議員確認，支持限制中國取得 AI 晶片與晶片製造設備的跨黨派法案，據報導包括 Chip Security Act、MATCH Act 與 AI OVERWATCH Act。",
+   "category": "Policy & Safety",
+   "score": 42.5,
+   "published_at": "2026-11-14T01:08:00+00:00",
+   "sources": [
+    {
+     "name": "INSIDE",
+     "url": "https://www.inside.com.tw/article/42906-openai-backs-china-chip-export-control-bills"
+    }
+   ],
+   "primary_url": "https://www.inside.com.tw/article/42906-openai-backs-china-chip-export-control-bills"
+  },
+  {
    "id": "43a8bca0b077",
    "title": "Amazon has a plan to index the world’s online shopping data",
    "summary": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reut…",
    "category": "Other",
-   "score": 42.6,
+   "score": 42.0,
    "published_at": "2026-11-13T23:49:11+00:00",
    "sources": [
     {
@@ -1154,11 +1195,26 @@
    "primary_url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search"
   },
   {
+   "id": "04469787bcf4",
+   "title": "TTB: Test-time Baking for Efficient Rendering of Decoder-only View Synthesis Models",
+   "summary": "Decoder-only Large View Synthesis Models (LVSMs) with KV-cache have recently achieved state-of-the-art quality by regressing novel views from neural networks without reconstructing 3D geometry, while…",
+   "category": "Research",
+   "score": 42.0,
+   "published_at": "2026-11-14T04:39:32.925129+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face Papers",
+     "url": "https://huggingface.co/papers/2611.17331"
+    }
+   ],
+   "primary_url": "https://huggingface.co/papers/2611.17331"
+  },
+  {
    "id": "ad639fbc6552",
    "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
    "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
    "category": "Business",
-   "score": 42.1,
+   "score": 41.5,
    "published_at": "2026-11-13T22:43:00+00:00",
    "sources": [
     {
@@ -1169,26 +1225,11 @@
    "primary_url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/"
   },
   {
-   "id": "04469787bcf4",
-   "title": "TTB: Test-time Baking for Efficient Rendering of Decoder-only View Synthesis Models",
-   "summary": "Decoder-only Large View Synthesis Models (LVSMs) with KV-cache have recently achieved state-of-the-art quality by regressing novel views from neural networks without reconstructing 3D geometry, while…",
-   "category": "Research",
-   "score": 42.1,
-   "published_at": "2026-11-14T03:11:54.176874+00:00",
-   "sources": [
-    {
-     "name": "Hugging Face Papers",
-     "url": "https://huggingface.co/papers/2611.17331"
-    }
-   ],
-   "primary_url": "https://huggingface.co/papers/2611.17331"
-  },
-  {
    "id": "d1318183fe17",
    "title": "Shield helps technicians hand off legacy portal work with OpenAI",
    "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
    "category": "Agents & Dev Tools",
-   "score": 42.0,
+   "score": 41.4,
    "published_at": "2026-11-13T08:00:00+00:00",
    "sources": [
     {
@@ -1203,7 +1244,7 @@
    "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
    "summary": "Airlines praised the AI tool, but the air traffic controllers’ union wasn’t involved.",
    "category": "Products",
-   "score": 41.6,
+   "score": 41.0,
    "published_at": "2026-11-13T21:20:47+00:00",
    "sources": [
     {
@@ -1218,7 +1259,7 @@
    "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
    "summary": "After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscribers in the US aged 18 …",
    "category": "Agents & Dev Tools",
-   "score": 41.3,
+   "score": 40.7,
    "published_at": "2026-11-13T20:45:10+00:00",
    "sources": [
     {
@@ -1233,7 +1274,7 @@
    "title": "Jensen Huang's ouster likely traces back to Nvidia's risky business practices more than his personal life",
    "summary": "Jensen Huang likely left Nvidia more because of risky business practices than anything else, a Wall Street Journal report suggests. At the very least, those practices made him enemies internally. The…",
    "category": "Business",
-   "score": 41.1,
+   "score": 40.4,
    "published_at": "2026-11-13T20:07:34+00:00",
    "sources": [
     {
@@ -1248,7 +1289,7 @@
    "title": "AI agent startup LangChain hits $3B valuation",
    "summary": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
    "category": "Agents & Dev Tools",
-   "score": 40.8,
+   "score": 40.2,
    "published_at": "2026-11-13T19:37:57+00:00",
    "sources": [
     {
@@ -1263,7 +1304,7 @@
    "title": "OpenAI rebuilt AI shopping from scratch with ChatGPT Wallet",
    "summary": "OpenAI is taking a second shot at AI-powered shopping with ChatGPT Wallet after scrapping its first approach, Instant Checkout. Users register a card once and confirm each purchase through Face ID or…",
    "category": "Other",
-   "score": 40.6,
+   "score": 39.9,
    "published_at": "2026-11-13T18:55:21+00:00",
    "sources": [
     {
@@ -1278,7 +1319,7 @@
    "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
    "summary": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
    "category": "Policy & Safety",
-   "score": 40.4,
+   "score": 39.8,
    "published_at": "2026-11-13T18:40:30+00:00",
    "sources": [
     {
@@ -1293,7 +1334,7 @@
    "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
    "summary": "",
    "category": "Research",
-   "score": 40.2,
+   "score": 39.6,
    "published_at": "2026-11-13T18:00:39+00:00",
    "sources": [
     {
@@ -1308,7 +1349,7 @@
    "title": "Banks bar Chinese and Hong Kong investors from Anthropic IPO over US export controls",
    "summary": "Chinese investors are shut out of Anthropic's IPO, Bloomberg reports. Banks are rejecting buy orders from mainland China and Hong Kong, citing U.S. export control rules known as ITAR. Similar restric…",
    "category": "Policy & Safety",
-   "score": 40.2,
+   "score": 39.6,
    "published_at": "2026-11-13T18:01:53+00:00",
    "sources": [
     {
@@ -1323,7 +1364,7 @@
    "title": "OpenAI board member worries an AI \"takeover\" of society could be months away",
    "summary": "Researcher traces a path from AI reward hacking to potential human extinction.",
    "category": "Other",
-   "score": 39.9,
+   "score": 39.3,
    "published_at": "2026-11-13T17:25:45+00:00",
    "sources": [
     {
@@ -1338,7 +1379,7 @@
    "title": "XYBench: Helping with the problem behind the question",
    "summary": "",
    "category": "Other",
-   "score": 39.8,
+   "score": 39.2,
    "published_at": "2026-11-13T17:02:35+00:00",
    "sources": [
     {
@@ -1353,7 +1394,7 @@
    "title": "Anthropic's Claude for Manufacturing plugs AI directly into factory software to automate industrial workflows",
    "summary": "Anthropic's new Claude for Manufacturing plugin connects the AI directly to Autodesk Fusion, Oracle NetSuite, and Infor. Its 17 specialized skills let the AI draft quotes, compare suppliers, and plac…",
    "category": "Products",
-   "score": 39.6,
+   "score": 39.0,
    "published_at": "2026-11-13T16:37:01+00:00",
    "sources": [
     {
@@ -1368,7 +1409,7 @@
    "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
    "summary": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.",
    "category": "Agents & Dev Tools",
-   "score": 39.3,
+   "score": 38.7,
    "published_at": "2026-11-13T16:00:12+00:00",
    "sources": [
     {
@@ -1383,7 +1424,7 @@
    "title": "The unfolding Jensen Huang scandal: a timeline",
    "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
    "category": "Business",
-   "score": 39.3,
+   "score": 38.7,
    "published_at": "2026-11-13T15:58:00+00:00",
    "sources": [
     {
@@ -1398,7 +1439,7 @@
    "title": "Nearly 70 percent of US agencies use generative AI, and unions are finally catching up with guardrails",
    "summary": "US public-sector unions are increasingly pushing through protections against AI surveillance and automated firings. In Oakland, a strike vote forced retraining programs instead of layoffs, and a tran…",
    "category": "Policy & Safety",
-   "score": 39.3,
+   "score": 38.7,
    "published_at": "2026-11-13T15:53:49+00:00",
    "sources": [
     {
@@ -1413,7 +1454,7 @@
    "title": "Former OpenAI researcher says he found Nvidia Blackwell fingerprints hidden inside six Chinese AI models",
    "summary": "Former OpenAI researcher Will DePue says he has produced the first technical evidence that DeepSeek, Moonshot AI, MiniMax, and Ant Group are using Nvidia's latest Blackwell GPUs despite US export con…",
    "category": "Policy & Safety",
-   "score": 39.1,
+   "score": 38.5,
    "published_at": "2026-11-13T15:21:04+00:00",
    "sources": [
     {
@@ -1428,7 +1469,7 @@
    "title": "Anthropic's IPO is six times oversubscribed and on track to become the largest public offering in history",
    "summary": "Anthropic is on track for the largest IPO ever, with orders exceeding available shares by a factor of six. The article Anthropic's IPO is six times oversubscribed and on track to become the largest p…",
    "category": "Business",
-   "score": 39.0,
+   "score": 38.4,
    "published_at": "2026-11-13T15:15:08+00:00",
    "sources": [
     {
@@ -1443,7 +1484,7 @@
    "title": "Meta's Muse now calls businesses for you, but many companies might just hang up on the AI",
    "summary": "Meta's AI agent Muse can now call businesses on behalf of paying US subscribers, handling everything from cable providers to restaurants. The agent already has over 10 million users, according to Met…",
    "category": "Agents & Dev Tools",
-   "score": 39.0,
+   "score": 38.4,
    "published_at": "2026-11-13T15:12:44+00:00",
    "sources": [
     {
@@ -1458,7 +1499,7 @@
    "title": "OpenAI enters the cybersecurity market with two Daybreak products",
    "summary": "OpenAI has launched two security products under its Daybreak brand. The article OpenAI enters the cybersecurity market with two Daybreak products appeared first on The Decoder .",
    "category": "Products",
-   "score": 39.0,
+   "score": 38.4,
    "published_at": "2026-11-13T15:08:57+00:00",
    "sources": [
     {
@@ -1473,7 +1514,7 @@
    "title": "ElevenLabs’ new app combines meeting note-taking and dictation for teams",
    "summary": "ElevenAI is a new meeting notetaker and dictation app aimed at teams and enterprises.",
    "category": "Products",
-   "score": 38.8,
+   "score": 38.2,
    "published_at": "2026-11-13T14:44:48+00:00",
    "sources": [
     {
@@ -1488,7 +1529,7 @@
    "title": "What&#8217;s really at stake in the Jensen Huang saga",
    "summary": "One part of the saga surrounding Nvidia CEO Jensen Huang ended on Thursday, when Huang resigned from his position at the top of AI's most important company. But in the coming weeks and months, a much…",
    "category": "Business",
-   "score": 38.8,
+   "score": 38.2,
    "published_at": "2026-11-13T14:47:16+00:00",
    "sources": [
     {
@@ -1503,7 +1544,7 @@
    "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
    "summary": "",
    "category": "Other",
-   "score": 38.5,
+   "score": 37.9,
    "published_at": "2026-11-13T14:05:22+00:00",
    "sources": [
     {
@@ -1518,7 +1559,7 @@
    "title": "Claude’s Duet agent is a little neurotic and surprisingly helpful",
    "summary": "Normally, the products I test don't offer to help me write up my experience with them. Duet is different. Claude Duet is Anthropic's AI agent for consumers, the latest attempt by an AI company to try…",
    "category": "Agents & Dev Tools",
-   "score": 38.5,
+   "score": 37.9,
    "published_at": "2026-11-13T14:00:00+00:00",
    "sources": [
     {
@@ -1529,26 +1570,11 @@
    "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on"
   },
   {
-   "id": "b83177929316",
-   "title": "AWS擴充AgentCore執行環境，支援大型程式編譯與本地模型載入",
-   "summary": "新聞 AWS 擴充 Amazon Bedrock AgentCore執行環境，新一代Runtime V2的單一工作階段最多可使用8個虛擬CPU及32 GB記憶體，容器映像檔容量上限也提高至10 GB，讓AI代理能在執行環境內編譯大型程式專案、操作瀏覽器及載入本地模型。新版目前已成為19個AWS區域新建執行環境的預設版本。 AgentCore Runtime是AWS提供的AI代理託管執行環境，讓開…",
-   "category": "Agents & Dev Tools",
-   "score": 38.2,
-   "published_at": "2026-11-13T13:10:24+00:00",
-   "sources": [
-    {
-     "name": "iThome",
-     "url": "https://www.ithome.com.tw/news/180503"
-    }
-   ],
-   "primary_url": "https://www.ithome.com.tw/news/180503"
-  },
-  {
    "id": "ece4b84db3e9",
    "title": "How AI Is Helping Care Teams Get Patients the Right Care, Sooner",
    "summary": "From pediatric research to smart hospitals, AI is helping care teams spend less time on routine tasks and more time with patients. Health systems and startups are putting it to work across healthcare…",
    "category": "Research",
-   "score": 38.1,
+   "score": 37.5,
    "published_at": "2026-11-13T13:00:42+00:00",
    "sources": [
     {
@@ -1559,11 +1585,41 @@
    "primary_url": "https://blogs.nvidia.com/blog/how-ai-is-helping-care-teams/"
   },
   {
+   "id": "a374f737968f",
+   "title": "Outlook 等服务故障期间征集 AI 技巧，微软推文变成网友吐槽现场",
+   "summary": "IT之家 11 月 14 日消息，科技媒体 Windows Latest 昨日（11 月 13 日）发布博文，报道称在 Outlook 等服务大面积宕机停服的情况下， 微软官方账号 @MicrosoftLearn 不合时宜地询问：“初学者应该尽早养成哪一个 AI 使用习惯？”。 该推文的发布时机恰好是 Outlook 等服务停服的时段，因此迅速成为网友集中表达不满的留言区。IT之家发稿前，该条推…",
+   "category": "Products",
+   "score": 37.5,
+   "published_at": "2026-11-14T03:30:13+00:00",
+   "sources": [
+    {
+     "name": "IT之家",
+     "url": "https://www.ithome.com/1/027/072.htm"
+    }
+   ],
+   "primary_url": "https://www.ithome.com/1/027/072.htm"
+  },
+  {
+   "id": "b83177929316",
+   "title": "AWS擴充AgentCore執行環境，支援大型程式編譯與本地模型載入",
+   "summary": "新聞 AWS 擴充 Amazon Bedrock AgentCore執行環境，新一代Runtime V2的單一工作階段最多可使用8個虛擬CPU及32 GB記憶體，容器映像檔容量上限也提高至10 GB，讓AI代理能在執行環境內編譯大型程式專案、操作瀏覽器及載入本地模型。新版目前已成為19個AWS區域新建執行環境的預設版本。 AgentCore Runtime是AWS提供的AI代理託管執行環境，讓開…",
+   "category": "Agents & Dev Tools",
+   "score": 37.5,
+   "published_at": "2026-11-13T13:10:24+00:00",
+   "sources": [
+    {
+     "name": "iThome",
+     "url": "https://www.ithome.com.tw/news/180503"
+    }
+   ],
+   "primary_url": "https://www.ithome.com.tw/news/180503"
+  },
+  {
    "id": "e00ed907e42f",
    "title": "Israel’s VCs see opportunity for challengers in Nvidia’s turmoil",
    "summary": "Given Nvidia’s stronghold on AI and its importance in Israel, many in the country's startup ecosystem are worried about the impact of his departure.",
    "category": "Other",
-   "score": 38.0,
+   "score": 37.4,
    "published_at": "2026-11-13T12:52:19+00:00",
    "sources": [
     {
@@ -1578,7 +1634,7 @@
    "title": "Jensen Huang didn’t show confidence in his successor, report says",
    "summary": "Huang described Kress as a \"deer in the headlights\" during a meeting in summer.",
    "category": "Other",
-   "score": 37.9,
+   "score": 37.3,
    "published_at": "2026-11-13T12:28:23+00:00",
    "sources": [
     {
@@ -1593,7 +1649,7 @@
    "title": "微信鸿蒙版 App 获 8.0.23.38 邀测升级",
    "summary": "IT之家 11 月 14 日消息，微信鸿蒙版 App 在华为应用市场（App Gallery）发布了 8.0.23.38 (8394534) 版本邀测升级（需收到短信通知后点击链接跳转安装），测试时间为 2026/11/13-2026/12/13。 和往常一样，本次更新的说明依旧为“修复了一些已知问题”。据博主 @伤心萨摩耶Ciuciu 以及 MeoW 反馈，8.0.23 版微信中发现的新特性包…",
    "category": "Products",
-   "score": 37.8,
+   "score": 37.2,
    "published_at": "2026-11-14T02:42:54+00:00",
    "sources": [
     {
@@ -1608,7 +1664,7 @@
    "title": "Let’s talk about Jensen Huang’s many affairs!",
    "summary": "Usually, we'd be offering to answer your questions about a news event, but honestly we don't really have any answers about what the hell is going on over at Nvidia. I can't speak for Nilay but at the…",
    "category": "Other",
-   "score": 37.7,
+   "score": 37.1,
    "published_at": "2026-11-13T12:00:00+00:00",
    "sources": [
     {
@@ -1623,7 +1679,7 @@
    "title": "华为首款鸿蒙小折叠电脑 MateBook Fold S 开启预订：折叠 10.7 英寸，展开 14.7 英寸",
    "summary": "IT之家 11 月 14 日消息，华为首款鸿蒙小折叠电脑 MateBook Fold S 今日 10:08 正式开启预订（IT之家注：价格暂未公布，只表示国补 1500 元，暗示超过 9999 元），提供幻夜黑、天际白、云海蓝三种配色，以及四种存储版本，11 月 24 日付尾款： 16GB/256GB（含键盘 + 内胆包） 16GB/512GB（含键盘 + 内胆包） 24GB/512GB（含键盘…",
    "category": "Other",
-   "score": 37.6,
+   "score": 37.0,
    "published_at": "2026-11-14T02:12:25+00:00",
    "sources": [
     {
@@ -1634,11 +1690,26 @@
    "primary_url": "https://www.ithome.com/1/027/053.htm"
   },
   {
+   "id": "923f3753efea",
+   "title": "苹果推送 tvOS 27.2.1 更新，第二 / 第三代 Apple TV 4K 新增 Siri AI 支持",
+   "summary": "IT之家 11 月 14 日消息，科技媒体 MacRumors 今天（11 月 14 日）发布博文，报道称苹果已推送 tvOS 27.2.1 以及 HomePod Software 27.2.1，内部开发代号均为 24K157。 本次 tvOS 27.2.1 更新最大的亮点， 是苹果面向第二代和第三代 Apple TV 4K 推送 Siri AI 支持 。对这些设备的用户而言，无须更换新款硬件，…",
+   "category": "Products",
+   "score": 37.0,
+   "published_at": "2026-11-14T02:11:43+00:00",
+   "sources": [
+    {
+     "name": "IT之家",
+     "url": "https://www.ithome.com/1/027/052.htm"
+    }
+   ],
+   "primary_url": "https://www.ithome.com/1/027/052.htm"
+  },
+  {
    "id": "be3a42147c7e",
    "title": "營業利益翻倍、毛利率 61.3% 創新高，Appier 第三季再上調全年財測",
    "summary": "AI 原生公司 Appier 公布第三季財報，營收與營業利益同創歷史新高，年增分別達 21.8% 與 104.7%。Agentic AI 策略帶動毛利率與營運效率顯著提升，促使公司連續兩季上調全年財測，展現強勁的成長與獲利動能。",
    "category": "Research",
-   "score": 37.6,
+   "score": 37.0,
    "published_at": "2026-11-13T11:56:00+00:00",
    "sources": [
     {
@@ -1653,7 +1724,7 @@
    "title": "实现“躺平式办公”：Mac 版 Perplexity 上线“AI 队友”，组建你的全天候数字员工",
    "summary": "IT之家 11 月 14 日消息，Perplexity 今天（11 月 14 日）发布公告，邀请付费 Max 订阅用户，在 Mac 平台版 Perplexity 应用上体验 AI 智能体功能“队友”（Teammates）。 该功能此前仅支持 iOS 和网页端，如今进一步覆盖桌面办公场景。 Teammates 可以理解为一组各有分工的“AI 队友”。与需要用户反复提问、逐步下达指令的聊天方式不同，…",
    "category": "Products",
-   "score": 37.5,
+   "score": 36.9,
    "published_at": "2026-11-14T01:58:31+00:00",
    "sources": [
     {
@@ -1668,7 +1739,7 @@
    "title": "部长回应全美航班停飞：事件与微软无关、没有发生网络攻击，只是路由器太旧扛不住流量数据过载",
    "summary": "IT之家 11 月 14 日消息，美国联邦航空管理局（FAA）宣布解除全美航班地面停飞令后，美国国土安全部部长马克韦恩・穆林（Markwayne Mullin）和交通部长肖恩・达菲先后就此次事件作出回应。 穆林表示，目前没有发现网络攻击或人工智能攻击的证据，此次事件与微软无关，但调查仍在进行，不排除网络攻击的可能性。 穆林表示，公众从未处于危险之中，此次实施全美地面停飞是出于高度谨慎。他称，目前…",
    "category": "Policy & Safety",
-   "score": 37.4,
+   "score": 36.8,
    "published_at": "2026-11-14T01:49:15+00:00",
    "sources": [
     {
@@ -1677,125 +1748,31 @@
     }
    ],
    "primary_url": "https://www.ithome.com/1/027/047.htm"
-  },
-  {
-   "id": "39cb6c465f00",
-   "title": "DeepSeek 前端代码出现“额度耗尽”提示，开发者猜测将首次推出 C 端付费方案",
-   "summary": "IT之家 11 月 14 日消息， 有开发者在 chat.deepseek.com 的前端代码中发现了一整套额度管理逻辑，提示文案包括“使用额度已达上限，请额度恢复后再试”。 此外，其代码还包含额度耗尽后的错误处理分支，以及“分享对话后继续聊”场景下对 quotas 数组中 is_exhausted 状态的检查 。 根据开发者们挖出的信息，最新前端 commit 已经支持「额度状态轮询」：页面可…",
-   "category": "Products",
-   "score": 37.2,
-   "published_at": "2026-11-14T01:20:21+00:00",
-   "sources": [
-    {
-     "name": "IT之家",
-     "url": "https://www.ithome.com/1/027/038.htm"
-    }
-   ],
-   "primary_url": "https://www.ithome.com/1/027/038.htm"
-  },
-  {
-   "id": "d565c16ff3f9",
-   "title": "礼来 CEO 回应“AI 十年内攻克癌症”：愿景很美好，但不太可能",
-   "summary": "IT之家 11 月 14 日消息，礼来（Eli Lilly）董事长兼首席执行官戴夫 · 里克斯（Dave Ricks）于 11 月 12 日在 X 平台发布推文，回应 Anthropic 首席执行官达里奥 · 阿莫代伊（Dario Amodei）有关“AI 将在不到十年内攻克癌症等疾病”的预测， 称这一愿景“令人向往”，但实现的可能性不大。 IT之家此前报道，在面向投资者的路演视频中，阿莫代伊表…",
-   "category": "Business",
-   "score": 37.2,
-   "published_at": "2026-11-14T01:10:57+00:00",
-   "sources": [
-    {
-     "name": "IT之家",
-     "url": "https://www.ithome.com/1/027/037.htm"
-    }
-   ],
-   "primary_url": "https://www.ithome.com/1/027/037.htm"
-  },
-  {
-   "id": "6e7f4ca7daf1",
-   "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
-   "summary": "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security Act, Foster told MI…",
-   "category": "Business",
-   "score": 37.1,
-   "published_at": "2026-11-12T20:16:24+00:00",
-   "sources": [
-    {
-     "name": "MIT Technology Review",
-     "url": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/"
-    },
-    {
-     "name": "r/LocalLLaMA",
-     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvcbbh/nvidia_privately_confirmed_it_could_track_chips/"
-    }
-   ],
-   "primary_url": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/"
-  },
-  {
-   "id": "86818d57b80e",
-   "title": "马斯克声援黄仁勋：将签署请愿，支持其重返英伟达 CEO 岗位",
-   "summary": "IT之家 11 月 14 日消息，全球首富埃隆 · 马斯克（Elon Musk）昨日（11 月 13 日）发布推文，回应网友关于“ 约 1600 名英伟达员工呼吁黄仁勋回归 ”的推文， 表示“一项要求让黄仁勋复职的请愿正在进行，我也会签署。” 网友 @yunta_tsai 主张，希望黄仁勋回归的员工可以通过辞职表达立场，并强调工程师对公司的重要性。他认为：“优秀的 GPU 工程师非常难找，甚至比…",
-   "category": "Business",
-   "score": 37.1,
-   "published_at": "2026-11-14T00:56:42+00:00",
-   "sources": [
-    {
-     "name": "IT之家",
-     "url": "https://www.ithome.com/1/027/033.htm"
-    }
-   ],
-   "primary_url": "https://www.ithome.com/1/027/033.htm"
-  },
-  {
-   "id": "5b0f73df89a6",
-   "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
-   "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
-   "category": "Agents & Dev Tools",
-   "score": 37.0,
-   "published_at": "2026-11-12T20:00:00+00:00",
-   "sources": [
-    {
-     "name": "OpenAI",
-     "url": "https://openai.com/business/customer-stories/amplitude"
-    }
-   ],
-   "primary_url": "https://openai.com/business/customer-stories/amplitude"
   }
  ],
  "highlights": {
   "Headlines": [
    {
-    "id": "a13596b95a2b",
-    "title": "华为首款鸿蒙小折叠电脑 MateBook Fold S 开启预订",
-    "summary": "华为首款鸿蒙小折叠电脑 MateBook Fold S 正式开启预订，11 月 24 日付尾款，暂未公布售价，国补 1500 元，售价暗示超 9999 元。产品提供幻夜黑、天际白、云海蓝三种配色，共四个存储版本，顶配版本额外附赠手写笔。该产品为纵向小尺寸折叠形态，机身接近书本大小，面向移动办公场景，展开后是 14.7 英寸大屏，支持分屏多窗口操作。机身外侧配有 Live 小方屏，折叠状态下可查看…",
+    "id": "9f90376053e4",
+    "title": "中证协启动券商财务数智化应用调研",
+    "summary": "中国证券业协会向各证券公司下发通知，开展财务数智化应用调研，为行业深化财务数智化建设、提升财务核算质效、推动财务职能升级提供参考。此次调研问卷将财务数智化建设划分为五个依次递进的阶段，聚焦六大财务领域，同时将 AI 相关风险列为重点，兼顾提效与安全。",
     "category": "Products",
-    "score": 69.8,
-    "published_at": "2026-11-14T02:40:23.518000+00:00",
-    "sources": [
-     {
-      "name": "Readhub",
-      "url": "https://readhub.cn/topic/8y2aNWrF10g"
-     }
-    ],
-    "primary_url": "https://readhub.cn/topic/8y2aNWrF10g"
-   },
-   {
-    "id": "0fcb9bee46e3",
-    "title": "llama.cpp 与 ggml 双双迈入 1.0.0，本地大模型推理库迎来稳定新阶段",
-    "summary": "支撑本地大语言模型运行的核心项目 llama.cpp 及其底层张量库 ggml 正式同步发布 1.0.0 版本。llama.cpp 主打让大模型脱离云端依赖直接在本地设备运行，兼顾本地部署与云端推理场景，核心目标是降低部署难度、最大化释放设备算力。ggml 作为底层机器学习张量库，可通过专用后端对接不同硬件平台，实现跨硬件灵活适配。此次 1.0.0 版本明确划定兼容性边界，落地语义化版本规则，让…",
-    "category": "Models",
     "score": 69.6,
-    "published_at": "2026-11-14T02:10:26.279000+00:00",
+    "published_at": "2026-11-14T03:40:27.250000+00:00",
     "sources": [
      {
       "name": "Readhub",
-      "url": "https://readhub.cn/topic/8y2UeOQ9G6b"
+      "url": "https://readhub.cn/topic/8y2hWnw8xOb"
      }
     ],
-    "primary_url": "https://readhub.cn/topic/8y2UeOQ9G6b"
+    "primary_url": "https://readhub.cn/topic/8y2hWnw8xOb"
    },
    {
     "id": "f101ffad2bb3",
     "title": "Anthropic IPO",
     "summary": "",
     "category": "Business",
-    "score": 53.6,
+    "score": 53.0,
     "published_at": "2026-11-12T11:46:41+00:00",
     "sources": [
      {
@@ -1814,7 +1791,7 @@
     "title": "Gemini 4 Hydrogen",
     "summary": "",
     "category": "Models",
-    "score": 54.5,
+    "score": 53.9,
     "published_at": "2026-11-12T18:01:48+00:00",
     "sources": [
      {
@@ -1833,7 +1810,7 @@
     "title": "Gemini 4 Hydrogen and Orchestrator",
     "summary": "",
     "category": "Models",
-    "score": 54.5,
+    "score": 53.9,
     "published_at": "2026-11-12T18:52:01+00:00",
     "sources": [
      {
@@ -1852,7 +1829,7 @@
     "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
     "summary": "",
     "category": "Agents & Dev Tools",
-    "score": 60.9,
+    "score": 60.3,
     "published_at": "2026-11-13T10:18:13+00:00",
     "sources": [
      {
@@ -1871,7 +1848,7 @@
     "title": "I'm making LLMs work on small and old devices",
     "summary": "",
     "category": "Models",
-    "score": 52.9,
+    "score": 52.3,
     "published_at": "2026-11-12T15:23:10+00:00",
     "sources": [
      {
@@ -1886,11 +1863,26 @@
     "primary_url": "https://github.com/hyperionaidev/smolmaxxing/"
    },
    {
+    "id": "8fc9301cb208",
+    "title": "吴清：进一步深化人工智能与资本市场双向赋能研究",
+    "summary": "证监会相关致辞指出，要进一步深化人工智能与资本市场双向赋能研究。当前人工智能正快速对科研、产业创新和生产生活产生系统性深层次影响，但其长远影响仍需结合技术迭代、场景落地、组织变革和有效治理等持续观察。资本市场既要积极适应新技术变革，在估值定价、信息披露等方面加强制度研究，精准支持相关硬科技企业发展壮大，有效增进社会福祉。也要深入研究人工智能对生产力和生产关系的重塑在资本市场的传导映射，加快研究责…",
+    "category": "Research",
+    "score": 67.1,
+    "published_at": "2026-11-14T04:25:14.375000+00:00",
+    "sources": [
+     {
+      "name": "Readhub",
+      "url": "https://readhub.cn/topic/8y2kj4Ixvnl"
+     }
+    ],
+    "primary_url": "https://readhub.cn/topic/8y2kj4Ixvnl"
+   },
+   {
     "id": "d096a8a420fb",
     "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
     "summary": "",
     "category": "Business",
-    "score": 54.8,
+    "score": 54.2,
     "published_at": "2026-11-12T21:56:11+00:00",
     "sources": [
      {
@@ -1909,7 +1901,7 @@
     "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
     "summary": "",
     "category": "Research",
-    "score": 62.9,
+    "score": 62.4,
     "published_at": "2026-11-13T17:30:10+00:00",
     "sources": [
      {
@@ -1928,7 +1920,7 @@
     "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
     "summary": "",
     "category": "Other",
-    "score": 55.2,
+    "score": 54.6,
     "published_at": "2026-11-12T23:06:17+00:00",
     "sources": [
      {
@@ -1945,26 +1937,26 @@
   ],
   "Dark Horses": [
    {
-    "id": "a13596b95a2b",
-    "title": "华为首款鸿蒙小折叠电脑 MateBook Fold S 开启预订",
-    "summary": "华为首款鸿蒙小折叠电脑 MateBook Fold S 正式开启预订，11 月 24 日付尾款，暂未公布售价，国补 1500 元，售价暗示超 9999 元。产品提供幻夜黑、天际白、云海蓝三种配色，共四个存储版本，顶配版本额外附赠手写笔。该产品为纵向小尺寸折叠形态，机身接近书本大小，面向移动办公场景，展开后是 14.7 英寸大屏，支持分屏多窗口操作。机身外侧配有 Live 小方屏，折叠状态下可查看…",
+    "id": "9f90376053e4",
+    "title": "中证协启动券商财务数智化应用调研",
+    "summary": "中国证券业协会向各证券公司下发通知，开展财务数智化应用调研，为行业深化财务数智化建设、提升财务核算质效、推动财务职能升级提供参考。此次调研问卷将财务数智化建设划分为五个依次递进的阶段，聚焦六大财务领域，同时将 AI 相关风险列为重点，兼顾提效与安全。",
     "category": "Products",
-    "score": 69.8,
-    "published_at": "2026-11-14T02:40:23.518000+00:00",
+    "score": 69.6,
+    "published_at": "2026-11-14T03:40:27.250000+00:00",
     "sources": [
      {
       "name": "Readhub",
-      "url": "https://readhub.cn/topic/8y2aNWrF10g"
+      "url": "https://readhub.cn/topic/8y2hWnw8xOb"
      }
     ],
-    "primary_url": "https://readhub.cn/topic/8y2aNWrF10g"
+    "primary_url": "https://readhub.cn/topic/8y2hWnw8xOb"
    },
    {
     "id": "0667a519c650",
     "title": "I'm making LLMs work on small and old devices",
     "summary": "",
     "category": "Models",
-    "score": 52.9,
+    "score": 52.3,
     "published_at": "2026-11-12T15:23:10+00:00",
     "sources": [
      {
@@ -1979,11 +1971,41 @@
     "primary_url": "https://github.com/hyperionaidev/smolmaxxing/"
    },
    {
+    "id": "8fc9301cb208",
+    "title": "吴清：进一步深化人工智能与资本市场双向赋能研究",
+    "summary": "证监会相关致辞指出，要进一步深化人工智能与资本市场双向赋能研究。当前人工智能正快速对科研、产业创新和生产生活产生系统性深层次影响，但其长远影响仍需结合技术迭代、场景落地、组织变革和有效治理等持续观察。资本市场既要积极适应新技术变革，在估值定价、信息披露等方面加强制度研究，精准支持相关硬科技企业发展壮大，有效增进社会福祉。也要深入研究人工智能对生产力和生产关系的重塑在资本市场的传导映射，加快研究责…",
+    "category": "Research",
+    "score": 67.1,
+    "published_at": "2026-11-14T04:25:14.375000+00:00",
+    "sources": [
+     {
+      "name": "Readhub",
+      "url": "https://readhub.cn/topic/8y2kj4Ixvnl"
+     }
+    ],
+    "primary_url": "https://readhub.cn/topic/8y2kj4Ixvnl"
+   },
+   {
+    "id": "6f9dcba0cb74",
+    "title": "小米澎湃 OS 4 第三批正式版开启推送：覆盖小米 15、REDMI K80 系列等",
+    "summary": "小米官方宣布澎湃 OS 4 第三批机型正式版即日起陆续推送，符合条件的设备可在系统更新中检测新版本。澎湃 OS 4 是小米新一代操作系统，在 AI 能力、跨设备协同和基础流畅度方面全面升级，融合超级小爱 2.0 和自研 MiMo 大模型，带来专家模式、灵感球交互等全新特性。UI 方面首发柔光玻璃交互材质，支持桌面自定义全面放开，全新柔性悬浮框架适配手机和平板。流畅度经底层内核优化，连续 9 小时…",
+    "category": "Models",
+    "score": 66.8,
+    "published_at": "2026-11-14T03:40:26.603000+00:00",
+    "sources": [
+     {
+      "name": "Readhub",
+      "url": "https://readhub.cn/topic/8y1XOxZOb8u"
+     }
+    ],
+    "primary_url": "https://readhub.cn/topic/8y1XOxZOb8u"
+   },
+   {
     "id": "d096a8a420fb",
     "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
     "summary": "",
     "category": "Business",
-    "score": 54.8,
+    "score": 54.2,
     "published_at": "2026-11-12T21:56:11+00:00",
     "sources": [
      {
@@ -2002,7 +2024,7 @@
     "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
     "summary": "",
     "category": "Research",
-    "score": 62.9,
+    "score": 62.4,
     "published_at": "2026-11-13T17:30:10+00:00",
     "sources": [
      {
@@ -2021,7 +2043,7 @@
     "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
     "summary": "",
     "category": "Other",
-    "score": 55.2,
+    "score": 54.6,
     "published_at": "2026-11-12T23:06:17+00:00",
     "sources": [
      {
@@ -2040,7 +2062,7 @@
     "title": "Brave Search API now accepts agentic payments via the x402 protocol",
     "summary": "",
     "category": "Agents & Dev Tools",
-    "score": 56.1,
+    "score": 55.5,
     "published_at": "2026-11-13T03:08:08+00:00",
     "sources": [
      {
@@ -2059,7 +2081,7 @@
     "title": "No AI Slop: A Manifesto",
     "summary": "",
     "category": "Other",
-    "score": 62.1,
+    "score": 61.5,
     "published_at": "2026-11-13T19:51:56+00:00",
     "sources": [
      {
@@ -2075,10 +2097,10 @@
    },
    {
     "id": "0b67abad1121",
-    "title": "Jonathan Blow – If AI Solved Coding, Why Is My Software Still the Same? [video]",
+    "title": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
     "summary": "",
     "category": "Other",
-    "score": 59.5,
+    "score": 59.2,
     "published_at": "2026-11-13T15:08:44+00:00",
     "sources": [
      {
@@ -2091,25 +2113,6 @@
      }
     ],
     "primary_url": "https://www.youtube.com/watch?v=IRK8h67ol7Q"
-   },
-   {
-    "id": "26a6fb343a8e",
-    "title": "Why You Should Expect an AI Crash",
-    "summary": "",
-    "category": "Other",
-    "score": 51.7,
-    "published_at": "2026-11-12T23:08:31+00:00",
-    "sources": [
-     {
-      "name": "Hacker News",
-      "url": "https://www.economist.com/leaders/2026/11/12/why-you-should-expect-an-ai-crash"
-     },
-     {
-      "name": "Hacker News 討論",
-      "url": "https://news.ycombinator.com/item?id=50475735"
-     }
-    ],
-    "primary_url": "https://www.economist.com/leaders/2026/11/12/why-you-should-expect-an-ai-crash"
    }
   ],
   "Rising": [
@@ -2119,7 +2122,7 @@
     "summary": "",
     "category": "Open Source",
     "score": 54.0,
-    "published_at": "2026-11-14T03:11:54.176874+00:00",
+    "published_at": "2026-11-14T04:39:32.925129+00:00",
     "sources": [
      {
       "name": "Hugging Face Trending",
@@ -2134,7 +2137,7 @@
     "summary": "",
     "category": "Open Source",
     "score": 51.6,
-    "published_at": "2026-11-14T03:11:54.176874+00:00",
+    "published_at": "2026-11-14T04:39:32.925129+00:00",
     "sources": [
      {
       "name": "Hugging Face Trending",
@@ -2149,7 +2152,7 @@
     "summary": "",
     "category": "Open Source",
     "score": 51.6,
-    "published_at": "2026-11-14T03:11:54.176874+00:00",
+    "published_at": "2026-11-14T04:39:32.925129+00:00",
     "sources": [
      {
       "name": "Hugging Face Trending",
@@ -2163,8 +2166,8 @@
     "title": "speridlabs/idol",
     "summary": "",
     "category": "Open Source",
-    "score": 51.4,
-    "published_at": "2026-11-14T03:11:54.176874+00:00",
+    "score": 51.3,
+    "published_at": "2026-11-14T04:39:32.925129+00:00",
     "sources": [
      {
       "name": "Hugging Face Trending",
@@ -2179,7 +2182,7 @@
     "summary": "",
     "category": "Open Source",
     "score": 50.8,
-    "published_at": "2026-11-14T03:11:54.176874+00:00",
+    "published_at": "2026-11-14T04:39:32.925129+00:00",
     "sources": [
      {
       "name": "Hugging Face Trending",
@@ -2194,7 +2197,7 @@
     "summary": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-f…",
     "category": "Models",
     "score": 50.8,
-    "published_at": "2026-11-14T03:11:54.176874+00:00",
+    "published_at": "2026-11-14T04:39:32.925129+00:00",
     "sources": [
      {
       "name": "GitHub Trending",
@@ -2209,7 +2212,7 @@
     "summary": "Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and capture enhancement tool featuring real-time preview for videos, images, and capture card sources. Combine AI-powered Super …",
     "category": "Open Source",
     "score": 50.8,
-    "published_at": "2026-11-14T03:11:54.176874+00:00",
+    "published_at": "2026-11-14T04:39:32.925129+00:00",
     "sources": [
      {
       "name": "GitHub Trending",
@@ -2224,7 +2227,7 @@
     "summary": "",
     "category": "Open Source",
     "score": 50.2,
-    "published_at": "2026-11-14T03:11:54.176874+00:00",
+    "published_at": "2026-11-14T04:39:32.925129+00:00",
     "sources": [
      {
       "name": "Hugging Face Trending",
@@ -2234,27 +2237,12 @@
     "primary_url": "https://huggingface.co/Zyphra/ZONOS3-Mini"
    },
    {
-    "id": "1c6441623ff5",
-    "title": "ccore/Qwen3.5-4B-3D-Coder",
-    "summary": "",
-    "category": "Models",
-    "score": 50.0,
-    "published_at": "2026-11-14T03:11:54.176874+00:00",
-    "sources": [
-     {
-      "name": "Hugging Face Trending",
-      "url": "https://huggingface.co/ccore/Qwen3.5-4B-3D-Coder"
-     }
-    ],
-    "primary_url": "https://huggingface.co/ccore/Qwen3.5-4B-3D-Coder"
-   },
-   {
     "id": "368feff4c462",
     "title": "black-forest-labs/flux-3-image-klein-comfy",
     "summary": "",
     "category": "Open Source",
     "score": 50.0,
-    "published_at": "2026-11-14T03:11:54.176874+00:00",
+    "published_at": "2026-11-14T04:39:32.925129+00:00",
     "sources": [
      {
       "name": "Hugging Face Trending",
@@ -2262,32 +2250,47 @@
      }
     ],
     "primary_url": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy"
+   },
+   {
+    "id": "6ae972136210",
+    "title": "thinkingmachines/Inkling-2-Small",
+    "summary": "",
+    "category": "Open Source",
+    "score": 50.0,
+    "published_at": "2026-11-14T04:39:32.925129+00:00",
+    "sources": [
+     {
+      "name": "Hugging Face Trending",
+      "url": "https://huggingface.co/thinkingmachines/Inkling-2-Small"
+     }
+    ],
+    "primary_url": "https://huggingface.co/thinkingmachines/Inkling-2-Small"
    }
   ]
  },
  "categories": {
   "Models": [
    {
-    "id": "0fcb9bee46e3",
-    "title": "llama.cpp 与 ggml 双双迈入 1.0.0，本地大模型推理库迎来稳定新阶段",
-    "summary": "支撑本地大语言模型运行的核心项目 llama.cpp 及其底层张量库 ggml 正式同步发布 1.0.0 版本。llama.cpp 主打让大模型脱离云端依赖直接在本地设备运行，兼顾本地部署与云端推理场景，核心目标是降低部署难度、最大化释放设备算力。ggml 作为底层机器学习张量库，可通过专用后端对接不同硬件平台，实现跨硬件灵活适配。此次 1.0.0 版本明确划定兼容性边界，落地语义化版本规则，让…",
+    "id": "6f9dcba0cb74",
+    "title": "小米澎湃 OS 4 第三批正式版开启推送：覆盖小米 15、REDMI K80 系列等",
+    "summary": "小米官方宣布澎湃 OS 4 第三批机型正式版即日起陆续推送，符合条件的设备可在系统更新中检测新版本。澎湃 OS 4 是小米新一代操作系统，在 AI 能力、跨设备协同和基础流畅度方面全面升级，融合超级小爱 2.0 和自研 MiMo 大模型，带来专家模式、灵感球交互等全新特性。UI 方面首发柔光玻璃交互材质，支持桌面自定义全面放开，全新柔性悬浮框架适配手机和平板。流畅度经底层内核优化，连续 9 小时…",
     "category": "Models",
-    "score": 69.6,
-    "published_at": "2026-11-14T02:10:26.279000+00:00",
+    "score": 66.8,
+    "published_at": "2026-11-14T03:40:26.603000+00:00",
     "sources": [
      {
       "name": "Readhub",
-      "url": "https://readhub.cn/topic/8y2UeOQ9G6b"
+      "url": "https://readhub.cn/topic/8y1XOxZOb8u"
      }
     ],
-    "primary_url": "https://readhub.cn/topic/8y2UeOQ9G6b"
+    "primary_url": "https://readhub.cn/topic/8y1XOxZOb8u"
    },
    {
     "id": "d40fca9fd5e1",
     "title": "Gemini 4 Hydrogen and Orchestrator",
     "summary": "",
     "category": "Models",
-    "score": 54.5,
+    "score": 53.9,
     "published_at": "2026-11-12T18:52:01+00:00",
     "sources": [
      {
@@ -2306,7 +2309,7 @@
     "title": "Gemini 4 Hydrogen",
     "summary": "",
     "category": "Models",
-    "score": 54.5,
+    "score": 53.9,
     "published_at": "2026-11-12T18:01:48+00:00",
     "sources": [
      {
@@ -2325,7 +2328,7 @@
     "title": "I'm making LLMs work on small and old devices",
     "summary": "",
     "category": "Models",
-    "score": 52.9,
+    "score": 52.3,
     "published_at": "2026-11-12T15:23:10+00:00",
     "sources": [
      {
@@ -2345,7 +2348,7 @@
     "summary": "",
     "category": "Models",
     "score": 51.5,
-    "published_at": "2026-11-14T03:11:54.176874+00:00",
+    "published_at": "2026-11-14T04:39:32.925129+00:00",
     "sources": [
      {
       "name": "Hugging Face Trending",
@@ -2360,7 +2363,7 @@
     "summary": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-f…",
     "category": "Models",
     "score": 50.8,
-    "published_at": "2026-11-14T03:11:54.176874+00:00",
+    "published_at": "2026-11-14T04:39:32.925129+00:00",
     "sources": [
      {
       "name": "GitHub Trending",
@@ -2374,8 +2377,8 @@
     "title": "ccore/Qwen3.5-4B-3D-Coder",
     "summary": "",
     "category": "Models",
-    "score": 50.0,
-    "published_at": "2026-11-14T03:11:54.176874+00:00",
+    "score": 49.9,
+    "published_at": "2026-11-14T04:39:32.925129+00:00",
     "sources": [
      {
       "name": "Hugging Face Trending",
@@ -2389,8 +2392,8 @@
     "title": "tencent/Qwen3.8-27B-DSpine-b16",
     "summary": "",
     "category": "Models",
-    "score": 49.6,
-    "published_at": "2026-11-14T03:11:54.176874+00:00",
+    "score": 49.7,
+    "published_at": "2026-11-14T04:39:32.925129+00:00",
     "sources": [
      {
       "name": "Hugging Face Trending",
@@ -2406,7 +2409,7 @@
     "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
     "summary": "",
     "category": "Agents & Dev Tools",
-    "score": 60.9,
+    "score": 60.3,
     "published_at": "2026-11-13T10:18:13+00:00",
     "sources": [
      {
@@ -2425,7 +2428,7 @@
     "title": "Brave Search API now accepts agentic payments via the x402 protocol",
     "summary": "",
     "category": "Agents & Dev Tools",
-    "score": 56.1,
+    "score": 55.5,
     "published_at": "2026-11-13T03:08:08+00:00",
     "sources": [
      {
@@ -2444,7 +2447,7 @@
     "title": "Doc: Amazon, wary of AI agents favoring sites with better data, plans to gather data on nearly every product sold anywhere, including by crawling rivals' sites (Greg Bensinger/Reuters)",
     "summary": "Greg Bensinger / Reuters : Doc: Amazon, wary of AI agents favoring sites with better data, plans to gather data on nearly every product sold anywhere, including by crawling rivals' sites — Amazon (AM…",
     "category": "Agents & Dev Tools",
-    "score": 55.2,
+    "score": 54.6,
     "published_at": "2026-11-14T01:15:03+00:00",
     "sources": [
      {
@@ -2459,7 +2462,7 @@
     "title": "Microsoft apologizes for the outage, calling it a \"technical issue\" from a \"network capacity upgrade\", and says it was \"not related to cyber or AI/agents\" (@microsoft)",
     "summary": "@microsoft : Microsoft apologizes for the outage, calling it a “technical issue” from a “network capacity upgrade”, and says it was “not related to cyber or AI/agents” — We are deeply sorry for the d…",
     "category": "Agents & Dev Tools",
-    "score": 53.3,
+    "score": 52.7,
     "published_at": "2026-11-13T20:40:02+00:00",
     "sources": [
      {
@@ -2474,7 +2477,7 @@
     "title": "Introducing ChatGPT Wallet",
     "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
     "category": "Agents & Dev Tools",
-    "score": 44.9,
+    "score": 44.3,
     "published_at": "2026-11-13T15:00:00+00:00",
     "sources": [
      {
@@ -2489,7 +2492,7 @@
     "title": "模型更新，指令也要更新！Claude Code 可用 /doctor prompt-audit 檢查 CLAUDE.md 與 skills 裡過時的舊提示詞",
     "summary": "Claude Code 的 /doctor prompt-audit 指令會檢查 CLAUDE.md、skills、agents 與 commands，找出為舊模型寫的提示寫法、失效路徑與互相矛盾的規則，並先產出報告，使用者確認後才會修改。",
     "category": "Agents & Dev Tools",
-    "score": 43.7,
+    "score": 43.1,
     "published_at": "2026-11-14T02:27:00+00:00",
     "sources": [
      {
@@ -2504,7 +2507,7 @@
     "title": "Shield helps technicians hand off legacy portal work with OpenAI",
     "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
     "category": "Agents & Dev Tools",
-    "score": 42.0,
+    "score": 41.4,
     "published_at": "2026-11-13T08:00:00+00:00",
     "sources": [
      {
@@ -2519,7 +2522,7 @@
     "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
     "summary": "After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscribers in the US aged 18 …",
     "category": "Agents & Dev Tools",
-    "score": 41.3,
+    "score": 40.7,
     "published_at": "2026-11-13T20:45:10+00:00",
     "sources": [
      {
@@ -2534,7 +2537,7 @@
     "title": "AI agent startup LangChain hits $3B valuation",
     "summary": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
     "category": "Agents & Dev Tools",
-    "score": 40.8,
+    "score": 40.2,
     "published_at": "2026-11-13T19:37:57+00:00",
     "sources": [
      {
@@ -2549,7 +2552,7 @@
     "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
     "summary": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.",
     "category": "Agents & Dev Tools",
-    "score": 39.3,
+    "score": 38.7,
     "published_at": "2026-11-13T16:00:12+00:00",
     "sources": [
      {
@@ -2562,60 +2565,26 @@
   ],
   "Products": [
    {
-    "id": "92484d158abd",
-    "title": "苹果推送 tvOS 27.2.1 更新，第二/三代 Apple TV 4K 新增 Siri AI 支持",
-    "summary": "IT之家 11 月 14 日消息，科技媒体 MacRumors 今天（11 月 14 日）发布博文，报道称苹果已推送 tvOS 27.2.1 以及 HomePod Software 27.2.1，内部开发代号均为 24K157。 本次 tvOS 27.2.1 更新最大的亮点， 是苹果面向第二代和第三代 Apple TV 4K 推送 Siri AI 支持 。对这些设备的用户而言，无须更换新款硬件，…",
+    "id": "9f90376053e4",
+    "title": "中证协启动券商财务数智化应用调研",
+    "summary": "中国证券业协会向各证券公司下发通知，开展财务数智化应用调研，为行业深化财务数智化建设、提升财务核算质效、推动财务职能升级提供参考。此次调研问卷将财务数智化建设划分为五个依次递进的阶段，聚焦六大财务领域，同时将 AI 相关风险列为重点，兼顾提效与安全。",
     "category": "Products",
-    "score": 71.4,
-    "published_at": "2026-11-14T02:11:43+00:00",
+    "score": 69.6,
+    "published_at": "2026-11-14T03:40:27.250000+00:00",
     "sources": [
      {
       "name": "Readhub",
-      "url": "https://readhub.cn/topic/8y1nm7f1hRe"
-     },
-     {
-      "name": "IT之家",
-      "url": "https://www.ithome.com/1/027/052.htm"
+      "url": "https://readhub.cn/topic/8y2hWnw8xOb"
      }
     ],
-    "primary_url": "https://readhub.cn/topic/8y1nm7f1hRe"
-   },
-   {
-    "id": "a13596b95a2b",
-    "title": "华为首款鸿蒙小折叠电脑 MateBook Fold S 开启预订",
-    "summary": "华为首款鸿蒙小折叠电脑 MateBook Fold S 正式开启预订，11 月 24 日付尾款，暂未公布售价，国补 1500 元，售价暗示超 9999 元。产品提供幻夜黑、天际白、云海蓝三种配色，共四个存储版本，顶配版本额外附赠手写笔。该产品为纵向小尺寸折叠形态，机身接近书本大小，面向移动办公场景，展开后是 14.7 英寸大屏，支持分屏多窗口操作。机身外侧配有 Live 小方屏，折叠状态下可查看…",
-    "category": "Products",
-    "score": 69.8,
-    "published_at": "2026-11-14T02:40:23.518000+00:00",
-    "sources": [
-     {
-      "name": "Readhub",
-      "url": "https://readhub.cn/topic/8y2aNWrF10g"
-     }
-    ],
-    "primary_url": "https://readhub.cn/topic/8y2aNWrF10g"
-   },
-   {
-    "id": "dbcbc77c48e8",
-    "title": "DeepSeek 开放多项功能 API 开发者无需自行拼接整合",
-    "summary": "DeepSeek 正式开放应用全家桶 API，将此前仅在自家 App 和网页端可用的深度思考搜索、文件上传、链接阅读、语音交互、文字识别等功能全部整合进接口，开发者可直接调用，官方称凭此可 1:1 复刻完整的 DeepSeek 应用。此前开发者复刻同类应用需自行部署大模型、对接各类外部工具，流程繁琐。此次新 API 由服务端完成工具调用、上下文拼接等工作，开发者只需开启对应参数即可使用完整能力，…",
-    "category": "Products",
-    "score": 65.0,
-    "published_at": "2026-11-14T01:10:20.177000+00:00",
-    "sources": [
-     {
-      "name": "Readhub",
-      "url": "https://readhub.cn/topic/8y1oVAQ4VH7"
-     }
-    ],
-    "primary_url": "https://readhub.cn/topic/8y1oVAQ4VH7"
+    "primary_url": "https://readhub.cn/topic/8y2hWnw8xOb"
    },
    {
     "id": "5f1afeeb96c0",
     "title": "Why is Google cutting off Search from AI-free schools? Here are some theories",
     "summary": "",
     "category": "Products",
-    "score": 60.0,
+    "score": 59.5,
     "published_at": "2026-11-13T15:29:10+00:00",
     "sources": [
      {
@@ -2634,7 +2603,7 @@
     "title": "ASI, developer of AI tool SMART, says the FAA outage \"is not based on or a result of the SMART system, any product of ASI, or our integration with FAA and ATC\" (Asi/@airspaceintel)",
     "summary": "Asi / @airspaceintel : ASI, developer of AI tool SMART, says the FAA outage “is not based on or a result of the SMART system, any product of ASI, or our integration with FAA and ATC” — The current gr…",
     "category": "Products",
-    "score": 54.5,
+    "score": 53.9,
     "published_at": "2026-11-13T23:35:00+00:00",
     "sources": [
      {
@@ -2649,7 +2618,7 @@
     "title": "The FAA announced on November 10 that it has expanded the use of SMART, an AI tool for advising air traffic controllers to manage congestion, across the US (Jeremy Hsu/Ars Technica)",
     "summary": "Jeremy Hsu / Ars Technica : The FAA announced on November 10 that it has expanded the use of SMART, an AI tool for advising air traffic controllers to manage congestion, across the US — The US govern…",
     "category": "Products",
-    "score": 53.9,
+    "score": 53.3,
     "published_at": "2026-11-13T22:10:02+00:00",
     "sources": [
      {
@@ -2664,7 +2633,7 @@
     "title": "AI is turning Apple's app review process into a nightmare for synth developers",
     "summary": "",
     "category": "Products",
-    "score": 52.8,
+    "score": 52.2,
     "published_at": "2026-11-12T21:09:49+00:00",
     "sources": [
      {
@@ -2683,7 +2652,7 @@
     "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
     "summary": "Airlines praised the AI tool, but the air traffic controllers’ union wasn’t involved.",
     "category": "Products",
-    "score": 41.6,
+    "score": 41.0,
     "published_at": "2026-11-13T21:20:47+00:00",
     "sources": [
      {
@@ -2698,7 +2667,7 @@
     "title": "Anthropic's Claude for Manufacturing plugs AI directly into factory software to automate industrial workflows",
     "summary": "Anthropic's new Claude for Manufacturing plugin connects the AI directly to Autodesk Fusion, Oracle NetSuite, and Infor. Its 17 specialized skills let the AI draft quotes, compare suppliers, and plac…",
     "category": "Products",
-    "score": 39.6,
+    "score": 39.0,
     "published_at": "2026-11-13T16:37:01+00:00",
     "sources": [
      {
@@ -2713,7 +2682,7 @@
     "title": "OpenAI enters the cybersecurity market with two Daybreak products",
     "summary": "OpenAI has launched two security products under its Daybreak brand. The article OpenAI enters the cybersecurity market with two Daybreak products appeared first on The Decoder .",
     "category": "Products",
-    "score": 39.0,
+    "score": 38.4,
     "published_at": "2026-11-13T15:08:57+00:00",
     "sources": [
      {
@@ -2722,6 +2691,36 @@
      }
     ],
     "primary_url": "https://the-decoder.com/openai-enters-the-cybersecurity-market-with-two-daybreak-products/"
+   },
+   {
+    "id": "025a6c711bf8",
+    "title": "ElevenLabs’ new app combines meeting note-taking and dictation for teams",
+    "summary": "ElevenAI is a new meeting notetaker and dictation app aimed at teams and enterprises.",
+    "category": "Products",
+    "score": 38.2,
+    "published_at": "2026-11-13T14:44:48+00:00",
+    "sources": [
+     {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/"
+     }
+    ],
+    "primary_url": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/"
+   },
+   {
+    "id": "a374f737968f",
+    "title": "Outlook 等服务故障期间征集 AI 技巧，微软推文变成网友吐槽现场",
+    "summary": "IT之家 11 月 14 日消息，科技媒体 Windows Latest 昨日（11 月 13 日）发布博文，报道称在 Outlook 等服务大面积宕机停服的情况下， 微软官方账号 @MicrosoftLearn 不合时宜地询问：“初学者应该尽早养成哪一个 AI 使用习惯？”。 该推文的发布时机恰好是 Outlook 等服务停服的时段，因此迅速成为网友集中表达不满的留言区。IT之家发稿前，该条推…",
+    "category": "Products",
+    "score": 37.5,
+    "published_at": "2026-11-14T03:30:13+00:00",
+    "sources": [
+     {
+      "name": "IT之家",
+      "url": "https://www.ithome.com/1/027/072.htm"
+     }
+    ],
+    "primary_url": "https://www.ithome.com/1/027/072.htm"
    }
   ],
   "Open Source": [
@@ -2731,7 +2730,7 @@
     "summary": "",
     "category": "Open Source",
     "score": 54.0,
-    "published_at": "2026-11-14T03:11:54.176874+00:00",
+    "published_at": "2026-11-14T04:39:32.925129+00:00",
     "sources": [
      {
       "name": "Hugging Face Trending",
@@ -2746,7 +2745,7 @@
     "summary": "",
     "category": "Open Source",
     "score": 51.6,
-    "published_at": "2026-11-14T03:11:54.176874+00:00",
+    "published_at": "2026-11-14T04:39:32.925129+00:00",
     "sources": [
      {
       "name": "Hugging Face Trending",
@@ -2761,7 +2760,7 @@
     "summary": "",
     "category": "Open Source",
     "score": 51.6,
-    "published_at": "2026-11-14T03:11:54.176874+00:00",
+    "published_at": "2026-11-14T04:39:32.925129+00:00",
     "sources": [
      {
       "name": "Hugging Face Trending",
@@ -2775,8 +2774,8 @@
     "title": "speridlabs/idol",
     "summary": "",
     "category": "Open Source",
-    "score": 51.4,
-    "published_at": "2026-11-14T03:11:54.176874+00:00",
+    "score": 51.3,
+    "published_at": "2026-11-14T04:39:32.925129+00:00",
     "sources": [
      {
       "name": "Hugging Face Trending",
@@ -2790,8 +2789,8 @@
     "title": "moonshotai/Kimi-K3.1-Pro",
     "summary": "",
     "category": "Open Source",
-    "score": 51.0,
-    "published_at": "2026-11-14T03:11:54.176874+00:00",
+    "score": 50.9,
+    "published_at": "2026-11-14T04:39:32.925129+00:00",
     "sources": [
      {
       "name": "Hugging Face Trending",
@@ -2806,7 +2805,7 @@
     "summary": "Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and capture enhancement tool featuring real-time preview for videos, images, and capture card sources. Combine AI-powered Super …",
     "category": "Open Source",
     "score": 50.8,
-    "published_at": "2026-11-14T03:11:54.176874+00:00",
+    "published_at": "2026-11-14T04:39:32.925129+00:00",
     "sources": [
      {
       "name": "GitHub Trending",
@@ -2821,7 +2820,7 @@
     "summary": "",
     "category": "Open Source",
     "score": 50.8,
-    "published_at": "2026-11-14T03:11:54.176874+00:00",
+    "published_at": "2026-11-14T04:39:32.925129+00:00",
     "sources": [
      {
       "name": "Hugging Face Trending",
@@ -2836,7 +2835,7 @@
     "summary": "",
     "category": "Open Source",
     "score": 50.2,
-    "published_at": "2026-11-14T03:11:54.176874+00:00",
+    "published_at": "2026-11-14T04:39:32.925129+00:00",
     "sources": [
      {
       "name": "Hugging Face Trending",
@@ -2851,7 +2850,7 @@
     "summary": "",
     "category": "Open Source",
     "score": 50.0,
-    "published_at": "2026-11-14T03:11:54.176874+00:00",
+    "published_at": "2026-11-14T04:39:32.925129+00:00",
     "sources": [
      {
       "name": "Hugging Face Trending",
@@ -2866,7 +2865,7 @@
     "summary": "",
     "category": "Open Source",
     "score": 50.0,
-    "published_at": "2026-11-14T03:11:54.176874+00:00",
+    "published_at": "2026-11-14T04:39:32.925129+00:00",
     "sources": [
      {
       "name": "Hugging Face Trending",
@@ -2878,11 +2877,26 @@
   ],
   "Research": [
    {
+    "id": "8fc9301cb208",
+    "title": "吴清：进一步深化人工智能与资本市场双向赋能研究",
+    "summary": "证监会相关致辞指出，要进一步深化人工智能与资本市场双向赋能研究。当前人工智能正快速对科研、产业创新和生产生活产生系统性深层次影响，但其长远影响仍需结合技术迭代、场景落地、组织变革和有效治理等持续观察。资本市场既要积极适应新技术变革，在估值定价、信息披露等方面加强制度研究，精准支持相关硬科技企业发展壮大，有效增进社会福祉。也要深入研究人工智能对生产力和生产关系的重塑在资本市场的传导映射，加快研究责…",
+    "category": "Research",
+    "score": 67.1,
+    "published_at": "2026-11-14T04:25:14.375000+00:00",
+    "sources": [
+     {
+      "name": "Readhub",
+      "url": "https://readhub.cn/topic/8y2kj4Ixvnl"
+     }
+    ],
+    "primary_url": "https://readhub.cn/topic/8y2kj4Ixvnl"
+   },
+   {
     "id": "a1e895b935bb",
     "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
     "summary": "",
     "category": "Research",
-    "score": 62.9,
+    "score": 62.4,
     "published_at": "2026-11-13T17:30:10+00:00",
     "sources": [
      {
@@ -2901,7 +2915,7 @@
     "title": "OpenAI disbands its robotics team as its general models start running robots",
     "summary": "",
     "category": "Research",
-    "score": 60.6,
+    "score": 60.1,
     "published_at": "2026-11-13T17:55:23+00:00",
     "sources": [
      {
@@ -2920,7 +2934,7 @@
     "title": "AI's impact on math is a preview of what AI will do to AI research, with AI matching top human researchers potentially just a couple of years away (Dwarkesh Patel/Dwarkesh Podcast)",
     "summary": "Dwarkesh Patel / Dwarkesh Podcast : AI's impact on math is a preview of what AI will do to AI research, with AI matching top human researchers potentially just a couple of years away — Many thanks to…",
     "category": "Research",
-    "score": 55.5,
+    "score": 54.9,
     "published_at": "2026-11-14T01:55:00+00:00",
     "sources": [
      {
@@ -2936,7 +2950,7 @@
     "summary": "System One models promise fast, general-purpose decision-making without lengthy token generation. However, understanding their capability spectrum and decision reliability requires more than aggregat…",
     "category": "Research",
     "score": 48.0,
-    "published_at": "2026-11-14T03:11:54.176874+00:00",
+    "published_at": "2026-11-14T04:39:32.925129+00:00",
     "sources": [
      {
       "name": "Hugging Face Papers",
@@ -2950,8 +2964,8 @@
     "title": "BirdDreams: Joint Perspective and BEV Video Generation for a Plausible, Reactive Driving World Model",
     "summary": "Driving world models aim to simulate how a scene unfolds under different ego actions. This requires plausible motion of surrounding vehicles as well as precise ego-trajectory control. Learning vehicl…",
     "category": "Research",
-    "score": 45.5,
-    "published_at": "2026-11-14T03:11:54.176874+00:00",
+    "score": 45.4,
+    "published_at": "2026-11-14T04:39:32.925129+00:00",
     "sources": [
      {
       "name": "Hugging Face Papers",
@@ -2965,8 +2979,8 @@
     "title": "PhysLoop: Harnessing LLMs' Physics Awareness for Self-Improving Video Generation Models",
     "summary": "Video generation models produce visually realistic videos but still struggle with physical dynamics and causal consistency. Learning from generated videos requires fine-grained physical supervision, …",
     "category": "Research",
-    "score": 45.1,
-    "published_at": "2026-11-14T03:11:54.176874+00:00",
+    "score": 45.0,
+    "published_at": "2026-11-14T04:39:32.925129+00:00",
     "sources": [
      {
       "name": "Hugging Face Papers",
@@ -2980,8 +2994,8 @@
     "title": "G-STAR: Group-Scaled Token Capacity for Deeply Compressed Autoregressive Generation",
     "summary": "Discrete autoregressive models offer a scalable framework for image generation. However, they face a fundamental trade-off: long token sequences preserve representation quality but slow generation, w…",
     "category": "Research",
-    "score": 45.0,
-    "published_at": "2026-11-14T03:11:54.176874+00:00",
+    "score": 44.9,
+    "published_at": "2026-11-14T04:39:32.925129+00:00",
     "sources": [
      {
       "name": "Hugging Face Papers",
@@ -2995,8 +3009,8 @@
     "title": "Duo: A Reciprocal World Model for Full-Duplex Interaction",
     "summary": "In this report, we introduce the Reciprocal World Model (RWM) and present Duo v1, a full-duplex world model that continuously perceives audiovisual inputs while responding to users in real time. The …",
     "category": "Research",
-    "score": 44.6,
-    "published_at": "2026-11-14T03:11:54.176874+00:00",
+    "score": 44.5,
+    "published_at": "2026-11-14T04:39:32.925129+00:00",
     "sources": [
      {
       "name": "Hugging Face Papers",
@@ -3010,8 +3024,8 @@
     "title": "Open Vision Banana: A Fully Open Recipe for Generative Visual Perception",
     "summary": "Recent work suggests that pretrained image generators encode real-world understanding beyond image synthesis. Vision Banana exploits this by framing vision tasks as conditional image editing. However…",
     "category": "Research",
-    "score": 43.6,
-    "published_at": "2026-11-14T03:11:54.176874+00:00",
+    "score": 43.7,
+    "published_at": "2026-11-14T04:39:32.925129+00:00",
     "sources": [
      {
       "name": "Hugging Face Papers",
@@ -3019,21 +3033,6 @@
      }
     ],
     "primary_url": "https://huggingface.co/papers/2611.15844"
-   },
-   {
-    "id": "731431771b9c",
-    "title": "Actor, Judge, or Teacher? Understanding Decision Models in Long-Horizon Agents",
-    "summary": "Decision models answer a question with a typed output, such as a choice among options with a probability for each, so one model can choose an agent's actions, evaluate actions already taken, or score…",
-    "category": "Research",
-    "score": 43.5,
-    "published_at": "2026-11-14T03:11:54.176874+00:00",
-    "sources": [
-     {
-      "name": "Hugging Face Papers",
-      "url": "https://huggingface.co/papers/2611.17167"
-     }
-    ],
-    "primary_url": "https://huggingface.co/papers/2611.17167"
    }
   ],
   "Policy & Safety": [
@@ -3043,7 +3042,7 @@
     "summary": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
     "category": "Policy & Safety",
     "score": 54.0,
-    "published_at": "2026-11-14T03:11:54.176874+00:00",
+    "published_at": "2026-11-14T04:39:32.925129+00:00",
     "sources": [
      {
       "name": "GitHub Trending",
@@ -3058,7 +3057,7 @@
     "summary": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE…",
     "category": "Policy & Safety",
     "score": 50.2,
-    "published_at": "2026-11-14T03:11:54.176874+00:00",
+    "published_at": "2026-11-14T04:39:32.925129+00:00",
     "sources": [
      {
       "name": "GitHub Trending",
@@ -3068,11 +3067,26 @@
     "primary_url": "https://github.com/alibaba/open-code-review"
    },
    {
+    "id": "cc817b288322",
+    "title": "OpenAI 推出 Daybreak Defense Factory 與 Red Team 自動找漏洞、補漏洞並模擬攻擊",
+    "summary": "OpenAI 在 11 月 12 日的 Cyber at the Frontier 活動推出 Daybreak Defense Factory 與 Daybreak Red Team。前者由 AI 代理找出漏洞並備妥修補，後者以 OpenAI 模型自動測試網頁應用程式，目前為早期試用。",
+    "category": "Policy & Safety",
+    "score": 43.4,
+    "published_at": "2026-11-14T03:13:00+00:00",
+    "sources": [
+     {
+      "name": "INSIDE",
+      "url": "https://www.inside.com.tw/article/42910-openai-daybreak-defense-factory-red-team-automated-patching-cyber-at-the-frontier"
+     }
+    ],
+    "primary_url": "https://www.inside.com.tw/article/42910-openai-daybreak-defense-factory-red-team-automated-patching-cyber-at-the-frontier"
+   },
+   {
     "id": "c3c6e5dcbe82",
     "title": "OpenAI 傳向國會表態支持 3 項對中管制法案，限制中國取得 AI 晶片與製造設備",
     "summary": "OpenAI 傳出本週已向國會議員確認，支持限制中國取得 AI 晶片與晶片製造設備的跨黨派法案，據報導包括 Chip Security Act、MATCH Act 與 AI OVERWATCH Act。",
     "category": "Policy & Safety",
-    "score": 43.1,
+    "score": 42.5,
     "published_at": "2026-11-14T01:08:00+00:00",
     "sources": [
      {
@@ -3087,7 +3101,7 @@
     "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
     "summary": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
     "category": "Policy & Safety",
-    "score": 40.4,
+    "score": 39.8,
     "published_at": "2026-11-13T18:40:30+00:00",
     "sources": [
      {
@@ -3102,7 +3116,7 @@
     "title": "Banks bar Chinese and Hong Kong investors from Anthropic IPO over US export controls",
     "summary": "Chinese investors are shut out of Anthropic's IPO, Bloomberg reports. Banks are rejecting buy orders from mainland China and Hong Kong, citing U.S. export control rules known as ITAR. Similar restric…",
     "category": "Policy & Safety",
-    "score": 40.2,
+    "score": 39.6,
     "published_at": "2026-11-13T18:01:53+00:00",
     "sources": [
      {
@@ -3117,7 +3131,7 @@
     "title": "Nearly 70 percent of US agencies use generative AI, and unions are finally catching up with guardrails",
     "summary": "US public-sector unions are increasingly pushing through protections against AI surveillance and automated firings. In Oakland, a strike vote forced retraining programs instead of layoffs, and a tran…",
     "category": "Policy & Safety",
-    "score": 39.3,
+    "score": 38.7,
     "published_at": "2026-11-13T15:53:49+00:00",
     "sources": [
      {
@@ -3132,7 +3146,7 @@
     "title": "Former OpenAI researcher says he found Nvidia Blackwell fingerprints hidden inside six Chinese AI models",
     "summary": "Former OpenAI researcher Will DePue says he has produced the first technical evidence that DeepSeek, Moonshot AI, MiniMax, and Ant Group are using Nvidia's latest Blackwell GPUs despite US export con…",
     "category": "Policy & Safety",
-    "score": 39.1,
+    "score": 38.5,
     "published_at": "2026-11-13T15:21:04+00:00",
     "sources": [
      {
@@ -3147,7 +3161,7 @@
     "title": "部长回应全美航班停飞：事件与微软无关、没有发生网络攻击，只是路由器太旧扛不住流量数据过载",
     "summary": "IT之家 11 月 14 日消息，美国联邦航空管理局（FAA）宣布解除全美航班地面停飞令后，美国国土安全部部长马克韦恩・穆林（Markwayne Mullin）和交通部长肖恩・达菲先后就此次事件作出回应。 穆林表示，目前没有发现网络攻击或人工智能攻击的证据，此次事件与微软无关，但调查仍在进行，不排除网络攻击的可能性。 穆林表示，公众从未处于危险之中，此次实施全美地面停飞是出于高度谨慎。他称，目前…",
     "category": "Policy & Safety",
-    "score": 37.4,
+    "score": 36.8,
     "published_at": "2026-11-14T01:49:15+00:00",
     "sources": [
      {
@@ -3160,11 +3174,60 @@
   ],
   "Business": [
    {
+    "id": "bdeca5f2b445",
+    "title": "网页端代码浮现额度管理机制，DeepSeek 订阅制收费或提上日程",
+    "summary": "此前 DeepSeek 面向个人用户仅开放平台 API 按 Token 用量计费，聊天产品始终免费，从未推出过会员换对话次数的模式。近日开发者发现其聊天产品前端代码暗藏完整额度管理逻辑，相关额度耗尽提示、状态轮询、界面替换等功能均已就位，整套体系指向名为「Coding Plan」的专属套餐，社区猜测其可能伴随 DeepSeek V4.1 Pro 上线推出首个 C 端付费方案，目前官方尚未披露订阅…",
+    "category": "Business",
+    "score": 67.0,
+    "published_at": "2026-11-14T04:10:19.921000+00:00",
+    "sources": [
+     {
+      "name": "Readhub",
+      "url": "https://readhub.cn/topic/8y2ZfNfbK0M"
+     }
+    ],
+    "primary_url": "https://readhub.cn/topic/8y2ZfNfbK0M"
+   },
+   {
+    "id": "b26717d449a4",
+    "title": "Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs",
+    "summary": "",
+    "category": "Business",
+    "score": 62.9,
+    "published_at": "2026-11-14T02:52:59+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50493251"
+     }
+    ],
+    "primary_url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus"
+   },
+   {
+    "id": "2c9708b63937",
+    "title": "Analysis: Sam Bankman-Fried's $500M Anthropic investment in 2021 would be worth ~$37B if Anthropic lists at ~$1.5T; he relinquished his stake in 2024 for ~$1.3B (George Hammond/Financial Times)",
+    "summary": "George Hammond / Financial Times : Analysis: Sam Bankman-Fried's $500M Anthropic investment in 2021 would be worth ~$37B if Anthropic lists at ~$1.5T; he relinquished his stake in 2024 for ~$1.3B — J…",
+    "category": "Business",
+    "score": 55.9,
+    "published_at": "2026-11-14T04:25:01+00:00",
+    "sources": [
+     {
+      "name": "Techmeme",
+      "url": "https://www.techmeme.com/261113/p42#a261113p42"
+     }
+    ],
+    "primary_url": "https://www.techmeme.com/261113/p42#a261113p42"
+   },
+   {
     "id": "d096a8a420fb",
     "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
     "summary": "",
     "category": "Business",
-    "score": 54.8,
+    "score": 54.2,
     "published_at": "2026-11-12T21:56:11+00:00",
     "sources": [
      {
@@ -3183,7 +3246,7 @@
     "title": "Sources: Moonshot AI is deactivating its Cayman holding company and moving investors' stakes to its primary operating entity in China to pave the way for an IPO (Wall Street Journal)",
     "summary": "Wall Street Journal : Sources: Moonshot AI is deactivating its Cayman holding company and moving investors' stakes to its primary operating entity in China to pave the way for an IPO — Chinese artifi…",
     "category": "Business",
-    "score": 53.8,
+    "score": 53.2,
     "published_at": "2026-11-13T22:01:42+00:00",
     "sources": [
      {
@@ -3198,7 +3261,7 @@
     "title": "Anthropic IPO",
     "summary": "",
     "category": "Business",
-    "score": 53.6,
+    "score": 53.0,
     "published_at": "2026-11-12T11:46:41+00:00",
     "sources": [
      {
@@ -3217,7 +3280,7 @@
     "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
     "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
     "category": "Business",
-    "score": 42.1,
+    "score": 41.5,
     "published_at": "2026-11-13T22:43:00+00:00",
     "sources": [
      {
@@ -3232,7 +3295,7 @@
     "title": "Jensen Huang's ouster likely traces back to Nvidia's risky business practices more than his personal life",
     "summary": "Jensen Huang likely left Nvidia more because of risky business practices than anything else, a Wall Street Journal report suggests. At the very least, those practices made him enemies internally. The…",
     "category": "Business",
-    "score": 41.1,
+    "score": 40.4,
     "published_at": "2026-11-13T20:07:34+00:00",
     "sources": [
      {
@@ -3247,7 +3310,7 @@
     "title": "The unfolding Jensen Huang scandal: a timeline",
     "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
     "category": "Business",
-    "score": 39.3,
+    "score": 38.7,
     "published_at": "2026-11-13T15:58:00+00:00",
     "sources": [
      {
@@ -3262,7 +3325,7 @@
     "title": "Anthropic's IPO is six times oversubscribed and on track to become the largest public offering in history",
     "summary": "Anthropic is on track for the largest IPO ever, with orders exceeding available shares by a factor of six. The article Anthropic's IPO is six times oversubscribed and on track to become the largest p…",
     "category": "Business",
-    "score": 39.0,
+    "score": 38.4,
     "published_at": "2026-11-13T15:15:08+00:00",
     "sources": [
      {
@@ -3271,55 +3334,6 @@
      }
     ],
     "primary_url": "https://the-decoder.com/anthropics-ipo-is-six-times-oversubscribed-and-on-track-to-become-the-largest-public-offering-in-history/"
-   },
-   {
-    "id": "5d09d1e98e76",
-    "title": "What&#8217;s really at stake in the Jensen Huang saga",
-    "summary": "One part of the saga surrounding Nvidia CEO Jensen Huang ended on Thursday, when Huang resigned from his position at the top of AI's most important company. But in the coming weeks and months, a much…",
-    "category": "Business",
-    "score": 38.8,
-    "published_at": "2026-11-13T14:47:16+00:00",
-    "sources": [
-     {
-      "name": "The Verge",
-      "url": "https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast"
-     }
-    ],
-    "primary_url": "https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast"
-   },
-   {
-    "id": "d565c16ff3f9",
-    "title": "礼来 CEO 回应“AI 十年内攻克癌症”：愿景很美好，但不太可能",
-    "summary": "IT之家 11 月 14 日消息，礼来（Eli Lilly）董事长兼首席执行官戴夫 · 里克斯（Dave Ricks）于 11 月 12 日在 X 平台发布推文，回应 Anthropic 首席执行官达里奥 · 阿莫代伊（Dario Amodei）有关“AI 将在不到十年内攻克癌症等疾病”的预测， 称这一愿景“令人向往”，但实现的可能性不大。 IT之家此前报道，在面向投资者的路演视频中，阿莫代伊表…",
-    "category": "Business",
-    "score": 37.2,
-    "published_at": "2026-11-14T01:10:57+00:00",
-    "sources": [
-     {
-      "name": "IT之家",
-      "url": "https://www.ithome.com/1/027/037.htm"
-     }
-    ],
-    "primary_url": "https://www.ithome.com/1/027/037.htm"
-   },
-   {
-    "id": "6e7f4ca7daf1",
-    "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
-    "summary": "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security Act, Foster told MI…",
-    "category": "Business",
-    "score": 37.1,
-    "published_at": "2026-11-12T20:16:24+00:00",
-    "sources": [
-     {
-      "name": "MIT Technology Review",
-      "url": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/"
-     },
-     {
-      "name": "r/LocalLLaMA",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvcbbh/nvidia_privately_confirmed_it_could_track_chips/"
-     }
-    ],
-    "primary_url": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/"
    }
   ],
   "Other": [
@@ -3328,7 +3342,7 @@
     "title": "No AI Slop: A Manifesto",
     "summary": "",
     "category": "Other",
-    "score": 62.1,
+    "score": 61.5,
     "published_at": "2026-11-13T19:51:56+00:00",
     "sources": [
      {
@@ -3347,7 +3361,7 @@
     "title": "AI is destroying the trust between writers and readers",
     "summary": "",
     "category": "Other",
-    "score": 60.0,
+    "score": 59.5,
     "published_at": "2026-11-13T11:13:46+00:00",
     "sources": [
      {
@@ -3363,10 +3377,10 @@
    },
    {
     "id": "0b67abad1121",
-    "title": "Jonathan Blow – If AI Solved Coding, Why Is My Software Still the Same? [video]",
+    "title": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
     "summary": "",
     "category": "Other",
-    "score": 59.5,
+    "score": 59.2,
     "published_at": "2026-11-13T15:08:44+00:00",
     "sources": [
      {
@@ -3385,7 +3399,7 @@
     "title": "Claude Is Down",
     "summary": "",
     "category": "Other",
-    "score": 58.3,
+    "score": 57.7,
     "published_at": "2026-11-13T10:20:09+00:00",
     "sources": [
      {
@@ -3404,7 +3418,7 @@
     "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
     "summary": "",
     "category": "Other",
-    "score": 55.2,
+    "score": 54.6,
     "published_at": "2026-11-12T23:06:17+00:00",
     "sources": [
      {
@@ -3423,7 +3437,7 @@
     "title": "Why You Should Expect an AI Crash",
     "summary": "",
     "category": "Other",
-    "score": 51.7,
+    "score": 51.1,
     "published_at": "2026-11-12T23:08:31+00:00",
     "sources": [
      {
@@ -3442,7 +3456,7 @@
     "title": "Amazon has a plan to index the world’s online shopping data",
     "summary": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reut…",
     "category": "Other",
-    "score": 42.6,
+    "score": 42.0,
     "published_at": "2026-11-13T23:49:11+00:00",
     "sources": [
      {
@@ -3457,7 +3471,7 @@
     "title": "OpenAI rebuilt AI shopping from scratch with ChatGPT Wallet",
     "summary": "OpenAI is taking a second shot at AI-powered shopping with ChatGPT Wallet after scrapping its first approach, Instant Checkout. Users register a card once and confirm each purchase through Face ID or…",
     "category": "Other",
-    "score": 40.6,
+    "score": 39.9,
     "published_at": "2026-11-13T18:55:21+00:00",
     "sources": [
      {
@@ -3472,7 +3486,7 @@
     "title": "OpenAI board member worries an AI \"takeover\" of society could be months away",
     "summary": "Researcher traces a path from AI reward hacking to potential human extinction.",
     "category": "Other",
-    "score": 39.9,
+    "score": 39.3,
     "published_at": "2026-11-13T17:25:45+00:00",
     "sources": [
      {
@@ -3487,7 +3501,7 @@
     "title": "XYBench: Helping with the problem behind the question",
     "summary": "",
     "category": "Other",
-    "score": 39.8,
+    "score": 39.2,
     "published_at": "2026-11-13T17:02:35+00:00",
     "sources": [
      {
@@ -3590,13 +3604,13 @@
   }
  ],
  "stats": {
-  "fetched": 179,
-  "after_dedup": 177,
+  "fetched": 164,
+  "after_dedup": 164,
   "sources_ok": 21,
   "sources_failed": 1,
   "failed_sources": {
-   "r/MachineLearning": "HTTPError: 429 Client Error: Too Many Requests for url: https://www.reddit.com/r/MachineLearning/top/.rss?t=day"
+   "r/LocalLLaMA": "HTTPError: 429 Client Error: Too Many Requests for url: https://www.reddit.com/r/LocalLLaMA/top/.rss?t=day"
   },
-  "duration_s": 2.6
+  "duration_s": 2.1
  }
 }

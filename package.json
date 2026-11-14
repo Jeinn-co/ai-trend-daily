@@ -1,6 +1,6 @@
 {
   "name": "ai-trend-daily",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "private": true,
   "description": "AI 趨勢日報：每 12 小時抓取 AI 新聞並發布成 GitHub Pages 靜態網站；版本號顯示在頁尾"
 }

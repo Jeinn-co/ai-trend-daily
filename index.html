@@ -65,6 +65,7 @@
       .tab .n { margin-left: 4px; font-size: 12px; }
 
       .cards { display: grid; grid-template-columns: repeat(auto-fill, minmax(330px, 1fr)); gap: 16px; }
+      [hidden] { display: none !important; }
       .card { display: flex; flex-direction: column; padding: 18px 20px; border: 1px solid var(--line); border-top: 4px solid var(--c); border-radius: 14px; background: var(--sheet); transition: transform 0.15s, box-shadow 0.15s; }
       .card:hover { transform: translateY(-2px); box-shadow: 0 8px 24px color-mix(in srgb, var(--c) 18%, transparent); }
       .card-top { display: flex; align-items: center; gap: 8px; margin-bottom: 10px; color: var(--muted); font-size: 13px; }
@@ -106,7 +107,7 @@
       <header class="head">
         <div>
           <h1>AI Trend Daily</h1>
-          <p class="meta">Updated <b id="updated">—</b> (Taipei time)</p>
+          <p class="meta">Updated <b id="updated" translate="no">—</b> (Taipei time)</p>
         </div>
         <div class="bar">
           <input id="q" class="search" type="search" placeholder="Search" aria-label="Search titles and descriptions" />
@@ -123,7 +124,7 @@
 
       <footer>
         <h3>Archive</h3>
-        <select id="archive" aria-label="Open an earlier snapshot"><option value="">Latest</option></select>
+        <select id="archive" translate="no" aria-label="Open an earlier snapshot"><option value="">Latest</option></select>
         <h3>Sources</h3>
         <ul id="srclist" class="srclist"></ul>
         <h3>About</h3>
@@ -134,7 +135,7 @@
           opens the original article.
         </p>
         <!-- version comes from package.json, which the workflow deploys next to this page -->
-        <p class="mono">Version <span id="version">–</span></p>
+        <p class="mono">Version <span id="version" translate="no">–</span></p>
       </footer>
     </div>
 
@@ -154,6 +155,7 @@
       const label = (c) => (ZH[c] ? `${c} · ${ZH[c]}` : c);
       const $ = (id) => document.getElementById(id);
       const state = { data: null, tab: "Headlines", expanded: false, q: "" };
+      const ALL = "__all"; // the "Show all by score" panel
       const listFor = (tab) => (state.data.highlights || {})[tab] || state.data.categories[tab] || [];
 
       const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" })[c]);
@@ -165,55 +167,67 @@
       function sourcesBlock(it) {
         const first = it.sources[0]?.name ?? "";
         const label = it.sources.length > 1 ? `Source: ${esc(first)} +${it.sources.length - 1} more` : `Source: ${esc(first)}`;
-        const items = it.sources.map((s) => `<li>${esc(s.name)}：${link(s.url, s.url)}</li>`).join("");
+        const items = it.sources.map((s) => `<li translate="no">${esc(s.name)}：${link(s.url, s.url)}</li>`).join("");
         return `<details class="src"><summary>${label}</summary><ul>${items}</ul></details>`;
       }
 
       function card(it, rank) {
-        return `<article class="card" style="--c:${color(it.category)}">
-          <div class="card-top"><span class="rank mono${rank <= 3 ? " top" : ""}">#${rank}</span><span class="tag">${esc(label(it.category))}</span><span class="score mono">${it.score}</span></div>
+        return `<article class="card" style="--c:${color(it.category)}" data-hay="${esc(`${it.title} ${it.summary}`.toLowerCase())}">
+          <div class="card-top" translate="no"><span class="rank mono${rank <= 3 ? " top" : ""}">#${rank}</span><span class="tag">${esc(label(it.category))}</span><span class="score mono">${it.score}</span></div>
           <h2>${link(it.primary_url, it.title)}</h2>
           ${it.summary ? `<p class="summary">${esc(it.summary)}</p>` : ""}
           ${sourcesBlock(it)}
         </article>`;
       }
 
-      const matches = (it) => {
-        if (!state.q) return true;
-        const hay = `${it.title} ${it.summary}`.toLowerCase();
-        return hay.includes(state.q);
-      };
-
+      // Everything is rendered once per data load; tabs, "show all" and search only toggle `hidden`.
+      // Rebuilding the DOM on every click threw away the browser's translation (Chrome Translate etc.).
       function renderTabs() {
-        const d = state.data;
-        const tabs = [...HIGHLIGHTS, ...CATEGORIES].map((t) => [t, label(t), listFor(t).length]);
+        // category labels already carry their Chinese name, so translators leave them alone
+        const tabs = [...HIGHLIGHTS, ...CATEGORIES].map((t) => [t, label(t), listFor(t).length, ZH[t] ? ' translate="no"' : ""]);
         $("tabs").innerHTML = tabs
-          .map(([id, label, n]) => `<button class="tab" role="tab" style="--c:${color(id)}" data-tab="${esc(id)}" aria-selected="${id === state.tab}"><span class="dot"></span>${esc(label)}<span class="n mono">${n}</span></button>`)
+          .map(([id, text, n, no]) => `<button class="tab" role="tab" style="--c:${color(id)}" data-tab="${esc(id)}" aria-selected="false"><span class="dot"></span><span${no}>${esc(text)}</span><span class="n mono" translate="no">${n}</span></button>`)
           .join("");
+      }
+
+      function panel(id, list, extra = "") {
+        const cards = list.map((it, i) => card(it, i + 1)).join("");
+        return `<section class="panel" data-panel="${esc(id)}" hidden>
+          <p class="empty" data-empty${list.length ? " hidden" : ""}>${list.length ? "No matches" : "No stories in this category right now"}</p>
+          <div class="cards">${cards}</div>${extra}</section>`;
+      }
+
+      function renderPanels() {
+        const d = state.data;
+        $("view").innerHTML = [...HIGHLIGHTS, ...CATEGORIES]
+          .map((t) => panel(t, listFor(t), t === "Headlines" ? `<button class="btn more" type="button" data-action="expand">Show all ${d.all.length} by score</button>` : ""))
+          .join("") + panel(ALL, d.all, `<button class="btn more" type="button" data-action="collapse">Back to top 10</button>`);
+      }
+
+      function show() {
+        const id = state.tab === "Headlines" && state.expanded ? ALL : state.tab;
+        $("tabs").querySelectorAll("[data-tab]").forEach((b) => b.setAttribute("aria-selected", b.dataset.tab === state.tab));
+        $("view").querySelectorAll("[data-panel]").forEach((p) => (p.hidden = p.dataset.panel !== id));
+        filter();
         updateArrows();
         $("tabs").querySelector('[aria-selected="true"]')?.scrollIntoView({ block: "nearest", inline: "nearest" });
+      }
+
+      function filter() {
+        const p = $("view").querySelector("[data-panel]:not([hidden])");
+        if (!p) return;
+        let shown = 0;
+        p.querySelectorAll(".card").forEach((c) => {
+          c.hidden = state.q && !c.dataset.hay.includes(state.q);
+          if (!c.hidden) shown++;
+        });
+        p.querySelector("[data-empty]").hidden = shown > 0;
       }
 
       function updateArrows() {
         const t = $("tabs");
         $("tabs-wrap").classList.toggle("can-prev", t.scrollLeft > 4);
         $("tabs-wrap").classList.toggle("can-next", t.scrollLeft + t.clientWidth < t.scrollWidth - 4);
-      }
-
-      function renderView() {
-        const d = state.data;
-        let html;
-        if (state.tab === "Headlines" && state.expanded) {
-          const list = d.all.map((it, i) => [it, i + 1]).filter(([it]) => matches(it));
-          html = list.length ? `<div class="cards">${list.map(([it, r]) => card(it, r)).join("")}</div>` : "";
-          html += `<button class="btn more" type="button" data-action="collapse">Back to top 10</button>`;
-        } else {
-          const base = listFor(state.tab);
-          const list = base.map((it, i) => [it, i + 1]).filter(([it]) => matches(it));
-          html = list.length ? `<div class="cards">${list.map(([it, r]) => card(it, r)).join("")}</div>` : "";
-          if (state.tab === "Headlines") html += `<button class="btn more" type="button" data-action="expand">Show all ${d.all.length} by score</button>`;
-        }
-        $("view").innerHTML = html.startsWith("<button") || !html ? `<p class="empty">${state.q ? "No matches" : "No stories in this category right now"}</p>${html}` : html;
       }
 
       function renderMeta() {
@@ -229,7 +243,8 @@
         state.expanded = false;
         renderMeta();
         renderTabs();
-        renderView();
+        renderPanels();
+        show();
       }
 
       async function loadVersion() {
@@ -241,7 +256,7 @@
         const res = await fetch(`data/archive/index.json?t=${Date.now()}`);
         if (!res.ok) return;
         const names = await res.json();
-        $("archive").innerHTML += names.map((n) => `<option value="${esc(n)}">${esc(n.replace(/^(\d{4}-\d{2}-\d{2})-(\d{2})$/, "$1 $2:00 UTC"))}</option>`).join("");
+        $("archive").insertAdjacentHTML("beforeend", names.map((n) => `<option value="${esc(n)}">${esc(n.replace(/^(\d{4}-\d{2}-\d{2})-(\d{2})$/, "$1 $2:00 UTC"))}</option>`).join(""));
       }
 
       $("tabs").addEventListener("scroll", updateArrows, { passive: true });
@@ -253,18 +268,17 @@
         if (!b) return;
         state.tab = b.dataset.tab;
         state.expanded = false;
-        renderTabs();
-        renderView();
+        show();
       });
       $("view").addEventListener("click", (e) => {
         const b = e.target.closest("[data-action]");
         if (!b) return;
         state.expanded = b.dataset.action === "expand";
-        renderView();
+        show();
       });
       $("q").addEventListener("input", (e) => {
         state.q = e.target.value.trim().toLowerCase();
-        renderView();
+        filter();
       });
       $("archive").addEventListener("change", (e) => {
         load(e.target.value ? `data/archive/${e.target.value}.json` : "data/latest.json").catch(showError);

@@ -120,8 +120,8 @@
           their publishers. This site shows only titles, short descriptions and links: every item names its source, and each title
           opens the original article.
         </p>
-        <!-- site version: bump on each release (pp) -->
-        <p class="mono">Version 1.1.0</p>
+        <!-- version comes from package.json, which the workflow deploys next to this page -->
+        <p class="mono">Version <span id="version">–</span></p>
       </footer>
     </div>
 
@@ -221,6 +221,11 @@
         renderView();
       }
 
+      async function loadVersion() {
+        const res = await fetch(`package.json?t=${Date.now()}`).catch(() => null);
+        if (res?.ok) $("version").textContent = (await res.json()).version;
+      }
+
       async function loadArchive() {
         const res = await fetch(`data/archive/index.json?t=${Date.now()}`);
         if (!res.ok) return;
@@ -265,6 +270,7 @@
       setInterval(tick, 1000);
       load("data/latest.json").catch(showError);
       loadArchive();
+      loadVersion();
     </script>
   </body>
 </html>

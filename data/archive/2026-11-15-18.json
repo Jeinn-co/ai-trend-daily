@@ -1,0 +1,3407 @@
+{
+ "updated_at": "2026-11-15T18:43:59+00:00",
+ "top10": [
+  {
+   "id": "da34347cd41f",
+   "title": "开源盘古模型 openPangu-2.1-Pro 正式上线华为云",
+   "summary": "华为云 MaaS 模型即服务平台正式上线开源盘古模型 openPangu-2.1-Pro。该模型围绕 Agent 开发、AI 编码和推理优化三大方向完成能力升级，在深度研究、鸿蒙系统操控、鸿蒙 APP 开发、昇腾算子生成及推理链路优化等场景实现了能力增强。",
+   "category": "Open Source",
+   "score": 68.2,
+   "published_at": "2026-11-15T14:30:36.186000+00:00",
+   "sources": [
+    {
+     "name": "Readhub",
+     "url": "https://readhub.cn/topic/8y53IQAgFrm"
+    }
+   ],
+   "primary_url": "https://readhub.cn/topic/8y53IQAgFrm"
+  },
+  {
+   "id": "15af9c23428b",
+   "title": "李沐加入 Aimotion 出任联合创始人兼 CTO",
+   "summary": "李沐正式出任 Aimotion 联合创始人兼 CTO，主导下一代产业级 AI 技术体系建设，同时继续担任 Boson AI 联合创始人兼 CTO。此次并非跳槽，而是双方联手攻关产业级世界模型和商业 AI Agent。Aimotion 是总部位于硅谷的企业，聚焦汽车等高价值长决策周期行业，提供 AI 销售营销解决方案，近期刚完成 BAI Capital 领投的数千万美元 A 轮融资。双方将打通 B…",
+   "category": "Agents & Dev Tools",
+   "score": 67.4,
+   "published_at": "2026-11-15T17:23:10.855000+00:00",
+   "sources": [
+    {
+     "name": "Readhub",
+     "url": "https://readhub.cn/topic/8y4JYNt9qrF"
+    }
+   ],
+   "primary_url": "https://readhub.cn/topic/8y4JYNt9qrF"
+  },
+  {
+   "id": "de1b04aef218",
+   "title": "All AI-generated code should be Open Source",
+   "summary": "",
+   "category": "Open Source",
+   "score": 66.9,
+   "published_at": "2026-11-15T14:46:58+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50507303"
+    }
+   ],
+   "primary_url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/"
+  },
+  {
+   "id": "48d7239a5b56",
+   "title": "世界首颗全集成一步求解矩阵方程国产模拟计算芯片问世",
+   "summary": "某公司自主研发出世界首颗全集成一步求解矩阵方程模拟计算芯片 AX100，于今年 10 月完成流片，实测单次矩阵方程求解时间小于 100 纳秒，单次计算功耗约 80 毫瓦，符合设计预期。该芯片依托此前将模拟计算精度大幅提升的实验室成果落地，无需迭代即可通过电路自平衡直接输出结果，延时和功耗远优于传统数字芯片。目前已在大模型训练、具身智能、无线通信三类场景完成测试，各项性能提升显著。该芯片采用成熟工…",
+   "category": "Business",
+   "score": 62.9,
+   "published_at": "2026-11-15T12:30:38.264000+00:00",
+   "sources": [
+    {
+     "name": "Readhub",
+     "url": "https://readhub.cn/topic/8y4ozqruerX"
+    }
+   ],
+   "primary_url": "https://readhub.cn/topic/8y4ozqruerX"
+  },
+  {
+   "id": "950ac38f23f2",
+   "title": "Understanding Positional Embeddings in Modern LLMs",
+   "summary": "",
+   "category": "Models",
+   "score": 61.4,
+   "published_at": "2026-11-15T12:14:06+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50506376"
+    }
+   ],
+   "primary_url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings"
+  },
+  {
+   "id": "35d11ebebf17",
+   "title": "2026 谷歌奖学金公布，清华、复旦等校校友入选",
+   "summary": "谷歌公布 2026 年度博士奖学金名单，今年共投入 1300 万美元，资助来自 38 个国家或地区的 148 位新晋博士研究者，其中华人学者近 40 人。该奖学金计划 2009 年设立，旨在支持计算机科学及相关领域的优秀研究生开展前沿研究，至今已在全球资助超 1100 名研究生，不少获奖者后续成长为学界、业界的核心技术领军者。本届入选的华人学者分布在机器学习与机器学习基础、机器感知、人机交互、理…",
+   "category": "Research",
+   "score": 57.2,
+   "published_at": "2026-11-15T17:28:41.761000+00:00",
+   "sources": [
+    {
+     "name": "Readhub",
+     "url": "https://readhub.cn/topic/8y4JYacpuSH"
+    }
+   ],
+   "primary_url": "https://readhub.cn/topic/8y4JYacpuSH"
+  },
+  {
+   "id": "37e82c1c5c8c",
+   "title": "Sources: Apple plans to unveil smart glasses at WWDC and ship them by the end of 2027, focusing heavily on integration of third-party iPhone apps with Siri AI (Mark Gurman/Bloomberg)",
+   "summary": "Mark Gurman / Bloomberg : Sources: Apple plans to unveil smart glasses at WWDC and ship them by the end of 2027, focusing heavily on integration of third-party iPhone apps with Siri AI — Also: A look…",
+   "category": "Products",
+   "score": 55.1,
+   "published_at": "2026-11-15T16:30:00+00:00",
+   "sources": [
+    {
+     "name": "Techmeme",
+     "url": "https://www.techmeme.com/261115/p10#a261115p10"
+    }
+   ],
+   "primary_url": "https://www.techmeme.com/261115/p10#a261115p10"
+  },
+  {
+   "id": "ad8b3d5bdfd0",
+   "title": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
+   "summary": "",
+   "category": "Other",
+   "score": 54.4,
+   "published_at": "2026-11-14T15:04:15+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50497589"
+    }
+   ],
+   "primary_url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax"
+  },
+  {
+   "id": "404dff4b1cea",
+   "title": "dream-num/univer: Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
+   "summary": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
+   "category": "Agents & Dev Tools",
+   "score": 54.0,
+   "published_at": "2026-11-15T18:43:59.026196+00:00",
+   "sources": [
+    {
+     "name": "GitHub Trending",
+     "url": "https://github.com/dream-num/univer"
+    }
+   ],
+   "primary_url": "https://github.com/dream-num/univer"
+  },
+  {
+   "id": "1f1dbabb56c4",
+   "title": "MiniMaxAI/MiniMax-H3-Image",
+   "summary": "",
+   "category": "Open Source",
+   "score": 54.0,
+   "published_at": "2026-11-15T18:43:59.026196+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face Trending",
+     "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image"
+    }
+   ],
+   "primary_url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image"
+  }
+ ],
+ "all": [
+  {
+   "id": "da34347cd41f",
+   "title": "开源盘古模型 openPangu-2.1-Pro 正式上线华为云",
+   "summary": "华为云 MaaS 模型即服务平台正式上线开源盘古模型 openPangu-2.1-Pro。该模型围绕 Agent 开发、AI 编码和推理优化三大方向完成能力升级，在深度研究、鸿蒙系统操控、鸿蒙 APP 开发、昇腾算子生成及推理链路优化等场景实现了能力增强。",
+   "category": "Open Source",
+   "score": 68.2,
+   "published_at": "2026-11-15T14:30:36.186000+00:00",
+   "sources": [
+    {
+     "name": "Readhub",
+     "url": "https://readhub.cn/topic/8y53IQAgFrm"
+    }
+   ],
+   "primary_url": "https://readhub.cn/topic/8y53IQAgFrm"
+  },
+  {
+   "id": "15af9c23428b",
+   "title": "李沐加入 Aimotion 出任联合创始人兼 CTO",
+   "summary": "李沐正式出任 Aimotion 联合创始人兼 CTO，主导下一代产业级 AI 技术体系建设，同时继续担任 Boson AI 联合创始人兼 CTO。此次并非跳槽，而是双方联手攻关产业级世界模型和商业 AI Agent。Aimotion 是总部位于硅谷的企业，聚焦汽车等高价值长决策周期行业，提供 AI 销售营销解决方案，近期刚完成 BAI Capital 领投的数千万美元 A 轮融资。双方将打通 B…",
+   "category": "Agents & Dev Tools",
+   "score": 67.4,
+   "published_at": "2026-11-15T17:23:10.855000+00:00",
+   "sources": [
+    {
+     "name": "Readhub",
+     "url": "https://readhub.cn/topic/8y4JYNt9qrF"
+    }
+   ],
+   "primary_url": "https://readhub.cn/topic/8y4JYNt9qrF"
+  },
+  {
+   "id": "de1b04aef218",
+   "title": "All AI-generated code should be Open Source",
+   "summary": "",
+   "category": "Open Source",
+   "score": 66.9,
+   "published_at": "2026-11-15T14:46:58+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50507303"
+    }
+   ],
+   "primary_url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/"
+  },
+  {
+   "id": "48d7239a5b56",
+   "title": "世界首颗全集成一步求解矩阵方程国产模拟计算芯片问世",
+   "summary": "某公司自主研发出世界首颗全集成一步求解矩阵方程模拟计算芯片 AX100，于今年 10 月完成流片，实测单次矩阵方程求解时间小于 100 纳秒，单次计算功耗约 80 毫瓦，符合设计预期。该芯片依托此前将模拟计算精度大幅提升的实验室成果落地，无需迭代即可通过电路自平衡直接输出结果，延时和功耗远优于传统数字芯片。目前已在大模型训练、具身智能、无线通信三类场景完成测试，各项性能提升显著。该芯片采用成熟工…",
+   "category": "Business",
+   "score": 62.9,
+   "published_at": "2026-11-15T12:30:38.264000+00:00",
+   "sources": [
+    {
+     "name": "Readhub",
+     "url": "https://readhub.cn/topic/8y4ozqruerX"
+    }
+   ],
+   "primary_url": "https://readhub.cn/topic/8y4ozqruerX"
+  },
+  {
+   "id": "950ac38f23f2",
+   "title": "Understanding Positional Embeddings in Modern LLMs",
+   "summary": "",
+   "category": "Models",
+   "score": 61.4,
+   "published_at": "2026-11-15T12:14:06+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50506376"
+    }
+   ],
+   "primary_url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings"
+  },
+  {
+   "id": "35d11ebebf17",
+   "title": "2026 谷歌奖学金公布，清华、复旦等校校友入选",
+   "summary": "谷歌公布 2026 年度博士奖学金名单，今年共投入 1300 万美元，资助来自 38 个国家或地区的 148 位新晋博士研究者，其中华人学者近 40 人。该奖学金计划 2009 年设立，旨在支持计算机科学及相关领域的优秀研究生开展前沿研究，至今已在全球资助超 1100 名研究生，不少获奖者后续成长为学界、业界的核心技术领军者。本届入选的华人学者分布在机器学习与机器学习基础、机器感知、人机交互、理…",
+   "category": "Research",
+   "score": 57.2,
+   "published_at": "2026-11-15T17:28:41.761000+00:00",
+   "sources": [
+    {
+     "name": "Readhub",
+     "url": "https://readhub.cn/topic/8y4JYacpuSH"
+    }
+   ],
+   "primary_url": "https://readhub.cn/topic/8y4JYacpuSH"
+  },
+  {
+   "id": "37e82c1c5c8c",
+   "title": "Sources: Apple plans to unveil smart glasses at WWDC and ship them by the end of 2027, focusing heavily on integration of third-party iPhone apps with Siri AI (Mark Gurman/Bloomberg)",
+   "summary": "Mark Gurman / Bloomberg : Sources: Apple plans to unveil smart glasses at WWDC and ship them by the end of 2027, focusing heavily on integration of third-party iPhone apps with Siri AI — Also: A look…",
+   "category": "Products",
+   "score": 55.1,
+   "published_at": "2026-11-15T16:30:00+00:00",
+   "sources": [
+    {
+     "name": "Techmeme",
+     "url": "https://www.techmeme.com/261115/p10#a261115p10"
+    }
+   ],
+   "primary_url": "https://www.techmeme.com/261115/p10#a261115p10"
+  },
+  {
+   "id": "ad8b3d5bdfd0",
+   "title": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
+   "summary": "",
+   "category": "Other",
+   "score": 54.4,
+   "published_at": "2026-11-14T15:04:15+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50497589"
+    }
+   ],
+   "primary_url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax"
+  },
+  {
+   "id": "404dff4b1cea",
+   "title": "dream-num/univer: Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
+   "summary": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
+   "category": "Agents & Dev Tools",
+   "score": 54.0,
+   "published_at": "2026-11-15T18:43:59.026196+00:00",
+   "sources": [
+    {
+     "name": "GitHub Trending",
+     "url": "https://github.com/dream-num/univer"
+    }
+   ],
+   "primary_url": "https://github.com/dream-num/univer"
+  },
+  {
+   "id": "1f1dbabb56c4",
+   "title": "MiniMaxAI/MiniMax-H3-Image",
+   "summary": "",
+   "category": "Open Source",
+   "score": 54.0,
+   "published_at": "2026-11-15T18:43:59.026196+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face Trending",
+     "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image"
+    }
+   ],
+   "primary_url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image"
+  },
+  {
+   "id": "b26717d449a4",
+   "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+   "summary": "",
+   "category": "Business",
+   "score": 53.4,
+   "published_at": "2026-11-14T02:52:59+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50493251"
+    }
+   ],
+   "primary_url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus"
+  },
+  {
+   "id": "2610d6e3132d",
+   "title": "Inside the first AI Music Awards in Los Angeles, featuring AI announcers, lip-syncing, and human stand-ins, as the ceremony was mired in technical issues (Corbin Bolies/Variety)",
+   "summary": "Corbin Bolies / Variety : Inside the first AI Music Awards in Los Angeles, featuring AI announcers, lip-syncing, and human stand-ins, as the ceremony was mired in technical issues — I knew things wer…",
+   "category": "Other",
+   "score": 53.2,
+   "published_at": "2026-11-15T12:02:16+00:00",
+   "sources": [
+    {
+     "name": "Techmeme",
+     "url": "https://www.techmeme.com/261115/p7#a261115p7"
+    }
+   ],
+   "primary_url": "https://www.techmeme.com/261115/p7#a261115p7"
+  },
+  {
+   "id": "ec453d1217c2",
+   "title": "tradermonty/claude-trading-skills: Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
+   "summary": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
+   "category": "Agents & Dev Tools",
+   "score": 52.9,
+   "published_at": "2026-11-15T18:43:59.026196+00:00",
+   "sources": [
+    {
+     "name": "GitHub Trending",
+     "url": "https://github.com/tradermonty/claude-trading-skills"
+    }
+   ],
+   "primary_url": "https://github.com/tradermonty/claude-trading-skills"
+  },
+  {
+   "id": "f7cfdfd7bcc3",
+   "title": "alibaba/open-code-review: Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+   "summary": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE…",
+   "category": "Policy & Safety",
+   "score": 52.8,
+   "published_at": "2026-11-15T18:43:59.026196+00:00",
+   "sources": [
+    {
+     "name": "GitHub Trending",
+     "url": "https://github.com/alibaba/open-code-review"
+    }
+   ],
+   "primary_url": "https://github.com/alibaba/open-code-review"
+  },
+  {
+   "id": "1cd6c3ec19d7",
+   "title": "The Claude Delusion",
+   "summary": "",
+   "category": "Other",
+   "score": 52.2,
+   "published_at": "2026-11-14T13:36:17+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://www.netmeister.org/blog/claude-delusion.html"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50496921"
+    }
+   ],
+   "primary_url": "https://www.netmeister.org/blog/claude-delusion.html"
+  },
+  {
+   "id": "6a36938791d1",
+   "title": "Tencent/LoopForge: Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.",
+   "summary": "Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.",
+   "category": "Agents & Dev Tools",
+   "score": 51.8,
+   "published_at": "2026-11-15T18:43:59.026196+00:00",
+   "sources": [
+    {
+     "name": "GitHub Trending",
+     "url": "https://github.com/Tencent/LoopForge"
+    }
+   ],
+   "primary_url": "https://github.com/Tencent/LoopForge"
+  },
+  {
+   "id": "6c64301c09e0",
+   "title": "Qwen/Qwen3.8-27B",
+   "summary": "",
+   "category": "Models",
+   "score": 51.5,
+   "published_at": "2026-11-15T18:43:59.026196+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face Trending",
+     "url": "https://huggingface.co/Qwen/Qwen3.8-27B"
+    }
+   ],
+   "primary_url": "https://huggingface.co/Qwen/Qwen3.8-27B"
+  },
+  {
+   "id": "04ce1345cda9",
+   "title": "Lightricks/LTX-2.5",
+   "summary": "",
+   "category": "Open Source",
+   "score": 51.3,
+   "published_at": "2026-11-15T18:43:59.026196+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face Trending",
+     "url": "https://huggingface.co/Lightricks/LTX-2.5"
+    }
+   ],
+   "primary_url": "https://huggingface.co/Lightricks/LTX-2.5"
+  },
+  {
+   "id": "0d8aced5bce9",
+   "title": "Nidus, which is developing AI-powered tech for manufacturing robots used by US defense industrial companies, raised $30M across a pre-seed and a seed (Alex Konrad/Upstarts Media)",
+   "summary": "Alex Konrad / Upstarts Media : Nidus, which is developing AI-powered tech for manufacturing robots used by US defense industrial companies, raised $30M across a pre-seed and a seed — The startup back…",
+   "category": "Research",
+   "score": 51.0,
+   "published_at": "2026-11-15T06:50:01+00:00",
+   "sources": [
+    {
+     "name": "Techmeme",
+     "url": "https://www.techmeme.com/261115/p5#a261115p5"
+    }
+   ],
+   "primary_url": "https://www.techmeme.com/261115/p5#a261115p5"
+  },
+  {
+   "id": "9108ffa54a00",
+   "title": "Nebuly, whose tech helps enterprises measure the business value of AI agents by analyzing their impact on productivity and revenue, raised a $21M Series A (Tamara Djurickovic/Tech.eu)",
+   "summary": "Tamara Djurickovic / Tech.eu : Nebuly, whose tech helps enterprises measure the business value of AI agents by analyzing their impact on productivity and revenue, raised a $21M Series A — Nebuly deve…",
+   "category": "Agents & Dev Tools",
+   "score": 51.0,
+   "published_at": "2026-11-15T06:40:02+00:00",
+   "sources": [
+    {
+     "name": "Techmeme",
+     "url": "https://www.techmeme.com/261115/p3#a261115p3"
+    }
+   ],
+   "primary_url": "https://www.techmeme.com/261115/p3#a261115p3"
+  },
+  {
+   "id": "14e5a7f70a2a",
+   "title": "Comfy-Org/MiniMax-H3-Image",
+   "summary": "",
+   "category": "Open Source",
+   "score": 51.0,
+   "published_at": "2026-11-15T18:43:59.026196+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face Trending",
+     "url": "https://huggingface.co/Comfy-Org/MiniMax-H3-Image"
+    }
+   ],
+   "primary_url": "https://huggingface.co/Comfy-Org/MiniMax-H3-Image"
+  },
+  {
+   "id": "2250172890a0",
+   "title": "Zyphra/ZONOS3-Mini",
+   "summary": "",
+   "category": "Open Source",
+   "score": 50.8,
+   "published_at": "2026-11-15T18:43:59.026196+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face Trending",
+     "url": "https://huggingface.co/Zyphra/ZONOS3-Mini"
+    }
+   ],
+   "primary_url": "https://huggingface.co/Zyphra/ZONOS3-Mini"
+  },
+  {
+   "id": "3e9aed84c994",
+   "title": "How Jensen Huang built a multibillion-dollar business to let Chinese companies access Nvidia AI chips in SE Asian data centers, exploiting a gap in US sanctions (Wall Street Journal)",
+   "summary": "Wall Street Journal : How Jensen Huang built a multibillion-dollar business to let Chinese companies access Nvidia AI chips in SE Asian data centers, exploiting a gap in US sanctions — Massive data c…",
+   "category": "Policy & Safety",
+   "score": 50.7,
+   "published_at": "2026-11-15T05:55:03+00:00",
+   "sources": [
+    {
+     "name": "Techmeme",
+     "url": "https://www.techmeme.com/261115/p1#a261115p1"
+    }
+   ],
+   "primary_url": "https://www.techmeme.com/261115/p1#a261115p1"
+  },
+  {
+   "id": "6ae972136210",
+   "title": "thinkingmachines/Inkling-2-Small",
+   "summary": "",
+   "category": "Open Source",
+   "score": 50.6,
+   "published_at": "2026-11-15T18:43:59.026196+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face Trending",
+     "url": "https://huggingface.co/thinkingmachines/Inkling-2-Small"
+    }
+   ],
+   "primary_url": "https://huggingface.co/thinkingmachines/Inkling-2-Small"
+  },
+  {
+   "id": "46e307363c08",
+   "title": "speridlabs/idol",
+   "summary": "",
+   "category": "Open Source",
+   "score": 50.5,
+   "published_at": "2026-11-15T18:43:59.026196+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face Trending",
+     "url": "https://huggingface.co/speridlabs/idol"
+    }
+   ],
+   "primary_url": "https://huggingface.co/speridlabs/idol"
+  },
+  {
+   "id": "55ffe1fba5ed",
+   "title": "NousResearch/Arete-27B",
+   "summary": "",
+   "category": "Open Source",
+   "score": 50.4,
+   "published_at": "2026-11-15T18:43:59.026196+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face Trending",
+     "url": "https://huggingface.co/NousResearch/Arete-27B"
+    }
+   ],
+   "primary_url": "https://huggingface.co/NousResearch/Arete-27B"
+  },
+  {
+   "id": "7838c87736f9",
+   "title": "moonshotai/Kimi-K3.1-Pro",
+   "summary": "",
+   "category": "Open Source",
+   "score": 50.3,
+   "published_at": "2026-11-15T18:43:59.026196+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face Trending",
+     "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro"
+    }
+   ],
+   "primary_url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro"
+  },
+  {
+   "id": "6518fbd35a14",
+   "title": "higurashi-ai/Haru-4B",
+   "summary": "",
+   "category": "Open Source",
+   "score": 50.1,
+   "published_at": "2026-11-15T18:43:59.026196+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face Trending",
+     "url": "https://huggingface.co/higurashi-ai/Haru-4B"
+    }
+   ],
+   "primary_url": "https://huggingface.co/higurashi-ai/Haru-4B"
+  },
+  {
+   "id": "9d72f3c35aab",
+   "title": "The Nvidia scandal presents a political challenge for the White House by tying together data centers, China, and corruption, all key voter issues in midterms (Washington Post)",
+   "summary": "Washington Post : The Nvidia scandal presents a political challenge for the White House by tying together data centers, China, and corruption, all key voter issues in midterms — The scandal connects …",
+   "category": "Policy & Safety",
+   "score": 50.0,
+   "published_at": "2026-11-15T04:15:42+00:00",
+   "sources": [
+    {
+     "name": "Techmeme",
+     "url": "https://www.techmeme.com/261114/p23#a261114p23"
+    }
+   ],
+   "primary_url": "https://www.techmeme.com/261114/p23#a261114p23"
+  },
+  {
+   "id": "52adf762d407",
+   "title": "google-labs-code/stitch-skills: A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+   "summary": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude …",
+   "category": "Agents & Dev Tools",
+   "score": 49.9,
+   "published_at": "2026-11-15T18:43:59.026196+00:00",
+   "sources": [
+    {
+     "name": "GitHub Trending",
+     "url": "https://github.com/google-labs-code/stitch-skills"
+    }
+   ],
+   "primary_url": "https://github.com/google-labs-code/stitch-skills"
+  },
+  {
+   "id": "68431e57dcdc",
+   "title": "Edge0/Edge0-145B-NVFP4",
+   "summary": "",
+   "category": "Open Source",
+   "score": 49.9,
+   "published_at": "2026-11-15T18:43:59.026196+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face Trending",
+     "url": "https://huggingface.co/Edge0/Edge0-145B-NVFP4"
+    }
+   ],
+   "primary_url": "https://huggingface.co/Edge0/Edge0-145B-NVFP4"
+  },
+  {
+   "id": "368feff4c462",
+   "title": "black-forest-labs/flux-3-image-klein-comfy",
+   "summary": "",
+   "category": "Open Source",
+   "score": 49.8,
+   "published_at": "2026-11-15T18:43:59.026196+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face Trending",
+     "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy"
+    }
+   ],
+   "primary_url": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy"
+  },
+  {
+   "id": "c6524b3bb676",
+   "title": "elementalsouls/Claude-BugHunter: A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+   "summary": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise ident…",
+   "category": "Policy & Safety",
+   "score": 49.5,
+   "published_at": "2026-11-15T18:43:59.026196+00:00",
+   "sources": [
+    {
+     "name": "GitHub Trending",
+     "url": "https://github.com/elementalsouls/Claude-BugHunter"
+    }
+   ],
+   "primary_url": "https://github.com/elementalsouls/Claude-BugHunter"
+  },
+  {
+   "id": "669158398996",
+   "title": "facebook/sam3",
+   "summary": "",
+   "category": "Open Source",
+   "score": 49.5,
+   "published_at": "2026-11-15T18:43:59.026196+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face Trending",
+     "url": "https://huggingface.co/facebook/sam3"
+    }
+   ],
+   "primary_url": "https://huggingface.co/facebook/sam3"
+  },
+  {
+   "id": "fcbb13559872",
+   "title": "Cactus-Compute/mirage",
+   "summary": "",
+   "category": "Open Source",
+   "score": 49.4,
+   "published_at": "2026-11-15T18:43:59.026196+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face Trending",
+     "url": "https://huggingface.co/Cactus-Compute/mirage"
+    }
+   ],
+   "primary_url": "https://huggingface.co/Cactus-Compute/mirage"
+  },
+  {
+   "id": "3781448153b0",
+   "title": "NVIDIA/SkillEvaluator: Multi-tier framework for evaluating AI agent skills with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.",
+   "summary": "Multi-tier framework for evaluating AI agent skills with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect …",
+   "category": "Policy & Safety",
+   "score": 49.3,
+   "published_at": "2026-11-15T18:43:59.026196+00:00",
+   "sources": [
+    {
+     "name": "GitHub Trending",
+     "url": "https://github.com/NVIDIA/SkillEvaluator"
+    }
+   ],
+   "primary_url": "https://github.com/NVIDIA/SkillEvaluator"
+  },
+  {
+   "id": "9b13d6a721a0",
+   "title": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+   "summary": "",
+   "category": "Open Source",
+   "score": 49.3,
+   "published_at": "2026-11-15T18:43:59.026196+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face Trending",
+     "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017"
+    }
+   ],
+   "primary_url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017"
+  },
+  {
+   "id": "c2fdd60287b0",
+   "title": "Source: Applied Digital has asked tenants like Oracle and Meta for billions in guarantees since at least last year to secure power before finalizing leases (Bloomberg)",
+   "summary": "Bloomberg : Source: Applied Digital has asked tenants like Oracle and Meta for billions in guarantees since at least last year to secure power before finalizing leases — Tech giants chasing the infin…",
+   "category": "Other",
+   "score": 48.2,
+   "published_at": "2026-11-15T00:05:02+00:00",
+   "sources": [
+    {
+     "name": "Techmeme",
+     "url": "https://www.techmeme.com/261114/p21#a261114p21"
+    }
+   ],
+   "primary_url": "https://www.techmeme.com/261114/p21#a261114p21"
+  },
+  {
+   "id": "10c60fc60c0f",
+   "title": "Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update",
+   "summary": "",
+   "category": "Models",
+   "score": 48.1,
+   "published_at": "2026-11-14T00:06:04+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://unsloth.ai/docs/models/qwen3.8"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50491980"
+    }
+   ],
+   "primary_url": "https://unsloth.ai/docs/models/qwen3.8"
+  },
+  {
+   "id": "06142c6ca4f0",
+   "title": "Unlike other larger-than-life tech founders, Jensen Huang lacked super-voting shares in Nvidia, making it easier for him to lose control of the company (Forbes)",
+   "summary": "Forbes : Unlike other larger-than-life tech founders, Jensen Huang lacked super-voting shares in Nvidia, making it easier for him to lose control of the company — This voice experience is generated b…",
+   "category": "Business",
+   "score": 47.4,
+   "published_at": "2026-11-14T22:05:01+00:00",
+   "sources": [
+    {
+     "name": "Techmeme",
+     "url": "https://www.techmeme.com/261114/p20#a261114p20"
+    }
+   ],
+   "primary_url": "https://www.techmeme.com/261114/p20#a261114p20"
+  },
+  {
+   "id": "9f3952a424ef",
+   "title": "No AI Slop: A Manifesto",
+   "summary": "",
+   "category": "Other",
+   "score": 45.9,
+   "published_at": "2026-11-13T19:51:56+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://www.slopmanifesto.com/"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50488769"
+    }
+   ],
+   "primary_url": "https://www.slopmanifesto.com/"
+  },
+  {
+   "id": "21ab7432dba4",
+   "title": "Claude Meetings",
+   "summary": "",
+   "category": "Other",
+   "score": 45.1,
+   "published_at": "2026-11-13T22:39:15+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://claude.com/resources/articles/claude-meetings"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50491097"
+    }
+   ],
+   "primary_url": "https://claude.com/resources/articles/claude-meetings"
+  },
+  {
+   "id": "65ecef2327a0",
+   "title": "Anthropic's Claude Fable 5.2 doesn't generate images, it paints them",
+   "summary": "Anthropic's Claude Fable 5.2 doesn't generate images the way other AI models do. Instead of computing pixels, the language model writes Python code that places hundreds of thousands of simulated brus…",
+   "category": "Models",
+   "score": 42.7,
+   "published_at": "2026-11-15T15:42:03+00:00",
+   "sources": [
+    {
+     "name": "The Decoder",
+     "url": "https://the-decoder.com/anthropics-claude-fable-5-2-doesnt-generate-images-it-paints-them/"
+    }
+   ],
+   "primary_url": "https://the-decoder.com/anthropics-claude-fable-5-2-doesnt-generate-images-it-paints-them/"
+  },
+  {
+   "id": "fa1b9f395520",
+   "title": "Firm linked to Jensen Huang's ex-lover reportedly brokered nearly $12 billion in Nvidia chip orders for China",
+   "summary": "Megaspeed, the firm owned by ousted Nvidia CEO Jensen Huang's former lover Alice Huang, arranged nearly $12 billion in Nvidia chip orders for Chinese companies between 2024 and 2025, according to the…",
+   "category": "Business",
+   "score": 42.3,
+   "published_at": "2026-11-15T14:45:12+00:00",
+   "sources": [
+    {
+     "name": "The Decoder",
+     "url": "https://the-decoder.com/firm-linked-to-jensen-huangs-ex-lover-reportedly-brokered-nearly-12-billion-in-nvidia-chip-orders-for-china/"
+    }
+   ],
+   "primary_url": "https://the-decoder.com/firm-linked-to-jensen-huangs-ex-lover-reportedly-brokered-nearly-12-billion-in-nvidia-chip-orders-for-china/"
+  },
+  {
+   "id": "6fdb9cf64c8f",
+   "title": "An overview of Jensen Huang’s messy days",
+   "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on Jensen Huang's resignation and the fallout from Nvidia's leadership crisis, follow Terrenc…",
+   "category": "Business",
+   "score": 41.6,
+   "published_at": "2026-11-15T13:00:00+00:00",
+   "sources": [
+    {
+     "name": "The Verge",
+     "url": "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation"
+    }
+   ],
+   "primary_url": "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation"
+  },
+  {
+   "id": "7611c876b17c",
+   "title": "Australia's central bank finds AI hitting young workers first, especially in software and customer service",
+   "summary": "Australia's central bank sees early signs that AI is hitting young entry-level workers in highly exposed jobs like software development and customer service. Since ChatGPT launched, job postings and …",
+   "category": "Products",
+   "score": 40.7,
+   "published_at": "2026-11-15T10:45:58+00:00",
+   "sources": [
+    {
+     "name": "The Decoder",
+     "url": "https://the-decoder.com/australias-central-bank-finds-ai-hitting-young-workers-first-especially-in-software-and-customer-service/"
+    }
+   ],
+   "primary_url": "https://the-decoder.com/australias-central-bank-finds-ai-hitting-young-workers-first-especially-in-software-and-customer-service/"
+  },
+  {
+   "id": "6fc6bc2d3ff2",
+   "title": "Meituan releases a 1.6-trillion-parameter agent model that never touched an Nvidia GPU",
+   "summary": "Meituan has released the weights for LongCat-2.5, a 1.6-trillion-parameter model built for AI agents and trained entirely on Chinese hardware. On Terminal Bench, it scores 88.4 points, landing just b…",
+   "category": "Agents & Dev Tools",
+   "score": 40.4,
+   "published_at": "2026-11-15T10:06:06+00:00",
+   "sources": [
+    {
+     "name": "The Decoder",
+     "url": "https://the-decoder.com/meituan-releases-a-1-6-trillion-parameter-agent-model-that-never-touched-an-nvidia-gpu/"
+    }
+   ],
+   "primary_url": "https://the-decoder.com/meituan-releases-a-1-6-trillion-parameter-agent-model-that-never-touched-an-nvidia-gpu/"
+  },
+  {
+   "id": "1278034560fb",
+   "title": "Villanova2 - a VillanovaAI Collection",
+   "summary": "Villanova2 family , for English, Italian, German, Spanish and French. Built in EU, for EU. The family Villanova2-15B-A3B-Base · sparse mixture of experts, 15.5B total / 3.9B active Villanova2-15B-A3B…",
+   "category": "Other",
+   "score": 37.6,
+   "published_at": "2026-11-15T17:46:04+00:00",
+   "sources": [
+    {
+     "name": "r/LocalLLaMA",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xx1rbk/villanova2_a_villanovaai_collection/"
+    }
+   ],
+   "primary_url": "https://www.reddit.com/r/LocalLLaMA/comments/1xx1rbk/villanova2_a_villanovaai_collection/"
+  },
+  {
+   "id": "bfce57e293c4",
+   "title": "Basalt 0.4.0: More models, still as fast - Qwen 27B up to 770 tok/s on a 5090",
+   "summary": "Hi everyone! I wanted to post a quick update on Basalt . Since last I posted, multi model and router support was implemented, starting with DeepSeek V4.1 Flash (IQ1_M 90 tok/s conv, 246 tok/s struct …",
+   "category": "Models",
+   "score": 37.5,
+   "published_at": "2026-11-15T17:30:31+00:00",
+   "sources": [
+    {
+     "name": "r/LocalLLaMA",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xx1cu9/basalt_040_more_models_still_as_fast_qwen_27b_up/"
+    }
+   ],
+   "primary_url": "https://www.reddit.com/r/LocalLLaMA/comments/1xx1cu9/basalt_040_more_models_still_as_fast_qwen_27b_up/"
+  },
+  {
+   "id": "76ba7c25ffe3",
+   "title": "CPU-only boost for Q2_0 on AVX-VNNI · Pull Request #26348 · ggml-org/llama.cpp",
+   "summary": "Measurements: mean ± sample standard deviation in tok/s, 3 runs after normal warmup (16GB of RAM on the AMD EPYC 9645 using eight CPU cores) Model Test Upstream master VNNI + VBMI Speedup Bonsai 1.7B…",
+   "category": "Other",
+   "score": 37.2,
+   "published_at": "2026-11-15T16:55:21+00:00",
+   "sources": [
+    {
+     "name": "r/LocalLLaMA",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xx0fqn/cpuonly_boost_for_q2_0_on_avxvnni_pull_request/"
+    }
+   ],
+   "primary_url": "https://www.reddit.com/r/LocalLLaMA/comments/1xx0fqn/cpuonly_boost_for_q2_0_on_avxvnni_pull_request/"
+  },
+  {
+   "id": "9bffc2ea3711",
+   "title": "X3Guard: A 150M parameter prompt guard",
+   "summary": "At Axiomic Labs we have just released X3Guard-150M, a prompt guard model trained on our high-performing base model, GPT-X3. For any given prompt, X3Guard flags whether it is Harmful, and whether it i…",
+   "category": "Other",
+   "score": 36.8,
+   "published_at": "2026-11-15T15:46:17+00:00",
+   "sources": [
+    {
+     "name": "r/LocalLLaMA",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwyp7w/x3guard_a_150m_parameter_prompt_guard/"
+    }
+   ],
+   "primary_url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwyp7w/x3guard_a_150m_parameter_prompt_guard/"
+  },
+  {
+   "id": "81d388bb70bd",
+   "title": "Is there a community about finetuning and training models?",
+   "summary": "There seems to be a lot of discussion here about inference and using the models, but is there anywhere where discussion about making them is more common? submitted by /u/banana_slurp_jug [link] [comm…",
+   "category": "Other",
+   "score": 36.7,
+   "published_at": "2026-11-15T15:35:22+00:00",
+   "sources": [
+    {
+     "name": "r/LocalLLaMA",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwyfr8/is_there_a_community_about_finetuning_and/"
+    }
+   ],
+   "primary_url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwyfr8/is_there_a_community_about_finetuning_and/"
+  },
+  {
+   "id": "fa6009f8b1e8",
+   "title": "Probable GLM model",
+   "summary": "https://preview.redd.it/k7ife2j2ms1i1.png?width=591&format=png&auto=webp&s=e8dd29b327ac46e7634a5faf48454ec1beb7aa0b Because of Theo gg tweet of all people, I Launch QFN DeepResearch swarm agent to fi…",
+   "category": "Agents & Dev Tools",
+   "score": 36.6,
+   "published_at": "2026-11-15T15:21:11+00:00",
+   "sources": [
+    {
+     "name": "r/LocalLLaMA",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwy3ka/probable_glm_model/"
+    }
+   ],
+   "primary_url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwy3ka/probable_glm_model/"
+  },
+  {
+   "id": "244834c21866",
+   "title": "I finally succeed the CMP 170HX voltage glitch and get 80GB VRAM + 126sm! !",
+   "summary": "Ever since the information surfaced five days ago, I had intended to implement it right away. Having confirmed that it could be executed using 'pico,' I carried it out today. I had Astra write the sc…",
+   "category": "Other",
+   "score": 36.6,
+   "published_at": "2026-11-15T15:16:24+00:00",
+   "sources": [
+    {
+     "name": "r/LocalLLaMA",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwxzgj/i_finally_succeed_the_cmp_170hx_voltage_glitch/"
+    }
+   ],
+   "primary_url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwxzgj/i_finally_succeed_the_cmp_170hx_voltage_glitch/"
+  },
+  {
+   "id": "e6c323ceba46",
+   "title": "Spotted a very interesting detail about Intel's upcoming CPU platform (LGA 1954)",
+   "summary": "I was doing some research about the the platform for Intel's next generations of CPUs. If we look closely at the PCIe 5.0 configuration for Z990/W980, it specifies x16 (or x8/x8 ) x8 (or x4/x4) \"Stor…",
+   "category": "Research",
+   "score": 36.4,
+   "published_at": "2026-11-15T14:49:02+00:00",
+   "sources": [
+    {
+     "name": "r/LocalLLaMA",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwxbjk/spotted_a_very_interesting_detail_about_intels/"
+    }
+   ],
+   "primary_url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwxbjk/spotted_a_very_interesting_detail_about_intels/"
+  },
+  {
+   "id": "cdf34d438f12",
+   "title": "Where was Nvidia’s security team?",
+   "summary": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to Chi…",
+   "category": "Policy & Safety",
+   "score": 36.3,
+   "published_at": "2026-11-15T00:08:07+00:00",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/"
+    }
+   ],
+   "primary_url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/"
+  },
+  {
+   "id": "b0f3ea3f68ff",
+   "title": "韦布望远镜发现迄今最古老类星体双星，现有黑洞成长理论难以解释",
+   "summary": "IT之家 11 月 15 日消息，利用詹姆斯 · 韦布空间望远镜（JWST），天文学家发现了迄今观测到的最古老的一对由超大质量黑洞驱动的类星体。不过，这项发现也带来了一个难题：按照现有理论，它们本不应该如此早就存在。 这对紧密相邻的类星体借助双子座北望远镜（Gemini North）得到确认，编号为 J1602+4228AB，昵称为 Nāpōwawāʻenakaulua。这个名称意为“在热量中重…",
+   "category": "Other",
+   "score": 36.3,
+   "published_at": "2026-11-15T14:37:13+00:00",
+   "sources": [
+    {
+     "name": "IT之家",
+     "url": "https://www.ithome.com/1/027/457.htm"
+    }
+   ],
+   "primary_url": "https://www.ithome.com/1/027/457.htm"
+  },
+  {
+   "id": "e99985acb7c9",
+   "title": "higurashi-ai/Haru-4B · Hugging Face",
+   "summary": "Haru-4B Code · Technical blog · Technical blog (Japanese) Haru-4B is a low-latency and multilingual full-duplex continuous spoken dialogue foundation model: it listens and speaks at the same time, th…",
+   "category": "Research",
+   "score": 36.0,
+   "published_at": "2026-11-15T13:58:52+00:00",
+   "sources": [
+    {
+     "name": "r/LocalLLaMA",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xww5o2/higurashiaiharu4b_hugging_face/"
+    }
+   ],
+   "primary_url": "https://www.reddit.com/r/LocalLLaMA/comments/1xww5o2/higurashiaiharu4b_hugging_face/"
+  },
+  {
+   "id": "13facb3dedb9",
+   "title": "meituan-longcat/LongCat-Video-Avatar-1.6 · Hugging Face",
+   "summary": "🚀 Model Introduction We are excited to announce the release of LongCat-Video-Avatar 1.6, the latest upgrade to our open-source framework for audio-driven human video generation. Building upon LongCat…",
+   "category": "Open Source",
+   "score": 35.9,
+   "published_at": "2026-11-15T13:41:06+00:00",
+   "sources": [
+    {
+     "name": "r/LocalLLaMA",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwvrri/meituanlongcatlongcatvideoavatar16_hugging_face/"
+    }
+   ],
+   "primary_url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwvrri/meituanlongcatlongcatvideoavatar16_hugging_face/"
+  },
+  {
+   "id": "5f2eea2e01a3",
+   "title": "I used local Gemma 4 to moderate a community and it was it is promising",
+   "summary": "I run a couple of small communities and it's becoming difficult to moderate them all. So today I built a script on top of my existing app which I use to track the content on those communities. The sc…",
+   "category": "Models",
+   "score": 35.9,
+   "published_at": "2026-11-15T13:35:35+00:00",
+   "sources": [
+    {
+     "name": "r/LocalLLaMA",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwvnfr/i_used_local_gemma_4_to_moderate_a_community_and/"
+    }
+   ],
+   "primary_url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwvnfr/i_used_local_gemma_4_to_moderate_a_community_and/"
+  },
+  {
+   "id": "fe7842bbce6a",
+   "title": "韩国税务师考试头名 AI 作弊曝光后，政府全面调查今年国家资格考试",
+   "summary": "IT之家 11 月 15 日消息，据韩联社今日报道，由于税务师考试第一名考生存在利用人工智能进行作弊的行为被曝光，韩国政府决定对今年所有国家资格考试进行全面调查，以打击此类作弊行为。 报道称，劳动部和相关机构决定对在第 63 届税务师考试中发现有 AI 作弊行为的第一名考生 A 进行取消考试成绩的处理，并限制其五年内不得参加该考试，以尽快落实后续措施。 政府还计划年内出台一系列综合措施来防止国家…",
+   "category": "Other",
+   "score": 35.9,
+   "published_at": "2026-11-15T13:42:51+00:00",
+   "sources": [
+    {
+     "name": "IT之家",
+     "url": "https://www.ithome.com/1/027/453.htm"
+    }
+   ],
+   "primary_url": "https://www.ithome.com/1/027/453.htm"
+  },
+  {
+   "id": "7fdb1f462eb7",
+   "title": "开源盘古模型 openPangu-2.1-Pro 上线华为云，围绕 Agent 开发、AI 编码、推理优化方向能力升级",
+   "summary": "IT之家 11 月 15 日消息，华为云今日宣布，华为云 MaaS 模型即服务平台正式上线开源盘古模型 openPangu-2.1-Pro。 该模型围绕 Agent 开发、AI 编码和推理优化 三大方向进行能力升级，在深度研究、鸿蒙系统操控、鸿蒙 App 开发、昇腾算子生成及推理链路优化等场景实现增强。 在 Agent 能力方面 ，openPangu-2.1-Pro 基于 10 万余条专项数据优…",
+   "category": "Agents & Dev Tools",
+   "score": 35.7,
+   "published_at": "2026-11-15T13:16:54+00:00",
+   "sources": [
+    {
+     "name": "IT之家",
+     "url": "https://www.ithome.com/1/027/450.htm"
+    }
+   ],
+   "primary_url": "https://www.ithome.com/1/027/450.htm"
+  },
+  {
+   "id": "e1b2863a5798",
+   "title": "AI 版拓麻歌子来了：日常物品秒变需要被照顾的虚拟宠物",
+   "summary": "IT之家 11 月 15 日消息，忘记给家里的植物浇水了？这一次，你看到的可能不是逐渐变黄的叶子，而是一只显示在小屏幕上的植物形状宠物。它看起来垂头丧气、一脸委屈，仿佛在提醒你赶紧拿起浇水壶。而当你把水浇进土壤后，屏幕上的小宠物又会立刻变得兴奋起来。 这正是 OATs（Object Agent Twins，物体智能体双生体）的设计理念。这是一套面向日常家居物品的微型 AI 智能体系统，通过小巧的…",
+   "category": "Agents & Dev Tools",
+   "score": 35.5,
+   "published_at": "2026-11-15T12:43:54+00:00",
+   "sources": [
+    {
+     "name": "IT之家",
+     "url": "https://www.ithome.com/1/027/443.htm"
+    }
+   ],
+   "primary_url": "https://www.ithome.com/1/027/443.htm"
+  },
+  {
+   "id": "5acb07bab41c",
+   "title": "被诉人为制造 DRAM 短缺，三星、SK 海力士、美光申请撤诉遭美国法院驳回",
+   "summary": "IT之家 11 月 15 日消息，据法律媒体 LitNews 报道，在当地时间 11 月 14 日发布的一项裁决中，美国加利福尼亚北区联邦地区法院法官诺埃尔 · 怀斯（Noël Wise）全盘驳回了三星、美光和 SK 海力士联合提交的驳回起诉动议，裁定原告起诉书就三方违反《谢尔曼法》（Sherman Act）第 1 条达成非法协议一事作出了具有合理性的指控。 IT之家注：法官目前只是 驳回了被告…",
+   "category": "Products",
+   "score": 35.4,
+   "published_at": "2026-11-15T12:35:53+00:00",
+   "sources": [
+    {
+     "name": "IT之家",
+     "url": "https://www.ithome.com/1/027/442.htm"
+    }
+   ],
+   "primary_url": "https://www.ithome.com/1/027/442.htm"
+  },
+  {
+   "id": "9e0f1b4bc4e9",
+   "title": "Agnes-AI/Agnes-2.5-Pro-Theta • HuggingFace",
+   "summary": "https://preview.redd.it/zizl51m0rr1i1.png?width=2400&format=png&auto=webp&s=d3271483929d9e4d92024eadcf286a9247602578 https://huggingface.co/Agnes-AI/Agnes-2.5-Pro-Theta submitted by /u/External_Mood4…",
+   "category": "Other",
+   "score": 35.3,
+   "published_at": "2026-11-15T12:20:50+00:00",
+   "sources": [
+    {
+     "name": "r/LocalLLaMA",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwu5jt/agnesaiagnes25protheta_huggingface/"
+    }
+   ],
+   "primary_url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwu5jt/agnesaiagnes25protheta_huggingface/"
+  },
+  {
+   "id": "566e0aa6e9c6",
+   "title": "Latest version of strata made my Qwen3.8-Flash-Next dumb and useless",
+   "summary": "I updated the strata to the latest version from v0.1.42.0, so I can try the latest unsloths models and see how they fare against the iq3_s variant I have been using. Upon updating it, I noticed it me…",
+   "category": "Models",
+   "score": 35.2,
+   "published_at": "2026-11-15T12:02:35+00:00",
+   "sources": [
+    {
+     "name": "r/LocalLLaMA",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwttcw/latest_version_of_strata_made_my_qwen38flashnext/"
+    }
+   ],
+   "primary_url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwttcw/latest_version_of_strata_made_my_qwen38flashnext/"
+  },
+  {
+   "id": "9a736294c460",
+   "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+   "summary": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
+   "category": "Other",
+   "score": 35.2,
+   "published_at": "2026-11-14T21:41:22+00:00",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/"
+    }
+   ],
+   "primary_url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/"
+  },
+  {
+   "id": "0925bd4aea52",
+   "title": "SpaceX 星舰首次实现“筷子夹飞船”，但完全重复使用仍面临多重挑战",
+   "summary": "IT之家 11 月 15 日消息，据 Space.com 报道，SpaceX 的星舰（Starship）今日创造了历史，但要让这款巨型火箭真正实现全面、常态化运营，还有不少难关需要攻克。 当地时间 11 月 13 日（周五），星舰进行了第 15 次试飞，目标是完成一项前所未有的壮举：让火箭的两个组成部分 —— 超重型助推器（Super Heavy）和星舰飞船（Ship），全部返回美国得克萨斯州星…",
+   "category": "Other",
+   "score": 35.0,
+   "published_at": "2026-11-15T11:36:58+00:00",
+   "sources": [
+    {
+     "name": "IT之家",
+     "url": "https://www.ithome.com/1/027/434.htm"
+    }
+   ],
+   "primary_url": "https://www.ithome.com/1/027/434.htm"
+  },
+  {
+   "id": "e082643fcc69",
+   "title": "[Paper] No Second Run: Does RSI Stop at Frontier Pre-training? - 801-30B-A3B-Base Coming Soon",
+   "summary": "Pre-training is where every foundation model begins; bringing recursive self-improvement (RSI) there would let AI improve the process that creates AI. Yet public RSI work has so far targeted only pos…",
+   "category": "Research",
+   "score": 34.9,
+   "published_at": "2026-11-15T11:21:12+00:00",
+   "sources": [
+    {
+     "name": "r/LocalLLaMA",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwt3ri/paper_no_second_run_does_rsi_stop_at_frontier/"
+    }
+   ],
+   "primary_url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwt3ri/paper_no_second_run_does_rsi_stop_at_frontier/"
+  },
+  {
+   "id": "0ce3617ab15a",
+   "title": "黄仁勋卸任后，英伟达新任 CEO 面临重建员工信任难题",
+   "summary": "IT之家 11 月 15 日消息，据 Business Insider 报道，去年在一场 NBA 科技峰会上，时任英伟达首席执行官黄仁勋曾谈到自己的管理风格，称公司内部一直坚持开放、透明的沟通方式。 “我所有的时间都花在保持透明上。”黄仁勋当时表示。长期以来，他因带领英伟达实现惊人增长而备受赞誉。 然而，如今有关黄仁勋婚外情的报道，却暴露出他所宣称的坦诚原则与其私下行为之间可能存在的巨大落差。据…",
+   "category": "Business",
+   "score": 34.9,
+   "published_at": "2026-11-15T11:19:40+00:00",
+   "sources": [
+    {
+     "name": "IT之家",
+     "url": "https://www.ithome.com/1/027/433.htm"
+    }
+   ],
+   "primary_url": "https://www.ithome.com/1/027/433.htm"
+  },
+  {
+   "id": "a80fe1a36270",
+   "title": "Placing an implant into AI brain with Lazarus: Anatomy of a trojan",
+   "summary": "hello there, I recently got a bit fascinated about Lazarus from Microsoft (even tho it is probably old technique) and I wrote a blog post showing a thought process I had while researching it - maybe …",
+   "category": "Other",
+   "score": 34.8,
+   "published_at": "2026-11-15T11:01:09+00:00",
+   "sources": [
+    {
+     "name": "r/LocalLLaMA",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwsrp1/placing_an_implant_into_ai_brain_with_lazarus/"
+    }
+   ],
+   "primary_url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwsrp1/placing_an_implant_into_ai_brain_with_lazarus/"
+  },
+  {
+   "id": "1d03195a18bf",
+   "title": "澳大利亚央行研究：AI 最先冲击年轻劳动者，尤其是软件、客服岗位",
+   "summary": "IT之家 11 月 15 日消息，据 THE DECODER 报道，目前，人工智能（AI）对澳大利亚整体就业市场的冲击仍然有限，但对于刚刚进入软件开发等受 AI 影响较大行业的年轻劳动者来说，就业形势已经开始变得严峻。 澳大利亚储备银行（RBA）的迈克 · 梅杰（Mike Major）开展了一项研究，并建立了一套就业市场监测系统，重点关注最有可能率先受到 AI 影响的群体，包括职场新人，以及编程…",
+   "category": "Research",
+   "score": 34.8,
+   "published_at": "2026-11-15T11:03:53+00:00",
+   "sources": [
+    {
+     "name": "IT之家",
+     "url": "https://www.ithome.com/1/027/432.htm"
+    }
+   ],
+   "primary_url": "https://www.ithome.com/1/027/432.htm"
+  },
+  {
+   "id": "b1117c34d0ad",
+   "title": "世界首颗：单次矩阵方程求解时间小于 100 纳秒，国产新型模拟计算芯片问世",
+   "summary": "IT之家 11 月 15 日消息，据科技日报从模拟计算芯片公司安纳智芯了解到，该公司自主研发的 AX100 芯片已于 10 月完成流片，这是 世界首颗全集成一步求解矩阵方程模拟计算芯片 。 经测试， 该芯片单次矩阵方程求解时间小于 100 纳秒 ，单次计算功耗约为 80 毫瓦，完全符合理论仿真与设计预期。 据介绍，我们熟悉的 AI 大模型训练参数优化、机器人动作控制和空间规划、通信基站信号处理等…",
+   "category": "Business",
+   "score": 34.7,
+   "published_at": "2026-11-15T10:53:47+00:00",
+   "sources": [
+    {
+     "name": "IT之家",
+     "url": "https://www.ithome.com/1/027/430.htm"
+    }
+   ],
+   "primary_url": "https://www.ithome.com/1/027/430.htm"
+  },
+  {
+   "id": "5b698d58c4c2",
+   "title": "Gartner 预测：到 2030 年全球将因 AI 净增加约 170 万个工作岗位",
+   "summary": "IT之家 11 月 15 日消息，人工智能可能引发的就业危机，或许并不像人们想象的那样。 商业与科技研究机构 Gartner 预测，2025 年至 2030 年间，AI 将在全球创造 1060 万个新工作岗位，同时导致 890 万个岗位消失。两者相抵，到 2030 年前，全球就业市场预计将因 AI 净增加约 170 万个岗位。 Gartner 杰出副总裁分析师兼研究主管约翰 · 洛夫洛克（Joh…",
+   "category": "Research",
+   "score": 34.6,
+   "published_at": "2026-11-15T10:27:59+00:00",
+   "sources": [
+    {
+     "name": "IT之家",
+     "url": "https://www.ithome.com/1/027/427.htm"
+    }
+   ],
+   "primary_url": "https://www.ithome.com/1/027/427.htm"
+  },
+  {
+   "id": "bf2147d5c9fd",
+   "title": "应对 AI 漏洞挖掘挑战：谷歌 Project Zero 计划将逐步缩短漏洞公开披露期限至 30 天",
+   "summary": "IT之家 11 月 15 日消息，自 2021 年以来，谷歌漏洞挖掘计划 Project Zero 一直奉行“90 + 30”漏洞披露政策，即允许厂商在最多 90 天内修复漏洞，并额外提供 30 天的“缓冲期”用于补丁推送。 当地时间 11 月 13 日，谷歌宣布，随着人工智能辅助漏洞挖掘与利用技术的兴起，当前形势已发生根本性变化，现有披露政策所设定的修复周期已难以适应需求。 IT之家获悉，为推…",
+   "category": "Policy & Safety",
+   "score": 34.4,
+   "published_at": "2026-11-15T10:12:07+00:00",
+   "sources": [
+    {
+     "name": "IT之家",
+     "url": "https://www.ithome.com/1/027/423.htm"
+    }
+   ],
+   "primary_url": "https://www.ithome.com/1/027/423.htm"
+  },
+  {
+   "id": "06d6e35d515f",
+   "title": "前 OpenAI 研究员：当前活着的人最有可能死于 AI 失控",
+   "summary": "IT之家 11 月 15 日消息，人工智能失控导致人类灭绝，听起来或许像科幻电影中的情节，但前 OpenAI 研究员保罗 · 克里斯蒂亚诺（Paul Christiano）认为，这可能成为当今在世人群最有可能面临的死亡原因。 当地时间周一，克里斯蒂亚诺在希尔顿讲座（The Hinton Lectures）上表示：“我认为，在座的大多数人，最有可能的死亡原因将是一次 AI 意外事故。” 克里斯蒂亚…",
+   "category": "Research",
+   "score": 34.4,
+   "published_at": "2026-11-15T10:09:15+00:00",
+   "sources": [
+    {
+     "name": "IT之家",
+     "url": "https://www.ithome.com/1/027/419.htm"
+    }
+   ],
+   "primary_url": "https://www.ithome.com/1/027/419.htm"
+  },
+  {
+   "id": "bc4ca2195597",
+   "title": "Best sub 80b total or 6b active MoE for document intelligence?",
+   "summary": "I'd like to make a pipeline capable of understanding pdfs of bank statements and then group expenses by categories etc. My thought was to first parse them with ocr into .md files and then feed that t…",
+   "category": "Other",
+   "score": 34.2,
+   "published_at": "2026-11-15T09:34:12+00:00",
+   "sources": [
+    {
+     "name": "r/LocalLLaMA",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwre6c/best_sub_80b_total_or_6b_active_moe_for_document/"
+    }
+   ],
+   "primary_url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwre6c/best_sub_80b_total_or_6b_active_moe_for_document/"
+  },
+  {
+   "id": "b143470fe2eb",
+   "title": "EUROPA, the EU's open AI model, is aiming for nearly 1 trillion parameters",
+   "summary": "One can hope submitted by /u/mawcopolow [link] [comments]",
+   "category": "Other",
+   "score": 34.1,
+   "published_at": "2026-11-15T09:24:57+00:00",
+   "sources": [
+    {
+     "name": "r/LocalLLaMA",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwr917/europa_the_eus_open_ai_model_is_aiming_for_nearly/"
+    }
+   ],
+   "primary_url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwr917/europa_the_eus_open_ai_model_is_aiming_for_nearly/"
+  },
+  {
+   "id": "3a53f4732b0a",
+   "title": "Anthropic CEO Amodei admits \"there's a huge uncertainty in what's going to happen next year\" days before a record IPO",
+   "summary": "Days before what could be the largest IPO in history, Anthropic CEO Dario Amodei called buying compute 'the deepest business dilemma' his company faces. Anthropic's commitments now total nearly $901 …",
+   "category": "Business",
+   "score": 34.1,
+   "published_at": "2026-11-14T19:05:17+00:00",
+   "sources": [
+    {
+     "name": "The Decoder",
+     "url": "https://the-decoder.com/anthropic-ceo-amodei-admits-theres-a-huge-uncertainty-in-whats-going-to-happen-next-year-days-before-a-record-ipo/"
+    }
+   ],
+   "primary_url": "https://the-decoder.com/anthropic-ceo-amodei-admits-theres-a-huge-uncertainty-in-whats-going-to-happen-next-year-days-before-a-record-ipo/"
+  },
+  {
+   "id": "ecd56103ef4e",
+   "title": "利用 Claude 辅助编程：爱好者将 Seeed Studio“电子墨水屏便利贴”改造为苹果 Apple TV 遥控器",
+   "summary": "IT之家 11 月 15 日消息，据 XDA 报道，一位 Reddit 用户 Frankynov 将自己的 Seeed Studio reTerminal Sticky“电子墨水屏便利贴”改造为了苹果 Apple TV 遥控器。 Frankynov 透露，整个项目基于 Home Assistant 构建，利用了 Claude 进行辅助编程，不仅能够控制 Apple TV 播放内容，还可以通过触摸…",
+   "category": "Agents & Dev Tools",
+   "score": 34.1,
+   "published_at": "2026-11-15T09:26:41+00:00",
+   "sources": [
+    {
+     "name": "IT之家",
+     "url": "https://www.ithome.com/1/027/414.htm"
+    }
+   ],
+   "primary_url": "https://www.ithome.com/1/027/414.htm"
+  },
+  {
+   "id": "ea81bb2d8884",
+   "title": "The best (and AMD-est) computer I've ever owned",
+   "summary": "New build with a EPYC 7443 / Tyan S8030 board, and R9700 + 7900 XT. Was supposed to be selling the 7900 XT to pay for the R9700, but that somehow didn't happen... submitted by /u/BusTiny207 [link] [c…",
+   "category": "Other",
+   "score": 34.0,
+   "published_at": "2026-11-15T09:00:52+00:00",
+   "sources": [
+    {
+     "name": "r/LocalLLaMA",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwqvd2/the_best_and_amdest_computer_ive_ever_owned/"
+    }
+   ],
+   "primary_url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwqvd2/the_best_and_amdest_computer_ive_ever_owned/"
+  },
+  {
+   "id": "b5d0c93a24c4",
+   "title": "首款获得 HSK 官方授权的中文学习机，荣耀中文学习机 HSK 专业版首秀",
+   "summary": "IT之家 11 月 15 日消息，荣耀智慧生活今日发文，在 2026 世界中文大会，荣耀中文学习机 HSK 专业版（HONOR Pad HSK Official Edition）全球首秀。 这款产品由荣耀与“爱中文”社区、九学王联合打造， 这也是首款获得 HSK 官方授权的中文学习机 。 据介绍，产品内置官方独家正版资源，全级别覆盖 HSK2.0&3.0 备考，搭载全新 AI 能力，支持屏上书写…",
+   "category": "Research",
+   "score": 34.0,
+   "published_at": "2026-11-15T09:02:44+00:00",
+   "sources": [
+    {
+     "name": "IT之家",
+     "url": "https://www.ithome.com/1/027/408.htm"
+    }
+   ],
+   "primary_url": "https://www.ithome.com/1/027/408.htm"
+  },
+  {
+   "id": "a70bcb8c1daa",
+   "title": "开发者借助 Claude 开发出体积仅 97KB 水下探索模拟项目 Abyssal Garden",
+   "summary": "IT之家 11 月 15 日消息，据 XDA 报道，一位开发者 Any-Reputation8118 利用 Anthropic Claude 编写代码，开发出一款名为“Abyssal Garden”的浏览器水下探索模拟项目，相应项目体积仅 97 KB，场景中的所有视觉元素均由代码在页面加载时实时生成。 从演示视频来看，Abyssal Garden 的项目完成度相当高，包含海带森林、沉船、石制鲸鱼…",
+   "category": "Agents & Dev Tools",
+   "score": 33.9,
+   "published_at": "2026-11-15T08:58:39+00:00",
+   "sources": [
+    {
+     "name": "IT之家",
+     "url": "https://www.ithome.com/1/027/406.htm"
+    }
+   ],
+   "primary_url": "https://www.ithome.com/1/027/406.htm"
+  },
+  {
+   "id": "38679a653f0e",
+   "title": "快手公益启动“启智星计划”：利用 AI 创新教育、未来三年将覆盖 2000 所乡村学校",
+   "summary": "IT之家 11 月 15 日消息，快手公益宣布启动“启智星”AI 赋能教育共建计划，将在 10 个县域各建立由教育局、学校、基金会三方协作的共建单元，为 10 所案例校引入“一校一策”教学方法。 官方同步公布 30 个可复制、可迁移的人工智能应用案例，教师们使用 AI 进行双语教学、分层教学，打造科创体育融合、红色思政等场景。‏ 快手表示，未来三年，将为超过 2000 所乡村学校、3 万名教师引…",
+   "category": "Research",
+   "score": 33.8,
+   "published_at": "2026-11-15T08:39:40+00:00",
+   "sources": [
+    {
+     "name": "IT之家",
+     "url": "https://www.ithome.com/1/027/400.htm"
+    }
+   ],
+   "primary_url": "https://www.ithome.com/1/027/400.htm"
+  },
+  {
+   "id": "cbcb541b3864",
+   "title": "利用 AI 将国漫角色改成情色形象，7 名“黄图画师”获刑",
+   "summary": "IT之家 11 月 15 日消息，据“婺城检察”公众号，近期金华市婺城区检察院对一批“黄图画师”提起公诉，涉案嫌疑人陈某等 7 人被判有期徒刑二年至八个月不等。 据报道，涉案嫌疑人陈某等掌控了数十个漫画爱好者群，群名大多带着“国漫”“同人”“角色交流”之类的字眼，其在群内以每份 5 元至 20 元的价格销售利用 AI 生成的国漫角色黄色图片，除了直接在群内售卖已制作好的图片压缩包之外，为了笼络客…",
+   "category": "Other",
+   "score": 33.7,
+   "published_at": "2026-11-15T08:21:22+00:00",
+   "sources": [
+    {
+     "name": "IT之家",
+     "url": "https://www.ithome.com/1/027/395.htm"
+    }
+   ],
+   "primary_url": "https://www.ithome.com/1/027/395.htm"
+  },
+  {
+   "id": "07b73fe719a0",
+   "title": "消息称 SK 海力士加快设备投资进度，进一步扩大 HBM4 产能",
+   "summary": "IT之家 11 月 15 日消息，据韩媒 Etnews 今天报道，尽管英伟达 CEO 更替等因素加剧 AI 行业不确定性，但 SK 海力士仍认为 HBM（IT之家注：高带宽内存）需求强劲。该公司计划重点投资 HBM 封装和测试环节的设备， 并计划于明年上半年正式投入使用 。 据多位半导体设备行业人士透露，SK 海力士正与合作伙伴商讨采购 HBM4 生产设备。该公司主要与负责 HBM 键合、切割和…",
+   "category": "Business",
+   "score": 33.6,
+   "published_at": "2026-11-15T08:15:09+00:00",
+   "sources": [
+    {
+     "name": "IT之家",
+     "url": "https://www.ithome.com/1/027/392.htm"
+    }
+   ],
+   "primary_url": "https://www.ithome.com/1/027/392.htm"
+  },
+  {
+   "id": "b08cefd9996d",
+   "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+   "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+   "category": "Products",
+   "score": 33.5,
+   "published_at": "2026-11-14T17:30:00+00:00",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/"
+    }
+   ],
+   "primary_url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/"
+  },
+  {
+   "id": "d82d2c1dae8d",
+   "title": "Gemini 4 Carbon takes the MathArena crown but costs 15 times more than GPT-6.1 Sol",
+   "summary": "For the first time in a while, no OpenAI model leads the MathArena AI math benchmark. Google's Gemini 4 Carbon and Anthropic's Fable 5.2 have knocked GPT-6.1 Sol from the top, though both cost signif…",
+   "category": "Models",
+   "score": 33.2,
+   "published_at": "2026-11-14T16:48:01+00:00",
+   "sources": [
+    {
+     "name": "The Decoder",
+     "url": "https://the-decoder.com/gemini-4-carbon-takes-the-matharena-crown-but-costs-15-times-more-than-gpt-6-1-sol/"
+    }
+   ],
+   "primary_url": "https://the-decoder.com/gemini-4-carbon-takes-the-matharena-crown-but-costs-15-times-more-than-gpt-6-1-sol/"
+  },
+  {
+   "id": "a5dca2d386f6",
+   "title": "Anthropic says outdated prompting habits are slowing down Claude Opus 5.5",
+   "summary": "Anthropic has made Claude Opus 5.5 the default model on all paid plans and published a guide that does away with old prompting habits. The main takeaway is to drop \"think hard\" and start at Medium ef…",
+   "category": "Models",
+   "score": 33.2,
+   "published_at": "2026-11-14T16:42:56+00:00",
+   "sources": [
+    {
+     "name": "The Decoder",
+     "url": "https://the-decoder.com/anthropic-says-outdated-prompting-habits-are-slowing-down-claude-opus-5-5/"
+    }
+   ],
+   "primary_url": "https://the-decoder.com/anthropic-says-outdated-prompting-habits-are-slowing-down-claude-opus-5-5/"
+  },
+  {
+   "id": "2a2bfff1121f",
+   "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
+   "summary": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations.",
+   "category": "Business",
+   "score": 33.1,
+   "published_at": "2026-11-14T16:34:15+00:00",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/"
+    }
+   ],
+   "primary_url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/"
+  },
+  {
+   "id": "0c816ad6b558",
+   "title": "AI趨勢周報第294期：AI Agent不只要會看圖，Google新Benchmark直接考專業工作實戰",
+   "summary": "新聞 重點新聞（1106～1112） AI Agent AI評測 Google DeepMind AI Agent不只要會看圖，Google新Benchmark直接考專業工作實戰 Google DeepMind與Artificial Analysis聯手推出Multimodal Knowledge Agent（MKA）Benchmark基準測試，要評估AI代理能不能處理真正的「視覺型知識工作」。…",
+   "category": "Agents & Dev Tools",
+   "score": 32.7,
+   "published_at": "2026-11-14T15:29:39+00:00",
+   "sources": [
+    {
+     "name": "iThome",
+     "url": "https://www.ithome.com.tw/news/180507"
+    }
+   ],
+   "primary_url": "https://www.ithome.com.tw/news/180507"
+  },
+  {
+   "id": "19d340976929",
+   "title": "The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs",
+   "summary": "Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part two of our series on AI in real life. Hel…",
+   "category": "Policy & Safety",
+   "score": 32.4,
+   "published_at": "2026-11-14T15:00:00+00:00",
+   "sources": [
+    {
+     "name": "The Verge",
+     "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview"
+    }
+   ],
+   "primary_url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview"
+  },
+  {
+   "id": "578cab1f3ae1",
+   "title": "RASA will cause total chaos to open LLMs and beyond",
+   "summary": "Commerce Moves to Finalize Rule Blocking Chinese AI Firms From Renting Nvidia GPUs Abroad https://explainx.ai/blog/commerce-final-rule-chinese-ai-firms-remote-nvidia-chips-the-information-2026 House …",
+   "category": "Models",
+   "score": 32.2,
+   "published_at": "2026-11-15T04:47:03+00:00",
+   "sources": [
+    {
+     "name": "r/LocalLLaMA",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwmnkw/rasa_will_cause_total_chaos_to_open_llms_and/"
+    }
+   ],
+   "primary_url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwmnkw/rasa_will_cause_total_chaos_to_open_llms_and/"
+  },
+  {
+   "id": "c46863c30810",
+   "title": "Jensen Huang and the decline of the visionary showman founder CEO",
+   "summary": "On January 6th, 2025, Nvidia CEO Jensen Huang got his rockstar moment at last. He strode triumphantly onstage, hand raised in the air, to the claps and cheers of a 14,000-person arena absolutely pack…",
+   "category": "Business",
+   "score": 31.2,
+   "published_at": "2026-11-14T12:00:00+00:00",
+   "sources": [
+    {
+     "name": "The Verge",
+     "url": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo"
+    }
+   ],
+   "primary_url": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo"
+  },
+  {
+   "id": "3fecc6a9d4a0",
+   "title": "OpenAI reassigns robotics researchers to other teams as general-purpose models might make specialized robotics AI unnecessary",
+   "summary": "OpenAI is dissolving its standalone robotics team for the second time, but not because it lacks data. General-purpose models like GPT-6 Astra can apparently control robots directly, making a dedicate…",
+   "category": "Research",
+   "score": 31.1,
+   "published_at": "2026-11-14T11:40:51+00:00",
+   "sources": [
+    {
+     "name": "The Decoder",
+     "url": "https://the-decoder.com/openai-reassigns-robotics-researchers-to-other-teams-as-general-purpose-models-might-make-specialized-robotics-ai-unnecessary/"
+    }
+   ],
+   "primary_url": "https://the-decoder.com/openai-reassigns-robotics-researchers-to-other-teams-as-general-purpose-models-might-make-specialized-robotics-ai-unnecessary/"
+  },
+  {
+   "id": "938a8fdebfb4",
+   "title": "Anthropic can already retrain Mythos with \"a fraction of the compute originally needed,\" says former researcher Coxon",
+   "summary": "Former OpenAI and Anthropic researcher Jacob Coxon points to a slide from Anthropic's IPO roadshow as a reason he left, saying it shows the company's algorithms are improving not just quickly but at …",
+   "category": "Business",
+   "score": 30.9,
+   "published_at": "2026-11-14T11:21:41+00:00",
+   "sources": [
+    {
+     "name": "The Decoder",
+     "url": "https://the-decoder.com/anthropic-can-already-retrain-mythos-with-a-fraction-of-the-compute-originally-needed-says-former-researcher-coxon/"
+    }
+   ],
+   "primary_url": "https://the-decoder.com/anthropic-can-already-retrain-mythos-with-a-fraction-of-the-compute-originally-needed-says-former-researcher-coxon/"
+  },
+  {
+   "id": "0bcca453470d",
+   "title": "英伟达上演“奥特曼2.0”，员工集体请愿：让老黄回家！",
+   "summary": "马斯克也签名了",
+   "category": "Other",
+   "score": 30.4,
+   "published_at": "2026-11-14T10:08:08+00:00",
+   "sources": [
+    {
+     "name": "量子位",
+     "url": "https://www.qbitai.com/2026/11/510297.html"
+    }
+   ],
+   "primary_url": "https://www.qbitai.com/2026/11/510297.html"
+  },
+  {
+   "id": "7bfee235c168",
+   "title": "Runway's open-source Praxis-1 turns video AI into a robot controller",
+   "summary": "Runway releases its robotics model Praxis-1 with open weights and source code under the Apache 2.0 license. The model uses knowledge from video training for robot control and leads the World Action M…",
+   "category": "Open Source",
+   "score": 30.3,
+   "published_at": "2026-11-14T09:45:45+00:00",
+   "sources": [
+    {
+     "name": "The Decoder",
+     "url": "https://the-decoder.com/runways-open-source-praxis-1-turns-video-ai-into-a-robot-controller/"
+    }
+   ],
+   "primary_url": "https://the-decoder.com/runways-open-source-praxis-1-turns-video-ai-into-a-robot-controller/"
+  },
+  {
+   "id": "0563f648c822",
+   "title": "「史上最严」湿实验预测基准发布！推理拉满、算力翻5倍也白搭",
+   "summary": "斯坦福、哈佛、康奈尔……十余家顶尖团队齐坐一桌了",
+   "category": "Business",
+   "score": 30.3,
+   "published_at": "2026-11-14T09:58:22+00:00",
+   "sources": [
+    {
+     "name": "量子位",
+     "url": "https://www.qbitai.com/2026/11/510232.html"
+    }
+   ],
+   "primary_url": "https://www.qbitai.com/2026/11/510232.html"
+  },
+  {
+   "id": "94b4d3764c12",
+   "title": "程序员集体沉迷折纸飞机！最长滞空31.2秒",
+   "summary": "童年的纸飞机，现在终于飞回我手里～",
+   "category": "Other",
+   "score": 30.3,
+   "published_at": "2026-11-14T09:48:34+00:00",
+   "sources": [
+    {
+     "name": "量子位",
+     "url": "https://www.qbitai.com/2026/11/510150.html"
+    }
+   ],
+   "primary_url": "https://www.qbitai.com/2026/11/510150.html"
+  }
+ ],
+ "highlights": {
+  "Headlines": [
+   {
+    "id": "da34347cd41f",
+    "title": "开源盘古模型 openPangu-2.1-Pro 正式上线华为云",
+    "summary": "华为云 MaaS 模型即服务平台正式上线开源盘古模型 openPangu-2.1-Pro。该模型围绕 Agent 开发、AI 编码和推理优化三大方向完成能力升级，在深度研究、鸿蒙系统操控、鸿蒙 APP 开发、昇腾算子生成及推理链路优化等场景实现了能力增强。",
+    "category": "Open Source",
+    "score": 68.2,
+    "published_at": "2026-11-15T14:30:36.186000+00:00",
+    "sources": [
+     {
+      "name": "Readhub",
+      "url": "https://readhub.cn/topic/8y53IQAgFrm"
+     }
+    ],
+    "primary_url": "https://readhub.cn/topic/8y53IQAgFrm"
+   },
+   {
+    "id": "b26717d449a4",
+    "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+    "summary": "",
+    "category": "Business",
+    "score": 53.4,
+    "published_at": "2026-11-14T02:52:59+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50493251"
+     }
+    ],
+    "primary_url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus"
+   },
+   {
+    "id": "de1b04aef218",
+    "title": "All AI-generated code should be Open Source",
+    "summary": "",
+    "category": "Open Source",
+    "score": 66.9,
+    "published_at": "2026-11-15T14:46:58+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50507303"
+     }
+    ],
+    "primary_url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/"
+   },
+   {
+    "id": "15af9c23428b",
+    "title": "李沐加入 Aimotion 出任联合创始人兼 CTO",
+    "summary": "李沐正式出任 Aimotion 联合创始人兼 CTO，主导下一代产业级 AI 技术体系建设，同时继续担任 Boson AI 联合创始人兼 CTO。此次并非跳槽，而是双方联手攻关产业级世界模型和商业 AI Agent。Aimotion 是总部位于硅谷的企业，聚焦汽车等高价值长决策周期行业，提供 AI 销售营销解决方案，近期刚完成 BAI Capital 领投的数千万美元 A 轮融资。双方将打通 B…",
+    "category": "Agents & Dev Tools",
+    "score": 67.4,
+    "published_at": "2026-11-15T17:23:10.855000+00:00",
+    "sources": [
+     {
+      "name": "Readhub",
+      "url": "https://readhub.cn/topic/8y4JYNt9qrF"
+     }
+    ],
+    "primary_url": "https://readhub.cn/topic/8y4JYNt9qrF"
+   },
+   {
+    "id": "ad8b3d5bdfd0",
+    "title": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
+    "summary": "",
+    "category": "Other",
+    "score": 54.4,
+    "published_at": "2026-11-14T15:04:15+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50497589"
+     }
+    ],
+    "primary_url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax"
+   },
+   {
+    "id": "10c60fc60c0f",
+    "title": "Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update",
+    "summary": "",
+    "category": "Models",
+    "score": 48.1,
+    "published_at": "2026-11-14T00:06:04+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://unsloth.ai/docs/models/qwen3.8"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50491980"
+     }
+    ],
+    "primary_url": "https://unsloth.ai/docs/models/qwen3.8"
+   },
+   {
+    "id": "9f3952a424ef",
+    "title": "No AI Slop: A Manifesto",
+    "summary": "",
+    "category": "Other",
+    "score": 45.9,
+    "published_at": "2026-11-13T19:51:56+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://www.slopmanifesto.com/"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50488769"
+     }
+    ],
+    "primary_url": "https://www.slopmanifesto.com/"
+   },
+   {
+    "id": "1cd6c3ec19d7",
+    "title": "The Claude Delusion",
+    "summary": "",
+    "category": "Other",
+    "score": 52.2,
+    "published_at": "2026-11-14T13:36:17+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://www.netmeister.org/blog/claude-delusion.html"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50496921"
+     }
+    ],
+    "primary_url": "https://www.netmeister.org/blog/claude-delusion.html"
+   },
+   {
+    "id": "950ac38f23f2",
+    "title": "Understanding Positional Embeddings in Modern LLMs",
+    "summary": "",
+    "category": "Models",
+    "score": 61.4,
+    "published_at": "2026-11-15T12:14:06+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50506376"
+     }
+    ],
+    "primary_url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings"
+   },
+   {
+    "id": "21ab7432dba4",
+    "title": "Claude Meetings",
+    "summary": "",
+    "category": "Other",
+    "score": 45.1,
+    "published_at": "2026-11-13T22:39:15+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://claude.com/resources/articles/claude-meetings"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50491097"
+     }
+    ],
+    "primary_url": "https://claude.com/resources/articles/claude-meetings"
+   }
+  ],
+  "Dark Horses": [
+   {
+    "id": "da34347cd41f",
+    "title": "开源盘古模型 openPangu-2.1-Pro 正式上线华为云",
+    "summary": "华为云 MaaS 模型即服务平台正式上线开源盘古模型 openPangu-2.1-Pro。该模型围绕 Agent 开发、AI 编码和推理优化三大方向完成能力升级，在深度研究、鸿蒙系统操控、鸿蒙 APP 开发、昇腾算子生成及推理链路优化等场景实现了能力增强。",
+    "category": "Open Source",
+    "score": 68.2,
+    "published_at": "2026-11-15T14:30:36.186000+00:00",
+    "sources": [
+     {
+      "name": "Readhub",
+      "url": "https://readhub.cn/topic/8y53IQAgFrm"
+     }
+    ],
+    "primary_url": "https://readhub.cn/topic/8y53IQAgFrm"
+   },
+   {
+    "id": "de1b04aef218",
+    "title": "All AI-generated code should be Open Source",
+    "summary": "",
+    "category": "Open Source",
+    "score": 66.9,
+    "published_at": "2026-11-15T14:46:58+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50507303"
+     }
+    ],
+    "primary_url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/"
+   },
+   {
+    "id": "15af9c23428b",
+    "title": "李沐加入 Aimotion 出任联合创始人兼 CTO",
+    "summary": "李沐正式出任 Aimotion 联合创始人兼 CTO，主导下一代产业级 AI 技术体系建设，同时继续担任 Boson AI 联合创始人兼 CTO。此次并非跳槽，而是双方联手攻关产业级世界模型和商业 AI Agent。Aimotion 是总部位于硅谷的企业，聚焦汽车等高价值长决策周期行业，提供 AI 销售营销解决方案，近期刚完成 BAI Capital 领投的数千万美元 A 轮融资。双方将打通 B…",
+    "category": "Agents & Dev Tools",
+    "score": 67.4,
+    "published_at": "2026-11-15T17:23:10.855000+00:00",
+    "sources": [
+     {
+      "name": "Readhub",
+      "url": "https://readhub.cn/topic/8y4JYNt9qrF"
+     }
+    ],
+    "primary_url": "https://readhub.cn/topic/8y4JYNt9qrF"
+   },
+   {
+    "id": "10c60fc60c0f",
+    "title": "Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update",
+    "summary": "",
+    "category": "Models",
+    "score": 48.1,
+    "published_at": "2026-11-14T00:06:04+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://unsloth.ai/docs/models/qwen3.8"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50491980"
+     }
+    ],
+    "primary_url": "https://unsloth.ai/docs/models/qwen3.8"
+   },
+   {
+    "id": "48d7239a5b56",
+    "title": "世界首颗全集成一步求解矩阵方程国产模拟计算芯片问世",
+    "summary": "某公司自主研发出世界首颗全集成一步求解矩阵方程模拟计算芯片 AX100，于今年 10 月完成流片，实测单次矩阵方程求解时间小于 100 纳秒，单次计算功耗约 80 毫瓦，符合设计预期。该芯片依托此前将模拟计算精度大幅提升的实验室成果落地，无需迭代即可通过电路自平衡直接输出结果，延时和功耗远优于传统数字芯片。目前已在大模型训练、具身智能、无线通信三类场景完成测试，各项性能提升显著。该芯片采用成熟工…",
+    "category": "Business",
+    "score": 62.9,
+    "published_at": "2026-11-15T12:30:38.264000+00:00",
+    "sources": [
+     {
+      "name": "Readhub",
+      "url": "https://readhub.cn/topic/8y4ozqruerX"
+     }
+    ],
+    "primary_url": "https://readhub.cn/topic/8y4ozqruerX"
+   },
+   {
+    "id": "9f3952a424ef",
+    "title": "No AI Slop: A Manifesto",
+    "summary": "",
+    "category": "Other",
+    "score": 45.9,
+    "published_at": "2026-11-13T19:51:56+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://www.slopmanifesto.com/"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50488769"
+     }
+    ],
+    "primary_url": "https://www.slopmanifesto.com/"
+   },
+   {
+    "id": "950ac38f23f2",
+    "title": "Understanding Positional Embeddings in Modern LLMs",
+    "summary": "",
+    "category": "Models",
+    "score": 61.4,
+    "published_at": "2026-11-15T12:14:06+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50506376"
+     }
+    ],
+    "primary_url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings"
+   },
+   {
+    "id": "35d11ebebf17",
+    "title": "2026 谷歌奖学金公布，清华、复旦等校校友入选",
+    "summary": "谷歌公布 2026 年度博士奖学金名单，今年共投入 1300 万美元，资助来自 38 个国家或地区的 148 位新晋博士研究者，其中华人学者近 40 人。该奖学金计划 2009 年设立，旨在支持计算机科学及相关领域的优秀研究生开展前沿研究，至今已在全球资助超 1100 名研究生，不少获奖者后续成长为学界、业界的核心技术领军者。本届入选的华人学者分布在机器学习与机器学习基础、机器感知、人机交互、理…",
+    "category": "Research",
+    "score": 57.2,
+    "published_at": "2026-11-15T17:28:41.761000+00:00",
+    "sources": [
+     {
+      "name": "Readhub",
+      "url": "https://readhub.cn/topic/8y4JYacpuSH"
+     }
+    ],
+    "primary_url": "https://readhub.cn/topic/8y4JYacpuSH"
+   }
+  ],
+  "Rising": [
+   {
+    "id": "404dff4b1cea",
+    "title": "dream-num/univer: Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
+    "summary": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
+    "category": "Agents & Dev Tools",
+    "score": 54.0,
+    "published_at": "2026-11-15T18:43:59.026196+00:00",
+    "sources": [
+     {
+      "name": "GitHub Trending",
+      "url": "https://github.com/dream-num/univer"
+     }
+    ],
+    "primary_url": "https://github.com/dream-num/univer"
+   },
+   {
+    "id": "1f1dbabb56c4",
+    "title": "MiniMaxAI/MiniMax-H3-Image",
+    "summary": "",
+    "category": "Open Source",
+    "score": 54.0,
+    "published_at": "2026-11-15T18:43:59.026196+00:00",
+    "sources": [
+     {
+      "name": "Hugging Face Trending",
+      "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image"
+     }
+    ],
+    "primary_url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image"
+   },
+   {
+    "id": "04ce1345cda9",
+    "title": "Lightricks/LTX-2.5",
+    "summary": "",
+    "category": "Open Source",
+    "score": 51.3,
+    "published_at": "2026-11-15T18:43:59.026196+00:00",
+    "sources": [
+     {
+      "name": "Hugging Face Trending",
+      "url": "https://huggingface.co/Lightricks/LTX-2.5"
+     }
+    ],
+    "primary_url": "https://huggingface.co/Lightricks/LTX-2.5"
+   },
+   {
+    "id": "14e5a7f70a2a",
+    "title": "Comfy-Org/MiniMax-H3-Image",
+    "summary": "",
+    "category": "Open Source",
+    "score": 51.0,
+    "published_at": "2026-11-15T18:43:59.026196+00:00",
+    "sources": [
+     {
+      "name": "Hugging Face Trending",
+      "url": "https://huggingface.co/Comfy-Org/MiniMax-H3-Image"
+     }
+    ],
+    "primary_url": "https://huggingface.co/Comfy-Org/MiniMax-H3-Image"
+   },
+   {
+    "id": "2250172890a0",
+    "title": "Zyphra/ZONOS3-Mini",
+    "summary": "",
+    "category": "Open Source",
+    "score": 50.8,
+    "published_at": "2026-11-15T18:43:59.026196+00:00",
+    "sources": [
+     {
+      "name": "Hugging Face Trending",
+      "url": "https://huggingface.co/Zyphra/ZONOS3-Mini"
+     }
+    ],
+    "primary_url": "https://huggingface.co/Zyphra/ZONOS3-Mini"
+   },
+   {
+    "id": "6ae972136210",
+    "title": "thinkingmachines/Inkling-2-Small",
+    "summary": "",
+    "category": "Open Source",
+    "score": 50.6,
+    "published_at": "2026-11-15T18:43:59.026196+00:00",
+    "sources": [
+     {
+      "name": "Hugging Face Trending",
+      "url": "https://huggingface.co/thinkingmachines/Inkling-2-Small"
+     }
+    ],
+    "primary_url": "https://huggingface.co/thinkingmachines/Inkling-2-Small"
+   },
+   {
+    "id": "46e307363c08",
+    "title": "speridlabs/idol",
+    "summary": "",
+    "category": "Open Source",
+    "score": 50.5,
+    "published_at": "2026-11-15T18:43:59.026196+00:00",
+    "sources": [
+     {
+      "name": "Hugging Face Trending",
+      "url": "https://huggingface.co/speridlabs/idol"
+     }
+    ],
+    "primary_url": "https://huggingface.co/speridlabs/idol"
+   },
+   {
+    "id": "55ffe1fba5ed",
+    "title": "NousResearch/Arete-27B",
+    "summary": "",
+    "category": "Open Source",
+    "score": 50.4,
+    "published_at": "2026-11-15T18:43:59.026196+00:00",
+    "sources": [
+     {
+      "name": "Hugging Face Trending",
+      "url": "https://huggingface.co/NousResearch/Arete-27B"
+     }
+    ],
+    "primary_url": "https://huggingface.co/NousResearch/Arete-27B"
+   },
+   {
+    "id": "6518fbd35a14",
+    "title": "higurashi-ai/Haru-4B",
+    "summary": "",
+    "category": "Open Source",
+    "score": 50.1,
+    "published_at": "2026-11-15T18:43:59.026196+00:00",
+    "sources": [
+     {
+      "name": "Hugging Face Trending",
+      "url": "https://huggingface.co/higurashi-ai/Haru-4B"
+     }
+    ],
+    "primary_url": "https://huggingface.co/higurashi-ai/Haru-4B"
+   },
+   {
+    "id": "68431e57dcdc",
+    "title": "Edge0/Edge0-145B-NVFP4",
+    "summary": "",
+    "category": "Open Source",
+    "score": 49.9,
+    "published_at": "2026-11-15T18:43:59.026196+00:00",
+    "sources": [
+     {
+      "name": "Hugging Face Trending",
+      "url": "https://huggingface.co/Edge0/Edge0-145B-NVFP4"
+     }
+    ],
+    "primary_url": "https://huggingface.co/Edge0/Edge0-145B-NVFP4"
+   }
+  ]
+ },
+ "categories": {
+  "Models": [
+   {
+    "id": "950ac38f23f2",
+    "title": "Understanding Positional Embeddings in Modern LLMs",
+    "summary": "",
+    "category": "Models",
+    "score": 61.4,
+    "published_at": "2026-11-15T12:14:06+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50506376"
+     }
+    ],
+    "primary_url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings"
+   },
+   {
+    "id": "6c64301c09e0",
+    "title": "Qwen/Qwen3.8-27B",
+    "summary": "",
+    "category": "Models",
+    "score": 51.5,
+    "published_at": "2026-11-15T18:43:59.026196+00:00",
+    "sources": [
+     {
+      "name": "Hugging Face Trending",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B"
+     }
+    ],
+    "primary_url": "https://huggingface.co/Qwen/Qwen3.8-27B"
+   },
+   {
+    "id": "10c60fc60c0f",
+    "title": "Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update",
+    "summary": "",
+    "category": "Models",
+    "score": 48.1,
+    "published_at": "2026-11-14T00:06:04+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://unsloth.ai/docs/models/qwen3.8"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50491980"
+     }
+    ],
+    "primary_url": "https://unsloth.ai/docs/models/qwen3.8"
+   },
+   {
+    "id": "65ecef2327a0",
+    "title": "Anthropic's Claude Fable 5.2 doesn't generate images, it paints them",
+    "summary": "Anthropic's Claude Fable 5.2 doesn't generate images the way other AI models do. Instead of computing pixels, the language model writes Python code that places hundreds of thousands of simulated brus…",
+    "category": "Models",
+    "score": 42.7,
+    "published_at": "2026-11-15T15:42:03+00:00",
+    "sources": [
+     {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/anthropics-claude-fable-5-2-doesnt-generate-images-it-paints-them/"
+     }
+    ],
+    "primary_url": "https://the-decoder.com/anthropics-claude-fable-5-2-doesnt-generate-images-it-paints-them/"
+   },
+   {
+    "id": "bfce57e293c4",
+    "title": "Basalt 0.4.0: More models, still as fast - Qwen 27B up to 770 tok/s on a 5090",
+    "summary": "Hi everyone! I wanted to post a quick update on Basalt . Since last I posted, multi model and router support was implemented, starting with DeepSeek V4.1 Flash (IQ1_M 90 tok/s conv, 246 tok/s struct …",
+    "category": "Models",
+    "score": 37.5,
+    "published_at": "2026-11-15T17:30:31+00:00",
+    "sources": [
+     {
+      "name": "r/LocalLLaMA",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xx1cu9/basalt_040_more_models_still_as_fast_qwen_27b_up/"
+     }
+    ],
+    "primary_url": "https://www.reddit.com/r/LocalLLaMA/comments/1xx1cu9/basalt_040_more_models_still_as_fast_qwen_27b_up/"
+   },
+   {
+    "id": "5f2eea2e01a3",
+    "title": "I used local Gemma 4 to moderate a community and it was it is promising",
+    "summary": "I run a couple of small communities and it's becoming difficult to moderate them all. So today I built a script on top of my existing app which I use to track the content on those communities. The sc…",
+    "category": "Models",
+    "score": 35.9,
+    "published_at": "2026-11-15T13:35:35+00:00",
+    "sources": [
+     {
+      "name": "r/LocalLLaMA",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwvnfr/i_used_local_gemma_4_to_moderate_a_community_and/"
+     }
+    ],
+    "primary_url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwvnfr/i_used_local_gemma_4_to_moderate_a_community_and/"
+   },
+   {
+    "id": "566e0aa6e9c6",
+    "title": "Latest version of strata made my Qwen3.8-Flash-Next dumb and useless",
+    "summary": "I updated the strata to the latest version from v0.1.42.0, so I can try the latest unsloths models and see how they fare against the iq3_s variant I have been using. Upon updating it, I noticed it me…",
+    "category": "Models",
+    "score": 35.2,
+    "published_at": "2026-11-15T12:02:35+00:00",
+    "sources": [
+     {
+      "name": "r/LocalLLaMA",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwttcw/latest_version_of_strata_made_my_qwen38flashnext/"
+     }
+    ],
+    "primary_url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwttcw/latest_version_of_strata_made_my_qwen38flashnext/"
+   },
+   {
+    "id": "d82d2c1dae8d",
+    "title": "Gemini 4 Carbon takes the MathArena crown but costs 15 times more than GPT-6.1 Sol",
+    "summary": "For the first time in a while, no OpenAI model leads the MathArena AI math benchmark. Google's Gemini 4 Carbon and Anthropic's Fable 5.2 have knocked GPT-6.1 Sol from the top, though both cost signif…",
+    "category": "Models",
+    "score": 33.2,
+    "published_at": "2026-11-14T16:48:01+00:00",
+    "sources": [
+     {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/gemini-4-carbon-takes-the-matharena-crown-but-costs-15-times-more-than-gpt-6-1-sol/"
+     }
+    ],
+    "primary_url": "https://the-decoder.com/gemini-4-carbon-takes-the-matharena-crown-but-costs-15-times-more-than-gpt-6-1-sol/"
+   },
+   {
+    "id": "a5dca2d386f6",
+    "title": "Anthropic says outdated prompting habits are slowing down Claude Opus 5.5",
+    "summary": "Anthropic has made Claude Opus 5.5 the default model on all paid plans and published a guide that does away with old prompting habits. The main takeaway is to drop \"think hard\" and start at Medium ef…",
+    "category": "Models",
+    "score": 33.2,
+    "published_at": "2026-11-14T16:42:56+00:00",
+    "sources": [
+     {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/anthropic-says-outdated-prompting-habits-are-slowing-down-claude-opus-5-5/"
+     }
+    ],
+    "primary_url": "https://the-decoder.com/anthropic-says-outdated-prompting-habits-are-slowing-down-claude-opus-5-5/"
+   },
+   {
+    "id": "578cab1f3ae1",
+    "title": "RASA will cause total chaos to open LLMs and beyond",
+    "summary": "Commerce Moves to Finalize Rule Blocking Chinese AI Firms From Renting Nvidia GPUs Abroad https://explainx.ai/blog/commerce-final-rule-chinese-ai-firms-remote-nvidia-chips-the-information-2026 House …",
+    "category": "Models",
+    "score": 32.2,
+    "published_at": "2026-11-15T04:47:03+00:00",
+    "sources": [
+     {
+      "name": "r/LocalLLaMA",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwmnkw/rasa_will_cause_total_chaos_to_open_llms_and/"
+     }
+    ],
+    "primary_url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwmnkw/rasa_will_cause_total_chaos_to_open_llms_and/"
+   }
+  ],
+  "Agents & Dev Tools": [
+   {
+    "id": "15af9c23428b",
+    "title": "李沐加入 Aimotion 出任联合创始人兼 CTO",
+    "summary": "李沐正式出任 Aimotion 联合创始人兼 CTO，主导下一代产业级 AI 技术体系建设，同时继续担任 Boson AI 联合创始人兼 CTO。此次并非跳槽，而是双方联手攻关产业级世界模型和商业 AI Agent。Aimotion 是总部位于硅谷的企业，聚焦汽车等高价值长决策周期行业，提供 AI 销售营销解决方案，近期刚完成 BAI Capital 领投的数千万美元 A 轮融资。双方将打通 B…",
+    "category": "Agents & Dev Tools",
+    "score": 67.4,
+    "published_at": "2026-11-15T17:23:10.855000+00:00",
+    "sources": [
+     {
+      "name": "Readhub",
+      "url": "https://readhub.cn/topic/8y4JYNt9qrF"
+     }
+    ],
+    "primary_url": "https://readhub.cn/topic/8y4JYNt9qrF"
+   },
+   {
+    "id": "404dff4b1cea",
+    "title": "dream-num/univer: Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
+    "summary": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
+    "category": "Agents & Dev Tools",
+    "score": 54.0,
+    "published_at": "2026-11-15T18:43:59.026196+00:00",
+    "sources": [
+     {
+      "name": "GitHub Trending",
+      "url": "https://github.com/dream-num/univer"
+     }
+    ],
+    "primary_url": "https://github.com/dream-num/univer"
+   },
+   {
+    "id": "ec453d1217c2",
+    "title": "tradermonty/claude-trading-skills: Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
+    "summary": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
+    "category": "Agents & Dev Tools",
+    "score": 52.9,
+    "published_at": "2026-11-15T18:43:59.026196+00:00",
+    "sources": [
+     {
+      "name": "GitHub Trending",
+      "url": "https://github.com/tradermonty/claude-trading-skills"
+     }
+    ],
+    "primary_url": "https://github.com/tradermonty/claude-trading-skills"
+   },
+   {
+    "id": "6a36938791d1",
+    "title": "Tencent/LoopForge: Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.",
+    "summary": "Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.",
+    "category": "Agents & Dev Tools",
+    "score": 51.8,
+    "published_at": "2026-11-15T18:43:59.026196+00:00",
+    "sources": [
+     {
+      "name": "GitHub Trending",
+      "url": "https://github.com/Tencent/LoopForge"
+     }
+    ],
+    "primary_url": "https://github.com/Tencent/LoopForge"
+   },
+   {
+    "id": "9108ffa54a00",
+    "title": "Nebuly, whose tech helps enterprises measure the business value of AI agents by analyzing their impact on productivity and revenue, raised a $21M Series A (Tamara Djurickovic/Tech.eu)",
+    "summary": "Tamara Djurickovic / Tech.eu : Nebuly, whose tech helps enterprises measure the business value of AI agents by analyzing their impact on productivity and revenue, raised a $21M Series A — Nebuly deve…",
+    "category": "Agents & Dev Tools",
+    "score": 51.0,
+    "published_at": "2026-11-15T06:40:02+00:00",
+    "sources": [
+     {
+      "name": "Techmeme",
+      "url": "https://www.techmeme.com/261115/p3#a261115p3"
+     }
+    ],
+    "primary_url": "https://www.techmeme.com/261115/p3#a261115p3"
+   },
+   {
+    "id": "52adf762d407",
+    "title": "google-labs-code/stitch-skills: A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+    "summary": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude …",
+    "category": "Agents & Dev Tools",
+    "score": 49.9,
+    "published_at": "2026-11-15T18:43:59.026196+00:00",
+    "sources": [
+     {
+      "name": "GitHub Trending",
+      "url": "https://github.com/google-labs-code/stitch-skills"
+     }
+    ],
+    "primary_url": "https://github.com/google-labs-code/stitch-skills"
+   },
+   {
+    "id": "6fc6bc2d3ff2",
+    "title": "Meituan releases a 1.6-trillion-parameter agent model that never touched an Nvidia GPU",
+    "summary": "Meituan has released the weights for LongCat-2.5, a 1.6-trillion-parameter model built for AI agents and trained entirely on Chinese hardware. On Terminal Bench, it scores 88.4 points, landing just b…",
+    "category": "Agents & Dev Tools",
+    "score": 40.4,
+    "published_at": "2026-11-15T10:06:06+00:00",
+    "sources": [
+     {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/meituan-releases-a-1-6-trillion-parameter-agent-model-that-never-touched-an-nvidia-gpu/"
+     }
+    ],
+    "primary_url": "https://the-decoder.com/meituan-releases-a-1-6-trillion-parameter-agent-model-that-never-touched-an-nvidia-gpu/"
+   },
+   {
+    "id": "fa6009f8b1e8",
+    "title": "Probable GLM model",
+    "summary": "https://preview.redd.it/k7ife2j2ms1i1.png?width=591&format=png&auto=webp&s=e8dd29b327ac46e7634a5faf48454ec1beb7aa0b Because of Theo gg tweet of all people, I Launch QFN DeepResearch swarm agent to fi…",
+    "category": "Agents & Dev Tools",
+    "score": 36.6,
+    "published_at": "2026-11-15T15:21:11+00:00",
+    "sources": [
+     {
+      "name": "r/LocalLLaMA",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwy3ka/probable_glm_model/"
+     }
+    ],
+    "primary_url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwy3ka/probable_glm_model/"
+   },
+   {
+    "id": "7fdb1f462eb7",
+    "title": "开源盘古模型 openPangu-2.1-Pro 上线华为云，围绕 Agent 开发、AI 编码、推理优化方向能力升级",
+    "summary": "IT之家 11 月 15 日消息，华为云今日宣布，华为云 MaaS 模型即服务平台正式上线开源盘古模型 openPangu-2.1-Pro。 该模型围绕 Agent 开发、AI 编码和推理优化 三大方向进行能力升级，在深度研究、鸿蒙系统操控、鸿蒙 App 开发、昇腾算子生成及推理链路优化等场景实现增强。 在 Agent 能力方面 ，openPangu-2.1-Pro 基于 10 万余条专项数据优…",
+    "category": "Agents & Dev Tools",
+    "score": 35.7,
+    "published_at": "2026-11-15T13:16:54+00:00",
+    "sources": [
+     {
+      "name": "IT之家",
+      "url": "https://www.ithome.com/1/027/450.htm"
+     }
+    ],
+    "primary_url": "https://www.ithome.com/1/027/450.htm"
+   },
+   {
+    "id": "e1b2863a5798",
+    "title": "AI 版拓麻歌子来了：日常物品秒变需要被照顾的虚拟宠物",
+    "summary": "IT之家 11 月 15 日消息，忘记给家里的植物浇水了？这一次，你看到的可能不是逐渐变黄的叶子，而是一只显示在小屏幕上的植物形状宠物。它看起来垂头丧气、一脸委屈，仿佛在提醒你赶紧拿起浇水壶。而当你把水浇进土壤后，屏幕上的小宠物又会立刻变得兴奋起来。 这正是 OATs（Object Agent Twins，物体智能体双生体）的设计理念。这是一套面向日常家居物品的微型 AI 智能体系统，通过小巧的…",
+    "category": "Agents & Dev Tools",
+    "score": 35.5,
+    "published_at": "2026-11-15T12:43:54+00:00",
+    "sources": [
+     {
+      "name": "IT之家",
+      "url": "https://www.ithome.com/1/027/443.htm"
+     }
+    ],
+    "primary_url": "https://www.ithome.com/1/027/443.htm"
+   }
+  ],
+  "Products": [
+   {
+    "id": "37e82c1c5c8c",
+    "title": "Sources: Apple plans to unveil smart glasses at WWDC and ship them by the end of 2027, focusing heavily on integration of third-party iPhone apps with Siri AI (Mark Gurman/Bloomberg)",
+    "summary": "Mark Gurman / Bloomberg : Sources: Apple plans to unveil smart glasses at WWDC and ship them by the end of 2027, focusing heavily on integration of third-party iPhone apps with Siri AI — Also: A look…",
+    "category": "Products",
+    "score": 55.1,
+    "published_at": "2026-11-15T16:30:00+00:00",
+    "sources": [
+     {
+      "name": "Techmeme",
+      "url": "https://www.techmeme.com/261115/p10#a261115p10"
+     }
+    ],
+    "primary_url": "https://www.techmeme.com/261115/p10#a261115p10"
+   },
+   {
+    "id": "7611c876b17c",
+    "title": "Australia's central bank finds AI hitting young workers first, especially in software and customer service",
+    "summary": "Australia's central bank sees early signs that AI is hitting young entry-level workers in highly exposed jobs like software development and customer service. Since ChatGPT launched, job postings and …",
+    "category": "Products",
+    "score": 40.7,
+    "published_at": "2026-11-15T10:45:58+00:00",
+    "sources": [
+     {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/australias-central-bank-finds-ai-hitting-young-workers-first-especially-in-software-and-customer-service/"
+     }
+    ],
+    "primary_url": "https://the-decoder.com/australias-central-bank-finds-ai-hitting-young-workers-first-especially-in-software-and-customer-service/"
+   },
+   {
+    "id": "5acb07bab41c",
+    "title": "被诉人为制造 DRAM 短缺，三星、SK 海力士、美光申请撤诉遭美国法院驳回",
+    "summary": "IT之家 11 月 15 日消息，据法律媒体 LitNews 报道，在当地时间 11 月 14 日发布的一项裁决中，美国加利福尼亚北区联邦地区法院法官诺埃尔 · 怀斯（Noël Wise）全盘驳回了三星、美光和 SK 海力士联合提交的驳回起诉动议，裁定原告起诉书就三方违反《谢尔曼法》（Sherman Act）第 1 条达成非法协议一事作出了具有合理性的指控。 IT之家注：法官目前只是 驳回了被告…",
+    "category": "Products",
+    "score": 35.4,
+    "published_at": "2026-11-15T12:35:53+00:00",
+    "sources": [
+     {
+      "name": "IT之家",
+      "url": "https://www.ithome.com/1/027/442.htm"
+     }
+    ],
+    "primary_url": "https://www.ithome.com/1/027/442.htm"
+   },
+   {
+    "id": "b08cefd9996d",
+    "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+    "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+    "category": "Products",
+    "score": 33.5,
+    "published_at": "2026-11-14T17:30:00+00:00",
+    "sources": [
+     {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/"
+     }
+    ],
+    "primary_url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/"
+   }
+  ],
+  "Open Source": [
+   {
+    "id": "da34347cd41f",
+    "title": "开源盘古模型 openPangu-2.1-Pro 正式上线华为云",
+    "summary": "华为云 MaaS 模型即服务平台正式上线开源盘古模型 openPangu-2.1-Pro。该模型围绕 Agent 开发、AI 编码和推理优化三大方向完成能力升级，在深度研究、鸿蒙系统操控、鸿蒙 APP 开发、昇腾算子生成及推理链路优化等场景实现了能力增强。",
+    "category": "Open Source",
+    "score": 68.2,
+    "published_at": "2026-11-15T14:30:36.186000+00:00",
+    "sources": [
+     {
+      "name": "Readhub",
+      "url": "https://readhub.cn/topic/8y53IQAgFrm"
+     }
+    ],
+    "primary_url": "https://readhub.cn/topic/8y53IQAgFrm"
+   },
+   {
+    "id": "de1b04aef218",
+    "title": "All AI-generated code should be Open Source",
+    "summary": "",
+    "category": "Open Source",
+    "score": 66.9,
+    "published_at": "2026-11-15T14:46:58+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50507303"
+     }
+    ],
+    "primary_url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/"
+   },
+   {
+    "id": "1f1dbabb56c4",
+    "title": "MiniMaxAI/MiniMax-H3-Image",
+    "summary": "",
+    "category": "Open Source",
+    "score": 54.0,
+    "published_at": "2026-11-15T18:43:59.026196+00:00",
+    "sources": [
+     {
+      "name": "Hugging Face Trending",
+      "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image"
+     }
+    ],
+    "primary_url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image"
+   },
+   {
+    "id": "04ce1345cda9",
+    "title": "Lightricks/LTX-2.5",
+    "summary": "",
+    "category": "Open Source",
+    "score": 51.3,
+    "published_at": "2026-11-15T18:43:59.026196+00:00",
+    "sources": [
+     {
+      "name": "Hugging Face Trending",
+      "url": "https://huggingface.co/Lightricks/LTX-2.5"
+     }
+    ],
+    "primary_url": "https://huggingface.co/Lightricks/LTX-2.5"
+   },
+   {
+    "id": "14e5a7f70a2a",
+    "title": "Comfy-Org/MiniMax-H3-Image",
+    "summary": "",
+    "category": "Open Source",
+    "score": 51.0,
+    "published_at": "2026-11-15T18:43:59.026196+00:00",
+    "sources": [
+     {
+      "name": "Hugging Face Trending",
+      "url": "https://huggingface.co/Comfy-Org/MiniMax-H3-Image"
+     }
+    ],
+    "primary_url": "https://huggingface.co/Comfy-Org/MiniMax-H3-Image"
+   },
+   {
+    "id": "2250172890a0",
+    "title": "Zyphra/ZONOS3-Mini",
+    "summary": "",
+    "category": "Open Source",
+    "score": 50.8,
+    "published_at": "2026-11-15T18:43:59.026196+00:00",
+    "sources": [
+     {
+      "name": "Hugging Face Trending",
+      "url": "https://huggingface.co/Zyphra/ZONOS3-Mini"
+     }
+    ],
+    "primary_url": "https://huggingface.co/Zyphra/ZONOS3-Mini"
+   },
+   {
+    "id": "6ae972136210",
+    "title": "thinkingmachines/Inkling-2-Small",
+    "summary": "",
+    "category": "Open Source",
+    "score": 50.6,
+    "published_at": "2026-11-15T18:43:59.026196+00:00",
+    "sources": [
+     {
+      "name": "Hugging Face Trending",
+      "url": "https://huggingface.co/thinkingmachines/Inkling-2-Small"
+     }
+    ],
+    "primary_url": "https://huggingface.co/thinkingmachines/Inkling-2-Small"
+   },
+   {
+    "id": "46e307363c08",
+    "title": "speridlabs/idol",
+    "summary": "",
+    "category": "Open Source",
+    "score": 50.5,
+    "published_at": "2026-11-15T18:43:59.026196+00:00",
+    "sources": [
+     {
+      "name": "Hugging Face Trending",
+      "url": "https://huggingface.co/speridlabs/idol"
+     }
+    ],
+    "primary_url": "https://huggingface.co/speridlabs/idol"
+   },
+   {
+    "id": "55ffe1fba5ed",
+    "title": "NousResearch/Arete-27B",
+    "summary": "",
+    "category": "Open Source",
+    "score": 50.4,
+    "published_at": "2026-11-15T18:43:59.026196+00:00",
+    "sources": [
+     {
+      "name": "Hugging Face Trending",
+      "url": "https://huggingface.co/NousResearch/Arete-27B"
+     }
+    ],
+    "primary_url": "https://huggingface.co/NousResearch/Arete-27B"
+   },
+   {
+    "id": "7838c87736f9",
+    "title": "moonshotai/Kimi-K3.1-Pro",
+    "summary": "",
+    "category": "Open Source",
+    "score": 50.3,
+    "published_at": "2026-11-15T18:43:59.026196+00:00",
+    "sources": [
+     {
+      "name": "Hugging Face Trending",
+      "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro"
+     }
+    ],
+    "primary_url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro"
+   }
+  ],
+  "Research": [
+   {
+    "id": "35d11ebebf17",
+    "title": "2026 谷歌奖学金公布，清华、复旦等校校友入选",
+    "summary": "谷歌公布 2026 年度博士奖学金名单，今年共投入 1300 万美元，资助来自 38 个国家或地区的 148 位新晋博士研究者，其中华人学者近 40 人。该奖学金计划 2009 年设立，旨在支持计算机科学及相关领域的优秀研究生开展前沿研究，至今已在全球资助超 1100 名研究生，不少获奖者后续成长为学界、业界的核心技术领军者。本届入选的华人学者分布在机器学习与机器学习基础、机器感知、人机交互、理…",
+    "category": "Research",
+    "score": 57.2,
+    "published_at": "2026-11-15T17:28:41.761000+00:00",
+    "sources": [
+     {
+      "name": "Readhub",
+      "url": "https://readhub.cn/topic/8y4JYacpuSH"
+     }
+    ],
+    "primary_url": "https://readhub.cn/topic/8y4JYacpuSH"
+   },
+   {
+    "id": "0d8aced5bce9",
+    "title": "Nidus, which is developing AI-powered tech for manufacturing robots used by US defense industrial companies, raised $30M across a pre-seed and a seed (Alex Konrad/Upstarts Media)",
+    "summary": "Alex Konrad / Upstarts Media : Nidus, which is developing AI-powered tech for manufacturing robots used by US defense industrial companies, raised $30M across a pre-seed and a seed — The startup back…",
+    "category": "Research",
+    "score": 51.0,
+    "published_at": "2026-11-15T06:50:01+00:00",
+    "sources": [
+     {
+      "name": "Techmeme",
+      "url": "https://www.techmeme.com/261115/p5#a261115p5"
+     }
+    ],
+    "primary_url": "https://www.techmeme.com/261115/p5#a261115p5"
+   },
+   {
+    "id": "e6c323ceba46",
+    "title": "Spotted a very interesting detail about Intel's upcoming CPU platform (LGA 1954)",
+    "summary": "I was doing some research about the the platform for Intel's next generations of CPUs. If we look closely at the PCIe 5.0 configuration for Z990/W980, it specifies x16 (or x8/x8 ) x8 (or x4/x4) \"Stor…",
+    "category": "Research",
+    "score": 36.4,
+    "published_at": "2026-11-15T14:49:02+00:00",
+    "sources": [
+     {
+      "name": "r/LocalLLaMA",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwxbjk/spotted_a_very_interesting_detail_about_intels/"
+     }
+    ],
+    "primary_url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwxbjk/spotted_a_very_interesting_detail_about_intels/"
+   },
+   {
+    "id": "e99985acb7c9",
+    "title": "higurashi-ai/Haru-4B · Hugging Face",
+    "summary": "Haru-4B Code · Technical blog · Technical blog (Japanese) Haru-4B is a low-latency and multilingual full-duplex continuous spoken dialogue foundation model: it listens and speaks at the same time, th…",
+    "category": "Research",
+    "score": 36.0,
+    "published_at": "2026-11-15T13:58:52+00:00",
+    "sources": [
+     {
+      "name": "r/LocalLLaMA",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xww5o2/higurashiaiharu4b_hugging_face/"
+     }
+    ],
+    "primary_url": "https://www.reddit.com/r/LocalLLaMA/comments/1xww5o2/higurashiaiharu4b_hugging_face/"
+   },
+   {
+    "id": "e082643fcc69",
+    "title": "[Paper] No Second Run: Does RSI Stop at Frontier Pre-training? - 801-30B-A3B-Base Coming Soon",
+    "summary": "Pre-training is where every foundation model begins; bringing recursive self-improvement (RSI) there would let AI improve the process that creates AI. Yet public RSI work has so far targeted only pos…",
+    "category": "Research",
+    "score": 34.9,
+    "published_at": "2026-11-15T11:21:12+00:00",
+    "sources": [
+     {
+      "name": "r/LocalLLaMA",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwt3ri/paper_no_second_run_does_rsi_stop_at_frontier/"
+     }
+    ],
+    "primary_url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwt3ri/paper_no_second_run_does_rsi_stop_at_frontier/"
+   },
+   {
+    "id": "1d03195a18bf",
+    "title": "澳大利亚央行研究：AI 最先冲击年轻劳动者，尤其是软件、客服岗位",
+    "summary": "IT之家 11 月 15 日消息，据 THE DECODER 报道，目前，人工智能（AI）对澳大利亚整体就业市场的冲击仍然有限，但对于刚刚进入软件开发等受 AI 影响较大行业的年轻劳动者来说，就业形势已经开始变得严峻。 澳大利亚储备银行（RBA）的迈克 · 梅杰（Mike Major）开展了一项研究，并建立了一套就业市场监测系统，重点关注最有可能率先受到 AI 影响的群体，包括职场新人，以及编程…",
+    "category": "Research",
+    "score": 34.8,
+    "published_at": "2026-11-15T11:03:53+00:00",
+    "sources": [
+     {
+      "name": "IT之家",
+      "url": "https://www.ithome.com/1/027/432.htm"
+     }
+    ],
+    "primary_url": "https://www.ithome.com/1/027/432.htm"
+   },
+   {
+    "id": "5b698d58c4c2",
+    "title": "Gartner 预测：到 2030 年全球将因 AI 净增加约 170 万个工作岗位",
+    "summary": "IT之家 11 月 15 日消息，人工智能可能引发的就业危机，或许并不像人们想象的那样。 商业与科技研究机构 Gartner 预测，2025 年至 2030 年间，AI 将在全球创造 1060 万个新工作岗位，同时导致 890 万个岗位消失。两者相抵，到 2030 年前，全球就业市场预计将因 AI 净增加约 170 万个岗位。 Gartner 杰出副总裁分析师兼研究主管约翰 · 洛夫洛克（Joh…",
+    "category": "Research",
+    "score": 34.6,
+    "published_at": "2026-11-15T10:27:59+00:00",
+    "sources": [
+     {
+      "name": "IT之家",
+      "url": "https://www.ithome.com/1/027/427.htm"
+     }
+    ],
+    "primary_url": "https://www.ithome.com/1/027/427.htm"
+   },
+   {
+    "id": "06d6e35d515f",
+    "title": "前 OpenAI 研究员：当前活着的人最有可能死于 AI 失控",
+    "summary": "IT之家 11 月 15 日消息，人工智能失控导致人类灭绝，听起来或许像科幻电影中的情节，但前 OpenAI 研究员保罗 · 克里斯蒂亚诺（Paul Christiano）认为，这可能成为当今在世人群最有可能面临的死亡原因。 当地时间周一，克里斯蒂亚诺在希尔顿讲座（The Hinton Lectures）上表示：“我认为，在座的大多数人，最有可能的死亡原因将是一次 AI 意外事故。” 克里斯蒂亚…",
+    "category": "Research",
+    "score": 34.4,
+    "published_at": "2026-11-15T10:09:15+00:00",
+    "sources": [
+     {
+      "name": "IT之家",
+      "url": "https://www.ithome.com/1/027/419.htm"
+     }
+    ],
+    "primary_url": "https://www.ithome.com/1/027/419.htm"
+   },
+   {
+    "id": "b5d0c93a24c4",
+    "title": "首款获得 HSK 官方授权的中文学习机，荣耀中文学习机 HSK 专业版首秀",
+    "summary": "IT之家 11 月 15 日消息，荣耀智慧生活今日发文，在 2026 世界中文大会，荣耀中文学习机 HSK 专业版（HONOR Pad HSK Official Edition）全球首秀。 这款产品由荣耀与“爱中文”社区、九学王联合打造， 这也是首款获得 HSK 官方授权的中文学习机 。 据介绍，产品内置官方独家正版资源，全级别覆盖 HSK2.0&3.0 备考，搭载全新 AI 能力，支持屏上书写…",
+    "category": "Research",
+    "score": 34.0,
+    "published_at": "2026-11-15T09:02:44+00:00",
+    "sources": [
+     {
+      "name": "IT之家",
+      "url": "https://www.ithome.com/1/027/408.htm"
+     }
+    ],
+    "primary_url": "https://www.ithome.com/1/027/408.htm"
+   },
+   {
+    "id": "38679a653f0e",
+    "title": "快手公益启动“启智星计划”：利用 AI 创新教育、未来三年将覆盖 2000 所乡村学校",
+    "summary": "IT之家 11 月 15 日消息，快手公益宣布启动“启智星”AI 赋能教育共建计划，将在 10 个县域各建立由教育局、学校、基金会三方协作的共建单元，为 10 所案例校引入“一校一策”教学方法。 官方同步公布 30 个可复制、可迁移的人工智能应用案例，教师们使用 AI 进行双语教学、分层教学，打造科创体育融合、红色思政等场景。‏ 快手表示，未来三年，将为超过 2000 所乡村学校、3 万名教师引…",
+    "category": "Research",
+    "score": 33.8,
+    "published_at": "2026-11-15T08:39:40+00:00",
+    "sources": [
+     {
+      "name": "IT之家",
+      "url": "https://www.ithome.com/1/027/400.htm"
+     }
+    ],
+    "primary_url": "https://www.ithome.com/1/027/400.htm"
+   }
+  ],
+  "Policy & Safety": [
+   {
+    "id": "f7cfdfd7bcc3",
+    "title": "alibaba/open-code-review: Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+    "summary": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE…",
+    "category": "Policy & Safety",
+    "score": 52.8,
+    "published_at": "2026-11-15T18:43:59.026196+00:00",
+    "sources": [
+     {
+      "name": "GitHub Trending",
+      "url": "https://github.com/alibaba/open-code-review"
+     }
+    ],
+    "primary_url": "https://github.com/alibaba/open-code-review"
+   },
+   {
+    "id": "3e9aed84c994",
+    "title": "How Jensen Huang built a multibillion-dollar business to let Chinese companies access Nvidia AI chips in SE Asian data centers, exploiting a gap in US sanctions (Wall Street Journal)",
+    "summary": "Wall Street Journal : How Jensen Huang built a multibillion-dollar business to let Chinese companies access Nvidia AI chips in SE Asian data centers, exploiting a gap in US sanctions — Massive data c…",
+    "category": "Policy & Safety",
+    "score": 50.7,
+    "published_at": "2026-11-15T05:55:03+00:00",
+    "sources": [
+     {
+      "name": "Techmeme",
+      "url": "https://www.techmeme.com/261115/p1#a261115p1"
+     }
+    ],
+    "primary_url": "https://www.techmeme.com/261115/p1#a261115p1"
+   },
+   {
+    "id": "9d72f3c35aab",
+    "title": "The Nvidia scandal presents a political challenge for the White House by tying together data centers, China, and corruption, all key voter issues in midterms (Washington Post)",
+    "summary": "Washington Post : The Nvidia scandal presents a political challenge for the White House by tying together data centers, China, and corruption, all key voter issues in midterms — The scandal connects …",
+    "category": "Policy & Safety",
+    "score": 50.0,
+    "published_at": "2026-11-15T04:15:42+00:00",
+    "sources": [
+     {
+      "name": "Techmeme",
+      "url": "https://www.techmeme.com/261114/p23#a261114p23"
+     }
+    ],
+    "primary_url": "https://www.techmeme.com/261114/p23#a261114p23"
+   },
+   {
+    "id": "c6524b3bb676",
+    "title": "elementalsouls/Claude-BugHunter: A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+    "summary": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise ident…",
+    "category": "Policy & Safety",
+    "score": 49.5,
+    "published_at": "2026-11-15T18:43:59.026196+00:00",
+    "sources": [
+     {
+      "name": "GitHub Trending",
+      "url": "https://github.com/elementalsouls/Claude-BugHunter"
+     }
+    ],
+    "primary_url": "https://github.com/elementalsouls/Claude-BugHunter"
+   },
+   {
+    "id": "3781448153b0",
+    "title": "NVIDIA/SkillEvaluator: Multi-tier framework for evaluating AI agent skills with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.",
+    "summary": "Multi-tier framework for evaluating AI agent skills with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect …",
+    "category": "Policy & Safety",
+    "score": 49.3,
+    "published_at": "2026-11-15T18:43:59.026196+00:00",
+    "sources": [
+     {
+      "name": "GitHub Trending",
+      "url": "https://github.com/NVIDIA/SkillEvaluator"
+     }
+    ],
+    "primary_url": "https://github.com/NVIDIA/SkillEvaluator"
+   },
+   {
+    "id": "cdf34d438f12",
+    "title": "Where was Nvidia’s security team?",
+    "summary": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to Chi…",
+    "category": "Policy & Safety",
+    "score": 36.3,
+    "published_at": "2026-11-15T00:08:07+00:00",
+    "sources": [
+     {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/"
+     }
+    ],
+    "primary_url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/"
+   },
+   {
+    "id": "bf2147d5c9fd",
+    "title": "应对 AI 漏洞挖掘挑战：谷歌 Project Zero 计划将逐步缩短漏洞公开披露期限至 30 天",
+    "summary": "IT之家 11 月 15 日消息，自 2021 年以来，谷歌漏洞挖掘计划 Project Zero 一直奉行“90 + 30”漏洞披露政策，即允许厂商在最多 90 天内修复漏洞，并额外提供 30 天的“缓冲期”用于补丁推送。 当地时间 11 月 13 日，谷歌宣布，随着人工智能辅助漏洞挖掘与利用技术的兴起，当前形势已发生根本性变化，现有披露政策所设定的修复周期已难以适应需求。 IT之家获悉，为推…",
+    "category": "Policy & Safety",
+    "score": 34.4,
+    "published_at": "2026-11-15T10:12:07+00:00",
+    "sources": [
+     {
+      "name": "IT之家",
+      "url": "https://www.ithome.com/1/027/423.htm"
+     }
+    ],
+    "primary_url": "https://www.ithome.com/1/027/423.htm"
+   },
+   {
+    "id": "19d340976929",
+    "title": "The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs",
+    "summary": "Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part two of our series on AI in real life. Hel…",
+    "category": "Policy & Safety",
+    "score": 32.4,
+    "published_at": "2026-11-14T15:00:00+00:00",
+    "sources": [
+     {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview"
+     }
+    ],
+    "primary_url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview"
+   }
+  ],
+  "Business": [
+   {
+    "id": "48d7239a5b56",
+    "title": "世界首颗全集成一步求解矩阵方程国产模拟计算芯片问世",
+    "summary": "某公司自主研发出世界首颗全集成一步求解矩阵方程模拟计算芯片 AX100，于今年 10 月完成流片，实测单次矩阵方程求解时间小于 100 纳秒，单次计算功耗约 80 毫瓦，符合设计预期。该芯片依托此前将模拟计算精度大幅提升的实验室成果落地，无需迭代即可通过电路自平衡直接输出结果，延时和功耗远优于传统数字芯片。目前已在大模型训练、具身智能、无线通信三类场景完成测试，各项性能提升显著。该芯片采用成熟工…",
+    "category": "Business",
+    "score": 62.9,
+    "published_at": "2026-11-15T12:30:38.264000+00:00",
+    "sources": [
+     {
+      "name": "Readhub",
+      "url": "https://readhub.cn/topic/8y4ozqruerX"
+     }
+    ],
+    "primary_url": "https://readhub.cn/topic/8y4ozqruerX"
+   },
+   {
+    "id": "b26717d449a4",
+    "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+    "summary": "",
+    "category": "Business",
+    "score": 53.4,
+    "published_at": "2026-11-14T02:52:59+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50493251"
+     }
+    ],
+    "primary_url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus"
+   },
+   {
+    "id": "06142c6ca4f0",
+    "title": "Unlike other larger-than-life tech founders, Jensen Huang lacked super-voting shares in Nvidia, making it easier for him to lose control of the company (Forbes)",
+    "summary": "Forbes : Unlike other larger-than-life tech founders, Jensen Huang lacked super-voting shares in Nvidia, making it easier for him to lose control of the company — This voice experience is generated b…",
+    "category": "Business",
+    "score": 47.4,
+    "published_at": "2026-11-14T22:05:01+00:00",
+    "sources": [
+     {
+      "name": "Techmeme",
+      "url": "https://www.techmeme.com/261114/p20#a261114p20"
+     }
+    ],
+    "primary_url": "https://www.techmeme.com/261114/p20#a261114p20"
+   },
+   {
+    "id": "fa1b9f395520",
+    "title": "Firm linked to Jensen Huang's ex-lover reportedly brokered nearly $12 billion in Nvidia chip orders for China",
+    "summary": "Megaspeed, the firm owned by ousted Nvidia CEO Jensen Huang's former lover Alice Huang, arranged nearly $12 billion in Nvidia chip orders for Chinese companies between 2024 and 2025, according to the…",
+    "category": "Business",
+    "score": 42.3,
+    "published_at": "2026-11-15T14:45:12+00:00",
+    "sources": [
+     {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/firm-linked-to-jensen-huangs-ex-lover-reportedly-brokered-nearly-12-billion-in-nvidia-chip-orders-for-china/"
+     }
+    ],
+    "primary_url": "https://the-decoder.com/firm-linked-to-jensen-huangs-ex-lover-reportedly-brokered-nearly-12-billion-in-nvidia-chip-orders-for-china/"
+   },
+   {
+    "id": "6fdb9cf64c8f",
+    "title": "An overview of Jensen Huang’s messy days",
+    "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on Jensen Huang's resignation and the fallout from Nvidia's leadership crisis, follow Terrenc…",
+    "category": "Business",
+    "score": 41.6,
+    "published_at": "2026-11-15T13:00:00+00:00",
+    "sources": [
+     {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation"
+     }
+    ],
+    "primary_url": "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation"
+   },
+   {
+    "id": "0ce3617ab15a",
+    "title": "黄仁勋卸任后，英伟达新任 CEO 面临重建员工信任难题",
+    "summary": "IT之家 11 月 15 日消息，据 Business Insider 报道，去年在一场 NBA 科技峰会上，时任英伟达首席执行官黄仁勋曾谈到自己的管理风格，称公司内部一直坚持开放、透明的沟通方式。 “我所有的时间都花在保持透明上。”黄仁勋当时表示。长期以来，他因带领英伟达实现惊人增长而备受赞誉。 然而，如今有关黄仁勋婚外情的报道，却暴露出他所宣称的坦诚原则与其私下行为之间可能存在的巨大落差。据…",
+    "category": "Business",
+    "score": 34.9,
+    "published_at": "2026-11-15T11:19:40+00:00",
+    "sources": [
+     {
+      "name": "IT之家",
+      "url": "https://www.ithome.com/1/027/433.htm"
+     }
+    ],
+    "primary_url": "https://www.ithome.com/1/027/433.htm"
+   },
+   {
+    "id": "b1117c34d0ad",
+    "title": "世界首颗：单次矩阵方程求解时间小于 100 纳秒，国产新型模拟计算芯片问世",
+    "summary": "IT之家 11 月 15 日消息，据科技日报从模拟计算芯片公司安纳智芯了解到，该公司自主研发的 AX100 芯片已于 10 月完成流片，这是 世界首颗全集成一步求解矩阵方程模拟计算芯片 。 经测试， 该芯片单次矩阵方程求解时间小于 100 纳秒 ，单次计算功耗约为 80 毫瓦，完全符合理论仿真与设计预期。 据介绍，我们熟悉的 AI 大模型训练参数优化、机器人动作控制和空间规划、通信基站信号处理等…",
+    "category": "Business",
+    "score": 34.7,
+    "published_at": "2026-11-15T10:53:47+00:00",
+    "sources": [
+     {
+      "name": "IT之家",
+      "url": "https://www.ithome.com/1/027/430.htm"
+     }
+    ],
+    "primary_url": "https://www.ithome.com/1/027/430.htm"
+   },
+   {
+    "id": "3a53f4732b0a",
+    "title": "Anthropic CEO Amodei admits \"there's a huge uncertainty in what's going to happen next year\" days before a record IPO",
+    "summary": "Days before what could be the largest IPO in history, Anthropic CEO Dario Amodei called buying compute 'the deepest business dilemma' his company faces. Anthropic's commitments now total nearly $901 …",
+    "category": "Business",
+    "score": 34.1,
+    "published_at": "2026-11-14T19:05:17+00:00",
+    "sources": [
+     {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/anthropic-ceo-amodei-admits-theres-a-huge-uncertainty-in-whats-going-to-happen-next-year-days-before-a-record-ipo/"
+     }
+    ],
+    "primary_url": "https://the-decoder.com/anthropic-ceo-amodei-admits-theres-a-huge-uncertainty-in-whats-going-to-happen-next-year-days-before-a-record-ipo/"
+   },
+   {
+    "id": "07b73fe719a0",
+    "title": "消息称 SK 海力士加快设备投资进度，进一步扩大 HBM4 产能",
+    "summary": "IT之家 11 月 15 日消息，据韩媒 Etnews 今天报道，尽管英伟达 CEO 更替等因素加剧 AI 行业不确定性，但 SK 海力士仍认为 HBM（IT之家注：高带宽内存）需求强劲。该公司计划重点投资 HBM 封装和测试环节的设备， 并计划于明年上半年正式投入使用 。 据多位半导体设备行业人士透露，SK 海力士正与合作伙伴商讨采购 HBM4 生产设备。该公司主要与负责 HBM 键合、切割和…",
+    "category": "Business",
+    "score": 33.6,
+    "published_at": "2026-11-15T08:15:09+00:00",
+    "sources": [
+     {
+      "name": "IT之家",
+      "url": "https://www.ithome.com/1/027/392.htm"
+     }
+    ],
+    "primary_url": "https://www.ithome.com/1/027/392.htm"
+   },
+   {
+    "id": "2a2bfff1121f",
+    "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
+    "summary": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations.",
+    "category": "Business",
+    "score": 33.1,
+    "published_at": "2026-11-14T16:34:15+00:00",
+    "sources": [
+     {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/"
+     }
+    ],
+    "primary_url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/"
+   }
+  ],
+  "Other": [
+   {
+    "id": "ad8b3d5bdfd0",
+    "title": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
+    "summary": "",
+    "category": "Other",
+    "score": 54.4,
+    "published_at": "2026-11-14T15:04:15+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50497589"
+     }
+    ],
+    "primary_url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax"
+   },
+   {
+    "id": "2610d6e3132d",
+    "title": "Inside the first AI Music Awards in Los Angeles, featuring AI announcers, lip-syncing, and human stand-ins, as the ceremony was mired in technical issues (Corbin Bolies/Variety)",
+    "summary": "Corbin Bolies / Variety : Inside the first AI Music Awards in Los Angeles, featuring AI announcers, lip-syncing, and human stand-ins, as the ceremony was mired in technical issues — I knew things wer…",
+    "category": "Other",
+    "score": 53.2,
+    "published_at": "2026-11-15T12:02:16+00:00",
+    "sources": [
+     {
+      "name": "Techmeme",
+      "url": "https://www.techmeme.com/261115/p7#a261115p7"
+     }
+    ],
+    "primary_url": "https://www.techmeme.com/261115/p7#a261115p7"
+   },
+   {
+    "id": "1cd6c3ec19d7",
+    "title": "The Claude Delusion",
+    "summary": "",
+    "category": "Other",
+    "score": 52.2,
+    "published_at": "2026-11-14T13:36:17+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://www.netmeister.org/blog/claude-delusion.html"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50496921"
+     }
+    ],
+    "primary_url": "https://www.netmeister.org/blog/claude-delusion.html"
+   },
+   {
+    "id": "c2fdd60287b0",
+    "title": "Source: Applied Digital has asked tenants like Oracle and Meta for billions in guarantees since at least last year to secure power before finalizing leases (Bloomberg)",
+    "summary": "Bloomberg : Source: Applied Digital has asked tenants like Oracle and Meta for billions in guarantees since at least last year to secure power before finalizing leases — Tech giants chasing the infin…",
+    "category": "Other",
+    "score": 48.2,
+    "published_at": "2026-11-15T00:05:02+00:00",
+    "sources": [
+     {
+      "name": "Techmeme",
+      "url": "https://www.techmeme.com/261114/p21#a261114p21"
+     }
+    ],
+    "primary_url": "https://www.techmeme.com/261114/p21#a261114p21"
+   },
+   {
+    "id": "9f3952a424ef",
+    "title": "No AI Slop: A Manifesto",
+    "summary": "",
+    "category": "Other",
+    "score": 45.9,
+    "published_at": "2026-11-13T19:51:56+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://www.slopmanifesto.com/"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50488769"
+     }
+    ],
+    "primary_url": "https://www.slopmanifesto.com/"
+   },
+   {
+    "id": "21ab7432dba4",
+    "title": "Claude Meetings",
+    "summary": "",
+    "category": "Other",
+    "score": 45.1,
+    "published_at": "2026-11-13T22:39:15+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://claude.com/resources/articles/claude-meetings"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50491097"
+     }
+    ],
+    "primary_url": "https://claude.com/resources/articles/claude-meetings"
+   },
+   {
+    "id": "1278034560fb",
+    "title": "Villanova2 - a VillanovaAI Collection",
+    "summary": "Villanova2 family , for English, Italian, German, Spanish and French. Built in EU, for EU. The family Villanova2-15B-A3B-Base · sparse mixture of experts, 15.5B total / 3.9B active Villanova2-15B-A3B…",
+    "category": "Other",
+    "score": 37.6,
+    "published_at": "2026-11-15T17:46:04+00:00",
+    "sources": [
+     {
+      "name": "r/LocalLLaMA",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xx1rbk/villanova2_a_villanovaai_collection/"
+     }
+    ],
+    "primary_url": "https://www.reddit.com/r/LocalLLaMA/comments/1xx1rbk/villanova2_a_villanovaai_collection/"
+   },
+   {
+    "id": "76ba7c25ffe3",
+    "title": "CPU-only boost for Q2_0 on AVX-VNNI · Pull Request #26348 · ggml-org/llama.cpp",
+    "summary": "Measurements: mean ± sample standard deviation in tok/s, 3 runs after normal warmup (16GB of RAM on the AMD EPYC 9645 using eight CPU cores) Model Test Upstream master VNNI + VBMI Speedup Bonsai 1.7B…",
+    "category": "Other",
+    "score": 37.2,
+    "published_at": "2026-11-15T16:55:21+00:00",
+    "sources": [
+     {
+      "name": "r/LocalLLaMA",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xx0fqn/cpuonly_boost_for_q2_0_on_avxvnni_pull_request/"
+     }
+    ],
+    "primary_url": "https://www.reddit.com/r/LocalLLaMA/comments/1xx0fqn/cpuonly_boost_for_q2_0_on_avxvnni_pull_request/"
+   },
+   {
+    "id": "9bffc2ea3711",
+    "title": "X3Guard: A 150M parameter prompt guard",
+    "summary": "At Axiomic Labs we have just released X3Guard-150M, a prompt guard model trained on our high-performing base model, GPT-X3. For any given prompt, X3Guard flags whether it is Harmful, and whether it i…",
+    "category": "Other",
+    "score": 36.8,
+    "published_at": "2026-11-15T15:46:17+00:00",
+    "sources": [
+     {
+      "name": "r/LocalLLaMA",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwyp7w/x3guard_a_150m_parameter_prompt_guard/"
+     }
+    ],
+    "primary_url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwyp7w/x3guard_a_150m_parameter_prompt_guard/"
+   },
+   {
+    "id": "81d388bb70bd",
+    "title": "Is there a community about finetuning and training models?",
+    "summary": "There seems to be a lot of discussion here about inference and using the models, but is there anywhere where discussion about making them is more common? submitted by /u/banana_slurp_jug [link] [comm…",
+    "category": "Other",
+    "score": 36.7,
+    "published_at": "2026-11-15T15:35:22+00:00",
+    "sources": [
+     {
+      "name": "r/LocalLLaMA",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwyfr8/is_there_a_community_about_finetuning_and/"
+     }
+    ],
+    "primary_url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwyfr8/is_there_a_community_about_finetuning_and/"
+   }
+  ]
+ },
+ "source_list": [
+  {
+   "name": "Techmeme",
+   "url": "https://www.techmeme.com/feed.xml"
+  },
+  {
+   "name": "Hacker News",
+   "url": "https://hn.algolia.com/api/v1/search_by_date"
+  },
+  {
+   "name": "Readhub",
+   "url": "https://api.readhub.cn/topic/list"
+  },
+  {
+   "name": "r/MachineLearning",
+   "url": "https://www.reddit.com/r/MachineLearning/top/.rss?t=day"
+  },
+  {
+   "name": "r/LocalLLaMA",
+   "url": "https://www.reddit.com/r/LocalLLaMA/top/.rss?t=day"
+  },
+  {
+   "name": "OpenAI",
+   "url": "https://openai.com/news/rss.xml"
+  },
+  {
+   "name": "Google DeepMind",
+   "url": "https://deepmind.google/blog/rss.xml"
+  },
+  {
+   "name": "Hugging Face Blog",
+   "url": "https://huggingface.co/blog/feed.xml"
+  },
+  {
+   "name": "Mistral AI",
+   "url": "https://mistral.ai/rss.xml"
+  },
+  {
+   "name": "NVIDIA Blog",
+   "url": "https://blogs.nvidia.com/feed/"
+  },
+  {
+   "name": "TechCrunch",
+   "url": "https://techcrunch.com/category/artificial-intelligence/feed/"
+  },
+  {
+   "name": "The Verge",
+   "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml"
+  },
+  {
+   "name": "MIT Technology Review",
+   "url": "https://www.technologyreview.com/topic/artificial-intelligence/feed"
+  },
+  {
+   "name": "Ars Technica",
+   "url": "https://arstechnica.com/ai/feed/"
+  },
+  {
+   "name": "The Decoder",
+   "url": "https://the-decoder.com/feed/"
+  },
+  {
+   "name": "Hugging Face Papers",
+   "url": "https://huggingface.co/api/daily_papers"
+  },
+  {
+   "name": "GitHub Trending",
+   "url": "https://github.com/trending?since=daily"
+  },
+  {
+   "name": "Hugging Face Trending",
+   "url": "https://huggingface.co/api/models?sort=trendingScore&limit=20"
+  },
+  {
+   "name": "量子位",
+   "url": "https://www.qbitai.com/feed"
+  },
+  {
+   "name": "IT之家",
+   "url": "https://www.ithome.com/rss/"
+  },
+  {
+   "name": "iThome",
+   "url": "https://www.ithome.com.tw/rss.xml"
+  },
+  {
+   "name": "INSIDE",
+   "url": "https://www.inside.com.tw/feed/rss"
+  }
+ ],
+ "stats": {
+  "fetched": 117,
+  "after_dedup": 117,
+  "sources_ok": 21,
+  "sources_failed": 1,
+  "failed_sources": {
+   "r/MachineLearning": "HTTPError: 429 Client Error: Too Many Requests for url: https://www.reddit.com/r/MachineLearning/top/.rss?t=day"
+  },
+  "duration_s": 2.2
+ }
+}

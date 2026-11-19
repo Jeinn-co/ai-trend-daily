@@ -1,0 +1,3591 @@
+{
+ "updated_at": "2026-11-19T07:03:45+00:00",
+ "top10": [
+  {
+   "id": "6e90be171f77",
+   "title": "吉林：到 2030 年新一代智能终端、智能体等应用普及率超 90%",
+   "summary": "吉林省人民政府办公厅印发《吉林省「人工智能 + 」发展「十五五」规划》，提出到 2030 年，「人工智能＋」全面深化拓展，新一代智能终端、智能体等应用普及率超 90%，人工智能在产业升级、消费提质、民生保障、公共治理、科技创新中的作用将得到充分显现，涌现一批新设施、新技术、新产业、新业态、新岗位，形成人机协同、跨界融合、共创分享的智能经济和智能社会新形态。",
+   "category": "Agents & Dev Tools",
+   "score": 69.7,
+   "published_at": "2026-11-19T06:15:12.197000+00:00",
+   "sources": [
+    {
+     "name": "Readhub",
+     "url": "https://readhub.cn/topic/8yBB6WLl6cc"
+    }
+   ],
+   "primary_url": "https://readhub.cn/topic/8yBB6WLl6cc"
+  },
+  {
+   "id": "b2c084a41275",
+   "title": "Gemini 4 Neon",
+   "summary": "",
+   "category": "Models",
+   "score": 64.3,
+   "published_at": "2026-11-18T21:34:07+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50552424"
+    }
+   ],
+   "primary_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/"
+  },
+  {
+   "id": "a7198dcd1e8e",
+   "title": "欧盟委员会遭网络攻击，情况已持续超过 10 天",
+   "summary": "欧盟委员会遭遇网络攻击，部分员工无法录入薪资信息，系统中断已持续超 10 天。欧盟机构网络安全应急响应机构发现黑客使用了公开可用的 ARTEX 工具，该工具可利用人工智能技术识别 IT 系统漏洞。欧盟委员会认为已遏制大部分攻击，但具体损害程度仍不清楚，目前部分系统可能正在恢复运行，相关调查仍在继续。此前作为预防措施被暂时停用的部分应用程序，目前大部分已恢复访问。",
+   "category": "Policy & Safety",
+   "score": 64.2,
+   "published_at": "2026-11-19T07:01:42.246000+00:00",
+   "sources": [
+    {
+     "name": "Readhub",
+     "url": "https://readhub.cn/topic/8yBBotOuBUO"
+    }
+   ],
+   "primary_url": "https://readhub.cn/topic/8yBBotOuBUO"
+  },
+  {
+   "id": "c18d4b4bd51d",
+   "title": "2027 款极氪 7X 将于 11 月 27 日广州车展上市 预售 22.98 万起",
+   "summary": "极氪宣布 2027 款极氪 7X 将于 11 月 27 日在 2026 广州国际汽车展览会 D 区 20.2 号馆正式上市，该车此前已于 11 月 5 日开启预售，预售价 22.98 万元起。新车定位全球家庭豪华 SUV，共推出三款车型，围绕安全、舒适、三电、智能座舱等完成七大升级，全系升级 900V 相关系统，新增 85kWh 神盾金砖电池版本。不同配置版本对应不同续航表现，各电池版本均支持高…",
+   "category": "Business",
+   "score": 63.9,
+   "published_at": "2026-11-19T06:10:18.644000+00:00",
+   "sources": [
+    {
+     "name": "Readhub",
+     "url": "https://readhub.cn/topic/8yAzKdRilDH"
+    }
+   ],
+   "primary_url": "https://readhub.cn/topic/8yAzKdRilDH"
+  },
+  {
+   "id": "9491587c1875",
+   "title": "Gemini 4 Neon looks like an Opus 5.5 competitor",
+   "summary": "",
+   "category": "Models",
+   "score": 62.1,
+   "published_at": "2026-11-19T00:29:45+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50554374"
+    }
+   ],
+   "primary_url": "https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/"
+  },
+  {
+   "id": "e16bdd1bf5f7",
+   "title": "亚马逊 CEO：AI 算力预订排至 2029 年 明年资本开支显著增加",
+   "summary": "亚马逊行政总裁 Andy Jassy 表示，当前 AI 算力需求极为强劲，除保留部分按需调配容量外，2027 年大额算力已大部分获客户预订，2028 年算力也有相当比例被锁定，2029 年已录得不少预订需求。他重申亚马逊预计今年资本开支约 2200 亿美元，明年投入将显著增加。旗下云端服务 AWS 在生成式 AI 浪潮首三年的 AI 收入已突破 250 亿美元，增速较 AWS 创立初期快 440…",
+   "category": "Business",
+   "score": 61.0,
+   "published_at": "2026-11-19T06:20:14.741000+00:00",
+   "sources": [
+    {
+     "name": "Readhub",
+     "url": "https://readhub.cn/topic/8yBAOMn7u4y"
+    }
+   ],
+   "primary_url": "https://readhub.cn/topic/8yBAOMn7u4y"
+  },
+  {
+   "id": "6e8257159d2b",
+   "title": "小摩：英伟达季绩反映 AI 需求仍强 供应链未见广泛订单削减",
+   "summary": "摩根大通研报指出，此前市场因对 AI 基建周期看法悲观，普遍预期未来三个月科技供应链将大幅下调每股盈利，英伟达 2027 财年第三季业绩公布前，投资者对科技板块的情绪处于过去四年最低谷，多数人认为受出口限制、需求不确定及 2028 年数据中心可用性等因素影响，供应链盈利预测会下调。当前强劲需求得到保障、2028 财年指引上调，叠加持续的供应链承诺，短期可安抚市场。目前未出现广泛订单削减，客户在运…",
+   "category": "Business",
+   "score": 60.9,
+   "published_at": "2026-11-19T06:00:32.003000+00:00",
+   "sources": [
+    {
+     "name": "Readhub",
+     "url": "https://readhub.cn/topic/8yB1otDh7mE"
+    }
+   ],
+   "primary_url": "https://readhub.cn/topic/8yB1otDh7mE"
+  },
+  {
+   "id": "25c96fa5a216",
+   "title": "Anthropic prices initial public offering",
+   "summary": "",
+   "category": "Business",
+   "score": 60.7,
+   "published_at": "2026-11-18T23:30:09+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50553843"
+    }
+   ],
+   "primary_url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering"
+  },
+  {
+   "id": "dbf723300382",
+   "title": "AI agents ask better questions than KPMG accountants in audit trial",
+   "summary": "",
+   "category": "Agents & Dev Tools",
+   "score": 60.6,
+   "published_at": "2026-11-18T15:49:34+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50547777"
+    }
+   ],
+   "primary_url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/"
+  },
+  {
+   "id": "ba05f6db61a4",
+   "title": "LLM assisted reverse engineering",
+   "summary": "",
+   "category": "Models",
+   "score": 60.5,
+   "published_at": "2026-11-18T22:29:13+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50553225"
+    }
+   ],
+   "primary_url": "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering"
+  }
+ ],
+ "all": [
+  {
+   "id": "6e90be171f77",
+   "title": "吉林：到 2030 年新一代智能终端、智能体等应用普及率超 90%",
+   "summary": "吉林省人民政府办公厅印发《吉林省「人工智能 + 」发展「十五五」规划》，提出到 2030 年，「人工智能＋」全面深化拓展，新一代智能终端、智能体等应用普及率超 90%，人工智能在产业升级、消费提质、民生保障、公共治理、科技创新中的作用将得到充分显现，涌现一批新设施、新技术、新产业、新业态、新岗位，形成人机协同、跨界融合、共创分享的智能经济和智能社会新形态。",
+   "category": "Agents & Dev Tools",
+   "score": 69.7,
+   "published_at": "2026-11-19T06:15:12.197000+00:00",
+   "sources": [
+    {
+     "name": "Readhub",
+     "url": "https://readhub.cn/topic/8yBB6WLl6cc"
+    }
+   ],
+   "primary_url": "https://readhub.cn/topic/8yBB6WLl6cc"
+  },
+  {
+   "id": "b2c084a41275",
+   "title": "Gemini 4 Neon",
+   "summary": "",
+   "category": "Models",
+   "score": 64.3,
+   "published_at": "2026-11-18T21:34:07+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50552424"
+    }
+   ],
+   "primary_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/"
+  },
+  {
+   "id": "a7198dcd1e8e",
+   "title": "欧盟委员会遭网络攻击，情况已持续超过 10 天",
+   "summary": "欧盟委员会遭遇网络攻击，部分员工无法录入薪资信息，系统中断已持续超 10 天。欧盟机构网络安全应急响应机构发现黑客使用了公开可用的 ARTEX 工具，该工具可利用人工智能技术识别 IT 系统漏洞。欧盟委员会认为已遏制大部分攻击，但具体损害程度仍不清楚，目前部分系统可能正在恢复运行，相关调查仍在继续。此前作为预防措施被暂时停用的部分应用程序，目前大部分已恢复访问。",
+   "category": "Policy & Safety",
+   "score": 64.2,
+   "published_at": "2026-11-19T07:01:42.246000+00:00",
+   "sources": [
+    {
+     "name": "Readhub",
+     "url": "https://readhub.cn/topic/8yBBotOuBUO"
+    }
+   ],
+   "primary_url": "https://readhub.cn/topic/8yBBotOuBUO"
+  },
+  {
+   "id": "c18d4b4bd51d",
+   "title": "2027 款极氪 7X 将于 11 月 27 日广州车展上市 预售 22.98 万起",
+   "summary": "极氪宣布 2027 款极氪 7X 将于 11 月 27 日在 2026 广州国际汽车展览会 D 区 20.2 号馆正式上市，该车此前已于 11 月 5 日开启预售，预售价 22.98 万元起。新车定位全球家庭豪华 SUV，共推出三款车型，围绕安全、舒适、三电、智能座舱等完成七大升级，全系升级 900V 相关系统，新增 85kWh 神盾金砖电池版本。不同配置版本对应不同续航表现，各电池版本均支持高…",
+   "category": "Business",
+   "score": 63.9,
+   "published_at": "2026-11-19T06:10:18.644000+00:00",
+   "sources": [
+    {
+     "name": "Readhub",
+     "url": "https://readhub.cn/topic/8yAzKdRilDH"
+    }
+   ],
+   "primary_url": "https://readhub.cn/topic/8yAzKdRilDH"
+  },
+  {
+   "id": "9491587c1875",
+   "title": "Gemini 4 Neon looks like an Opus 5.5 competitor",
+   "summary": "",
+   "category": "Models",
+   "score": 62.1,
+   "published_at": "2026-11-19T00:29:45+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50554374"
+    }
+   ],
+   "primary_url": "https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/"
+  },
+  {
+   "id": "e16bdd1bf5f7",
+   "title": "亚马逊 CEO：AI 算力预订排至 2029 年 明年资本开支显著增加",
+   "summary": "亚马逊行政总裁 Andy Jassy 表示，当前 AI 算力需求极为强劲，除保留部分按需调配容量外，2027 年大额算力已大部分获客户预订，2028 年算力也有相当比例被锁定，2029 年已录得不少预订需求。他重申亚马逊预计今年资本开支约 2200 亿美元，明年投入将显著增加。旗下云端服务 AWS 在生成式 AI 浪潮首三年的 AI 收入已突破 250 亿美元，增速较 AWS 创立初期快 440…",
+   "category": "Business",
+   "score": 61.0,
+   "published_at": "2026-11-19T06:20:14.741000+00:00",
+   "sources": [
+    {
+     "name": "Readhub",
+     "url": "https://readhub.cn/topic/8yBAOMn7u4y"
+    }
+   ],
+   "primary_url": "https://readhub.cn/topic/8yBAOMn7u4y"
+  },
+  {
+   "id": "6e8257159d2b",
+   "title": "小摩：英伟达季绩反映 AI 需求仍强 供应链未见广泛订单削减",
+   "summary": "摩根大通研报指出，此前市场因对 AI 基建周期看法悲观，普遍预期未来三个月科技供应链将大幅下调每股盈利，英伟达 2027 财年第三季业绩公布前，投资者对科技板块的情绪处于过去四年最低谷，多数人认为受出口限制、需求不确定及 2028 年数据中心可用性等因素影响，供应链盈利预测会下调。当前强劲需求得到保障、2028 财年指引上调，叠加持续的供应链承诺，短期可安抚市场。目前未出现广泛订单削减，客户在运…",
+   "category": "Business",
+   "score": 60.9,
+   "published_at": "2026-11-19T06:00:32.003000+00:00",
+   "sources": [
+    {
+     "name": "Readhub",
+     "url": "https://readhub.cn/topic/8yB1otDh7mE"
+    }
+   ],
+   "primary_url": "https://readhub.cn/topic/8yB1otDh7mE"
+  },
+  {
+   "id": "25c96fa5a216",
+   "title": "Anthropic prices initial public offering",
+   "summary": "",
+   "category": "Business",
+   "score": 60.7,
+   "published_at": "2026-11-18T23:30:09+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50553843"
+    }
+   ],
+   "primary_url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering"
+  },
+  {
+   "id": "dbf723300382",
+   "title": "AI agents ask better questions than KPMG accountants in audit trial",
+   "summary": "",
+   "category": "Agents & Dev Tools",
+   "score": 60.6,
+   "published_at": "2026-11-18T15:49:34+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50547777"
+    }
+   ],
+   "primary_url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/"
+  },
+  {
+   "id": "ba05f6db61a4",
+   "title": "LLM assisted reverse engineering",
+   "summary": "",
+   "category": "Models",
+   "score": 60.5,
+   "published_at": "2026-11-18T22:29:13+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50553225"
+    }
+   ],
+   "primary_url": "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering"
+  },
+  {
+   "id": "549a77347d5e",
+   "title": "Introducing GPT-6.2 Astra and Sol",
+   "summary": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
+   "category": "Models",
+   "score": 60.5,
+   "published_at": "2026-11-17T17:45:00+00:00",
+   "sources": [
+    {
+     "name": "OpenAI",
+     "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50535230"
+    }
+   ],
+   "primary_url": "https://openai.com/index/introducing-gpt-6-2-astra-sol"
+  },
+  {
+   "id": "f1feb2e4bb48",
+   "title": "AI is killing All About Berlin",
+   "summary": "",
+   "category": "Other",
+   "score": 58.4,
+   "published_at": "2026-11-18T06:47:26+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://nicolasbouliane.com/blog/death-by-ai"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50542705"
+    }
+   ],
+   "primary_url": "https://nicolasbouliane.com/blog/death-by-ai"
+  },
+  {
+   "id": "c7d3ecb00643",
+   "title": "Advancing chip design with OpenAI models",
+   "summary": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.",
+   "category": "Business",
+   "score": 57.7,
+   "published_at": "2026-11-18T00:00:00+00:00",
+   "sources": [
+    {
+     "name": "OpenAI",
+     "url": "https://openai.com/index/advancing-chip-design-with-our-models"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50549493"
+    }
+   ],
+   "primary_url": "https://openai.com/index/advancing-chip-design-with-our-models"
+  },
+  {
+   "id": "0bd7a28301d2",
+   "title": "\"Anthropic Is Not a Safe AI Company\" – Coalition Challenges Anthropic Safety",
+   "summary": "",
+   "category": "Policy & Safety",
+   "score": 57.6,
+   "published_at": "2026-11-18T16:41:22+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://www.businesswire.com/news/home/20261118974464/en/Anthropic-is-Not-a-Safe-AI-Company---Broad-Coalition-of-Scientists-Legal-Scholars-and-Tech-Leaders-Challenge-Anthropics-Safety-Branding-Ahead-of-IPO"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50548485"
+    }
+   ],
+   "primary_url": "https://www.businesswire.com/news/home/20261118974464/en/Anthropic-is-Not-a-Safe-AI-Company---Broad-Coalition-of-Scientists-Legal-Scholars-and-Tech-Leaders-Challenge-Anthropics-Safety-Branding-Ahead-of-IPO"
+  },
+  {
+   "id": "23a6e8d38fa0",
+   "title": "Energy-Based Reasoners: 385x more efficient inference",
+   "summary": "",
+   "category": "Other",
+   "score": 56.9,
+   "published_at": "2026-11-18T09:29:32+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://energy-based-reasoners.github.io/"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50543989"
+    }
+   ],
+   "primary_url": "https://energy-based-reasoners.github.io/"
+  },
+  {
+   "id": "fbe096045978",
+   "title": "A US congressional commission report says China's PLA is seeking advanced Nvidia chips for AI-enabled weapons, as domestic chips continue to lag US rivals (Jaspreet Singh/Reuters)",
+   "summary": "Jaspreet Singh / Reuters : A US congressional commission report says China's PLA is seeking advanced Nvidia chips for AI-enabled weapons, as domestic chips continue to lag US rivals — China's militar…",
+   "category": "Policy & Safety",
+   "score": 55.5,
+   "published_at": "2026-11-19T05:55:31+00:00",
+   "sources": [
+    {
+     "name": "Techmeme",
+     "url": "https://www.techmeme.com/261119/p2#a261119p2"
+    }
+   ],
+   "primary_url": "https://www.techmeme.com/261119/p2#a261119p2"
+  },
+  {
+   "id": "9de2002c6357",
+   "title": "Sources: technical staff at several Chinese humanoid robot makers have been denied US visas ahead of CES, hampering their efforts to showcase their hardware (Nikkei Asia)",
+   "summary": "Nikkei Asia : Sources: technical staff at several Chinese humanoid robot makers have been denied US visas ahead of CES, hampering their efforts to showcase their hardware — HONG KONG — Researchers an…",
+   "category": "Research",
+   "score": 55.5,
+   "published_at": "2026-11-19T05:50:02+00:00",
+   "sources": [
+    {
+     "name": "Techmeme",
+     "url": "https://www.techmeme.com/261119/p1#a261119p1"
+    }
+   ],
+   "primary_url": "https://www.techmeme.com/261119/p1#a261119p1"
+  },
+  {
+   "id": "695d1f9a1cf6",
+   "title": "Google's AI answers reducing search traffic by 40%",
+   "summary": "",
+   "category": "Other",
+   "score": 55.4,
+   "published_at": "2026-11-18T00:17:58+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://revscope.co/blog/search-seo-geo-2026/"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50540178"
+    }
+   ],
+   "primary_url": "https://revscope.co/blog/search-seo-geo-2026/"
+  },
+  {
+   "id": "0b998456a3ae",
+   "title": "Beijing-based MegaRobo, which uses robotics and AI to automate lab work for biotech research, raised ~$200M; it became a unicorn after raising $300M in 2022 (Bloomberg)",
+   "summary": "Bloomberg : Beijing-based MegaRobo, which uses robotics and AI to automate lab work for biotech research, raised ~$200M; it became a unicorn after raising $300M in 2022 — Chinese biotech upstart Mega…",
+   "category": "Research",
+   "score": 55.0,
+   "published_at": "2026-11-19T04:45:01+00:00",
+   "sources": [
+    {
+     "name": "Techmeme",
+     "url": "https://www.techmeme.com/261118/p63#a261118p63"
+    }
+   ],
+   "primary_url": "https://www.techmeme.com/261118/p63#a261118p63"
+  },
+  {
+   "id": "ccd20cda6867",
+   "title": "Arizona's AG opens a criminal investigation into OpenAI and other AI companies relating to the \"apparent infiltration of banks by rogue AI agents\" (David Thomas/Reuters)",
+   "summary": "David Thomas / Reuters : Arizona's AG opens a criminal investigation into OpenAI and other AI companies relating to the “apparent infiltration of banks by rogue AI agents” — The state of Arizona has …",
+   "category": "Agents & Dev Tools",
+   "score": 54.9,
+   "published_at": "2026-11-19T04:20:01+00:00",
+   "sources": [
+    {
+     "name": "Techmeme",
+     "url": "https://www.techmeme.com/261118/p61#a261118p61"
+    }
+   ],
+   "primary_url": "https://www.techmeme.com/261118/p61#a261118p61"
+  },
+  {
+   "id": "dd0ead71d47c",
+   "title": "Artificial Analysis: Gemini 4 Neon trails only Claude Fable 5.2 and GPT-6.2 Astra on the Intelligence Index and rivals Opus 5.5 on coding at a much lower cost (Artificial Analysis)",
+   "summary": "Artificial Analysis : Artificial Analysis: Gemini 4 Neon trails only Claude Fable 5.2 and GPT-6.2 Astra on the Intelligence Index and rivals Opus 5.5 on coding at a much lower cost — Google continues…",
+   "category": "Models",
+   "score": 54.6,
+   "published_at": "2026-11-19T03:35:01+00:00",
+   "sources": [
+    {
+     "name": "Techmeme",
+     "url": "https://www.techmeme.com/261118/p58#a261118p58"
+    }
+   ],
+   "primary_url": "https://www.techmeme.com/261118/p58#a261118p58"
+  },
+  {
+   "id": "a7274720f199",
+   "title": "How Alibaba uses regional companies like Megaspeed to access Nvidia chips via offshore data centers and potentially aid a Chinese military-linked AI lab (New York Times)",
+   "summary": "New York Times : How Alibaba uses regional companies like Megaspeed to access Nvidia chips via offshore data centers and potentially aid a Chinese military-linked AI lab — Alibaba, the Chinese intern…",
+   "category": "Business",
+   "score": 54.4,
+   "published_at": "2026-11-19T03:15:02+00:00",
+   "sources": [
+    {
+     "name": "Techmeme",
+     "url": "https://www.techmeme.com/261118/p57#a261118p57"
+    }
+   ],
+   "primary_url": "https://www.techmeme.com/261118/p57#a261118p57"
+  },
+  {
+   "id": "3ede266c56e2",
+   "title": "Why is Gemini 4 Carbon taking so long?",
+   "summary": "",
+   "category": "Models",
+   "score": 54.4,
+   "published_at": "2026-11-18T04:14:04+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50541790"
+    }
+   ],
+   "primary_url": "https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/"
+  },
+  {
+   "id": "14832d8209b1",
+   "title": "google-research/paper-orchestra: PaperOrchestra is a multi-agent framework for automated AI research paper writing.",
+   "summary": "PaperOrchestra is a multi-agent framework for automated AI research paper writing.",
+   "category": "Agents & Dev Tools",
+   "score": 54.0,
+   "published_at": "2026-11-19T07:03:45.262327+00:00",
+   "sources": [
+    {
+     "name": "GitHub Trending",
+     "url": "https://github.com/google-research/paper-orchestra"
+    }
+   ],
+   "primary_url": "https://github.com/google-research/paper-orchestra"
+  },
+  {
+   "id": "6518fbd35a14",
+   "title": "higurashi-ai/Haru-4B",
+   "summary": "",
+   "category": "Open Source",
+   "score": 54.0,
+   "published_at": "2026-11-19T07:03:45.262327+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face Trending",
+     "url": "https://huggingface.co/higurashi-ai/Haru-4B"
+    }
+   ],
+   "primary_url": "https://huggingface.co/higurashi-ai/Haru-4B"
+  },
+  {
+   "id": "ee66fe18136b",
+   "title": "OpenAI says agents now complete 46% of its researchers' 2-to-4-hour tasks on their own, vs. 23% in March, median researcher's agent use hit $2,400/day, and more (OpenAI)",
+   "summary": "OpenAI : OpenAI says agents now complete 46% of its researchers' 2-to-4-hour tasks on their own, vs. 23% in March, median researcher's agent use hit $2,400/day, and more — Over the course of this yea…",
+   "category": "Agents & Dev Tools",
+   "score": 53.9,
+   "published_at": "2026-11-19T01:55:04+00:00",
+   "sources": [
+    {
+     "name": "Techmeme",
+     "url": "https://www.techmeme.com/261118/p54#a261118p54"
+    }
+   ],
+   "primary_url": "https://www.techmeme.com/261118/p54#a261118p54"
+  },
+  {
+   "id": "1f1dbabb56c4",
+   "title": "MiniMaxAI/MiniMax-H3-Image",
+   "summary": "",
+   "category": "Open Source",
+   "score": 53.5,
+   "published_at": "2026-11-19T07:03:45.262327+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face Trending",
+     "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image"
+    }
+   ],
+   "primary_url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image"
+  },
+  {
+   "id": "6c64301c09e0",
+   "title": "Qwen/Qwen3.8-27B",
+   "summary": "",
+   "category": "Models",
+   "score": 53.5,
+   "published_at": "2026-11-19T07:03:45.262327+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face Trending",
+     "url": "https://huggingface.co/Qwen/Qwen3.8-27B"
+    }
+   ],
+   "primary_url": "https://huggingface.co/Qwen/Qwen3.8-27B"
+  },
+  {
+   "id": "b4f1a99333cf",
+   "title": "tencent/Hy4-flash",
+   "summary": "",
+   "category": "Open Source",
+   "score": 53.3,
+   "published_at": "2026-11-19T07:03:45.262327+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face Trending",
+     "url": "https://huggingface.co/tencent/Hy4-flash"
+    }
+   ],
+   "primary_url": "https://huggingface.co/tencent/Hy4-flash"
+  },
+  {
+   "id": "3429c7218e4f",
+   "title": "affaan-m/ECC: The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+   "summary": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+   "category": "Agents & Dev Tools",
+   "score": 53.1,
+   "published_at": "2026-11-19T07:03:45.262327+00:00",
+   "sources": [
+    {
+     "name": "GitHub Trending",
+     "url": "https://github.com/affaan-m/ECC"
+    }
+   ],
+   "primary_url": "https://github.com/affaan-m/ECC"
+  },
+  {
+   "id": "dc79824f7494",
+   "title": "harness-hub/Qwen3.8-27B-pi-adapted",
+   "summary": "",
+   "category": "Models",
+   "score": 53.1,
+   "published_at": "2026-11-19T07:03:45.262327+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face Trending",
+     "url": "https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted"
+    }
+   ],
+   "primary_url": "https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted"
+  },
+  {
+   "id": "7064e35195fc",
+   "title": "n4ze3m/tiny-voca",
+   "summary": "",
+   "category": "Open Source",
+   "score": 53.1,
+   "published_at": "2026-11-19T07:03:45.262327+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face Trending",
+     "url": "https://huggingface.co/n4ze3m/tiny-voca"
+    }
+   ],
+   "primary_url": "https://huggingface.co/n4ze3m/tiny-voca"
+  },
+  {
+   "id": "d021019fd830",
+   "title": "Claude was trained on protein sequences at scale",
+   "summary": "",
+   "category": "Other",
+   "score": 53.0,
+   "published_at": "2026-11-18T03:47:43+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "http://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50541619"
+    }
+   ],
+   "primary_url": "http://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/"
+  },
+  {
+   "id": "01e478ba125a",
+   "title": "mvanhorn/last30days-skill: AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+   "summary": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+   "category": "Agents & Dev Tools",
+   "score": 53.0,
+   "published_at": "2026-11-19T07:03:45.262327+00:00",
+   "sources": [
+    {
+     "name": "GitHub Trending",
+     "url": "https://github.com/mvanhorn/last30days-skill"
+    }
+   ],
+   "primary_url": "https://github.com/mvanhorn/last30days-skill"
+  },
+  {
+   "id": "6f06a2856d59",
+   "title": "apple/FastFrames-L",
+   "summary": "",
+   "category": "Open Source",
+   "score": 53.0,
+   "published_at": "2026-11-19T07:03:45.262327+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face Trending",
+     "url": "https://huggingface.co/apple/FastFrames-L"
+    }
+   ],
+   "primary_url": "https://huggingface.co/apple/FastFrames-L"
+  },
+  {
+   "id": "7e4a9fc0b12e",
+   "title": "meituan-longcat/LongCat-Video-Avatar-1.6",
+   "summary": "",
+   "category": "Open Source",
+   "score": 52.7,
+   "published_at": "2026-11-19T07:03:45.262327+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face Trending",
+     "url": "https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.6"
+    }
+   ],
+   "primary_url": "https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.6"
+  },
+  {
+   "id": "04ce1345cda9",
+   "title": "Lightricks/LTX-2.5",
+   "summary": "",
+   "category": "Open Source",
+   "score": 52.7,
+   "published_at": "2026-11-19T07:03:45.262327+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face Trending",
+     "url": "https://huggingface.co/Lightricks/LTX-2.5"
+    }
+   ],
+   "primary_url": "https://huggingface.co/Lightricks/LTX-2.5"
+  },
+  {
+   "id": "427397f9a75a",
+   "title": "maxwell-model/Maxwell-V1-Flash",
+   "summary": "",
+   "category": "Open Source",
+   "score": 52.6,
+   "published_at": "2026-11-19T07:03:45.262327+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face Trending",
+     "url": "https://huggingface.co/maxwell-model/Maxwell-V1-Flash"
+    }
+   ],
+   "primary_url": "https://huggingface.co/maxwell-model/Maxwell-V1-Flash"
+  },
+  {
+   "id": "6ae972136210",
+   "title": "thinkingmachines/Inkling-2-Small",
+   "summary": "",
+   "category": "Open Source",
+   "score": 52.6,
+   "published_at": "2026-11-19T07:03:45.262327+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face Trending",
+     "url": "https://huggingface.co/thinkingmachines/Inkling-2-Small"
+    }
+   ],
+   "primary_url": "https://huggingface.co/thinkingmachines/Inkling-2-Small"
+  },
+  {
+   "id": "2046f5e50faf",
+   "title": "obra/superpowers: An agentic skills framework & software development methodology that works.",
+   "summary": "An agentic skills framework & software development methodology that works.",
+   "category": "Agents & Dev Tools",
+   "score": 52.3,
+   "published_at": "2026-11-19T07:03:45.262327+00:00",
+   "sources": [
+    {
+     "name": "GitHub Trending",
+     "url": "https://github.com/obra/superpowers"
+    }
+   ],
+   "primary_url": "https://github.com/obra/superpowers"
+  },
+  {
+   "id": "6e090bb95c89",
+   "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
+   "summary": "",
+   "category": "Agents & Dev Tools",
+   "score": 52.0,
+   "published_at": "2026-11-17T21:16:12+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50538303"
+    }
+   ],
+   "primary_url": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/"
+  },
+  {
+   "id": "4b443d68faa9",
+   "title": "sensenova/SenseNova-Loop-9B",
+   "summary": "",
+   "category": "Open Source",
+   "score": 51.7,
+   "published_at": "2026-11-19T07:03:45.262327+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face Trending",
+     "url": "https://huggingface.co/sensenova/SenseNova-Loop-9B"
+    }
+   ],
+   "primary_url": "https://huggingface.co/sensenova/SenseNova-Loop-9B"
+  },
+  {
+   "id": "68431e57dcdc",
+   "title": "Edge0/Edge0-145B-NVFP4",
+   "summary": "",
+   "category": "Open Source",
+   "score": 51.2,
+   "published_at": "2026-11-19T07:03:45.262327+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face Trending",
+     "url": "https://huggingface.co/Edge0/Edge0-145B-NVFP4"
+    }
+   ],
+   "primary_url": "https://huggingface.co/Edge0/Edge0-145B-NVFP4"
+  },
+  {
+   "id": "2250172890a0",
+   "title": "Zyphra/ZONOS3-Mini",
+   "summary": "",
+   "category": "Open Source",
+   "score": 51.1,
+   "published_at": "2026-11-19T07:03:45.262327+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face Trending",
+     "url": "https://huggingface.co/Zyphra/ZONOS3-Mini"
+    }
+   ],
+   "primary_url": "https://huggingface.co/Zyphra/ZONOS3-Mini"
+  },
+  {
+   "id": "fd9cef1556d5",
+   "title": "internlm/Sage-S2.1-Flash",
+   "summary": "",
+   "category": "Open Source",
+   "score": 50.9,
+   "published_at": "2026-11-19T07:03:45.262327+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face Trending",
+     "url": "https://huggingface.co/internlm/Sage-S2.1-Flash"
+    }
+   ],
+   "primary_url": "https://huggingface.co/internlm/Sage-S2.1-Flash"
+  },
+  {
+   "id": "13c0f423c09d",
+   "title": "nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB",
+   "summary": "",
+   "category": "Models",
+   "score": 50.8,
+   "published_at": "2026-11-19T07:03:45.262327+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face Trending",
+     "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB"
+    }
+   ],
+   "primary_url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB"
+  },
+  {
+   "id": "74c05f88e457",
+   "title": "inworld/voice-isolator",
+   "summary": "",
+   "category": "Open Source",
+   "score": 50.7,
+   "published_at": "2026-11-19T07:03:45.262327+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face Trending",
+     "url": "https://huggingface.co/inworld/voice-isolator"
+    }
+   ],
+   "primary_url": "https://huggingface.co/inworld/voice-isolator"
+  },
+  {
+   "id": "3c17f9a2318e",
+   "title": "Cerebras Disaggregated Inference",
+   "summary": "",
+   "category": "Other",
+   "score": 50.4,
+   "published_at": "2026-11-18T00:56:23+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50540472"
+    }
+   ],
+   "primary_url": "https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference"
+  },
+  {
+   "id": "52adf762d407",
+   "title": "google-labs-code/stitch-skills: A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+   "summary": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude …",
+   "category": "Agents & Dev Tools",
+   "score": 50.1,
+   "published_at": "2026-11-19T07:03:45.262327+00:00",
+   "sources": [
+    {
+     "name": "GitHub Trending",
+     "url": "https://github.com/google-labs-code/stitch-skills"
+    }
+   ],
+   "primary_url": "https://github.com/google-labs-code/stitch-skills"
+  },
+  {
+   "id": "f791d596ac04",
+   "title": "n8n-io/n8n: Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+   "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+   "category": "Open Source",
+   "score": 49.8,
+   "published_at": "2026-11-19T07:03:45.262327+00:00",
+   "sources": [
+    {
+     "name": "GitHub Trending",
+     "url": "https://github.com/n8n-io/n8n"
+    }
+   ],
+   "primary_url": "https://github.com/n8n-io/n8n"
+  },
+  {
+   "id": "3781448153b0",
+   "title": "NVIDIA/SkillEvaluator: Multi-tier framework for evaluating AI agent skills and plugins with quality gates, security scanning, harness compatibility checks, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior. Ships reusable CI templates that bring every check to any repository.",
+   "summary": "Multi-tier framework for evaluating AI agent skills and plugins with quality gates, security scanning, harness compatibility checks, semantic overlap detection, synthetic evaluation dataset generatio…",
+   "category": "Policy & Safety",
+   "score": 49.7,
+   "published_at": "2026-11-19T07:03:45.262327+00:00",
+   "sources": [
+    {
+     "name": "GitHub Trending",
+     "url": "https://github.com/NVIDIA/SkillEvaluator"
+    }
+   ],
+   "primary_url": "https://github.com/NVIDIA/SkillEvaluator"
+  },
+  {
+   "id": "b8930a9a56df",
+   "title": "Not Everything Needs an LLM",
+   "summary": "",
+   "category": "Models",
+   "score": 49.1,
+   "published_at": "2026-11-17T18:16:18+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://newsletter.posthog.com/p/decision-models"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50535740"
+    }
+   ],
+   "primary_url": "https://newsletter.posthog.com/p/decision-models"
+  },
+  {
+   "id": "b5c8370aae01",
+   "title": "TeleChat to Xing4: Advancing Frontier Agentic Models on Domestic Chips and Frameworks",
+   "summary": "We present Xing 4, a series of large language models that extends the TeleChat lineage through coordinated advances in model architecture and training infrastructure on Ascend. This report describes …",
+   "category": "Research",
+   "score": 48.0,
+   "published_at": "2026-11-19T07:03:45.262327+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face Papers",
+     "url": "https://huggingface.co/papers/2611.22115"
+    }
+   ],
+   "primary_url": "https://huggingface.co/papers/2611.22115"
+  },
+  {
+   "id": "246f1a63c5a1",
+   "title": "Baidu, Xiaomi CEOs warn of growing gap between AI hype and returns",
+   "summary": "",
+   "category": "Other",
+   "score": 47.6,
+   "published_at": "2026-11-17T14:19:59+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://www.scmp.com/tech/big-tech/article/3374774/baidu-xiaomi-ceos-warn-growing-gap-between-ai-hype-and-returns"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50531751"
+    }
+   ],
+   "primary_url": "https://www.scmp.com/tech/big-tech/article/3374774/baidu-xiaomi-ceos-warn-growing-gap-between-ai-hype-and-returns"
+  },
+  {
+   "id": "069078b2b4e3",
+   "title": "How the Claude Code team thinks about verification",
+   "summary": "",
+   "category": "Agents & Dev Tools",
+   "score": 47.2,
+   "published_at": "2026-11-17T10:20:40+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50529612"
+    }
+   ],
+   "primary_url": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/"
+  },
+  {
+   "id": "b898a1b2127c",
+   "title": "Introducing Gemini 4 Neon",
+   "summary": "",
+   "category": "Models",
+   "score": 46.1,
+   "published_at": "2026-11-18T21:35:43+00:00",
+   "sources": [
+    {
+     "name": "Google DeepMind",
+     "url": "https://deepmind.google/blog/introducing-gemini-4-neon/"
+    }
+   ],
+   "primary_url": "https://deepmind.google/blog/introducing-gemini-4-neon/"
+  },
+  {
+   "id": "8c5b4e01285e",
+   "title": "Regulatory Capture by Anthropic Through METR",
+   "summary": "",
+   "category": "Policy & Safety",
+   "score": 46.0,
+   "published_at": "2026-11-17T12:21:57+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://nitter.cf/kevinnbass/status/2099621874279817638"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50530450"
+    }
+   ],
+   "primary_url": "https://nitter.cf/kevinnbass/status/2099621874279817638"
+  },
+  {
+   "id": "1c343af691bc",
+   "title": "AscendGYM: A Cost-Aware Kernel Optimization Benchmark for Real-World Workloads on Ascend NPUs",
+   "summary": "Kernel optimization is essential for efficient large language model (LLM) training and inference on Ascend NPUs. Existing Ascend kernel benchmarks primarily focus on kernel generation, with less emph…",
+   "category": "Research",
+   "score": 45.9,
+   "published_at": "2026-11-19T07:03:45.262327+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face Papers",
+     "url": "https://huggingface.co/papers/2611.17621"
+    }
+   ],
+   "primary_url": "https://huggingface.co/papers/2611.17621"
+  },
+  {
+   "id": "50e3ea47cbae",
+   "title": "Genie 4 is now available",
+   "summary": "",
+   "category": "Other",
+   "score": 44.7,
+   "published_at": "2026-11-18T18:13:42+00:00",
+   "sources": [
+    {
+     "name": "Google DeepMind",
+     "url": "https://deepmind.google/blog/genie-4-is-now-available/"
+    }
+   ],
+   "primary_url": "https://deepmind.google/blog/genie-4-is-now-available/"
+  },
+  {
+   "id": "62671662bfc5",
+   "title": "Weight-Space Programming Doesn't Need Transformers",
+   "summary": "Standard neural architectures such as the Transformer were chosen because they train well with gradient descent and run fast on GPUs. In weight-space programming, a large language model (LLM) writes …",
+   "category": "Research",
+   "score": 43.7,
+   "published_at": "2026-11-19T07:03:45.262327+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face Papers",
+     "url": "https://huggingface.co/papers/2611.22055"
+    }
+   ],
+   "primary_url": "https://huggingface.co/papers/2611.22055"
+  },
+  {
+   "id": "2683033a6a0c",
+   "title": "Nginx緊急修補10個漏洞，其中5個恐遭遠端執行程式碼",
+   "summary": "新聞 開源網頁伺服器軟體 Nginx周三（11/18）發布1.30.7穩定版及1.31.9主線版 ，緊急修補10個安全漏洞，其中有5個屬於遠端程式攻擊漏洞，而資安業者 Xint也獨立發現 了這5項漏洞，並將它們稱為nginx2root。 Nginx是由俄羅斯軟體工程師Igor Sysoev在2004年所打造，為一開放原始碼網頁伺服器軟體，主要用於提供網站內容、處理及轉送網路請求，也能作為反向代理…",
+   "category": "Policy & Safety",
+   "score": 43.4,
+   "published_at": "2026-11-19T05:41:38+00:00",
+   "sources": [
+    {
+     "name": "iThome",
+     "url": "https://www.ithome.com.tw/news/180651"
+    }
+   ],
+   "primary_url": "https://www.ithome.com.tw/news/180651"
+  },
+  {
+   "id": "19d0cb3fc8f7",
+   "title": "Google 推出 Gemini 4 Neon，效能媲美旗艦模型 Carbon、任務成本降低 32%",
+   "summary": "Google 也強調，Neon 能在長時間執行的工作中維持效能，適合需要多步驟分析與頻繁操作工具的工作流程。",
+   "category": "Models",
+   "score": 43.4,
+   "published_at": "2026-11-19T05:44:00+00:00",
+   "sources": [
+    {
+     "name": "INSIDE",
+     "url": "https://www.inside.com.tw/article/42961-google-gemini-4-neon"
+    }
+   ],
+   "primary_url": "https://www.inside.com.tw/article/42961-google-gemini-4-neon"
+  },
+  {
+   "id": "7047e076bcca",
+   "title": "Multi-Branch Transformer",
+   "summary": "Transformer language models are commonly scaled by making their blocks wider or stacking them deeper. In this work, we explore a complementary path: branching, the parallel composition of full Transf…",
+   "category": "Research",
+   "score": 43.2,
+   "published_at": "2026-11-19T07:03:45.262327+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face Papers",
+     "url": "https://huggingface.co/papers/2611.19800"
+    }
+   ],
+   "primary_url": "https://huggingface.co/papers/2611.19800"
+  },
+  {
+   "id": "b9b93b6fe2a7",
+   "title": "OpenAI正在測試使自主代理人Dots有自己的email位址",
+   "summary": "新聞 OpenAI透露正在讓常駐自主代理人Dots擁有自己的電子郵件位址，以協助使用者更有效率執行商務作業。 OpenAI今年9月 推出Dots ，讓使用者可建立常時作業的代理人Dot，並可連接外部應用程式、主動處理待辦事項。 OpenAI工程師 Samir Ahmed指出 ，公司正在測試提供Dots自己的電子郵件位址，希望不久後部署給廣大用戶。他還舉例，這表示使用者可以寄發信件給與會者時CC給…",
+   "category": "Agents & Dev Tools",
+   "score": 43.2,
+   "published_at": "2026-11-19T05:14:00+00:00",
+   "sources": [
+    {
+     "name": "iThome",
+     "url": "https://www.ithome.com.tw/news/180650"
+    }
+   ],
+   "primary_url": "https://www.ithome.com.tw/news/180650"
+  },
+  {
+   "id": "4c1e6edeb87c",
+   "title": "NVIDIA 委任獵頭找黃仁勳接班人，傳已接觸 Arm 執行長 Rene Haas",
+   "summary": "NVIDIA 董事會委任的獵頭公司 Heidrick & Struggles，傳已接觸 Arm 執行長 Rene Haas，探詢他接掌 NVIDIA 的意願。這家 AI 晶片龍頭成立 33 年來第一次要找新執行長，目前曝光最多的人選，是一位 2013 年離開 NVIDIA 的老部屬。",
+   "category": "Business",
+   "score": 43.2,
+   "published_at": "2026-11-19T05:13:00+00:00",
+   "sources": [
+    {
+     "name": "INSIDE",
+     "url": "https://www.inside.com.tw/article/42958-nvidia-ceo-search-heidrick-arm-rene-haas"
+    }
+   ],
+   "primary_url": "https://www.inside.com.tw/article/42958-nvidia-ceo-search-heidrick-arm-rene-haas"
+  },
+  {
+   "id": "763142e6d2eb",
+   "title": "AI基建大潮方兴未艾，联想集团最佳财季诞生！",
+   "summary": "全球AI生态链领先企业联想集团今日公布截至2026/27财年第二季度业绩",
+   "category": "Other",
+   "score": 43.1,
+   "published_at": "2026-11-19T04:51:31+00:00",
+   "sources": [
+    {
+     "name": "量子位",
+     "url": "https://www.qbitai.com/2026/11/511088.html"
+    }
+   ],
+   "primary_url": "https://www.qbitai.com/2026/11/511088.html"
+  },
+  {
+   "id": "d8a746e8be57",
+   "title": "資安業者揭露ARTEX攻擊事件應變過程，AI代理程式取得API金鑰後幾分鐘內即發動攻擊，防守方也用AI加速調查",
+   "summary": "新聞 AI代理程式攻擊框架ARTEX持續受到資安界關注，已有多家資安業者揭露相關攻擊活動及調查結果，但較少詳細說明第一線資安團隊的實際應變經過。資安業者Eye Security近日 公布一起企業遭ARTEX攻擊的事件應變案例 ，詳細揭露攻擊者如何利用AI代理程式快速滲透企業環境，以及防守方如何調查、阻擋攻擊，甚至運用AI代理程式協助應變。 Eye Security指出，ARTEX是一套以LLM代…",
+   "category": "Policy & Safety",
+   "score": 43.1,
+   "published_at": "2026-11-19T04:47:05+00:00",
+   "sources": [
+    {
+     "name": "iThome",
+     "url": "https://www.ithome.com.tw/news/180647"
+    }
+   ],
+   "primary_url": "https://www.ithome.com.tw/news/180647"
+  },
+  {
+   "id": "5ed8080e8d3e",
+   "title": "ForceHarness: Turning Force into Action and Physics for Frozen Frontier Models",
+   "summary": "Frontier multimodal models can now control robots zero-shot from images, yet many manipulation tasks depend on contact forces that images cannot show. Bringing force to an API-only frozen model raise…",
+   "category": "Research",
+   "score": 42.8,
+   "published_at": "2026-11-19T07:03:45.262327+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face Papers",
+     "url": "https://huggingface.co/papers/2611.21099"
+    }
+   ],
+   "primary_url": "https://huggingface.co/papers/2611.21099"
+  },
+  {
+   "id": "48366bf460ae",
+   "title": "安谋科技深度解析Arm Cortex-M42，发布“星辰100e”AIoT原型平台，助力打造AI性能更强的嵌入式设计",
+   "summary": "11月18日，安谋科技（中国）有限公司举办Arm® Cortex®-M CPU新品说明会",
+   "category": "Products",
+   "score": 42.7,
+   "published_at": "2026-11-19T04:02:39+00:00",
+   "sources": [
+    {
+     "name": "量子位",
+     "url": "https://www.qbitai.com/2026/11/511079.html"
+    }
+   ],
+   "primary_url": "https://www.qbitai.com/2026/11/511079.html"
+  },
+  {
+   "id": "6d9d4776fc06",
+   "title": "OpenAI 攜手 AMD，用 AI 改良旗艦 GPU 電路設計",
+   "summary": "AMD 已經把部分修改放進最近一款送交製造的設計中，其他修改則加進正式量產用的設計檔案，準備用在未來的版本。",
+   "category": "Business",
+   "score": 42.6,
+   "published_at": "2026-11-19T03:36:00+00:00",
+   "sources": [
+    {
+     "name": "INSIDE",
+     "url": "https://www.inside.com.tw/article/42957-openai-amd-ai-chip-design-gpu-ppa-improvement"
+    }
+   ],
+   "primary_url": "https://www.inside.com.tw/article/42957-openai-amd-ai-chip-design-gpu-ppa-improvement"
+  },
+  {
+   "id": "5164de042931",
+   "title": "813 億美元寫下 IPO 新紀錄，Anthropic 每股 83 美元定價衝破區間上緣、規模超越 SpaceX",
+   "summary": "Anthropic 把 IPO 定價訂在每股 83 美元，高於原本 70 至 78 美元的區間，發行量也加碼到 9.8 億股，募得 813 億美元，以基本發行規模計超過 SpaceX 的 750 億美元。",
+   "category": "Business",
+   "score": 42.5,
+   "published_at": "2026-11-19T03:24:00+00:00",
+   "sources": [
+    {
+     "name": "INSIDE",
+     "url": "https://www.inside.com.tw/article/42956-anthropic-ipo-83-per-share-81-billion-record"
+    }
+   ],
+   "primary_url": "https://www.inside.com.tw/article/42956-anthropic-ipo-83-per-share-81-billion-record"
+  },
+  {
+   "id": "3a309e16ea12",
+   "title": "范式下场做基模了！国产算力全链路训练，双模型同步亮相",
+   "summary": "语言模型单张3090卡即可运行",
+   "category": "Business",
+   "score": 42.3,
+   "published_at": "2026-11-19T03:01:45+00:00",
+   "sources": [
+    {
+     "name": "量子位",
+     "url": "https://www.qbitai.com/2026/11/511071.html"
+    }
+   ],
+   "primary_url": "https://www.qbitai.com/2026/11/511071.html"
+  },
+  {
+   "id": "3807e7a65dc0",
+   "title": "Google升級Gemini Tasks，新增AI代打電話、購物付款功能，首度開放免費使用",
+   "summary": "新聞 Google周二（11/17）宣布升級AI代理人功能 Gemini Tasks ，率先於美國推出代打電話、預約服務、購物付款及帳單分析等進階功能， 同時首度開放 美國、日本、南韓、加拿大、澳洲及印度等6國用戶免費使用。 Gemini Tasks前身為Google今年5月在Google I/O大會推出的 Gemini Spark ，先開放給Google AI Ultra付費用戶，10月整合至…",
+   "category": "Products",
+   "score": 42.3,
+   "published_at": "2026-11-19T03:05:50+00:00",
+   "sources": [
+    {
+     "name": "iThome",
+     "url": "https://www.ithome.com.tw/news/180641"
+    }
+   ],
+   "primary_url": "https://www.ithome.com.tw/news/180641"
+  },
+  {
+   "id": "029b5fb3a28c",
+   "title": "用自然語言就能做 3D 場景！開源專案 blender-skills 把建模到渲染打包成 28 項代理技能",
+   "summary": "GitHub 開源專案 blender-skills 將建模、材質、燈光、渲染與遊戲引擎匯出等流程打包成 28 項代理技能，支援 Claude Code、Codex 等工具，需要 Blender 5.2 LTS 或更新版本，採 MIT 授權。",
+   "category": "Agents & Dev Tools",
+   "score": 42.2,
+   "published_at": "2026-11-19T02:39:00+00:00",
+   "sources": [
+    {
+     "name": "INSIDE",
+     "url": "https://www.inside.com.tw/article/42949-blender-skills-28-agent-skills-claude-code-codex-3d-modeling-rendering"
+    }
+   ],
+   "primary_url": "https://www.inside.com.tw/article/42949-blender-skills-28-agent-skills-claude-code-codex-3d-modeling-rendering"
+  },
+  {
+   "id": "c05f375e354c",
+   "title": "Breath-Dx: A Time Series Classification Benchmark for Disease Screening with eNose",
+   "summary": "Electronic nose (eNose) technology offers a portable, non-invasive route for disease screening via exhaled breath analysis. However, progress in the field is hindered by the lack of systematic benchm…",
+   "category": "Research",
+   "score": 41.9,
+   "published_at": "2026-11-19T07:03:45.262327+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face Papers",
+     "url": "https://huggingface.co/papers/2611.15348"
+    }
+   ],
+   "primary_url": "https://huggingface.co/papers/2611.15348"
+  },
+  {
+   "id": "eb484ebf9fea",
+   "title": "駭客利用AI代理框架ARTEX攻擊資安公司Barracuda，44小時入侵10個雲端帳戶搜刮憑證",
+   "summary": "新聞 資安公司Barracuda近日揭露 雲端環境遭到入侵的事件 ，攻擊者利用遭竊的雲端存取金鑰，在44小時內橫跨10個雲端帳戶，持續蒐集憑證、探索內部系統，並嘗試建立後門，根據該公司的調查，此次攻擊行為使用的工具，就是AI滲透測試框架ARTEX。 駭客最初入侵的管道，是Barracuda尚未撤銷的雲端存取金鑰，該公司先前委託一家AI公司執行專案而提供，到了2026年10月，該AI公司的開發環境…",
+   "category": "Policy & Safety",
+   "score": 41.9,
+   "published_at": "2026-11-19T01:55:29+00:00",
+   "sources": [
+    {
+     "name": "iThome",
+     "url": "https://www.ithome.com.tw/news/180621"
+    }
+   ],
+   "primary_url": "https://www.ithome.com.tw/news/180621"
+  },
+  {
+   "id": "06a3dfba7c27",
+   "title": "Self-Improvement Memory Enables Continual Recursive Self-Improvement",
+   "summary": "Harness optimization is often studied with a fixed policy model and benchmark. When either changes, the optimizer must decide which parts of an evolved harness to reuse or revise, but the harness alo…",
+   "category": "Research",
+   "score": 41.7,
+   "published_at": "2026-11-19T07:03:45.262327+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face Papers",
+     "url": "https://huggingface.co/papers/2611.18856"
+    }
+   ],
+   "primary_url": "https://huggingface.co/papers/2611.18856"
+  },
+  {
+   "id": "94e33d4be4a8",
+   "title": "Claude Code 推出 Code Mode，寫 JavaScript 一次跑完多個工具呼叫，只把需要的結果帶回對話",
+   "summary": "Claude Code 2.1.323 加入實驗性的 Code Mode，Claude 會自己寫一段 JavaScript，平行呼叫多個工具並先過濾結果，再把精簡內容帶回對話，預設關閉，需設定環境變數啟用。",
+   "category": "Agents & Dev Tools",
+   "score": 41.7,
+   "published_at": "2026-11-19T01:38:00+00:00",
+   "sources": [
+    {
+     "name": "INSIDE",
+     "url": "https://www.inside.com.tw/article/42950-claude-code-code-mode-javascript-tool-calls-filter-output-experimental"
+    }
+   ],
+   "primary_url": "https://www.inside.com.tw/article/42950-claude-code-code-mode-javascript-tool-calls-filter-output-experimental"
+  },
+  {
+   "id": "b36cb2ea5bbd",
+   "title": "Microsoft 在 Ignite 發表 MAI Code 2 等專用 AI 模型，主打接近 OpenAI 與 Anthropic 的表現且便宜",
+   "summary": "Microsoft 在 Ignite 大會發表 MAI Code 2、MAI Code 2 Flash、MAI Cyber 2 Flash 等自家專用模型，宣稱 MAI Code 2 以約 5% 的價格達到 Claude Opus 5.5 約 96% 的表現，並已在 GitHub Copilot 上線。",
+   "category": "Models",
+   "score": 41.6,
+   "published_at": "2026-11-19T01:20:00+00:00",
+   "sources": [
+    {
+     "name": "INSIDE",
+     "url": "https://www.inside.com.tw/article/42951-microsoft-ignite-mai-code-2-specialized-ai-models-cheaper-openai-anthropic"
+    }
+   ],
+   "primary_url": "https://www.inside.com.tw/article/42951-microsoft-ignite-mai-code-2-specialized-ai-models-cheaper-openai-anthropic"
+  },
+  {
+   "id": "c8a4b2ac137e",
+   "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+   "summary": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive…",
+   "category": "Business",
+   "score": 41.4,
+   "published_at": "2026-11-19T00:42:56+00:00",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/"
+    }
+   ],
+   "primary_url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/"
+  },
+  {
+   "id": "e683d40fba10",
+   "title": "The Silent Consensus",
+   "summary": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
+   "category": "Other",
+   "score": 41.2,
+   "published_at": "2026-11-18T10:00:00+00:00",
+   "sources": [
+    {
+     "name": "OpenAI",
+     "url": "https://openai.com/index/the-silent-consensus"
+    }
+   ],
+   "primary_url": "https://openai.com/index/the-silent-consensus"
+  },
+  {
+   "id": "6daae7e36fde",
+   "title": "初中毕业烘焙师，1 人搓出单集千万播放科幻剧，中国AI长片杀疯了！",
+   "summary": "国产AI工具实现「一个人就是一个剧组」",
+   "category": "Products",
+   "score": 41.2,
+   "published_at": "2026-11-19T00:26:40+00:00",
+   "sources": [
+    {
+     "name": "量子位",
+     "url": "https://www.qbitai.com/2026/11/510947.html"
+    }
+   ],
+   "primary_url": "https://www.qbitai.com/2026/11/510947.html"
+  },
+  {
+   "id": "2cf389d7c377",
+   "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
+   "summary": "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world.",
+   "category": "Business",
+   "score": 41.0,
+   "published_at": "2026-11-18T23:45:00+00:00",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/"
+    }
+   ],
+   "primary_url": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/"
+  },
+  {
+   "id": "74ced3375481",
+   "title": "Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’",
+   "summary": "“I don’t think [Huang is] disloyal to the United States,\" Musk said.",
+   "category": "Other",
+   "score": 40.8,
+   "published_at": "2026-11-18T23:25:17+00:00",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/"
+    }
+   ],
+   "primary_url": "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/"
+  },
+  {
+   "id": "0e23395eb734",
+   "title": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit",
+   "summary": "Microsoft CEO Satya Nadella expressed confidence in Jensen Huang's successor Colette Kress, who is serving as Nvidia's interim CEO.",
+   "category": "Business",
+   "score": 40.8,
+   "published_at": "2026-11-18T23:17:28+00:00",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/"
+    }
+   ],
+   "primary_url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/"
+  },
+  {
+   "id": "14c609265d0e",
+   "title": "The nation’s largest school districts consider ditching Google Search",
+   "summary": "New York, Los Angeles, and Chicago schools are considering Google alternatives after the company said it will disable Search for schools that opt out of its AI features, according to The New York Tim…",
+   "category": "Products",
+   "score": 40.8,
+   "published_at": "2026-11-18T23:18:35+00:00",
+   "sources": [
+    {
+     "name": "The Verge",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google"
+    }
+   ],
+   "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google"
+  },
+  {
+   "id": "71047f93c532",
+   "title": "FastFrames: Video Generation at Interactive Latency",
+   "summary": "Autoregressive video diffusion models generate frames based on new observations and inputs, making them a promising medium for interactive visual experiences. However, existing models are orders of m…",
+   "category": "Research",
+   "score": 40.8,
+   "published_at": "2026-11-19T07:03:45.262327+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face Papers",
+     "url": "https://huggingface.co/papers/2611.23226"
+    }
+   ],
+   "primary_url": "https://huggingface.co/papers/2611.23226"
+  },
+  {
+   "id": "9dbb7a6ae9fe",
+   "title": "TCP4D: A Unified Tool-Center-Point Tracking and Generation Model for Robot Manipulation",
+   "summary": "Robot manipulation videos provide a rich visual experience, yet recovering robot action and gripper-state annotations from RGB observations still remains challenging. Using the embodiment-agnostic to…",
+   "category": "Research",
+   "score": 40.8,
+   "published_at": "2026-11-19T07:03:45.262327+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face Papers",
+     "url": "https://huggingface.co/papers/2611.23143"
+    }
+   ],
+   "primary_url": "https://huggingface.co/papers/2611.23143"
+  },
+  {
+   "id": "acb7f96633bb",
+   "title": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
+   "summary": "Microsoft's CEO says AI agents could disrupt advertising-driven business models, forcing companies like Amazon to rethink how they compete for customers.",
+   "category": "Agents & Dev Tools",
+   "score": 40.6,
+   "published_at": "2026-11-18T22:58:11+00:00",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/"
+    }
+   ],
+   "primary_url": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/"
+  },
+  {
+   "id": "9fa731b0ef6c",
+   "title": "Research acceleration: The jagged frontier",
+   "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
+   "category": "Research",
+   "score": 40.4,
+   "published_at": "2026-11-18T08:00:00+00:00",
+   "sources": [
+    {
+     "name": "OpenAI",
+     "url": "https://openai.com/index/research-acceleration-jagged-frontier"
+    }
+   ],
+   "primary_url": "https://openai.com/index/research-acceleration-jagged-frontier"
+  },
+  {
+   "id": "b527b6f0ddce",
+   "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+   "summary": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
+   "category": "Products",
+   "score": 40.4,
+   "published_at": "2026-11-18T08:00:00+00:00",
+   "sources": [
+    {
+     "name": "OpenAI",
+     "url": "https://openai.com/business/customer-stories/sumitomo-life"
+    }
+   ],
+   "primary_url": "https://openai.com/business/customer-stories/sumitomo-life"
+  },
+  {
+   "id": "53f2a14376dd",
+   "title": "Inside the Codex sandbox",
+   "summary": "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows.",
+   "category": "Agents & Dev Tools",
+   "score": 40.4,
+   "published_at": "2026-11-18T08:00:00+00:00",
+   "sources": [
+    {
+     "name": "OpenAI",
+     "url": "https://openai.com/index/inside-the-codex-sandbox"
+    }
+   ],
+   "primary_url": "https://openai.com/index/inside-the-codex-sandbox"
+  },
+  {
+   "id": "b7121aa76176",
+   "title": "Anthropic prices IPO at $83 a share, above projected range",
+   "summary": "The long-awaited IPO reportedly values the company at $1.5 trillion on a fully diluted basis.",
+   "category": "Business",
+   "score": 40.3,
+   "published_at": "2026-11-18T22:11:15+00:00",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/"
+    }
+   ],
+   "primary_url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/"
+  },
+  {
+   "id": "b71151d25d0e",
+   "title": "Heave-Ho: Decentralized Long-Horizon Multi-Humanoid Collaboration",
+   "summary": "Collaboration promises to extend humanoid capabilities beyond what individual robots can achieve. However, realizing this potential requires coordinated whole-body interactions, coherent long-horizon…",
+   "category": "Research",
+   "score": 40.3,
+   "published_at": "2026-11-19T07:03:45.262327+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face Papers",
+     "url": "https://huggingface.co/papers/2611.22275"
+    }
+   ],
+   "primary_url": "https://huggingface.co/papers/2611.22275"
+  },
+  {
+   "id": "54bca3b9a46d",
+   "title": "Nvidia created a weird bit of intrigue by not filing a routine SEC report",
+   "summary": "One Wall Street analyst got to the bottom of Nvidia's surprise announcement that it wouldn't be filing its formal quarterly results document, the 10-Q, for weeks.",
+   "category": "Other",
+   "score": 40.2,
+   "published_at": "2026-11-18T21:57:40+00:00",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/18/nvidia-created-a-weird-bit-of-intrigue-by-not-filing-a-routine-sec-report/"
+    }
+   ],
+   "primary_url": "https://techcrunch.com/2026/11/18/nvidia-created-a-weird-bit-of-intrigue-by-not-filing-a-routine-sec-report/"
+  },
+  {
+   "id": "22c3131e87fd",
+   "title": "Palmer Luckey warns AI-powered cyberattacks are outpacing defenses: ‘It’s time to start running’",
+   "summary": "The Anduril co-founder says outdated technology is leaving systems vulnerable to a new wave of AI-enabled attacks.",
+   "category": "Policy & Safety",
+   "score": 40.0,
+   "published_at": "2026-11-18T21:34:13+00:00",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/18/palmer-luckey-warns-ai-powered-cyberattacks-are-outpacing-defenses-its-time-to-start-running/"
+    }
+   ],
+   "primary_url": "https://techcrunch.com/2026/11/18/palmer-luckey-warns-ai-powered-cyberattacks-are-outpacing-defenses-its-time-to-start-running/"
+  },
+  {
+   "id": "246fea28a789",
+   "title": "Palmer Luckey thinks China is ‘thrilled to have Jensen out,’ so he wants the ousted Nvidia CEO reinstated",
+   "summary": "\"It makes America weaker to knock him out,\" the Anduril CEO said about ousted Nvidia leader Jensen Huang.",
+   "category": "Business",
+   "score": 40.0,
+   "published_at": "2026-11-18T21:31:21+00:00",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/18/palmer-luckey-thinks-china-is-thrilled-to-have-jensen-out-so-he-wants-the-ousted-nvidia-ceo-reinstated/"
+    }
+   ],
+   "primary_url": "https://techcrunch.com/2026/11/18/palmer-luckey-thinks-china-is-thrilled-to-have-jensen-out-so-he-wants-the-ousted-nvidia-ceo-reinstated/"
+  },
+  {
+   "id": "335389d60da6",
+   "title": "Google ships Gemini 4 Neon, its fourth new Gemini model in a month",
+   "summary": "Google released Gemini 4 Neon, a new frontier model built for software development, knowledge work, and science. It handles text, images, video, audio, and PDFs with a context window of one million t…",
+   "category": "Models",
+   "score": 39.8,
+   "published_at": "2026-11-18T21:03:23+00:00",
+   "sources": [
+    {
+     "name": "The Decoder",
+     "url": "https://the-decoder.com/google-ships-gemini-4-neon-its-fourth-new-gemini-model-in-a-month/"
+    }
+   ],
+   "primary_url": "https://the-decoder.com/google-ships-gemini-4-neon-its-fourth-new-gemini-model-in-a-month/"
+  },
+  {
+   "id": "8b6ac2940fdc",
+   "title": "Managing frontier AI risk: From training to deployment",
+   "summary": "OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring.",
+   "category": "Policy & Safety",
+   "score": 39.6,
+   "published_at": "2026-11-18T06:00:00+00:00",
+   "sources": [
+    {
+     "name": "OpenAI",
+     "url": "https://openai.com/index/managing-frontier-ai-risk"
+    }
+   ],
+   "primary_url": "https://openai.com/index/managing-frontier-ai-risk"
+  },
+  {
+   "id": "f689168723dc",
+   "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
+   "summary": "",
+   "category": "Other",
+   "score": 39.4,
+   "published_at": "2026-11-18T19:54:56+00:00",
+   "sources": [
+    {
+     "name": "Hugging Face Blog",
+     "url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin"
+    }
+   ],
+   "primary_url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin"
+  }
+ ],
+ "highlights": {
+  "Headlines": [
+   {
+    "id": "549a77347d5e",
+    "title": "Introducing GPT-6.2 Astra and Sol",
+    "summary": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
+    "category": "Models",
+    "score": 60.5,
+    "published_at": "2026-11-17T17:45:00+00:00",
+    "sources": [
+     {
+      "name": "OpenAI",
+      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50535230"
+     }
+    ],
+    "primary_url": "https://openai.com/index/introducing-gpt-6-2-astra-sol"
+   },
+   {
+    "id": "6e90be171f77",
+    "title": "吉林：到 2030 年新一代智能终端、智能体等应用普及率超 90%",
+    "summary": "吉林省人民政府办公厅印发《吉林省「人工智能 + 」发展「十五五」规划》，提出到 2030 年，「人工智能＋」全面深化拓展，新一代智能终端、智能体等应用普及率超 90%，人工智能在产业升级、消费提质、民生保障、公共治理、科技创新中的作用将得到充分显现，涌现一批新设施、新技术、新产业、新业态、新岗位，形成人机协同、跨界融合、共创分享的智能经济和智能社会新形态。",
+    "category": "Agents & Dev Tools",
+    "score": 69.7,
+    "published_at": "2026-11-19T06:15:12.197000+00:00",
+    "sources": [
+     {
+      "name": "Readhub",
+      "url": "https://readhub.cn/topic/8yBB6WLl6cc"
+     }
+    ],
+    "primary_url": "https://readhub.cn/topic/8yBB6WLl6cc"
+   },
+   {
+    "id": "c7d3ecb00643",
+    "title": "Advancing chip design with OpenAI models",
+    "summary": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.",
+    "category": "Business",
+    "score": 57.7,
+    "published_at": "2026-11-18T00:00:00+00:00",
+    "sources": [
+     {
+      "name": "OpenAI",
+      "url": "https://openai.com/index/advancing-chip-design-with-our-models"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50549493"
+     }
+    ],
+    "primary_url": "https://openai.com/index/advancing-chip-design-with-our-models"
+   },
+   {
+    "id": "f1feb2e4bb48",
+    "title": "AI is killing All About Berlin",
+    "summary": "",
+    "category": "Other",
+    "score": 58.4,
+    "published_at": "2026-11-18T06:47:26+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://nicolasbouliane.com/blog/death-by-ai"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50542705"
+     }
+    ],
+    "primary_url": "https://nicolasbouliane.com/blog/death-by-ai"
+   },
+   {
+    "id": "b2c084a41275",
+    "title": "Gemini 4 Neon",
+    "summary": "",
+    "category": "Models",
+    "score": 64.3,
+    "published_at": "2026-11-18T21:34:07+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50552424"
+     }
+    ],
+    "primary_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/"
+   },
+   {
+    "id": "695d1f9a1cf6",
+    "title": "Google's AI answers reducing search traffic by 40%",
+    "summary": "",
+    "category": "Other",
+    "score": 55.4,
+    "published_at": "2026-11-18T00:17:58+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://revscope.co/blog/search-seo-geo-2026/"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50540178"
+     }
+    ],
+    "primary_url": "https://revscope.co/blog/search-seo-geo-2026/"
+   },
+   {
+    "id": "dbf723300382",
+    "title": "AI agents ask better questions than KPMG accountants in audit trial",
+    "summary": "",
+    "category": "Agents & Dev Tools",
+    "score": 60.6,
+    "published_at": "2026-11-18T15:49:34+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50547777"
+     }
+    ],
+    "primary_url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/"
+   },
+   {
+    "id": "6e090bb95c89",
+    "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
+    "summary": "",
+    "category": "Agents & Dev Tools",
+    "score": 52.0,
+    "published_at": "2026-11-17T21:16:12+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50538303"
+     }
+    ],
+    "primary_url": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/"
+   },
+   {
+    "id": "23a6e8d38fa0",
+    "title": "Energy-Based Reasoners: 385x more efficient inference",
+    "summary": "",
+    "category": "Other",
+    "score": 56.9,
+    "published_at": "2026-11-18T09:29:32+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://energy-based-reasoners.github.io/"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50543989"
+     }
+    ],
+    "primary_url": "https://energy-based-reasoners.github.io/"
+   },
+   {
+    "id": "069078b2b4e3",
+    "title": "How the Claude Code team thinks about verification",
+    "summary": "",
+    "category": "Agents & Dev Tools",
+    "score": 47.2,
+    "published_at": "2026-11-17T10:20:40+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50529612"
+     }
+    ],
+    "primary_url": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/"
+   }
+  ],
+  "Dark Horses": [
+   {
+    "id": "6e90be171f77",
+    "title": "吉林：到 2030 年新一代智能终端、智能体等应用普及率超 90%",
+    "summary": "吉林省人民政府办公厅印发《吉林省「人工智能 + 」发展「十五五」规划》，提出到 2030 年，「人工智能＋」全面深化拓展，新一代智能终端、智能体等应用普及率超 90%，人工智能在产业升级、消费提质、民生保障、公共治理、科技创新中的作用将得到充分显现，涌现一批新设施、新技术、新产业、新业态、新岗位，形成人机协同、跨界融合、共创分享的智能经济和智能社会新形态。",
+    "category": "Agents & Dev Tools",
+    "score": 69.7,
+    "published_at": "2026-11-19T06:15:12.197000+00:00",
+    "sources": [
+     {
+      "name": "Readhub",
+      "url": "https://readhub.cn/topic/8yBB6WLl6cc"
+     }
+    ],
+    "primary_url": "https://readhub.cn/topic/8yBB6WLl6cc"
+   },
+   {
+    "id": "f1feb2e4bb48",
+    "title": "AI is killing All About Berlin",
+    "summary": "",
+    "category": "Other",
+    "score": 58.4,
+    "published_at": "2026-11-18T06:47:26+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://nicolasbouliane.com/blog/death-by-ai"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50542705"
+     }
+    ],
+    "primary_url": "https://nicolasbouliane.com/blog/death-by-ai"
+   },
+   {
+    "id": "dbf723300382",
+    "title": "AI agents ask better questions than KPMG accountants in audit trial",
+    "summary": "",
+    "category": "Agents & Dev Tools",
+    "score": 60.6,
+    "published_at": "2026-11-18T15:49:34+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50547777"
+     }
+    ],
+    "primary_url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/"
+   },
+   {
+    "id": "6e090bb95c89",
+    "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
+    "summary": "",
+    "category": "Agents & Dev Tools",
+    "score": 52.0,
+    "published_at": "2026-11-17T21:16:12+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50538303"
+     }
+    ],
+    "primary_url": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/"
+   },
+   {
+    "id": "23a6e8d38fa0",
+    "title": "Energy-Based Reasoners: 385x more efficient inference",
+    "summary": "",
+    "category": "Other",
+    "score": 56.9,
+    "published_at": "2026-11-18T09:29:32+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://energy-based-reasoners.github.io/"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50543989"
+     }
+    ],
+    "primary_url": "https://energy-based-reasoners.github.io/"
+   },
+   {
+    "id": "b8930a9a56df",
+    "title": "Not Everything Needs an LLM",
+    "summary": "",
+    "category": "Models",
+    "score": 49.1,
+    "published_at": "2026-11-17T18:16:18+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://newsletter.posthog.com/p/decision-models"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50535740"
+     }
+    ],
+    "primary_url": "https://newsletter.posthog.com/p/decision-models"
+   },
+   {
+    "id": "a7198dcd1e8e",
+    "title": "欧盟委员会遭网络攻击，情况已持续超过 10 天",
+    "summary": "欧盟委员会遭遇网络攻击，部分员工无法录入薪资信息，系统中断已持续超 10 天。欧盟机构网络安全应急响应机构发现黑客使用了公开可用的 ARTEX 工具，该工具可利用人工智能技术识别 IT 系统漏洞。欧盟委员会认为已遏制大部分攻击，但具体损害程度仍不清楚，目前部分系统可能正在恢复运行，相关调查仍在继续。此前作为预防措施被暂时停用的部分应用程序，目前大部分已恢复访问。",
+    "category": "Policy & Safety",
+    "score": 64.2,
+    "published_at": "2026-11-19T07:01:42.246000+00:00",
+    "sources": [
+     {
+      "name": "Readhub",
+      "url": "https://readhub.cn/topic/8yBBotOuBUO"
+     }
+    ],
+    "primary_url": "https://readhub.cn/topic/8yBBotOuBUO"
+   },
+   {
+    "id": "c18d4b4bd51d",
+    "title": "2027 款极氪 7X 将于 11 月 27 日广州车展上市 预售 22.98 万起",
+    "summary": "极氪宣布 2027 款极氪 7X 将于 11 月 27 日在 2026 广州国际汽车展览会 D 区 20.2 号馆正式上市，该车此前已于 11 月 5 日开启预售，预售价 22.98 万元起。新车定位全球家庭豪华 SUV，共推出三款车型，围绕安全、舒适、三电、智能座舱等完成七大升级，全系升级 900V 相关系统，新增 85kWh 神盾金砖电池版本。不同配置版本对应不同续航表现，各电池版本均支持高…",
+    "category": "Business",
+    "score": 63.9,
+    "published_at": "2026-11-19T06:10:18.644000+00:00",
+    "sources": [
+     {
+      "name": "Readhub",
+      "url": "https://readhub.cn/topic/8yAzKdRilDH"
+     }
+    ],
+    "primary_url": "https://readhub.cn/topic/8yAzKdRilDH"
+   },
+   {
+    "id": "ba05f6db61a4",
+    "title": "LLM assisted reverse engineering",
+    "summary": "",
+    "category": "Models",
+    "score": 60.5,
+    "published_at": "2026-11-18T22:29:13+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50553225"
+     }
+    ],
+    "primary_url": "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering"
+   },
+   {
+    "id": "3c17f9a2318e",
+    "title": "Cerebras Disaggregated Inference",
+    "summary": "",
+    "category": "Other",
+    "score": 50.4,
+    "published_at": "2026-11-18T00:56:23+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50540472"
+     }
+    ],
+    "primary_url": "https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference"
+   }
+  ],
+  "Rising": [
+   {
+    "id": "6518fbd35a14",
+    "title": "higurashi-ai/Haru-4B",
+    "summary": "",
+    "category": "Open Source",
+    "score": 54.0,
+    "published_at": "2026-11-19T07:03:45.262327+00:00",
+    "sources": [
+     {
+      "name": "Hugging Face Trending",
+      "url": "https://huggingface.co/higurashi-ai/Haru-4B"
+     }
+    ],
+    "primary_url": "https://huggingface.co/higurashi-ai/Haru-4B"
+   },
+   {
+    "id": "1f1dbabb56c4",
+    "title": "MiniMaxAI/MiniMax-H3-Image",
+    "summary": "",
+    "category": "Open Source",
+    "score": 53.5,
+    "published_at": "2026-11-19T07:03:45.262327+00:00",
+    "sources": [
+     {
+      "name": "Hugging Face Trending",
+      "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image"
+     }
+    ],
+    "primary_url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image"
+   },
+   {
+    "id": "dc79824f7494",
+    "title": "harness-hub/Qwen3.8-27B-pi-adapted",
+    "summary": "",
+    "category": "Models",
+    "score": 53.1,
+    "published_at": "2026-11-19T07:03:45.262327+00:00",
+    "sources": [
+     {
+      "name": "Hugging Face Trending",
+      "url": "https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted"
+     }
+    ],
+    "primary_url": "https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted"
+   },
+   {
+    "id": "7064e35195fc",
+    "title": "n4ze3m/tiny-voca",
+    "summary": "",
+    "category": "Open Source",
+    "score": 53.1,
+    "published_at": "2026-11-19T07:03:45.262327+00:00",
+    "sources": [
+     {
+      "name": "Hugging Face Trending",
+      "url": "https://huggingface.co/n4ze3m/tiny-voca"
+     }
+    ],
+    "primary_url": "https://huggingface.co/n4ze3m/tiny-voca"
+   },
+   {
+    "id": "01e478ba125a",
+    "title": "mvanhorn/last30days-skill: AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+    "summary": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+    "category": "Agents & Dev Tools",
+    "score": 53.0,
+    "published_at": "2026-11-19T07:03:45.262327+00:00",
+    "sources": [
+     {
+      "name": "GitHub Trending",
+      "url": "https://github.com/mvanhorn/last30days-skill"
+     }
+    ],
+    "primary_url": "https://github.com/mvanhorn/last30days-skill"
+   },
+   {
+    "id": "7e4a9fc0b12e",
+    "title": "meituan-longcat/LongCat-Video-Avatar-1.6",
+    "summary": "",
+    "category": "Open Source",
+    "score": 52.7,
+    "published_at": "2026-11-19T07:03:45.262327+00:00",
+    "sources": [
+     {
+      "name": "Hugging Face Trending",
+      "url": "https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.6"
+     }
+    ],
+    "primary_url": "https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.6"
+   },
+   {
+    "id": "04ce1345cda9",
+    "title": "Lightricks/LTX-2.5",
+    "summary": "",
+    "category": "Open Source",
+    "score": 52.7,
+    "published_at": "2026-11-19T07:03:45.262327+00:00",
+    "sources": [
+     {
+      "name": "Hugging Face Trending",
+      "url": "https://huggingface.co/Lightricks/LTX-2.5"
+     }
+    ],
+    "primary_url": "https://huggingface.co/Lightricks/LTX-2.5"
+   },
+   {
+    "id": "427397f9a75a",
+    "title": "maxwell-model/Maxwell-V1-Flash",
+    "summary": "",
+    "category": "Open Source",
+    "score": 52.6,
+    "published_at": "2026-11-19T07:03:45.262327+00:00",
+    "sources": [
+     {
+      "name": "Hugging Face Trending",
+      "url": "https://huggingface.co/maxwell-model/Maxwell-V1-Flash"
+     }
+    ],
+    "primary_url": "https://huggingface.co/maxwell-model/Maxwell-V1-Flash"
+   },
+   {
+    "id": "6ae972136210",
+    "title": "thinkingmachines/Inkling-2-Small",
+    "summary": "",
+    "category": "Open Source",
+    "score": 52.6,
+    "published_at": "2026-11-19T07:03:45.262327+00:00",
+    "sources": [
+     {
+      "name": "Hugging Face Trending",
+      "url": "https://huggingface.co/thinkingmachines/Inkling-2-Small"
+     }
+    ],
+    "primary_url": "https://huggingface.co/thinkingmachines/Inkling-2-Small"
+   },
+   {
+    "id": "2046f5e50faf",
+    "title": "obra/superpowers: An agentic skills framework & software development methodology that works.",
+    "summary": "An agentic skills framework & software development methodology that works.",
+    "category": "Agents & Dev Tools",
+    "score": 52.3,
+    "published_at": "2026-11-19T07:03:45.262327+00:00",
+    "sources": [
+     {
+      "name": "GitHub Trending",
+      "url": "https://github.com/obra/superpowers"
+     }
+    ],
+    "primary_url": "https://github.com/obra/superpowers"
+   }
+  ]
+ },
+ "categories": {
+  "Models": [
+   {
+    "id": "b2c084a41275",
+    "title": "Gemini 4 Neon",
+    "summary": "",
+    "category": "Models",
+    "score": 64.3,
+    "published_at": "2026-11-18T21:34:07+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50552424"
+     }
+    ],
+    "primary_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/"
+   },
+   {
+    "id": "9491587c1875",
+    "title": "Gemini 4 Neon looks like an Opus 5.5 competitor",
+    "summary": "",
+    "category": "Models",
+    "score": 62.1,
+    "published_at": "2026-11-19T00:29:45+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50554374"
+     }
+    ],
+    "primary_url": "https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/"
+   },
+   {
+    "id": "ba05f6db61a4",
+    "title": "LLM assisted reverse engineering",
+    "summary": "",
+    "category": "Models",
+    "score": 60.5,
+    "published_at": "2026-11-18T22:29:13+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50553225"
+     }
+    ],
+    "primary_url": "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering"
+   },
+   {
+    "id": "549a77347d5e",
+    "title": "Introducing GPT-6.2 Astra and Sol",
+    "summary": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
+    "category": "Models",
+    "score": 60.5,
+    "published_at": "2026-11-17T17:45:00+00:00",
+    "sources": [
+     {
+      "name": "OpenAI",
+      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50535230"
+     }
+    ],
+    "primary_url": "https://openai.com/index/introducing-gpt-6-2-astra-sol"
+   },
+   {
+    "id": "dd0ead71d47c",
+    "title": "Artificial Analysis: Gemini 4 Neon trails only Claude Fable 5.2 and GPT-6.2 Astra on the Intelligence Index and rivals Opus 5.5 on coding at a much lower cost (Artificial Analysis)",
+    "summary": "Artificial Analysis : Artificial Analysis: Gemini 4 Neon trails only Claude Fable 5.2 and GPT-6.2 Astra on the Intelligence Index and rivals Opus 5.5 on coding at a much lower cost — Google continues…",
+    "category": "Models",
+    "score": 54.6,
+    "published_at": "2026-11-19T03:35:01+00:00",
+    "sources": [
+     {
+      "name": "Techmeme",
+      "url": "https://www.techmeme.com/261118/p58#a261118p58"
+     }
+    ],
+    "primary_url": "https://www.techmeme.com/261118/p58#a261118p58"
+   },
+   {
+    "id": "3ede266c56e2",
+    "title": "Why is Gemini 4 Carbon taking so long?",
+    "summary": "",
+    "category": "Models",
+    "score": 54.4,
+    "published_at": "2026-11-18T04:14:04+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50541790"
+     }
+    ],
+    "primary_url": "https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/"
+   },
+   {
+    "id": "6c64301c09e0",
+    "title": "Qwen/Qwen3.8-27B",
+    "summary": "",
+    "category": "Models",
+    "score": 53.5,
+    "published_at": "2026-11-19T07:03:45.262327+00:00",
+    "sources": [
+     {
+      "name": "Hugging Face Trending",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B"
+     }
+    ],
+    "primary_url": "https://huggingface.co/Qwen/Qwen3.8-27B"
+   },
+   {
+    "id": "dc79824f7494",
+    "title": "harness-hub/Qwen3.8-27B-pi-adapted",
+    "summary": "",
+    "category": "Models",
+    "score": 53.1,
+    "published_at": "2026-11-19T07:03:45.262327+00:00",
+    "sources": [
+     {
+      "name": "Hugging Face Trending",
+      "url": "https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted"
+     }
+    ],
+    "primary_url": "https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted"
+   },
+   {
+    "id": "13c0f423c09d",
+    "title": "nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB",
+    "summary": "",
+    "category": "Models",
+    "score": 50.8,
+    "published_at": "2026-11-19T07:03:45.262327+00:00",
+    "sources": [
+     {
+      "name": "Hugging Face Trending",
+      "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB"
+     }
+    ],
+    "primary_url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB"
+   },
+   {
+    "id": "b8930a9a56df",
+    "title": "Not Everything Needs an LLM",
+    "summary": "",
+    "category": "Models",
+    "score": 49.1,
+    "published_at": "2026-11-17T18:16:18+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://newsletter.posthog.com/p/decision-models"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50535740"
+     }
+    ],
+    "primary_url": "https://newsletter.posthog.com/p/decision-models"
+   }
+  ],
+  "Agents & Dev Tools": [
+   {
+    "id": "6e90be171f77",
+    "title": "吉林：到 2030 年新一代智能终端、智能体等应用普及率超 90%",
+    "summary": "吉林省人民政府办公厅印发《吉林省「人工智能 + 」发展「十五五」规划》，提出到 2030 年，「人工智能＋」全面深化拓展，新一代智能终端、智能体等应用普及率超 90%，人工智能在产业升级、消费提质、民生保障、公共治理、科技创新中的作用将得到充分显现，涌现一批新设施、新技术、新产业、新业态、新岗位，形成人机协同、跨界融合、共创分享的智能经济和智能社会新形态。",
+    "category": "Agents & Dev Tools",
+    "score": 69.7,
+    "published_at": "2026-11-19T06:15:12.197000+00:00",
+    "sources": [
+     {
+      "name": "Readhub",
+      "url": "https://readhub.cn/topic/8yBB6WLl6cc"
+     }
+    ],
+    "primary_url": "https://readhub.cn/topic/8yBB6WLl6cc"
+   },
+   {
+    "id": "dbf723300382",
+    "title": "AI agents ask better questions than KPMG accountants in audit trial",
+    "summary": "",
+    "category": "Agents & Dev Tools",
+    "score": 60.6,
+    "published_at": "2026-11-18T15:49:34+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50547777"
+     }
+    ],
+    "primary_url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/"
+   },
+   {
+    "id": "ccd20cda6867",
+    "title": "Arizona's AG opens a criminal investigation into OpenAI and other AI companies relating to the \"apparent infiltration of banks by rogue AI agents\" (David Thomas/Reuters)",
+    "summary": "David Thomas / Reuters : Arizona's AG opens a criminal investigation into OpenAI and other AI companies relating to the “apparent infiltration of banks by rogue AI agents” — The state of Arizona has …",
+    "category": "Agents & Dev Tools",
+    "score": 54.9,
+    "published_at": "2026-11-19T04:20:01+00:00",
+    "sources": [
+     {
+      "name": "Techmeme",
+      "url": "https://www.techmeme.com/261118/p61#a261118p61"
+     }
+    ],
+    "primary_url": "https://www.techmeme.com/261118/p61#a261118p61"
+   },
+   {
+    "id": "14832d8209b1",
+    "title": "google-research/paper-orchestra: PaperOrchestra is a multi-agent framework for automated AI research paper writing.",
+    "summary": "PaperOrchestra is a multi-agent framework for automated AI research paper writing.",
+    "category": "Agents & Dev Tools",
+    "score": 54.0,
+    "published_at": "2026-11-19T07:03:45.262327+00:00",
+    "sources": [
+     {
+      "name": "GitHub Trending",
+      "url": "https://github.com/google-research/paper-orchestra"
+     }
+    ],
+    "primary_url": "https://github.com/google-research/paper-orchestra"
+   },
+   {
+    "id": "ee66fe18136b",
+    "title": "OpenAI says agents now complete 46% of its researchers' 2-to-4-hour tasks on their own, vs. 23% in March, median researcher's agent use hit $2,400/day, and more (OpenAI)",
+    "summary": "OpenAI : OpenAI says agents now complete 46% of its researchers' 2-to-4-hour tasks on their own, vs. 23% in March, median researcher's agent use hit $2,400/day, and more — Over the course of this yea…",
+    "category": "Agents & Dev Tools",
+    "score": 53.9,
+    "published_at": "2026-11-19T01:55:04+00:00",
+    "sources": [
+     {
+      "name": "Techmeme",
+      "url": "https://www.techmeme.com/261118/p54#a261118p54"
+     }
+    ],
+    "primary_url": "https://www.techmeme.com/261118/p54#a261118p54"
+   },
+   {
+    "id": "3429c7218e4f",
+    "title": "affaan-m/ECC: The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "summary": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "category": "Agents & Dev Tools",
+    "score": 53.1,
+    "published_at": "2026-11-19T07:03:45.262327+00:00",
+    "sources": [
+     {
+      "name": "GitHub Trending",
+      "url": "https://github.com/affaan-m/ECC"
+     }
+    ],
+    "primary_url": "https://github.com/affaan-m/ECC"
+   },
+   {
+    "id": "01e478ba125a",
+    "title": "mvanhorn/last30days-skill: AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+    "summary": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+    "category": "Agents & Dev Tools",
+    "score": 53.0,
+    "published_at": "2026-11-19T07:03:45.262327+00:00",
+    "sources": [
+     {
+      "name": "GitHub Trending",
+      "url": "https://github.com/mvanhorn/last30days-skill"
+     }
+    ],
+    "primary_url": "https://github.com/mvanhorn/last30days-skill"
+   },
+   {
+    "id": "2046f5e50faf",
+    "title": "obra/superpowers: An agentic skills framework & software development methodology that works.",
+    "summary": "An agentic skills framework & software development methodology that works.",
+    "category": "Agents & Dev Tools",
+    "score": 52.3,
+    "published_at": "2026-11-19T07:03:45.262327+00:00",
+    "sources": [
+     {
+      "name": "GitHub Trending",
+      "url": "https://github.com/obra/superpowers"
+     }
+    ],
+    "primary_url": "https://github.com/obra/superpowers"
+   },
+   {
+    "id": "6e090bb95c89",
+    "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
+    "summary": "",
+    "category": "Agents & Dev Tools",
+    "score": 52.0,
+    "published_at": "2026-11-17T21:16:12+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50538303"
+     }
+    ],
+    "primary_url": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/"
+   },
+   {
+    "id": "52adf762d407",
+    "title": "google-labs-code/stitch-skills: A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+    "summary": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude …",
+    "category": "Agents & Dev Tools",
+    "score": 50.1,
+    "published_at": "2026-11-19T07:03:45.262327+00:00",
+    "sources": [
+     {
+      "name": "GitHub Trending",
+      "url": "https://github.com/google-labs-code/stitch-skills"
+     }
+    ],
+    "primary_url": "https://github.com/google-labs-code/stitch-skills"
+   }
+  ],
+  "Products": [
+   {
+    "id": "48366bf460ae",
+    "title": "安谋科技深度解析Arm Cortex-M42，发布“星辰100e”AIoT原型平台，助力打造AI性能更强的嵌入式设计",
+    "summary": "11月18日，安谋科技（中国）有限公司举办Arm® Cortex®-M CPU新品说明会",
+    "category": "Products",
+    "score": 42.7,
+    "published_at": "2026-11-19T04:02:39+00:00",
+    "sources": [
+     {
+      "name": "量子位",
+      "url": "https://www.qbitai.com/2026/11/511079.html"
+     }
+    ],
+    "primary_url": "https://www.qbitai.com/2026/11/511079.html"
+   },
+   {
+    "id": "3807e7a65dc0",
+    "title": "Google升級Gemini Tasks，新增AI代打電話、購物付款功能，首度開放免費使用",
+    "summary": "新聞 Google周二（11/17）宣布升級AI代理人功能 Gemini Tasks ，率先於美國推出代打電話、預約服務、購物付款及帳單分析等進階功能， 同時首度開放 美國、日本、南韓、加拿大、澳洲及印度等6國用戶免費使用。 Gemini Tasks前身為Google今年5月在Google I/O大會推出的 Gemini Spark ，先開放給Google AI Ultra付費用戶，10月整合至…",
+    "category": "Products",
+    "score": 42.3,
+    "published_at": "2026-11-19T03:05:50+00:00",
+    "sources": [
+     {
+      "name": "iThome",
+      "url": "https://www.ithome.com.tw/news/180641"
+     }
+    ],
+    "primary_url": "https://www.ithome.com.tw/news/180641"
+   },
+   {
+    "id": "6daae7e36fde",
+    "title": "初中毕业烘焙师，1 人搓出单集千万播放科幻剧，中国AI长片杀疯了！",
+    "summary": "国产AI工具实现「一个人就是一个剧组」",
+    "category": "Products",
+    "score": 41.2,
+    "published_at": "2026-11-19T00:26:40+00:00",
+    "sources": [
+     {
+      "name": "量子位",
+      "url": "https://www.qbitai.com/2026/11/510947.html"
+     }
+    ],
+    "primary_url": "https://www.qbitai.com/2026/11/510947.html"
+   },
+   {
+    "id": "14c609265d0e",
+    "title": "The nation’s largest school districts consider ditching Google Search",
+    "summary": "New York, Los Angeles, and Chicago schools are considering Google alternatives after the company said it will disable Search for schools that opt out of its AI features, according to The New York Tim…",
+    "category": "Products",
+    "score": 40.8,
+    "published_at": "2026-11-18T23:18:35+00:00",
+    "sources": [
+     {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google"
+     }
+    ],
+    "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google"
+   },
+   {
+    "id": "b527b6f0ddce",
+    "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+    "summary": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
+    "category": "Products",
+    "score": 40.4,
+    "published_at": "2026-11-18T08:00:00+00:00",
+    "sources": [
+     {
+      "name": "OpenAI",
+      "url": "https://openai.com/business/customer-stories/sumitomo-life"
+     }
+    ],
+    "primary_url": "https://openai.com/business/customer-stories/sumitomo-life"
+   }
+  ],
+  "Open Source": [
+   {
+    "id": "6518fbd35a14",
+    "title": "higurashi-ai/Haru-4B",
+    "summary": "",
+    "category": "Open Source",
+    "score": 54.0,
+    "published_at": "2026-11-19T07:03:45.262327+00:00",
+    "sources": [
+     {
+      "name": "Hugging Face Trending",
+      "url": "https://huggingface.co/higurashi-ai/Haru-4B"
+     }
+    ],
+    "primary_url": "https://huggingface.co/higurashi-ai/Haru-4B"
+   },
+   {
+    "id": "1f1dbabb56c4",
+    "title": "MiniMaxAI/MiniMax-H3-Image",
+    "summary": "",
+    "category": "Open Source",
+    "score": 53.5,
+    "published_at": "2026-11-19T07:03:45.262327+00:00",
+    "sources": [
+     {
+      "name": "Hugging Face Trending",
+      "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image"
+     }
+    ],
+    "primary_url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image"
+   },
+   {
+    "id": "b4f1a99333cf",
+    "title": "tencent/Hy4-flash",
+    "summary": "",
+    "category": "Open Source",
+    "score": 53.3,
+    "published_at": "2026-11-19T07:03:45.262327+00:00",
+    "sources": [
+     {
+      "name": "Hugging Face Trending",
+      "url": "https://huggingface.co/tencent/Hy4-flash"
+     }
+    ],
+    "primary_url": "https://huggingface.co/tencent/Hy4-flash"
+   },
+   {
+    "id": "7064e35195fc",
+    "title": "n4ze3m/tiny-voca",
+    "summary": "",
+    "category": "Open Source",
+    "score": 53.1,
+    "published_at": "2026-11-19T07:03:45.262327+00:00",
+    "sources": [
+     {
+      "name": "Hugging Face Trending",
+      "url": "https://huggingface.co/n4ze3m/tiny-voca"
+     }
+    ],
+    "primary_url": "https://huggingface.co/n4ze3m/tiny-voca"
+   },
+   {
+    "id": "6f06a2856d59",
+    "title": "apple/FastFrames-L",
+    "summary": "",
+    "category": "Open Source",
+    "score": 53.0,
+    "published_at": "2026-11-19T07:03:45.262327+00:00",
+    "sources": [
+     {
+      "name": "Hugging Face Trending",
+      "url": "https://huggingface.co/apple/FastFrames-L"
+     }
+    ],
+    "primary_url": "https://huggingface.co/apple/FastFrames-L"
+   },
+   {
+    "id": "7e4a9fc0b12e",
+    "title": "meituan-longcat/LongCat-Video-Avatar-1.6",
+    "summary": "",
+    "category": "Open Source",
+    "score": 52.7,
+    "published_at": "2026-11-19T07:03:45.262327+00:00",
+    "sources": [
+     {
+      "name": "Hugging Face Trending",
+      "url": "https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.6"
+     }
+    ],
+    "primary_url": "https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.6"
+   },
+   {
+    "id": "04ce1345cda9",
+    "title": "Lightricks/LTX-2.5",
+    "summary": "",
+    "category": "Open Source",
+    "score": 52.7,
+    "published_at": "2026-11-19T07:03:45.262327+00:00",
+    "sources": [
+     {
+      "name": "Hugging Face Trending",
+      "url": "https://huggingface.co/Lightricks/LTX-2.5"
+     }
+    ],
+    "primary_url": "https://huggingface.co/Lightricks/LTX-2.5"
+   },
+   {
+    "id": "427397f9a75a",
+    "title": "maxwell-model/Maxwell-V1-Flash",
+    "summary": "",
+    "category": "Open Source",
+    "score": 52.6,
+    "published_at": "2026-11-19T07:03:45.262327+00:00",
+    "sources": [
+     {
+      "name": "Hugging Face Trending",
+      "url": "https://huggingface.co/maxwell-model/Maxwell-V1-Flash"
+     }
+    ],
+    "primary_url": "https://huggingface.co/maxwell-model/Maxwell-V1-Flash"
+   },
+   {
+    "id": "6ae972136210",
+    "title": "thinkingmachines/Inkling-2-Small",
+    "summary": "",
+    "category": "Open Source",
+    "score": 52.6,
+    "published_at": "2026-11-19T07:03:45.262327+00:00",
+    "sources": [
+     {
+      "name": "Hugging Face Trending",
+      "url": "https://huggingface.co/thinkingmachines/Inkling-2-Small"
+     }
+    ],
+    "primary_url": "https://huggingface.co/thinkingmachines/Inkling-2-Small"
+   },
+   {
+    "id": "4b443d68faa9",
+    "title": "sensenova/SenseNova-Loop-9B",
+    "summary": "",
+    "category": "Open Source",
+    "score": 51.7,
+    "published_at": "2026-11-19T07:03:45.262327+00:00",
+    "sources": [
+     {
+      "name": "Hugging Face Trending",
+      "url": "https://huggingface.co/sensenova/SenseNova-Loop-9B"
+     }
+    ],
+    "primary_url": "https://huggingface.co/sensenova/SenseNova-Loop-9B"
+   }
+  ],
+  "Research": [
+   {
+    "id": "9de2002c6357",
+    "title": "Sources: technical staff at several Chinese humanoid robot makers have been denied US visas ahead of CES, hampering their efforts to showcase their hardware (Nikkei Asia)",
+    "summary": "Nikkei Asia : Sources: technical staff at several Chinese humanoid robot makers have been denied US visas ahead of CES, hampering their efforts to showcase their hardware — HONG KONG — Researchers an…",
+    "category": "Research",
+    "score": 55.5,
+    "published_at": "2026-11-19T05:50:02+00:00",
+    "sources": [
+     {
+      "name": "Techmeme",
+      "url": "https://www.techmeme.com/261119/p1#a261119p1"
+     }
+    ],
+    "primary_url": "https://www.techmeme.com/261119/p1#a261119p1"
+   },
+   {
+    "id": "0b998456a3ae",
+    "title": "Beijing-based MegaRobo, which uses robotics and AI to automate lab work for biotech research, raised ~$200M; it became a unicorn after raising $300M in 2022 (Bloomberg)",
+    "summary": "Bloomberg : Beijing-based MegaRobo, which uses robotics and AI to automate lab work for biotech research, raised ~$200M; it became a unicorn after raising $300M in 2022 — Chinese biotech upstart Mega…",
+    "category": "Research",
+    "score": 55.0,
+    "published_at": "2026-11-19T04:45:01+00:00",
+    "sources": [
+     {
+      "name": "Techmeme",
+      "url": "https://www.techmeme.com/261118/p63#a261118p63"
+     }
+    ],
+    "primary_url": "https://www.techmeme.com/261118/p63#a261118p63"
+   },
+   {
+    "id": "b5c8370aae01",
+    "title": "TeleChat to Xing4: Advancing Frontier Agentic Models on Domestic Chips and Frameworks",
+    "summary": "We present Xing 4, a series of large language models that extends the TeleChat lineage through coordinated advances in model architecture and training infrastructure on Ascend. This report describes …",
+    "category": "Research",
+    "score": 48.0,
+    "published_at": "2026-11-19T07:03:45.262327+00:00",
+    "sources": [
+     {
+      "name": "Hugging Face Papers",
+      "url": "https://huggingface.co/papers/2611.22115"
+     }
+    ],
+    "primary_url": "https://huggingface.co/papers/2611.22115"
+   },
+   {
+    "id": "1c343af691bc",
+    "title": "AscendGYM: A Cost-Aware Kernel Optimization Benchmark for Real-World Workloads on Ascend NPUs",
+    "summary": "Kernel optimization is essential for efficient large language model (LLM) training and inference on Ascend NPUs. Existing Ascend kernel benchmarks primarily focus on kernel generation, with less emph…",
+    "category": "Research",
+    "score": 45.9,
+    "published_at": "2026-11-19T07:03:45.262327+00:00",
+    "sources": [
+     {
+      "name": "Hugging Face Papers",
+      "url": "https://huggingface.co/papers/2611.17621"
+     }
+    ],
+    "primary_url": "https://huggingface.co/papers/2611.17621"
+   },
+   {
+    "id": "62671662bfc5",
+    "title": "Weight-Space Programming Doesn't Need Transformers",
+    "summary": "Standard neural architectures such as the Transformer were chosen because they train well with gradient descent and run fast on GPUs. In weight-space programming, a large language model (LLM) writes …",
+    "category": "Research",
+    "score": 43.7,
+    "published_at": "2026-11-19T07:03:45.262327+00:00",
+    "sources": [
+     {
+      "name": "Hugging Face Papers",
+      "url": "https://huggingface.co/papers/2611.22055"
+     }
+    ],
+    "primary_url": "https://huggingface.co/papers/2611.22055"
+   },
+   {
+    "id": "7047e076bcca",
+    "title": "Multi-Branch Transformer",
+    "summary": "Transformer language models are commonly scaled by making their blocks wider or stacking them deeper. In this work, we explore a complementary path: branching, the parallel composition of full Transf…",
+    "category": "Research",
+    "score": 43.2,
+    "published_at": "2026-11-19T07:03:45.262327+00:00",
+    "sources": [
+     {
+      "name": "Hugging Face Papers",
+      "url": "https://huggingface.co/papers/2611.19800"
+     }
+    ],
+    "primary_url": "https://huggingface.co/papers/2611.19800"
+   },
+   {
+    "id": "5ed8080e8d3e",
+    "title": "ForceHarness: Turning Force into Action and Physics for Frozen Frontier Models",
+    "summary": "Frontier multimodal models can now control robots zero-shot from images, yet many manipulation tasks depend on contact forces that images cannot show. Bringing force to an API-only frozen model raise…",
+    "category": "Research",
+    "score": 42.8,
+    "published_at": "2026-11-19T07:03:45.262327+00:00",
+    "sources": [
+     {
+      "name": "Hugging Face Papers",
+      "url": "https://huggingface.co/papers/2611.21099"
+     }
+    ],
+    "primary_url": "https://huggingface.co/papers/2611.21099"
+   },
+   {
+    "id": "c05f375e354c",
+    "title": "Breath-Dx: A Time Series Classification Benchmark for Disease Screening with eNose",
+    "summary": "Electronic nose (eNose) technology offers a portable, non-invasive route for disease screening via exhaled breath analysis. However, progress in the field is hindered by the lack of systematic benchm…",
+    "category": "Research",
+    "score": 41.9,
+    "published_at": "2026-11-19T07:03:45.262327+00:00",
+    "sources": [
+     {
+      "name": "Hugging Face Papers",
+      "url": "https://huggingface.co/papers/2611.15348"
+     }
+    ],
+    "primary_url": "https://huggingface.co/papers/2611.15348"
+   },
+   {
+    "id": "06a3dfba7c27",
+    "title": "Self-Improvement Memory Enables Continual Recursive Self-Improvement",
+    "summary": "Harness optimization is often studied with a fixed policy model and benchmark. When either changes, the optimizer must decide which parts of an evolved harness to reuse or revise, but the harness alo…",
+    "category": "Research",
+    "score": 41.7,
+    "published_at": "2026-11-19T07:03:45.262327+00:00",
+    "sources": [
+     {
+      "name": "Hugging Face Papers",
+      "url": "https://huggingface.co/papers/2611.18856"
+     }
+    ],
+    "primary_url": "https://huggingface.co/papers/2611.18856"
+   },
+   {
+    "id": "71047f93c532",
+    "title": "FastFrames: Video Generation at Interactive Latency",
+    "summary": "Autoregressive video diffusion models generate frames based on new observations and inputs, making them a promising medium for interactive visual experiences. However, existing models are orders of m…",
+    "category": "Research",
+    "score": 40.8,
+    "published_at": "2026-11-19T07:03:45.262327+00:00",
+    "sources": [
+     {
+      "name": "Hugging Face Papers",
+      "url": "https://huggingface.co/papers/2611.23226"
+     }
+    ],
+    "primary_url": "https://huggingface.co/papers/2611.23226"
+   }
+  ],
+  "Policy & Safety": [
+   {
+    "id": "a7198dcd1e8e",
+    "title": "欧盟委员会遭网络攻击，情况已持续超过 10 天",
+    "summary": "欧盟委员会遭遇网络攻击，部分员工无法录入薪资信息，系统中断已持续超 10 天。欧盟机构网络安全应急响应机构发现黑客使用了公开可用的 ARTEX 工具，该工具可利用人工智能技术识别 IT 系统漏洞。欧盟委员会认为已遏制大部分攻击，但具体损害程度仍不清楚，目前部分系统可能正在恢复运行，相关调查仍在继续。此前作为预防措施被暂时停用的部分应用程序，目前大部分已恢复访问。",
+    "category": "Policy & Safety",
+    "score": 64.2,
+    "published_at": "2026-11-19T07:01:42.246000+00:00",
+    "sources": [
+     {
+      "name": "Readhub",
+      "url": "https://readhub.cn/topic/8yBBotOuBUO"
+     }
+    ],
+    "primary_url": "https://readhub.cn/topic/8yBBotOuBUO"
+   },
+   {
+    "id": "0bd7a28301d2",
+    "title": "\"Anthropic Is Not a Safe AI Company\" – Coalition Challenges Anthropic Safety",
+    "summary": "",
+    "category": "Policy & Safety",
+    "score": 57.6,
+    "published_at": "2026-11-18T16:41:22+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://www.businesswire.com/news/home/20261118974464/en/Anthropic-is-Not-a-Safe-AI-Company---Broad-Coalition-of-Scientists-Legal-Scholars-and-Tech-Leaders-Challenge-Anthropics-Safety-Branding-Ahead-of-IPO"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50548485"
+     }
+    ],
+    "primary_url": "https://www.businesswire.com/news/home/20261118974464/en/Anthropic-is-Not-a-Safe-AI-Company---Broad-Coalition-of-Scientists-Legal-Scholars-and-Tech-Leaders-Challenge-Anthropics-Safety-Branding-Ahead-of-IPO"
+   },
+   {
+    "id": "fbe096045978",
+    "title": "A US congressional commission report says China's PLA is seeking advanced Nvidia chips for AI-enabled weapons, as domestic chips continue to lag US rivals (Jaspreet Singh/Reuters)",
+    "summary": "Jaspreet Singh / Reuters : A US congressional commission report says China's PLA is seeking advanced Nvidia chips for AI-enabled weapons, as domestic chips continue to lag US rivals — China's militar…",
+    "category": "Policy & Safety",
+    "score": 55.5,
+    "published_at": "2026-11-19T05:55:31+00:00",
+    "sources": [
+     {
+      "name": "Techmeme",
+      "url": "https://www.techmeme.com/261119/p2#a261119p2"
+     }
+    ],
+    "primary_url": "https://www.techmeme.com/261119/p2#a261119p2"
+   },
+   {
+    "id": "3781448153b0",
+    "title": "NVIDIA/SkillEvaluator: Multi-tier framework for evaluating AI agent skills and plugins with quality gates, security scanning, harness compatibility checks, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior. Ships reusable CI templates that bring every check to any repository.",
+    "summary": "Multi-tier framework for evaluating AI agent skills and plugins with quality gates, security scanning, harness compatibility checks, semantic overlap detection, synthetic evaluation dataset generatio…",
+    "category": "Policy & Safety",
+    "score": 49.7,
+    "published_at": "2026-11-19T07:03:45.262327+00:00",
+    "sources": [
+     {
+      "name": "GitHub Trending",
+      "url": "https://github.com/NVIDIA/SkillEvaluator"
+     }
+    ],
+    "primary_url": "https://github.com/NVIDIA/SkillEvaluator"
+   },
+   {
+    "id": "8c5b4e01285e",
+    "title": "Regulatory Capture by Anthropic Through METR",
+    "summary": "",
+    "category": "Policy & Safety",
+    "score": 46.0,
+    "published_at": "2026-11-17T12:21:57+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://nitter.cf/kevinnbass/status/2099621874279817638"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50530450"
+     }
+    ],
+    "primary_url": "https://nitter.cf/kevinnbass/status/2099621874279817638"
+   },
+   {
+    "id": "2683033a6a0c",
+    "title": "Nginx緊急修補10個漏洞，其中5個恐遭遠端執行程式碼",
+    "summary": "新聞 開源網頁伺服器軟體 Nginx周三（11/18）發布1.30.7穩定版及1.31.9主線版 ，緊急修補10個安全漏洞，其中有5個屬於遠端程式攻擊漏洞，而資安業者 Xint也獨立發現 了這5項漏洞，並將它們稱為nginx2root。 Nginx是由俄羅斯軟體工程師Igor Sysoev在2004年所打造，為一開放原始碼網頁伺服器軟體，主要用於提供網站內容、處理及轉送網路請求，也能作為反向代理…",
+    "category": "Policy & Safety",
+    "score": 43.4,
+    "published_at": "2026-11-19T05:41:38+00:00",
+    "sources": [
+     {
+      "name": "iThome",
+      "url": "https://www.ithome.com.tw/news/180651"
+     }
+    ],
+    "primary_url": "https://www.ithome.com.tw/news/180651"
+   },
+   {
+    "id": "d8a746e8be57",
+    "title": "資安業者揭露ARTEX攻擊事件應變過程，AI代理程式取得API金鑰後幾分鐘內即發動攻擊，防守方也用AI加速調查",
+    "summary": "新聞 AI代理程式攻擊框架ARTEX持續受到資安界關注，已有多家資安業者揭露相關攻擊活動及調查結果，但較少詳細說明第一線資安團隊的實際應變經過。資安業者Eye Security近日 公布一起企業遭ARTEX攻擊的事件應變案例 ，詳細揭露攻擊者如何利用AI代理程式快速滲透企業環境，以及防守方如何調查、阻擋攻擊，甚至運用AI代理程式協助應變。 Eye Security指出，ARTEX是一套以LLM代…",
+    "category": "Policy & Safety",
+    "score": 43.1,
+    "published_at": "2026-11-19T04:47:05+00:00",
+    "sources": [
+     {
+      "name": "iThome",
+      "url": "https://www.ithome.com.tw/news/180647"
+     }
+    ],
+    "primary_url": "https://www.ithome.com.tw/news/180647"
+   },
+   {
+    "id": "eb484ebf9fea",
+    "title": "駭客利用AI代理框架ARTEX攻擊資安公司Barracuda，44小時入侵10個雲端帳戶搜刮憑證",
+    "summary": "新聞 資安公司Barracuda近日揭露 雲端環境遭到入侵的事件 ，攻擊者利用遭竊的雲端存取金鑰，在44小時內橫跨10個雲端帳戶，持續蒐集憑證、探索內部系統，並嘗試建立後門，根據該公司的調查，此次攻擊行為使用的工具，就是AI滲透測試框架ARTEX。 駭客最初入侵的管道，是Barracuda尚未撤銷的雲端存取金鑰，該公司先前委託一家AI公司執行專案而提供，到了2026年10月，該AI公司的開發環境…",
+    "category": "Policy & Safety",
+    "score": 41.9,
+    "published_at": "2026-11-19T01:55:29+00:00",
+    "sources": [
+     {
+      "name": "iThome",
+      "url": "https://www.ithome.com.tw/news/180621"
+     }
+    ],
+    "primary_url": "https://www.ithome.com.tw/news/180621"
+   },
+   {
+    "id": "22c3131e87fd",
+    "title": "Palmer Luckey warns AI-powered cyberattacks are outpacing defenses: ‘It’s time to start running’",
+    "summary": "The Anduril co-founder says outdated technology is leaving systems vulnerable to a new wave of AI-enabled attacks.",
+    "category": "Policy & Safety",
+    "score": 40.0,
+    "published_at": "2026-11-18T21:34:13+00:00",
+    "sources": [
+     {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/18/palmer-luckey-warns-ai-powered-cyberattacks-are-outpacing-defenses-its-time-to-start-running/"
+     }
+    ],
+    "primary_url": "https://techcrunch.com/2026/11/18/palmer-luckey-warns-ai-powered-cyberattacks-are-outpacing-defenses-its-time-to-start-running/"
+   },
+   {
+    "id": "8b6ac2940fdc",
+    "title": "Managing frontier AI risk: From training to deployment",
+    "summary": "OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring.",
+    "category": "Policy & Safety",
+    "score": 39.6,
+    "published_at": "2026-11-18T06:00:00+00:00",
+    "sources": [
+     {
+      "name": "OpenAI",
+      "url": "https://openai.com/index/managing-frontier-ai-risk"
+     }
+    ],
+    "primary_url": "https://openai.com/index/managing-frontier-ai-risk"
+   }
+  ],
+  "Business": [
+   {
+    "id": "c18d4b4bd51d",
+    "title": "2027 款极氪 7X 将于 11 月 27 日广州车展上市 预售 22.98 万起",
+    "summary": "极氪宣布 2027 款极氪 7X 将于 11 月 27 日在 2026 广州国际汽车展览会 D 区 20.2 号馆正式上市，该车此前已于 11 月 5 日开启预售，预售价 22.98 万元起。新车定位全球家庭豪华 SUV，共推出三款车型，围绕安全、舒适、三电、智能座舱等完成七大升级，全系升级 900V 相关系统，新增 85kWh 神盾金砖电池版本。不同配置版本对应不同续航表现，各电池版本均支持高…",
+    "category": "Business",
+    "score": 63.9,
+    "published_at": "2026-11-19T06:10:18.644000+00:00",
+    "sources": [
+     {
+      "name": "Readhub",
+      "url": "https://readhub.cn/topic/8yAzKdRilDH"
+     }
+    ],
+    "primary_url": "https://readhub.cn/topic/8yAzKdRilDH"
+   },
+   {
+    "id": "e16bdd1bf5f7",
+    "title": "亚马逊 CEO：AI 算力预订排至 2029 年 明年资本开支显著增加",
+    "summary": "亚马逊行政总裁 Andy Jassy 表示，当前 AI 算力需求极为强劲，除保留部分按需调配容量外，2027 年大额算力已大部分获客户预订，2028 年算力也有相当比例被锁定，2029 年已录得不少预订需求。他重申亚马逊预计今年资本开支约 2200 亿美元，明年投入将显著增加。旗下云端服务 AWS 在生成式 AI 浪潮首三年的 AI 收入已突破 250 亿美元，增速较 AWS 创立初期快 440…",
+    "category": "Business",
+    "score": 61.0,
+    "published_at": "2026-11-19T06:20:14.741000+00:00",
+    "sources": [
+     {
+      "name": "Readhub",
+      "url": "https://readhub.cn/topic/8yBAOMn7u4y"
+     }
+    ],
+    "primary_url": "https://readhub.cn/topic/8yBAOMn7u4y"
+   },
+   {
+    "id": "6e8257159d2b",
+    "title": "小摩：英伟达季绩反映 AI 需求仍强 供应链未见广泛订单削减",
+    "summary": "摩根大通研报指出，此前市场因对 AI 基建周期看法悲观，普遍预期未来三个月科技供应链将大幅下调每股盈利，英伟达 2027 财年第三季业绩公布前，投资者对科技板块的情绪处于过去四年最低谷，多数人认为受出口限制、需求不确定及 2028 年数据中心可用性等因素影响，供应链盈利预测会下调。当前强劲需求得到保障、2028 财年指引上调，叠加持续的供应链承诺，短期可安抚市场。目前未出现广泛订单削减，客户在运…",
+    "category": "Business",
+    "score": 60.9,
+    "published_at": "2026-11-19T06:00:32.003000+00:00",
+    "sources": [
+     {
+      "name": "Readhub",
+      "url": "https://readhub.cn/topic/8yB1otDh7mE"
+     }
+    ],
+    "primary_url": "https://readhub.cn/topic/8yB1otDh7mE"
+   },
+   {
+    "id": "25c96fa5a216",
+    "title": "Anthropic prices initial public offering",
+    "summary": "",
+    "category": "Business",
+    "score": 60.7,
+    "published_at": "2026-11-18T23:30:09+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50553843"
+     }
+    ],
+    "primary_url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering"
+   },
+   {
+    "id": "c7d3ecb00643",
+    "title": "Advancing chip design with OpenAI models",
+    "summary": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.",
+    "category": "Business",
+    "score": 57.7,
+    "published_at": "2026-11-18T00:00:00+00:00",
+    "sources": [
+     {
+      "name": "OpenAI",
+      "url": "https://openai.com/index/advancing-chip-design-with-our-models"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50549493"
+     }
+    ],
+    "primary_url": "https://openai.com/index/advancing-chip-design-with-our-models"
+   },
+   {
+    "id": "a7274720f199",
+    "title": "How Alibaba uses regional companies like Megaspeed to access Nvidia chips via offshore data centers and potentially aid a Chinese military-linked AI lab (New York Times)",
+    "summary": "New York Times : How Alibaba uses regional companies like Megaspeed to access Nvidia chips via offshore data centers and potentially aid a Chinese military-linked AI lab — Alibaba, the Chinese intern…",
+    "category": "Business",
+    "score": 54.4,
+    "published_at": "2026-11-19T03:15:02+00:00",
+    "sources": [
+     {
+      "name": "Techmeme",
+      "url": "https://www.techmeme.com/261118/p57#a261118p57"
+     }
+    ],
+    "primary_url": "https://www.techmeme.com/261118/p57#a261118p57"
+   },
+   {
+    "id": "4c1e6edeb87c",
+    "title": "NVIDIA 委任獵頭找黃仁勳接班人，傳已接觸 Arm 執行長 Rene Haas",
+    "summary": "NVIDIA 董事會委任的獵頭公司 Heidrick & Struggles，傳已接觸 Arm 執行長 Rene Haas，探詢他接掌 NVIDIA 的意願。這家 AI 晶片龍頭成立 33 年來第一次要找新執行長，目前曝光最多的人選，是一位 2013 年離開 NVIDIA 的老部屬。",
+    "category": "Business",
+    "score": 43.2,
+    "published_at": "2026-11-19T05:13:00+00:00",
+    "sources": [
+     {
+      "name": "INSIDE",
+      "url": "https://www.inside.com.tw/article/42958-nvidia-ceo-search-heidrick-arm-rene-haas"
+     }
+    ],
+    "primary_url": "https://www.inside.com.tw/article/42958-nvidia-ceo-search-heidrick-arm-rene-haas"
+   },
+   {
+    "id": "6d9d4776fc06",
+    "title": "OpenAI 攜手 AMD，用 AI 改良旗艦 GPU 電路設計",
+    "summary": "AMD 已經把部分修改放進最近一款送交製造的設計中，其他修改則加進正式量產用的設計檔案，準備用在未來的版本。",
+    "category": "Business",
+    "score": 42.6,
+    "published_at": "2026-11-19T03:36:00+00:00",
+    "sources": [
+     {
+      "name": "INSIDE",
+      "url": "https://www.inside.com.tw/article/42957-openai-amd-ai-chip-design-gpu-ppa-improvement"
+     }
+    ],
+    "primary_url": "https://www.inside.com.tw/article/42957-openai-amd-ai-chip-design-gpu-ppa-improvement"
+   },
+   {
+    "id": "5164de042931",
+    "title": "813 億美元寫下 IPO 新紀錄，Anthropic 每股 83 美元定價衝破區間上緣、規模超越 SpaceX",
+    "summary": "Anthropic 把 IPO 定價訂在每股 83 美元，高於原本 70 至 78 美元的區間，發行量也加碼到 9.8 億股，募得 813 億美元，以基本發行規模計超過 SpaceX 的 750 億美元。",
+    "category": "Business",
+    "score": 42.5,
+    "published_at": "2026-11-19T03:24:00+00:00",
+    "sources": [
+     {
+      "name": "INSIDE",
+      "url": "https://www.inside.com.tw/article/42956-anthropic-ipo-83-per-share-81-billion-record"
+     }
+    ],
+    "primary_url": "https://www.inside.com.tw/article/42956-anthropic-ipo-83-per-share-81-billion-record"
+   },
+   {
+    "id": "3a309e16ea12",
+    "title": "范式下场做基模了！国产算力全链路训练，双模型同步亮相",
+    "summary": "语言模型单张3090卡即可运行",
+    "category": "Business",
+    "score": 42.3,
+    "published_at": "2026-11-19T03:01:45+00:00",
+    "sources": [
+     {
+      "name": "量子位",
+      "url": "https://www.qbitai.com/2026/11/511071.html"
+     }
+    ],
+    "primary_url": "https://www.qbitai.com/2026/11/511071.html"
+   }
+  ],
+  "Other": [
+   {
+    "id": "f1feb2e4bb48",
+    "title": "AI is killing All About Berlin",
+    "summary": "",
+    "category": "Other",
+    "score": 58.4,
+    "published_at": "2026-11-18T06:47:26+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://nicolasbouliane.com/blog/death-by-ai"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50542705"
+     }
+    ],
+    "primary_url": "https://nicolasbouliane.com/blog/death-by-ai"
+   },
+   {
+    "id": "23a6e8d38fa0",
+    "title": "Energy-Based Reasoners: 385x more efficient inference",
+    "summary": "",
+    "category": "Other",
+    "score": 56.9,
+    "published_at": "2026-11-18T09:29:32+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://energy-based-reasoners.github.io/"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50543989"
+     }
+    ],
+    "primary_url": "https://energy-based-reasoners.github.io/"
+   },
+   {
+    "id": "695d1f9a1cf6",
+    "title": "Google's AI answers reducing search traffic by 40%",
+    "summary": "",
+    "category": "Other",
+    "score": 55.4,
+    "published_at": "2026-11-18T00:17:58+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://revscope.co/blog/search-seo-geo-2026/"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50540178"
+     }
+    ],
+    "primary_url": "https://revscope.co/blog/search-seo-geo-2026/"
+   },
+   {
+    "id": "d021019fd830",
+    "title": "Claude was trained on protein sequences at scale",
+    "summary": "",
+    "category": "Other",
+    "score": 53.0,
+    "published_at": "2026-11-18T03:47:43+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "http://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50541619"
+     }
+    ],
+    "primary_url": "http://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/"
+   },
+   {
+    "id": "3c17f9a2318e",
+    "title": "Cerebras Disaggregated Inference",
+    "summary": "",
+    "category": "Other",
+    "score": 50.4,
+    "published_at": "2026-11-18T00:56:23+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50540472"
+     }
+    ],
+    "primary_url": "https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference"
+   },
+   {
+    "id": "246f1a63c5a1",
+    "title": "Baidu, Xiaomi CEOs warn of growing gap between AI hype and returns",
+    "summary": "",
+    "category": "Other",
+    "score": 47.6,
+    "published_at": "2026-11-17T14:19:59+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://www.scmp.com/tech/big-tech/article/3374774/baidu-xiaomi-ceos-warn-growing-gap-between-ai-hype-and-returns"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50531751"
+     }
+    ],
+    "primary_url": "https://www.scmp.com/tech/big-tech/article/3374774/baidu-xiaomi-ceos-warn-growing-gap-between-ai-hype-and-returns"
+   },
+   {
+    "id": "50e3ea47cbae",
+    "title": "Genie 4 is now available",
+    "summary": "",
+    "category": "Other",
+    "score": 44.7,
+    "published_at": "2026-11-18T18:13:42+00:00",
+    "sources": [
+     {
+      "name": "Google DeepMind",
+      "url": "https://deepmind.google/blog/genie-4-is-now-available/"
+     }
+    ],
+    "primary_url": "https://deepmind.google/blog/genie-4-is-now-available/"
+   },
+   {
+    "id": "763142e6d2eb",
+    "title": "AI基建大潮方兴未艾，联想集团最佳财季诞生！",
+    "summary": "全球AI生态链领先企业联想集团今日公布截至2026/27财年第二季度业绩",
+    "category": "Other",
+    "score": 43.1,
+    "published_at": "2026-11-19T04:51:31+00:00",
+    "sources": [
+     {
+      "name": "量子位",
+      "url": "https://www.qbitai.com/2026/11/511088.html"
+     }
+    ],
+    "primary_url": "https://www.qbitai.com/2026/11/511088.html"
+   },
+   {
+    "id": "e683d40fba10",
+    "title": "The Silent Consensus",
+    "summary": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
+    "category": "Other",
+    "score": 41.2,
+    "published_at": "2026-11-18T10:00:00+00:00",
+    "sources": [
+     {
+      "name": "OpenAI",
+      "url": "https://openai.com/index/the-silent-consensus"
+     }
+    ],
+    "primary_url": "https://openai.com/index/the-silent-consensus"
+   },
+   {
+    "id": "74ced3375481",
+    "title": "Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’",
+    "summary": "“I don’t think [Huang is] disloyal to the United States,\" Musk said.",
+    "category": "Other",
+    "score": 40.8,
+    "published_at": "2026-11-18T23:25:17+00:00",
+    "sources": [
+     {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/"
+     }
+    ],
+    "primary_url": "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/"
+   }
+  ]
+ },
+ "source_list": [
+  {
+   "name": "Techmeme",
+   "url": "https://www.techmeme.com/feed.xml"
+  },
+  {
+   "name": "Hacker News",
+   "url": "https://hn.algolia.com/api/v1/search_by_date"
+  },
+  {
+   "name": "Readhub",
+   "url": "https://api.readhub.cn/topic/list"
+  },
+  {
+   "name": "r/MachineLearning",
+   "url": "https://www.reddit.com/r/MachineLearning/top/.rss?t=day"
+  },
+  {
+   "name": "r/LocalLLaMA",
+   "url": "https://www.reddit.com/r/LocalLLaMA/top/.rss?t=day"
+  },
+  {
+   "name": "OpenAI",
+   "url": "https://openai.com/news/rss.xml"
+  },
+  {
+   "name": "Google DeepMind",
+   "url": "https://deepmind.google/blog/rss.xml"
+  },
+  {
+   "name": "Hugging Face Blog",
+   "url": "https://huggingface.co/blog/feed.xml"
+  },
+  {
+   "name": "Mistral AI",
+   "url": "https://mistral.ai/rss.xml"
+  },
+  {
+   "name": "NVIDIA Blog",
+   "url": "https://blogs.nvidia.com/feed/"
+  },
+  {
+   "name": "TechCrunch",
+   "url": "https://techcrunch.com/category/artificial-intelligence/feed/"
+  },
+  {
+   "name": "The Verge",
+   "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml"
+  },
+  {
+   "name": "MIT Technology Review",
+   "url": "https://www.technologyreview.com/topic/artificial-intelligence/feed"
+  },
+  {
+   "name": "Ars Technica",
+   "url": "https://arstechnica.com/ai/feed/"
+  },
+  {
+   "name": "The Decoder",
+   "url": "https://the-decoder.com/feed/"
+  },
+  {
+   "name": "Hugging Face Papers",
+   "url": "https://huggingface.co/api/daily_papers"
+  },
+  {
+   "name": "GitHub Trending",
+   "url": "https://github.com/trending?since=daily"
+  },
+  {
+   "name": "Hugging Face Trending",
+   "url": "https://huggingface.co/api/models?sort=trendingScore&limit=20"
+  },
+  {
+   "name": "量子位",
+   "url": "https://www.qbitai.com/feed"
+  },
+  {
+   "name": "IT之家",
+   "url": "https://www.ithome.com/rss/"
+  },
+  {
+   "name": "iThome",
+   "url": "https://www.ithome.com.tw/rss.xml"
+  },
+  {
+   "name": "INSIDE",
+   "url": "https://www.inside.com.tw/feed/rss"
+  }
+ ],
+ "stats": {
+  "fetched": 174,
+  "after_dedup": 172,
+  "sources_ok": 20,
+  "sources_failed": 2,
+  "failed_sources": {
+   "r/MachineLearning": "HTTPError: 404 Client Error: Not Found for url: https://www.reddit.com/r/MachineLearning/top/.rss?t=day",
+   "r/LocalLLaMA": "HTTPError: 429 Client Error: Too Many Requests for url: https://www.reddit.com/r/LocalLLaMA/top/.rss?t=day"
+  },
+  "duration_s": 2.1
+ }
+}

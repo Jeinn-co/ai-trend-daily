@@ -4,6 +4,12 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>AI Trend Daily</title>
+    <meta name="theme-color" content="#f1f4f9" />
+    <script>
+      // set the theme before first paint so dark mode doesn't flash light; storage can throw in private windows
+      try { var t = localStorage.getItem("theme"); } catch (e) {}
+      document.documentElement.dataset.theme = t || (matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light");
+    </script>
     <meta name="description" content="AI news from around the world, collected every 12 hours, with links to every original source." />
     <style>
       :root {
@@ -34,7 +40,13 @@
       button, input, select, a { font: inherit; color: inherit; }
       a { text-decoration-color: var(--line); text-underline-offset: 3px; }
       a:hover { text-decoration-color: currentColor; }
-      .mono { font-family: "IBM Plex Mono", ui-monospace, monospace; }
+      .mono { font-family: "IBM Plex Mono", ui-monospace, monospace; font-variant-numeric: tabular-nums; }
+      :focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; border-radius: 4px; }
+      button, a, input, select { touch-action: manipulation; }
+      @media (prefers-reduced-motion: reduce) {
+        .tabs { scroll-behavior: auto; }
+        .card, .card:hover { transition: none; transform: none; }
+      }
 
       .sheet { max-width: 1120px; margin: 0 auto; padding: 28px 20px 48px; }
       .head { display: flex; flex-wrap: wrap; align-items: flex-end; justify-content: space-between; gap: 16px; margin-bottom: 20px; }
@@ -73,7 +85,7 @@
       .rank.top { padding: 1px 8px; border-radius: 6px; background: color-mix(in srgb, var(--c) 85%, var(--ink)); color: #fff; }
       .tag { padding: 2px 10px; border-radius: 999px; background: color-mix(in srgb, var(--c) 20%, transparent); color: color-mix(in srgb, var(--c) 60%, var(--ink)); font-weight: 500; }
       .score { margin-left: auto; }
-      .card h2 { margin: 0; font-size: 20px; font-weight: 600; line-height: 1.45; overflow-wrap: anywhere; }
+      .card h2 { margin: 0; font-size: 20px; font-weight: 600; line-height: 1.45; overflow-wrap: anywhere; text-wrap: pretty; }
       .summary { display: -webkit-box; margin: 10px 0 0; overflow: hidden; color: var(--muted); font-size: 16px; line-height: 1.7; -webkit-line-clamp: 4; -webkit-box-orient: vertical; }
 
       details.src { margin-top: auto; padding-top: 12px; font-size: 14px; color: var(--muted); }
@@ -89,7 +101,7 @@
 
       footer { margin-top: 40px; padding-top: 20px; border-top: 1px solid var(--line); color: var(--muted); font-size: 15px; line-height: 1.7; }
       footer h3 { margin: 16px 0 6px; color: var(--ink); font-size: 15px; font-weight: 600; }
-      footer select { padding: 6px 8px; border: 1px solid var(--line); border-radius: 8px; background: var(--sheet); }
+      footer select { padding: 6px 8px; border: 1px solid var(--line); border-radius: 8px; background: var(--sheet); color: var(--ink); }
       .srclist { display: flex; flex-wrap: wrap; gap: 4px 14px; margin: 0; padding: 0; list-style: none; }
 
       @media (max-width: 640px) {
@@ -110,8 +122,8 @@
           <p class="meta">Updated <b id="updated" translate="no">—</b> (Taipei time)</p>
         </div>
         <div class="bar">
-          <input id="q" class="search" type="search" placeholder="Search" aria-label="Search titles and descriptions" />
-          <button id="theme" class="btn" type="button" aria-label="Toggle dark mode">◐</button>
+          <input id="q" name="q" class="search" type="search" placeholder="Search titles…" autocomplete="off" aria-label="Search titles and descriptions" />
+          <button id="theme" class="btn" type="button" aria-label="Dark mode" aria-pressed="false"><span aria-hidden="true">◐</span></button>
         </div>
       </header>
 
@@ -154,7 +166,8 @@
         Research: "研究", "Policy & Safety": "政策與安全", Business: "產業", Other: "其他" };
       const label = (c) => (ZH[c] ? `${c} · ${ZH[c]}` : c);
       const $ = (id) => document.getElementById(id);
-      const state = { data: null, tab: "Headlines", expanded: false, q: "" };
+      const fromHash = decodeURIComponent(location.hash.slice(1));
+      const state = { data: null, tab: [...HIGHLIGHTS, ...CATEGORIES].includes(fromHash) ? fromHash : "Headlines", expanded: false, q: "" };
       const ALL = "__all"; // the "Show all by score" panel
       const listFor = (tab) => (state.data.highlights || {})[tab] || state.data.categories[tab] || [];
 
@@ -268,6 +281,7 @@
         if (!b) return;
         state.tab = b.dataset.tab;
         state.expanded = false;
+        history.replaceState(null, "", `#${encodeURIComponent(state.tab)}`);
         show();
       });
       $("view").addEventListener("click", (e) => {
@@ -285,11 +299,16 @@
       });
 
       const root = document.documentElement;
-      const saved = localStorage.getItem("theme");
-      root.dataset.theme = saved || "light";
+      const syncTheme = () => {
+        const dark = root.dataset.theme === "dark";
+        $("theme").setAttribute("aria-pressed", dark);
+        document.querySelector('meta[name="theme-color"]').content = dark ? "#0e131c" : "#f1f4f9";
+      };
+      syncTheme();
       $("theme").addEventListener("click", () => {
         root.dataset.theme = root.dataset.theme === "dark" ? "light" : "dark";
-        localStorage.setItem("theme", root.dataset.theme);
+        try { localStorage.setItem("theme", root.dataset.theme); } catch (e) {}
+        syncTheme();
       });
 
       const showError = (err) => {

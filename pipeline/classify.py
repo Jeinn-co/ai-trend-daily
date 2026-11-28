@@ -10,7 +10,8 @@ OTHER = "Other"  # no rule matched; not shown as a tab
 
 
 def words(*patterns):
-    return re.compile("|".join(patterns), re.IGNORECASE)
+    # ASCII: a Chinese character next to a Latin name ("修正GPT-6") must still count as a word boundary
+    return re.compile("|".join(patterns), re.IGNORECASE | re.ASCII)
 
 
 RULES = [
@@ -26,7 +27,7 @@ RULES = [
         r"\bteens?\b", r"\bminors?\b",
         "詐騙", "诈骗", "深偽", "深度伪造", "假訊息", "假新闻", "隱私", "隐私", "個資", "个人信息", "漏洞", "資安", "网络安全",
         "外洩", "泄露", "駭客", "黑客", "釣魚", "钓鱼", "監管", "监管", "法規", "法规", "法案", "立法", "版權", "版权",
-        "訴訟", "诉讼", "起訴", "起诉", "出口管制", "禁令", "未成年", "AI ?安全")),
+        "訴訟", "诉讼", "起訴", "起诉", "出口管制", "禁令", "未成年", "AI ?安全", r"\bgovernance\b", "治理")),
     ("Work & Jobs", words(
         r"\bjobs?\b", r"\blayoffs?\b", r"\blaid off\b", r"\bworkers?\b", r"\bworkforce\b", r"\bemploy(ees?|ment|ers?)\b",
         r"\bhiring\b", r"\bcareers?\b", r"\bunemploy", r"\breplace(s|d)? (humans?|workers?|jobs?)", r"\bworkplace\b",
@@ -36,8 +37,8 @@ RULES = [
     ("New Models", words(
         r"\b(GPT|Claude|Gemini|Llama|Qwen|DeepSeek|Mistral|Kimi|Grok|Gemma|Fable|Opus|Sonnet|Haiku|GLM|MiniMax|Veo|Sora)[- ]?\d",
         r"\bnew (AI )?model\b", r"\bmodel (release|launch)", r"\b(releases?|launch(es)?|unveils?|introduc(es|ing))\b.*\bmodel\b",
-        r"\bopen[- ]weights?\b", r"\bbenchmark", r"\bleaderboard\b",
-        "新模型", "大模型", "模型.*(發布|发布|推出|釋出|上线|上線|開源|开源)", "(發布|发布|推出|釋出|開源|开源).*模型", "跑分", "榜單", "榜单")),
+        r"\bopen[- ]weights?\b", r"\bbenchmark", r"\bleaderboard\b", r"\bworld models?\b", r"\btrain(s|ed|ing)? (on|from scratch)\b",
+        "新模型", "大模型", "模型.*(發布|发布|推出|釋出|上线|上線|開源|开源)", "(發布|发布|推出|釋出|開源|开源).*模型", "跑分", "榜單", "榜单", "訓練", "训练")),
     ("Everyday AI", words(
         r"\bhealth", r"\bhospital", r"\bdoctors?\b", r"\bpatients?\b", r"\bmedic", r"\bdrug", r"\bcancer\b",
         r"\beducation", r"\bschools?\b", r"\bstudents?\b", r"\bteachers?\b", r"\bhomework\b",
@@ -54,7 +55,8 @@ RULES = [
         r"\bearnings\b", r"\bprofit", r"\bstocks?\b", r"\bshares\b", r"\bmarket cap\b", r"\bCEO\b", r"\bbubble\b",
         "晶片", "芯片", "半導體", "半导体", "輝達", "英伟达", "台積電", "台积电", "鴻海", "广达", "廣達", "伺服器", "服务器",
         "算力", "資料中心", "數據中心", "数据中心", "融資", "融资", "估值", "收購", "收购", "併購", "并购", "投資", "投资",
-        "營收", "营收", "財報", "财报", "市值", "上市", "股價", "股价", "泡沫", "供應鏈", "供应链")),
+        "營收", "营收", "財報", "财报", "市值", "上市", "股價", "股价", "泡沫", "供應鏈", "供应链",
+        r"\bexports?\b", r"\btariffs?\b", "出口", "訂單", "订单", r"\bsovereign AI\b", "主權 ?AI", "主权 ?AI", "關稅", "关税", "產值", "产值", "供不應求", "供不应求")),
     ("Tools & Apps", words(
         r"\bChatGPT\b", r"\bCopilot\b", r"\bGemini\b", r"\bClaude\b", r"\bPerplexity\b", r"\bNotebookLM\b", r"\bMeta AI\b",
         r"\bagents?\b", r"\bagentic\b", r"\bClaude Code\b", r"\bCodex\b", r"\bCursor\b", r"\bvibe[- ]coding\b",
@@ -62,6 +64,12 @@ RULES = [
         r"\bupdate", r"\bbrowser\b", r"\bchatbot", r"\bassistant", r"\bsearch\b", r"\bimage gen", r"\bvideo gen",
         "推出", "發布", "发布", "功能", "工具", "上線", "上线", "更新", "應用", "应用", "助手", "智能體", "智能体", "代理",
         "聊天機器人", "聊天机器人", "生圖", "生图", "影片生成", "视频生成", "瀏覽器", "浏览器", "搜尋", "搜索")),
+    # last resort: news about the companies the tech industry follows is industry news
+    ("Chips & Industry", words(
+        r"\b(OpenAI|Anthropic|xAI|Google|Alphabet|Microsoft|Meta|Apple|Amazon|AWS|NVIDIA|AMD|Intel|Qualcomm|Samsung|"
+        r"Tesla|SpaceX|DeepSeek|Mistral|Perplexity|Character\.ai|Hugging Face)\b",
+        "谷歌", "微軟", "微软", "蘋果", "苹果", "亞馬遜", "亚马逊", "三星", "字節", "字节", "阿里", "騰訊", "腾讯", "百度",
+        "華為", "华为", "商湯", "商汤", "小米", "智譜", "智谱", "月之暗面", "工研院")),
 ]
 
 

@@ -275,7 +275,7 @@
       .cover .lead:only-child { grid-column: 1 / -1; border-inline-end: 0; }
       .cover .lead .rank { display: none; }
       .cover .lead > div::before {
-        content: "頭條 · Top story";
+        content: "必知 · Must know";
         display: block;
         margin-bottom: 0.85rem;
         color: var(--accent);
@@ -400,7 +400,7 @@
       const HOME = "Headlines";
       const ALL = "__all";
       const ZH = {
-        Headlines: "頭條", "Tools & Apps": "AI 工具", "New Models": "新模型", "Work & Jobs": "工作",
+        Headlines: "必知", "Tools & Apps": "AI 工具", "New Models": "新模型", "Work & Jobs": "工作",
         "Rules & Safety": "法規與詐騙", "Chips & Industry": "晶片與產業", "Everyday AI": "生活應用",
         Models: "模型", "Agents & Dev Tools": "Agent 與開發工具", Products: "產品應用", "Open Source": "開源",
         Research: "研究", "Policy & Safety": "政策與安全", Business: "產業", Other: "其他",
@@ -505,7 +505,7 @@
       function renderPanels() {
         const all = state.data.all;
         const expand = all.length ? `<button class="more" type="button" data-action="expand">查看全部 ${all.length} 則新聞（依分數排列） · <span lang="en">All stories by score</span></button>` : "";
-        const collapse = '<button class="more" type="button" data-action="collapse">回到頭條 · <span lang="en">Back to headlines</span></button>';
+        const collapse = '<button class="more" type="button" data-action="collapse">回到必知 · <span lang="en">Back to headlines</span></button>';
         $("panels").innerHTML = topics().map((id) => panel(id, topicLabel(id), id, listFor(id), id === HOME ? expand : "")).join("")
           + panel(ALL, "全部新聞", "All stories", all, collapse);
       }

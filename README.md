@@ -30,7 +30,8 @@ uv pip install --python .venv/bin/python -r requirements.txt
 | 抓取 | `sources.yaml` 列出的來源，只取 48 小時內的項目；單一來源失敗只記 log。熱度來源是 Techmeme、Hacker News（200 分以上）與 Readhub；官方部落格與主流科技媒體 RSS 用來增加跨來源報導數。中文來源有量子位、Readhub（簡體）與 iThome、INSIDE、科技新報、科技報橘、T客邦、知勢（繁體）。2026-11-29 起不收 Reddit、Hugging Face 論文與熱門模型、GitHub Trending、IT之家，只留一般人看得懂的新聞 |
 | 去重與聚類 | 網址去掉 utm 等追蹤參數和結尾斜線；標題相似度 > 0.85 視為同一事件，保留所有來源連結 |
 | 評分（0–100） | 來源權重 30%、跨來源報導數 30%（最多計 5 個來源）、時效 20%（48 小時線性遞減）、社群熱度 20%（HN 分數、Readhub 報導家數，分類型取對數正規化） |
-| 分類 | `pipeline/classify.py` 的關鍵字規則（中文關鍵字含繁簡），依民調中一般人最關心的 AI 話題分六類，依序比對：Rules & Safety（法規與詐騙）、Work & Jobs（工作）、New Models（新模型）、Everyday AI（生活應用）、Chips & Industry（晶片與產業）、Tools & Apps（AI 工具）；先比對標題，標題沒有符合再看描述，第一個符合的勝出。都沒符合的歸 Other，不顯示成分頁，只出現在頭條與「看全部」 |
+| 分類 | `pipeline/classify.py` 的關鍵字規則（中文關鍵字含繁簡），依民調中一般人最關心的 AI 話題分六類，依序比對：Rules & Safety（法規與詐騙）、Work & Jobs（工作）、New Models（新模型）、Everyday AI（生活應用）、Chips & Industry（晶片與產業）、Tools & Apps（AI 工具）；先比對標題，標題沒有符合再看描述，第一個符合的勝出。都沒符合的歸 Other，不顯示成分頁，只出現在頭條與「看全部」；最後一條規則把 OpenAI、Google、輝達、阿里等科技公司的新聞歸到 Chips & Industry。英文關鍵字以 ASCII 字界比對，緊接中文的英文名稱（例：修正GPT-6.2）也比對得到 |
+| 篩選 | 不收雜訊：標題要有 AI 相關字詞，或來自只寫 AI 的來源（官方部落格、媒體 AI 分類、量子位、科技新報 AI 分類、知勢）；六類都對不上的歸 Other，整則不發布 |
 | 頭條 | Headlines（今日頭條）：有社群熱度（HN、Readhub）、出自 Techmeme，或至少兩個來源報導的新聞，依報導數加熱度排序，同一網站最多 2 則；官方發布只在新聞不足時補位。從整輪所有新聞中挑 10 則，第 1 則在頁面上放大顯示 |
 | 語言 | 介面中英對照（例：Work & Jobs · 工作）；新聞標題與描述維持各來源的原文，不翻譯 |
 | 簡介 | 來源 RSS 自帶的描述，截到 200 字；沒有描述的項目只顯示標題 |

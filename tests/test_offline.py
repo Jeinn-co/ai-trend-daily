@@ -40,6 +40,9 @@ assert c("台積電 AI 晶片營收創新高") == "Chips & Industry"
 assert c("AI startup raises $40M Series B") == "Chips & Industry"
 assert c("Hospital rolls out AI triage assistant") == "Everyday AI"
 assert c("A quiet afternoon") == classify.OTHER
+assert c("OpenAI修正GPT-6.2計費系統錯誤") == "New Models"  # Latin name right after Chinese still matches
+assert c("小鵬人形機器人明年量產") == "Everyday AI"
+assert c("雲端安全聯盟提出AI治理框架") == "Rules & Safety"
 
 base = dict(heat=[], undated=False, feed_summary="", sources=[], published=now)
 cl = [

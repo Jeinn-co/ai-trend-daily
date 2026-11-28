@@ -21,9 +21,9 @@ AI_WORDS = re.compile(
     r"(?<![A-Za-z])(AI|AGI|LLMs?|GPT[-\w.]*|RAG)(?![A-Za-z])"
     r"|artificial intelligence|machine learning|deep learning|neural|transformer|diffusion|"
     r"language model|openai|anthropic|claude|gemini|deepmind|llama|mistral|qwen|deepseek|kimi|"
-    r"copilot|chatbot|agentic|inference|embedding|fine-tun|multimodal|"
+    r"copilot|chatgpt|chatbot|agentic|inference|embedding|fine-tun|multimodal|world models?|humanoid|"
     r"人工智慧|人工智能|生成式|大模型|語言模型|语言模型|機器學習|机器学习|深度學習|深度学习|神經網路|神经网络|"
-    r"智慧代理|智能體|智能体|聊天機器人|聊天机器人|算力|具身智能|豆包|文心|通义|元宝|智谱|月之暗面",
+    r"智慧代理|智能體|智能体|聊天機器人|聊天机器人|算力|具身|人形機器人|人形机器人|豆包|文心|通义|元宝|智谱|月之暗面",
     re.IGNORECASE,
 )
 

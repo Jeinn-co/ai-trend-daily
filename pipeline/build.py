@@ -13,8 +13,8 @@ import time
 from datetime import datetime, timezone
 from pathlib import Path
 
-from .fetch import fetch_all, load_sources
-from .classify import CATEGORIES, classify, pick_headlines
+from .fetch import fetch_all, is_ai, load_sources
+from .classify import CATEGORIES, OTHER, classify, pick_headlines
 from .rank import cluster, score
 
 log = logging.getLogger("pipeline")
@@ -58,11 +58,15 @@ def run(out_dir="data", sources_path="sources.yaml"):
     items, failed = fetch_all(sources, now)
     clusters = score(cluster(items), now)
     log.info("fetched %d items from %d/%d sources → %d clusters", len(items), len(sources) - len(failed), len(sources), len(clusters))
+    for c in clusters:
+        c["category"] = classify(c["title_original"], c["feed_summary"])
+    # no filler: keep a story only if it is about AI (its title says so, or it comes from an AI-only feed)
+    # and it fits one of the six topics
+    ai_only = {s.get("group", s["name"]) for s in sources if not s.get("ai_filter") and s["type"] != "hn"}
+    clusters = [c for c in clusters if c["category"] != OTHER and (is_ai(c["title_original"]) or c["groups"] & ai_only)]
     top = clusters[:TOP_N]
     if len(top) < MIN_ITEMS:
         raise RuntimeError(f"only {len(top)} stories selected; keeping the previous latest.json")
-    for c in clusters:
-        c["category"] = classify(c["title_original"], c["feed_summary"])
     headlines = pick_headlines(clusters)
 
     public = [to_public(c) for c in top]

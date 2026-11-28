@@ -5,322 +5,645 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>AI Trend Daily · AI 趨勢日報</title>
     <meta name="description" content="AI news most people care about — tools, new models, jobs, rules and scams, chips, everyday life — collected every 12 hours with links to every original source." />
-    <meta name="theme-color" content="#f4f5f7" />
+    <meta name="theme-color" content="#fafafa" />
     <script>
-      // set the theme before first paint so dark mode doesn't flash light; storage can throw in private windows
-      try { var t = localStorage.getItem("theme"); } catch (e) {}
-      document.documentElement.dataset.theme = t || (matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light");
+      // Set the theme before first paint. Storage can be unavailable in private windows.
+      let savedTheme;
+      try { savedTheme = localStorage.getItem("theme"); } catch {}
+      document.documentElement.dataset.theme = savedTheme === "dark" || savedTheme === "light"
+        ? savedTheme
+        : (matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light");
     </script>
-    <link rel="preconnect" href="https://fonts.googleapis.com" />
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link href="https://fonts.googleapis.com/css2?family=Schibsted+Grotesk:wght@500;700;800&family=IBM+Plex+Mono:wght@500&display=swap" rel="stylesheet" />
     <style>
       :root {
-        --paper: #f4f5f7;
-        --sheet: #ffffff;
-        --ink: #14161c;
-        --muted: #5d6472;
-        --line: #e2e5eb;
-        --accent: #3d3bf3;
-        color-scheme: light;
-        --display: "Schibsted Grotesk", "PingFang TC", "Noto Sans TC", system-ui, sans-serif;
-        --mono: "IBM Plex Mono", ui-monospace, monospace;
-        font-family: system-ui, -apple-system, "Segoe UI", "PingFang TC", "Noto Sans TC", sans-serif;
+        --paper: #f7f7f5;
+        --surface: #fff;
+        --ink: #1b1c1e;
+        --muted: #5a5e66;
+        --line: #dcdde0;
+        --control: #82858c;
+        --accent: #b3122e;  /* breaking-news red */
+        --tint: #f8e8ea;
+        --sans: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang TC", "Microsoft JhengHei", "Noto Sans TC", system-ui, sans-serif;
+        font-family: var(--sans);
+        --display: var(--sans);
+        font-size: max(100%, 16px);
         color: var(--ink);
         background: var(--paper);
-        font-synthesis: none;
+        color-scheme: light;
       }
+
       :root[data-theme="dark"] {
-        --paper: #0f1115;
-        --sheet: #171a21;
-        --ink: #eceef3;
-        --muted: #9aa2b1;
-        --line: #272b35;
-        --accent: #8f8dff;
+        --paper: #151617;
+        --surface: #1c1d1f;
+        --ink: #eeeeef;
+        --muted: #b4b8bd;
+        --line: #37393e;
+        --control: #83868a;
+        --accent: #ff7a8a;
+        --tint: #3a2328;
         color-scheme: dark;
       }
+
       * { box-sizing: border-box; }
-      body { margin: 0; background: var(--paper); }
-      button, input, select, a { font: inherit; color: inherit; touch-action: manipulation; }
-      a { text-decoration: none; }
-      a:hover { text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 3px; }
-      :focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; border-radius: 4px; }
+      body, h1, h2, h3, p { margin: 0; }
       [hidden] { display: none !important; }
-      .mono { font-family: var(--mono); font-variant-numeric: tabular-nums; }
+      button, input, select { font: inherit; color: inherit; }
+      button, summary { cursor: pointer; }
+      a, button, summary, select { touch-action: manipulation; }
+      a { color: inherit; text-underline-offset: 0.18em; text-decoration-thickness: 1px; }
+      a:hover { color: var(--accent); }
+      :focus-visible { outline: 2px solid var(--accent); outline-offset: 3px; }
+      ::selection { background: var(--tint); color: var(--ink); }
 
-      .sheet { max-width: 1040px; margin: 0 auto; padding: 32px 20px 56px; }
+      .sheet { max-width: 79rem; margin-inline: auto; padding: 0 2.25rem 3rem; }
+      .sr-only, .skip:not(:focus) {
+        position: absolute;
+        width: 1px;
+        height: 1px;
+        padding: 0;
+        overflow: hidden;
+        clip-path: inset(50%);
+        white-space: nowrap;
+      }
+      .skip { position: absolute; top: 0.5rem; z-index: 1; padding: 0.65rem; background: var(--surface); }
 
-      /* masthead */
-      .head { display: flex; flex-wrap: wrap; align-items: flex-end; justify-content: space-between; gap: 16px 24px; }
-      h1 { margin: 0; font-family: var(--display); font-size: 44px; font-weight: 800; letter-spacing: -0.035em; line-height: 1; }
-      h1 small { display: block; margin-top: 8px; font-size: 17px; font-weight: 500; letter-spacing: 0.08em; color: var(--muted); }
-      .meta { margin: 10px 0 0; color: var(--muted); font-size: 14px; }
-      .tools { display: flex; gap: 8px; flex: 1 1 280px; max-width: 380px; }
-      .search { flex: 1; min-width: 0; padding: 9px 14px; font-size: 16px; border: 1px solid var(--line); border-radius: 10px; background: var(--sheet); }
-      .btn { padding: 9px 14px; font-size: 15px; border: 1px solid var(--line); border-radius: 10px; background: var(--sheet); cursor: pointer; }
-      .btn:hover { border-color: var(--muted); }
+      .masthead {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        flex-wrap: wrap;
+        gap: 0.75rem 1.5rem;
+        padding: 1.25rem 0;
+        border-bottom: 4px double var(--ink);  /* newspaper masthead rule */
+      }
+      .identity, .brand { display: flex; align-items: baseline; flex-wrap: wrap; gap: 0.35rem 0.75rem; }
+      .brand { font-family: var(--sans); }
+      .name-en { font-size: clamp(1.9rem, 4vw, 2.7rem); font-weight: 700; line-height: 1; letter-spacing: -0.02em; }
+      .name-zh { color: var(--muted); font-size: 1.125rem; font-weight: 600; }
+      .version { color: var(--muted); font-variant-numeric: tabular-nums; }
+      .mast-tools { display: flex; align-items: center; gap: 0.9rem; }
+      .issue { color: var(--muted); line-height: 1.4; }
+      .issue time { display: block; color: var(--ink); font-variant-numeric: tabular-nums; }
+      .theme, .more {
+        display: inline-flex;
+        align-items: center;
+        gap: 0.45rem;
+        min-height: 2.75rem;
+        padding-inline: 0.8rem;
+        border: 1px solid var(--control);
+        border-radius: 0.5rem;
+        background: var(--surface);
+      }
+      .theme { flex-shrink: 0; }
+      .theme:hover, .theme[aria-pressed="true"], .more:hover { color: var(--accent); background: var(--tint); border-color: var(--accent); }
+      .theme-glyph {
+        width: 0.875rem;
+        height: 0.875rem;
+        border: 1px solid currentColor;
+        border-radius: 50%;
+        background: linear-gradient(90deg, currentColor 50%, transparent 50%);
+      }
 
-      /* signature: the topic pulse. Each segment's width is that topic's share of today's stories */
-      .pulse-wrap { margin: 28px 0 8px; }
-      .pulse-label { display: flex; justify-content: space-between; margin-bottom: 8px; font-size: 13px; color: var(--muted); }
-      .pulse { display: flex; flex-wrap: wrap; gap: 4px; }
-      .seg { flex: var(--n) 1 132px; min-width: 0; display: flex; flex-direction: column; gap: 6px; padding: 10px 12px 9px;
-        border: 0; border-radius: 10px; background: color-mix(in srgb, var(--c) 13%, var(--sheet)); text-align: left; cursor: pointer;
-        box-shadow: inset 0 -4px 0 var(--c); transition: background 0.15s; }
-      .seg:hover { background: color-mix(in srgb, var(--c) 22%, var(--sheet)); }
-      .seg[aria-selected="true"] { background: var(--c); color: #fff; box-shadow: none; }
-      .seg b { font-family: var(--display); font-size: 15px; font-weight: 700; line-height: 1.2; }
-      .seg span { font-size: 13px; opacity: 0.85; }
-      .seg .n { font-family: var(--mono); font-size: 20px; font-weight: 500; line-height: 1; opacity: 1; }
-      .seg.home { flex: 0 1 132px; }
-      .seg.home[aria-selected="true"] { color: var(--paper); }
+      .toolbar {
+        display: flex;
+        align-items: center;
+        flex-wrap: wrap;
+        gap: 0.75rem 1rem;
+        padding: 0.75rem 0;
+        border-bottom: 1px solid var(--line);
+      }
+      .filters { flex: 4 1 39rem; min-width: 0; }
+      /* section bar like a newspaper's: plain words between hairlines, the current section underlined in ink */
+      .topics {
+        position: relative;
+        display: flex;
+        overflow-x: auto;
+        scrollbar-width: none;
+      }
+      .topics::-webkit-scrollbar { display: none; }
+      @media (prefers-reduced-motion: no-preference) { .topics { scroll-behavior: smooth; } }
+      /* arrows and an edge fade appear only on the side that has more topics to scroll to */
+      .topics-wrap { position: relative; }
+      .topics-arrow {
+        position: absolute;
+        top: 0;
+        bottom: 3px;
+        z-index: 1;
+        display: none;
+        align-items: center;
+        width: 3.5rem;
+        padding: 0;
+        border: 0;
+        color: var(--ink);
+      }
+      .topics-arrow span {
+        display: grid;
+        place-items: center;
+        width: 2.25rem;
+        height: 2.25rem;
+        border: 1px solid var(--control);
+        border-radius: 50%;
+        background: var(--surface);
+        font-size: 1.35rem;
+        line-height: 1;
+      }
+      .topics-arrow:hover span { color: var(--accent); border-color: var(--accent); }
+      .topics-arrow.prev { left: 0; justify-content: flex-start; background: linear-gradient(to right, var(--paper) 55%, transparent); }
+      .topics-arrow.next { right: 0; justify-content: flex-end; background: linear-gradient(to left, var(--paper) 55%, transparent); }
+      .topics-wrap.can-prev .prev, .topics-wrap.can-next .next { display: flex; }
+      .topic-filter {
+        display: inline-flex;
+        flex: none;
+        align-items: baseline;
+        gap: 0.4rem;
+        min-height: 2.75rem;
+        padding: 0.7rem 0.9rem 0.55rem;
+        border: 0;
+        border-bottom: 3px solid transparent;
+        border-radius: 0;
+        background: none;
+        color: var(--muted);
+        white-space: nowrap;
+      }
+      .topic-filter + .topic-filter { box-shadow: inset 1px 0 0 var(--line); }
+      .topic-filter:first-child { padding-inline-start: 0; }
+      .topic-filter strong { font-weight: 700; }
+      .topic-filter:hover { color: var(--ink); }
+      .topic-filter[aria-pressed="true"] { color: var(--ink); border-bottom-color: var(--accent); }
+      /* a small section colour key, like a paper's colour-coded sections */
+      .topic-filter::before { content: ""; flex: none; align-self: center; width: 0.5rem; height: 0.5rem; background: var(--topic-color, var(--accent)); }
+      .topic-filter:focus-visible { outline-offset: -3px; }
+      .topic-en { font-size: 0.7rem; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; }
+      .topic-count { align-self: flex-start; margin-top: -0.1rem; font-size: 0.72rem; font-variant-numeric: tabular-nums; }
+      .finder { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1.1fr); gap: 0.5rem; flex: 1 1 23rem; min-width: 0; }
+      .search, .finder select {
+        min-width: 0;
+        width: 100%;
+        min-height: 2.75rem;
+        border: 1px solid var(--control);
+        border-radius: 0.5rem;
+        padding-inline: 0.65rem;
+        background-color: var(--surface);
+        font-size: 1rem;
+      }
+      .search { caret-color: var(--accent); }
+      .search::placeholder { color: var(--muted); opacity: 1; }
+      .finder select:disabled { color: var(--muted); border-color: var(--line); }
+      .archive-status { color: var(--muted); }
+      .archive-status:not(:empty) { margin-top: 0.5rem; }
 
-      /* story list */
-      .panel { margin-top: 28px; }
-      .panel-head { display: flex; align-items: baseline; justify-content: space-between; gap: 12px; margin: 0 0 10px; }
-      .panel-head h2 { margin: 0; font-family: var(--display); font-size: 26px; font-weight: 800; letter-spacing: -0.02em; }
-      .panel-head h2 span + span { margin-left: 8px; font-size: 16px; font-weight: 500; color: var(--muted); letter-spacing: 0.04em; }
-      .stories { margin: 0; padding: 0; list-style: none; background: var(--sheet); border: 1px solid var(--line); border-radius: 14px; }
-      .story { display: grid; grid-template-columns: 52px 1fr; gap: 0 14px; padding: 16px 20px 16px 12px; border-top: 1px solid var(--line); }
-      .story:first-child { border-top: 0; }
-      .rank { padding-top: 2px; font-family: var(--mono); font-size: 18px; color: var(--muted); text-align: right; }
-      .story h3 { margin: 0; font-family: var(--display); font-size: 19px; font-weight: 700; line-height: 1.4; overflow-wrap: anywhere; text-wrap: pretty; }
-      .summary { display: -webkit-box; margin: 6px 0 0; overflow: hidden; color: var(--muted); font-size: 15px; line-height: 1.65;
-        -webkit-line-clamp: 2; -webkit-box-orient: vertical; }
-      .info { display: flex; flex-wrap: wrap; align-items: center; gap: 4px 12px; margin-top: 8px; font-size: 13px; color: var(--muted); }
-      .topic { display: inline-flex; align-items: center; gap: 6px; color: color-mix(in srgb, var(--c) 70%, var(--ink)); font-weight: 600; }
-      .topic::before { content: ""; width: 8px; height: 8px; border-radius: 2px; background: var(--c); }
-      /* the lead story: the one thing to know today */
-      .story.lead { padding-top: 22px; padding-bottom: 22px; }
-      .story.lead .rank { font-size: 30px; color: var(--accent); }
-      .story.lead h3 { font-size: 27px; font-weight: 800; letter-spacing: -0.015em; line-height: 1.3; }
-      .story.lead .summary { -webkit-line-clamp: 4; font-size: 16px; }
-      .story:nth-child(-n+3):not(.lead) .rank { color: var(--ink); }
+      .feed { min-width: 0; padding-top: 1.3rem; }
+      .feed-heading { display: flex; align-items: baseline; flex-wrap: wrap; gap: 0.2rem 0.6rem; margin-bottom: 0.65rem; }
+      .feed-heading h2 { font: 600 1.75rem/1.2 var(--sans); }
+      .section-en { color: var(--muted); font-size: 1rem; font-weight: 600; }
+      .stories { margin: 0; padding: 0; list-style: none; }
+      .story {
+        display: grid;
+        grid-template-columns: 2.15rem minmax(0, 1fr);
+        gap: 0.65rem;
+        padding: 1.15rem 0;
+        border-bottom: 1px solid var(--line);
+      }
+      .story h3 {
+        font: 500 1.375rem/1.35 var(--sans);
+        letter-spacing: -0.005em;
+        overflow-wrap: anywhere;
+        text-wrap: pretty;
+      }
+      .story h3 a { text-decoration: none; }
+      .story h3 a:hover { text-decoration: underline; }
+      .rank { padding-top: 0.2rem; color: var(--muted); font-weight: 600; font-variant-numeric: tabular-nums; }
+      .summary {
+        display: -webkit-box;
+        -webkit-line-clamp: 2;
+        -webkit-box-orient: vertical;
+        max-width: 70ch;
+        overflow: hidden;
+        margin-top: 0.45rem;
+        color: var(--muted);
+        font-size: 1.0625rem;
+        line-height: 1.65;
+        overflow-wrap: anywhere;
+      }
+      .story-meta { display: flex; align-items: start; flex-wrap: wrap; column-gap: 0.75rem; margin-top: 0.3rem; color: var(--muted); }
+      .topic, .story-meta time, .src summary { display: flex; min-height: 2.25rem; align-items: center; gap: 0.35rem; }
+      .topic { color: var(--ink); font-weight: 650; }
+      .topic::before {
+        content: "";
+        flex: none;
+        width: 0.4rem;
+        height: 0.4rem;
+        border-radius: 50%;
+        background: var(--topic-color, var(--accent));
+      }
+      .story-meta time { font-variant-numeric: tabular-nums; }
+      .src { max-width: 100%; }
+      .src summary { width: fit-content; list-style: none; overflow-wrap: anywhere; text-decoration: underline; }
+      .src summary::-webkit-details-marker { display: none; }
+      .src summary:hover { color: var(--accent); }
+      .src summary::after {
+        content: "";
+        flex: none;
+        width: 0.35rem;
+        height: 0.35rem;
+        border: solid currentColor;
+        border-width: 0 1px 1px 0;
+        transform: rotate(45deg) translateY(-2px);
+      }
+      .src[open] summary::after { transform: rotate(225deg); }
+      .src ul { margin: 0.1rem 0 0; padding-inline-start: 1rem; line-height: 1.6; overflow-wrap: anywhere; }
+      .src li + li { margin-top: 0.3rem; }
 
-      details.src summary { cursor: pointer; list-style: none; }
-      details.src summary::-webkit-details-marker { display: none; }
-      details.src summary::after { content: " ▾"; }
-      details.src[open] summary::after { content: " ▴"; }
-      details.src ul { margin: 6px 0 0; padding-left: 18px; }
-      details.src li { margin: 2px 0; word-break: break-all; }
+      .cover {
+        display: grid;
+        grid-template-columns: minmax(0, 1.7fr) minmax(0, 1fr);
+        margin-bottom: 0.5rem;
+        border-block: 1px solid var(--line);
+        background: var(--surface);
+      }
+      .cover .story { border: 0; }
+      .cover .lead {
+        display: flex;
+        align-items: center;
+        grid-column: 1;
+        grid-row: 1 / span var(--briefs);
+        padding: clamp(1.6rem, 3.5vw, 2.75rem);
+        border-inline-end: 1px solid var(--line);
+      }
+      .cover .lead > div { width: 100%; }
+      .cover .lead:only-child { grid-column: 1 / -1; border-inline-end: 0; }
+      .cover .lead .rank { display: none; }
+      .cover .lead > div::before {
+        content: "頭條 · Top story";
+        display: block;
+        margin-bottom: 0.85rem;
+        color: var(--accent);
+        font: 700 0.8rem/1 var(--display);
+        letter-spacing: 0.12em;
+        text-transform: uppercase;
+      }
+      .cover .rank { color: var(--accent); }
+      .cover .lead h3 { font-size: clamp(2rem, 4vw, 3.1rem); font-weight: 600; line-height: 1.18; letter-spacing: -0.02em; }
+      .cover .lead .summary { display: block; margin-top: 0.9rem; font-size: 1.125rem; }
+      .cover .lead .story-meta { margin-top: 0.55rem; }
+      .cover .story:not(.lead) {
+        grid-column: 2;
+        grid-template-columns: 1.7rem minmax(0, 1fr);
+        gap: 0.35rem;
+        margin-inline: 1.25rem;
+        padding: 0.9rem 0;
+      }
+      .cover .story:not(.lead) + .story { border-top: 1px solid var(--line); }
+      .cover .story:not(.lead) h3 { font-size: 1.125rem; letter-spacing: 0; }
+      .cover .story:not(.lead) .summary { display: none; }
+      .cover .story:not(.lead) .story-meta { margin: 0; }
 
-      .more { display: block; margin: 20px auto 0; }
-      .empty { padding: 32px; text-align: center; color: var(--muted); }
+      .more { margin-top: 1.15rem; color: var(--accent); text-align: start; }
+      .feed-status, .empty { padding: 1rem 0; color: var(--muted); line-height: 1.6; }
+      .feed-status:empty { padding: 0; }
+      .foot {
+        display: grid;
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        gap: 1rem 2rem;
+        margin-top: 2.5rem;
+        padding-top: 1.15rem;
+        border-top: 1px solid var(--line);
+        color: var(--muted);
+        line-height: 1.65;
+      }
+      .foot h2 { margin-bottom: 0.45rem; color: var(--ink); font-size: 1.125rem; }
+      .foot h2 span { margin-inline-start: 0.3rem; }
+      .srclist { display: flex; flex-wrap: wrap; gap: 0.3rem 0.85rem; margin: 0; padding: 0; list-style: none; overflow-wrap: anywhere; }
 
-      footer { margin-top: 48px; padding-top: 20px; border-top: 1px solid var(--line); color: var(--muted); font-size: 14px; line-height: 1.7; }
-      footer h4 { margin: 18px 0 6px; color: var(--ink); font-family: var(--display); font-size: 15px; font-weight: 700; }
-      footer select { padding: 6px 8px; border: 1px solid var(--line); border-radius: 8px; background: var(--sheet); color: var(--ink); }
-      footer a { text-decoration: underline; text-decoration-color: var(--line); text-underline-offset: 3px; }
-      .srclist { display: flex; flex-wrap: wrap; gap: 4px 14px; margin: 0; padding: 0; list-style: none; }
+      @media (max-width: 54rem) {
+        .sheet { padding-inline: 1.25rem; }
+        .filters { flex-basis: 100%; }
+        .finder { flex: 0 1 28rem; }
+        .cover .lead { padding: 1.6rem; }
+      }
+      @media (max-width: 39rem) {
+        .sheet { padding-inline: 1rem; }
+        .masthead { padding: 0.85rem 0; }
+        .mast-tools { justify-content: space-between; width: 100%; }
+        .toolbar { gap: 0.5rem; padding: 0.5rem 0; }
+        .finder { flex: 1 1 100%; grid-template-columns: minmax(0, 1fr) minmax(0, 1.4fr); }
+        .feed { padding-top: 0.85rem; }
+        .cover { display: block; }
+        .cover .lead { padding: 1.25rem 1rem; border-inline-end: 0; }
+        .cover .lead:not(:only-child) { border-bottom: 1px solid var(--line); }
+        .cover .lead h3 { font-size: clamp(1.6rem, 6vw, 2.2rem); }
+        .cover .story:not(.lead) { margin-inline: 1rem; padding-block: 0.65rem; }
+        .story { grid-template-columns: 1.6rem minmax(0, 1fr); padding-block: 0.95rem; }
+        .story h3 { font-size: 1.25rem; }
+        .foot { grid-template-columns: 1fr; margin-top: 2rem; }
+      }
 
-      @media (prefers-reduced-motion: reduce) { .seg { transition: none; } }
-      @media (max-width: 640px) {
-        .sheet { padding: 22px 16px 40px; }
-        h1 { font-size: 34px; }
-        .tools { max-width: none; }
-        .seg { flex-basis: calc(50% - 2px); }
-        .seg.home { flex-basis: 100%; }
-        .story { grid-template-columns: 34px 1fr; gap: 0 10px; padding: 14px 14px 14px 8px; }
-        .rank { font-size: 15px; }
-        .story.lead .rank { font-size: 22px; }
-        .story h3 { font-size: 17px; }
-        .story.lead h3 { font-size: 22px; }
+      @media (max-width: 24rem) {
+        .finder { grid-template-columns: minmax(0, 1fr); }
       }
     </style>
   </head>
   <body>
     <div class="sheet">
-      <header class="head">
-        <div>
-          <h1>AI Trend Daily<small>AI 趨勢日報</small></h1>
-          <p class="meta">Updated 更新於 <b id="updated" class="mono" translate="no">—</b>（台北時間）· 每 12 小時更新</p>
+      <a class="skip" href="#view">跳至新聞</a>
+      <header class="masthead">
+        <div class="identity">
+          <h1 class="brand" translate="no"><span class="name-en" lang="en">AI Trend Daily</span><span class="name-zh">AI 趨勢日報</span></h1>
+          <span id="version" class="version" translate="no" hidden></span>
         </div>
-        <div class="tools">
-          <input id="q" name="q" class="search" type="search" placeholder="Search 搜尋標題…" autocomplete="off" aria-label="Search titles and descriptions" />
-          <button id="theme" class="btn" type="button" aria-label="Dark mode" aria-pressed="false"><span aria-hidden="true">◐</span></button>
+        <div class="mast-tools">
+          <p class="issue">更新於 · 台北時間<time id="updated" translate="no">—</time></p>
+          <button id="theme" class="theme" type="button" aria-pressed="false"><span class="theme-glyph" aria-hidden="true"></span>深色模式</button>
         </div>
       </header>
 
-      <nav class="pulse-wrap" aria-label="Topics">
-        <div class="pulse-label"><span>Today by topic · 今日主題</span><span id="total" class="mono" translate="no"></span></div>
-        <div id="pulse" class="pulse" role="tablist"></div>
-      </nav>
-      <main id="view"></main>
+      <div class="edition">
+        <div class="toolbar">
+          <nav id="filters" class="filters" aria-labelledby="topics-heading" hidden>
+            <h2 id="topics-heading" class="sr-only">新聞主題</h2>
+            <div id="topics-wrap" class="topics-wrap">
+              <button class="topics-arrow prev" type="button" aria-label="向左捲動主題" data-dir="-1"><span aria-hidden="true">‹</span></button>
+              <div id="topics" class="topics"></div>
+              <button class="topics-arrow next" type="button" aria-label="向右捲動主題" data-dir="1"><span aria-hidden="true">›</span></button>
+            </div>
+          </nav>
+          <div class="finder">
+            <label class="sr-only" for="q">搜尋標題或摘要 <span lang="en">Search</span></label>
+            <input id="q" name="q" class="search" type="search" placeholder="搜尋新聞…" autocomplete="off" aria-controls="view" />
+            <label class="sr-only" for="archive">過去版本 <span lang="en">Archive</span></label>
+            <select id="archive" translate="no" disabled><option value="">最新一期</option></select>
+          </div>
+        </div>
+        <p id="archive-status" class="archive-status" role="status"></p>
 
-      <footer>
-        <h4>Archive · 過去版本</h4>
-        <select id="archive" translate="no" aria-label="Open an earlier snapshot"><option value="">Latest 最新</option></select>
-        <h4>Sources · 來源</h4>
-        <ul id="srclist" class="srclist"></ul>
-        <h4>About · 關於</h4>
-        <p>
-          每 12 小時自動收集一次，只收一般人最關心的六類 AI 新聞。標題與簡介取自各來源公開的 RSS 或頁面資訊，維持原文不翻譯；分類與排名由規則產生。
-          所有文章屬於原出版者，本站只顯示標題、簡短描述與連結，每則都標出來源，點標題會開啟原文。
-        </p>
-        <!-- version comes from package.json, which the workflow deploys next to this page -->
-        <p class="mono">Version <span id="version" translate="no">–</span></p>
+        <main id="view" class="feed" tabindex="-1">
+          <p id="feed-status" class="feed-status" role="status">正在載入新聞…</p>
+          <p id="search-status" class="sr-only" role="status"></p>
+          <div id="panels"></div>
+        </main>
+      </div>
+
+      <footer class="foot">
+        <section>
+          <h2>來源<span class="section-en" lang="en">Sources</span></h2>
+          <ul id="srclist" class="srclist"></ul>
+        </section>
+        <section>
+          <h2>關於<span class="section-en" lang="en">About</span></h2>
+          <p>每 12 小時從公開 RSS 或網頁自動收集 AI 新聞。標題與簡介保留來源原文，分類與排名由規則產生。文章屬於原出版者，點標題可開啟原文。</p>
+        </section>
       </footer>
     </div>
 
     <script>
       const HOME = "Headlines";
-      const TOPICS = ["Tools & Apps", "New Models", "Work & Jobs", "Rules & Safety", "Chips & Industry", "Everyday AI"];
-      const ZH = { Headlines: "今日頭條", "Tools & Apps": "AI 工具", "New Models": "新模型", "Work & Jobs": "工作",
-        "Rules & Safety": "法規與詐騙", "Chips & Industry": "晶片與產業", "Everyday AI": "生活應用", Other: "其他" };
-      const COLOR = { // mid-saturation hues that read on both the light and the dark sheet
-        "Tools & Apps": "#2f6df6", "New Models": "#9b4dea", "Work & Jobs": "#e0731b",
-        "Rules & Safety": "#d43c4f", "Chips & Industry": "#0f9b8e", "Everyday AI": "#3f9d3a", Other: "#7a8291" };
-      const color = (k) => COLOR[k] || COLOR.Other;
+      const ALL = "__all";
+      const ZH = {
+        Headlines: "頭條", "Tools & Apps": "AI 工具", "New Models": "新模型", "Work & Jobs": "工作",
+        "Rules & Safety": "法規與詐騙", "Chips & Industry": "晶片與產業", "Everyday AI": "生活應用",
+        Models: "模型", "Agents & Dev Tools": "Agent 與開發工具", Products: "產品應用", "Open Source": "開源",
+        Research: "研究", "Policy & Safety": "政策與安全", Business: "產業", Other: "其他",
+        "AI Agents": "AI 代理", "AI Apps": "AI 應用", Skills: "技能", Innovation: "創新", Security: "資安"
+      };
+      const TONES = {
+        "Tools & Apps": "#6577b5", "New Models": "#8a6da5", "Work & Jobs": "#a66b42",
+        "Rules & Safety": "#ac5863", "Chips & Industry": "#508581", "Everyday AI": "#698453",
+        Models: "#8a6da5", "Agents & Dev Tools": "#6577b5", Products: "#698453", "Open Source": "#508581",
+        Research: "#8a6da5", "Policy & Safety": "#ac5863", Business: "#a66b42"
+      };
       const $ = (id) => document.getElementById(id);
-      const ALL = "__all"; // the "all stories by score" panel
-      const fromHash = decodeURIComponent(location.hash.slice(1));
-      const state = { data: null, tab: [HOME, ...TOPICS].includes(fromHash) ? fromHash : HOME, expanded: false, q: "" };
-      const listFor = (tab) => (tab === HOME ? state.data.highlights?.Headlines : state.data.categories?.[tab]) || [];
+      const tone = (topic) => Object.hasOwn(TONES, topic) ? TONES[topic] : "var(--muted)";
+      const topicLabel = (topic) => Object.hasOwn(ZH, topic) ? ZH[topic] : topic;
+      const state = { data: null, edition: "", expanded: false, q: "" };
+      let request = 0;
 
       const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" })[c]);
-      const safeUrl = (u) => (/^https?:\/\//i.test(u || "") ? esc(u) : "#");
-      const link = (url, text) => `<a href="${safeUrl(url)}" target="_blank" rel="noopener noreferrer">${esc(text)}</a>`;
-      const taipei = (iso) =>
-        new Intl.DateTimeFormat("zh-TW", { timeZone: "Asia/Taipei", month: "2-digit", day: "2-digit", hour: "2-digit", minute: "2-digit", hour12: false }).format(new Date(iso));
+      const link = (url, text) => /^https?:\/\//i.test(url || "")
+        ? `<a href="${esc(url)}" target="_blank" rel="noopener noreferrer">${esc(text)}</a>`
+        : esc(text);
+      const taipei = new Intl.DateTimeFormat("zh-TW", {
+        timeZone: "Asia/Taipei", year: "numeric", month: "long", day: "numeric", hour: "2-digit", minute: "2-digit", hourCycle: "h23"
+      });
       const rtf = new Intl.RelativeTimeFormat("zh-TW", { numeric: "auto" });
       const ago = (iso) => {
         const min = Math.round((Date.parse(iso) - Date.now()) / 60000);
-        return min > -60 ? rtf.format(min, "minute") : rtf.format(Math.round(min / 60), "hour");
+        return Math.abs(min) < 60 ? rtf.format(min, "minute") : rtf.format(Math.round(min / 60), "hour");
       };
 
+      function topicFromHash() {
+        let topic;
+        try { topic = decodeURIComponent(location.hash.slice(1)); } catch { return HOME; }
+        return topics().includes(topic) ? topic : HOME;
+      }
+
+      function topics() {
+        return [HOME, ...Object.keys(state.data.categories || {}).filter((t) => !["Other", "其他", "其它"].includes(t))];
+      }
+
+      function listFor(topic) {
+        const d = state.data;
+        if (topic === HOME) return d.highlights?.Headlines ?? d.highlights?.["焦點"] ?? d.top10 ?? [];
+        return d.categories?.[topic] ?? [];
+      }
+
       function sources(it) {
-        const first = it.sources[0]?.name ?? "";
-        const label = it.sources.length > 1 ? `${esc(first)} +${it.sources.length - 1}` : esc(first);
-        const items = it.sources.map((s) => `<li translate="no">${esc(s.name)}：${link(s.url, s.url)}</li>`).join("");
-        return `<details class="src"><summary translate="no">${label}</summary><ul>${items}</ul></details>`;
+        const list = it.sources || [];
+        if (!list.length) return "";
+        const label = list.length > 1 ? `${list[0].name} +${list.length - 1}` : list[0].name;
+        const items = list.map((s) => `<li translate="no">${esc(s.name)}：${link(s.url, s.url)}</li>`).join("");
+        return `<details class="src"><summary translate="no">${esc(label)}</summary><ul>${items}</ul></details>`;
       }
 
       function story(it, rank, lead) {
-        return `<li class="story${lead ? " lead" : ""}" data-hay="${esc(`${it.title} ${it.summary}`.toLowerCase())}">
-          <span class="rank" translate="no">${rank}</span>
+        const time = Number.isFinite(Date.parse(it.published_at)) ? `<time datetime="${esc(it.published_at)}" title="${esc(taipei.format(new Date(it.published_at)))}">${esc(ago(it.published_at))}</time>` : "";
+        return `<li class="story${lead ? " lead" : ""}" data-hay="${esc(`${it.title} ${it.summary ?? ""}`.toLowerCase())}">
+          <span class="rank" aria-hidden="true" translate="no">${String(rank).padStart(2, "0")}</span>
           <div>
-            <h3>${link(it.primary_url, it.title)}</h3>
-            ${it.summary ? `<p class="summary">${esc(it.summary)}</p>` : ""}
-            <div class="info"><span class="topic" style="--c:${color(it.category)}">${esc(ZH[it.category] || it.category)}</span>
-              ${sources(it)}<span class="mono">${esc(ago(it.published_at))}</span></div>
+            <h3 dir="auto">${link(it.primary_url, it.title)}</h3>
+            ${it.summary ? `<p class="summary" dir="auto">${esc(it.summary)}</p>` : ""}
+            <div class="story-meta">
+              ${it.category ? `<span class="topic" style="--topic-color:${tone(it.category)}">${esc(topicLabel(it.category))}</span>` : ""}
+              ${time}
+              ${sources(it)}
+            </div>
           </div>
         </li>`;
       }
 
-      // Everything is rendered once per data load; tabs, "all stories" and search only toggle `hidden`.
-      // Rebuilding the DOM on every click threw away the browser's translation (Chrome Translate etc.).
-      function renderPulse() {
-        const seg = (id, n, extra = "") => `<button class="seg${extra}" role="tab" style="--c:${id === HOME ? "var(--ink)" : color(id)};--n:${Math.max(n, 1)}"
-          data-tab="${esc(id)}" aria-selected="false"><span class="n" translate="no">${n}</span><b translate="no">${esc(id)}</b><span>${esc(ZH[id])}</span></button>`;
-        $("pulse").innerHTML = seg(HOME, listFor(HOME).length, " home") + TOPICS.map((t) => seg(t, listFor(t).length)).join("");
-        $("total").textContent = `${state.data.all.length} stories`;
+      // Render once per edition so filters and search preserve browser translation.
+      function renderTopics() {
+        $("topics").innerHTML = topics().map((id) => {
+          const label = topicLabel(id);
+          return `<button class="topic-filter" type="button" style="--topic-color:${id === HOME ? "var(--accent)" : tone(id)}" data-topic="${esc(id)}" aria-controls="view" aria-pressed="false">
+            <strong>${esc(label)}</strong>${label !== id ? `<span class="topic-en" lang="en" translate="no">${esc(id)}</span>` : ""}<span class="topic-count">${listFor(id).length}</span>
+          </button>`;
+        }).join("");
+        $("filters").hidden = false;
+        updateArrows();
       }
 
-      function panel(id, title, list, extra = "") {
-        return `<section class="panel" data-panel="${esc(id)}" hidden>
-          <div class="panel-head"><h2>${title}</h2></div>
-          <p class="empty" data-empty${list.length ? " hidden" : ""}>${list.length ? "No matches · 沒有符合的新聞" : "No stories in this topic right now · 這個主題目前沒有新聞"}</p>
-          <ol class="stories">${list.map((it, i) => story(it, i + 1, id === HOME && i === 0)).join("")}</ol>${extra}</section>`;
+      function updateArrows() {
+        const rail = $("topics");
+        $("topics-wrap").classList.toggle("can-prev", rail.scrollLeft > 4);
+        $("topics-wrap").classList.toggle("can-next", rail.scrollLeft + rail.clientWidth < rail.scrollWidth - 4);
+      }
+
+      function panel(id, zh, en, list, action = "") {
+        const coverSize = id === HOME ? Math.min(list.length, 4) : 0;
+        const cover = coverSize ? `<ol class="stories cover" role="list" data-cover style="--briefs:${Math.max(1, coverSize - 1)}">${list.slice(0, coverSize).map((it, i) => story(it, i + 1, i === 0)).join("")}</ol>` : "";
+        const remaining = list.slice(coverSize);
+        const rows = remaining.length ? `<ol class="stories" role="list" start="${coverSize + 1}">${remaining.map((it, i) => story(it, coverSize + i + 1, false)).join("")}</ol>` : "";
+        return `<section data-panel="${esc(id)}" hidden>
+          <div class="feed-heading"><h2 tabindex="-1">${esc(zh)}</h2>${zh !== en ? `<span class="section-en" lang="en" translate="no">${esc(en)}</span>` : ""}</div>
+          <p class="empty" data-empty hidden>${list.length ? "找不到符合的新聞，試試其他關鍵字。" : "這一期沒有這個主題的新聞。"}</p>
+          ${cover}${rows}
+          ${action}
+        </section>`;
       }
 
       function renderPanels() {
-        const d = state.data;
-        const title = (id) => `<span translate="no">${esc(id)}</span><span>${esc(ZH[id])}</span>`;
-        $("view").innerHTML =
-          [HOME, ...TOPICS].map((t) => panel(t, title(t), listFor(t),
-            t === HOME ? `<button class="btn more" type="button" data-action="expand">All ${d.all.length} stories by score · 看全部</button>` : "")).join("") +
-          panel(ALL, `<span translate="no">All stories</span><span>全部新聞</span>`, d.all,
-            `<button class="btn more" type="button" data-action="collapse">Back to headlines · 回到頭條</button>`);
+        const all = state.data.all;
+        const expand = all.length ? `<button class="more" type="button" data-action="expand">查看全部 ${all.length} 則新聞（依分數排列） · <span lang="en">All stories by score</span></button>` : "";
+        const collapse = '<button class="more" type="button" data-action="collapse">回到頭條 · <span lang="en">Back to headlines</span></button>';
+        $("panels").innerHTML = topics().map((id) => panel(id, topicLabel(id), id, listFor(id), id === HOME ? expand : "")).join("")
+          + panel(ALL, "全部新聞", "All stories", all, collapse);
       }
 
       function show() {
-        const id = state.tab === HOME && state.expanded ? ALL : state.tab;
-        $("pulse").querySelectorAll("[data-tab]").forEach((b) => b.setAttribute("aria-selected", b.dataset.tab === state.tab));
-        $("view").querySelectorAll("[data-panel]").forEach((p) => (p.hidden = p.dataset.panel !== id));
+        if (!state.data) return;
+        const topic = topicFromHash();
+        const id = topic === HOME && state.expanded ? ALL : topic;
+        const rail = $("topics");
+        rail.querySelectorAll("[data-topic]").forEach((button) => button.setAttribute("aria-pressed", button.dataset.topic === topic));
+        const selected = rail.querySelector('[aria-pressed="true"]');
+        if (selected && (selected.offsetLeft < rail.scrollLeft || selected.offsetLeft + selected.offsetWidth > rail.scrollLeft + rail.clientWidth)) {
+          rail.scrollLeft = selected.offsetLeft;
+        }
+        $("panels").querySelectorAll("[data-panel]").forEach((p) => { p.hidden = p.dataset.panel !== id; });
         filter();
       }
 
       function filter() {
-        const p = $("view").querySelector("[data-panel]:not([hidden])");
-        if (!p) return;
+        const panel = $("panels").querySelector("[data-panel]:not([hidden])");
+        if (!panel) return;
+        panel.querySelector("[data-cover]")?.classList.toggle("cover", !state.q);
         let shown = 0;
-        p.querySelectorAll(".story").forEach((s) => {
-          s.hidden = state.q && !s.dataset.hay.includes(state.q);
-          if (!s.hidden) shown++;
+        panel.querySelectorAll(".story").forEach((story) => {
+          story.hidden = !story.dataset.hay.includes(state.q);
+          if (!story.hidden) shown++;
         });
-        p.querySelector("[data-empty]").hidden = shown > 0;
+        panel.querySelector("[data-empty]").hidden = shown > 0;
+        $("search-status").textContent = state.q ? `找到 ${shown} 則新聞` : "";
       }
 
-      function renderMeta() {
-        const d = state.data;
-        $("updated").textContent = taipei(d.updated_at);
-        $("srclist").innerHTML = (d.source_list || []).map((s) => `<li>${link(new URL(s.url).origin, s.name)}</li>`).join("");
-      }
-
-      async function load(path) {
-        const res = await fetch(`${path}?t=${Date.now()}`);
-        if (!res.ok) throw new Error(`${path}: ${res.status}`);
-        state.data = await res.json();
-        state.expanded = false;
-        renderMeta();
-        renderPulse();
-        renderPanels();
-        show();
+      async function load(edition = "", fromArchive = false) {
+        const id = ++request;
+        const path = edition ? `data/archive/${edition}.json` : "data/latest.json";
+        const status = $(fromArchive ? "archive-status" : "feed-status");
+        status.textContent = "正在載入新聞…";
+        try {
+          const res = await fetch(`${path}?t=${Date.now()}`);
+          if (!res.ok) throw new Error(res.status);
+          const data = await res.json();
+          if (id !== request) return;
+          if (!Array.isArray(data.all)) throw new Error("Missing stories");
+          const dateLabel = taipei.format(new Date(data.updated_at));
+          state.data = data;
+          state.edition = edition;
+          state.expanded = false;
+          const date = $("updated");
+          date.dateTime = data.updated_at;
+          date.textContent = dateLabel;
+          $("srclist").innerHTML = (data.source_list || []).map((s) => {
+            let origin;
+            try { origin = new URL(s.url).origin; } catch {}
+            return `<li>${link(origin, s.name)}</li>`;
+          }).join("");
+          renderTopics();
+          renderPanels();
+          show();
+          $("feed-status").textContent = "";
+          if (fromArchive) status.textContent = `已載入 ${dateLabel} 的新聞。`;
+        } catch {
+          if (id !== request) return;
+          $("archive").value = state.edition;
+          status.textContent = fromArchive ? "這個版本載入失敗，請再次選擇。" : "新聞載入失敗，請重新整理頁面。";
+          if (fromArchive && !state.data) $("feed-status").textContent = "請選擇其他版本，或重新整理頁面。";
+        }
       }
 
       async function loadVersion() {
-        const res = await fetch(`package.json?t=${Date.now()}`).catch(() => null);
-        if (res?.ok) $("version").textContent = (await res.json()).version;
+        const res = await fetch(`package.json?t=${Date.now()}`);
+        if (!res.ok) return;
+        const { version } = await res.json();
+        if (!version) return;
+        $("version").textContent = `v${version}`;
+        $("version").hidden = false;
       }
 
       async function loadArchive() {
         const res = await fetch(`data/archive/index.json?t=${Date.now()}`);
         if (!res.ok) return;
         const names = await res.json();
-        $("archive").insertAdjacentHTML("beforeend", names.map((n) => `<option value="${esc(n)}">${esc(n.replace(/^(\d{4}-\d{2}-\d{2})-(\d{2})$/, "$1 $2:00 UTC"))}</option>`).join(""));
+        const select = $("archive");
+        names.forEach((name) => select.add(new Option(name.replace(/^(\d{4}-\d{2}-\d{2})-(\d{2})$/, "$1 $2:00 UTC"), name)));
+        select.disabled = !names.length;
       }
 
-      $("pulse").addEventListener("click", (e) => {
-        const b = e.target.closest("[data-tab]");
-        if (!b) return;
-        state.tab = b.dataset.tab;
+      function focusHeading() {
+        $("panels").querySelector("[data-panel]:not([hidden]) h2")?.focus();
+      }
+
+      document.querySelector(".skip").addEventListener("click", (e) => {
+        e.preventDefault();
+        $("view").focus();
+      });
+      $("topics").addEventListener("scroll", updateArrows, { passive: true });
+      addEventListener("resize", updateArrows);
+      document.querySelectorAll(".topics-arrow").forEach((b) =>
+        b.addEventListener("click", () => $("topics").scrollBy({ left: b.dataset.dir * $("topics").clientWidth * 0.7 })));
+      $("topics").addEventListener("click", (e) => {
+        const button = e.target.closest("[data-topic]");
+        if (!button) return;
         state.expanded = false;
-        history.replaceState(null, "", state.tab === HOME ? location.pathname : `#${encodeURIComponent(state.tab)}`);
+        const hash = button.dataset.topic === HOME ? "" : `#${encodeURIComponent(button.dataset.topic)}`;
+        history.replaceState(null, "", `${location.pathname}${location.search}${hash}`);
         show();
       });
-      $("view").addEventListener("click", (e) => {
-        const b = e.target.closest("[data-action]");
-        if (!b) return;
-        state.expanded = b.dataset.action === "expand";
+      addEventListener("hashchange", () => {
+        state.expanded = false;
         show();
+      });
+      $("panels").addEventListener("click", (e) => {
+        const button = e.target.closest("[data-action]");
+        if (!button) return;
+        state.expanded = button.dataset.action === "expand";
+        show();
+        focusHeading();
       });
       $("q").addEventListener("input", (e) => {
         state.q = e.target.value.trim().toLowerCase();
         filter();
       });
-      $("archive").addEventListener("change", (e) => {
-        load(e.target.value ? `data/archive/${e.target.value}.json` : "data/latest.json").catch(showError);
-      });
+      $("archive").addEventListener("change", (e) => load(e.target.value, true));
 
       const root = document.documentElement;
       const syncTheme = () => {
         const dark = root.dataset.theme === "dark";
         $("theme").setAttribute("aria-pressed", dark);
-        document.querySelector('meta[name="theme-color"]').content = dark ? "#0f1115" : "#f4f5f7";
+        document.querySelector('meta[name="theme-color"]').content = getComputedStyle(root).getPropertyValue("--paper").trim();
       };
       syncTheme();
       $("theme").addEventListener("click", () => {
         root.dataset.theme = root.dataset.theme === "dark" ? "light" : "dark";
-        try { localStorage.setItem("theme", root.dataset.theme); } catch (e) {}
+        try { localStorage.setItem("theme", root.dataset.theme); } catch {}
         syncTheme();
       });
 
-      const showError = (err) => {
-        $("view").innerHTML = `<p class="empty">Could not load the data — reload in a minute. 資料載入失敗，請稍後重新整理。(${esc(err.message)})</p>`;
-      };
-      load("data/latest.json").catch(showError);
-      loadArchive();
-      loadVersion();
+      load();
+      loadArchive().catch(() => {});
+      loadVersion().catch(() => {});
     </script>
   </body>
 </html>

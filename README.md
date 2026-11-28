@@ -41,7 +41,7 @@ uv pip install --python .venv/bin/python -r requirements.txt
 ## 與原始規格不同的地方
 
 - **不使用 LLM**：不抓原文、不呼叫 Claude，沒有中文標題、中文摘要與「為什麼重要」；分類改用關鍵字規則，所以 `latest.json` 每則的欄位是 `id, title, summary, category, score, published_at, sources, primary_url`；另有 `highlights.Headlines`。
-- **2026-11-29 改版**：頁面重新設計（主題脈動條：六個主題依當天新聞數量決定寬度，同時是導覽）；分類改成大眾六類；拿掉 Dark Horses 與 Rising 兩個精選和工程師向來源。
+- **2026-11-29 改版**：首頁封面突出首則頭條，接續三則並列呈現，手機改為單欄。搜尋、主題與過去版本集中在上方導覽，過去版本沿用該期分類。新期別採六類大眾主題，移除 Dark Horses、Rising 與工程師向來源。
 - **Reddit 沒有 upvotes**：Reddit JSON API 對未登入請求回 403，只能用 RSS，因此 Reddit 項目不計社群熱度。Reddit 也常對雲端主機限流，失敗時跳過。
 - **移除的來源**：Meta AI、VentureBeat、數位時代沒有可用的格式，詳見 `sources_report.md`。
 - **2026-11-14 調整**：Anthropic 暫停（sitemap 的 lastmod 會在網站重新部署時全部刷新，舊文章被當成新的）；拿掉 Microsoft Research、NVIDIA Developer 與 arXiv 四個分類，論文改用 Hugging Face Papers 前一天的榜單；Hugging Face 熱門模型排除 uncensored、merge、GGUF 這類改版；GitHub Trending 只收當日 100 星以上。

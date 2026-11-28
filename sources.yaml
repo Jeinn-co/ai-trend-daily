@@ -5,16 +5,15 @@
 # group: 同一 group 視為同一來源，計算跨來源報導數時不重複計（預設為 name）
 # ai_filter: true 表示來源不是 AI 專屬分類，只留標題或摘要含 AI 關鍵字的項目
 # limit: 每次最多取幾則（依發布時間由新到舊）
+# 2026-11-29 改版：只收一般人關心的 AI 新聞，拿掉 Reddit、Hugging Face 論文與熱門模型、GitHub Trending、IT之家（一般 3C 新聞靠關鍵字過濾，雜訊多）。
 # 選來源的原則：優先用帶熱度訊號的來源（HN 分數、Techmeme／Readhub 的報導家數、投票、星數）；
 # 官方部落格與媒體 RSS 只照時間排，權重較低，主要用來增加跨來源報導數。
 
 sources:
   # 熱度來源：編輯精選或有分數
   - {name: Techmeme, url: "https://www.techmeme.com/feed.xml", type: rss, weight: 5, ai_filter: true}
-  - {name: Hacker News, url: "https://hn.algolia.com/api/v1/search_by_date", type: hn, weight: 4, min_points: 100}
+  - {name: Hacker News, url: "https://hn.algolia.com/api/v1/search_by_date", type: hn, weight: 4, min_points: 200}
   - {name: Readhub, url: "https://api.readhub.cn/topic/list", type: readhub, weight: 4, ai_filter: true}
-  - {name: r/MachineLearning, url: "https://www.reddit.com/r/MachineLearning/top/.rss?t=day", type: rss, weight: 2, group: Reddit}
-  - {name: r/LocalLLaMA, url: "https://www.reddit.com/r/LocalLLaMA/top/.rss?t=day", type: rss, weight: 2, group: Reddit}
 
   # 官方部落格（佐證來源）
   - {name: OpenAI, url: "https://openai.com/news/rss.xml", type: rss, weight: 4}
@@ -33,16 +32,10 @@ sources:
   - {name: Ars Technica, url: "https://arstechnica.com/ai/feed/", type: rss, weight: 3}
   - {name: The Decoder, url: "https://the-decoder.com/feed/", type: rss, weight: 3}
 
-  # 論文：只取 Hugging Face Daily Papers 前一天的榜單，依 upvotes
-  - {name: Hugging Face Papers, url: "https://huggingface.co/api/daily_papers", type: hf_papers, weight: 2, limit: 10}
 
-  # 開源
-  - {name: GitHub Trending, url: "https://github.com/trending?since=daily", type: github_trending, weight: 3, min_stars: 100}
-  - {name: Hugging Face Trending, url: "https://huggingface.co/api/models?sort=trendingScore&limit=20", type: hf_models, weight: 3}
 
   # 中文（簡體）
   - {name: 量子位, url: "https://www.qbitai.com/feed", type: rss, weight: 3}
-  - {name: IT之家, url: "https://www.ithome.com/rss/", type: rss, weight: 2, ai_filter: true, limit: 20}
 
   # 中文（繁體）；2026-11-29 以 curl + feedparser 確認可抓。沒有 AI 分類 feed 的用關鍵字過濾
   # iThome 改用 /rss/news（30 則）；原本的 /rss.xml 只給 10 則，常常一則 AI 都沒有

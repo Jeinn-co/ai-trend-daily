@@ -118,47 +118,6 @@ def fetch_hn(src, now):
     return out
 
 
-def fetch_github_trending(src, now):
-    soup = BeautifulSoup(get(src["url"]).text, "html.parser")
-    rows = soup.select("article.Box-row")
-    if not rows:
-        raise ValueError("no repositories found on the trending page")
-    out = []
-    for row in rows:
-        a = row.select_one("h2 a")
-        repo = re.sub(r"\s+", "", a.get_text())
-        desc_el = row.select_one("p")
-        desc = desc_el.get_text(" ", strip=True) if desc_el else ""
-        if not is_ai(repo, desc):
-            continue
-        m = re.search(r"([\d,]+) stars today", row.get_text())
-        stars = int(m.group(1).replace(",", "")) if m else 0
-        if stars < src.get("min_stars", 0):
-            continue
-        out.append(item(src, f"{repo}: {desc}" if desc else repo, f"https://github.com/{repo}", now, desc,
-                        heat=("github", stars), undated=True))
-    return out
-
-
-# fine-tune remixes that top the trending list without being news
-HF_NOISE = re.compile(r"uncensored|abliterat|heretic|merge|gguf|-exl\d|\bnsfw\b", re.IGNORECASE)
-
-
-def fetch_hf_models(src, now):
-    models = get(src["url"]).json()
-    return [item(src, m["id"], f"https://huggingface.co/{m['id']}", now, heat=("hf", m.get("trendingScore", 0)), undated=True)
-            for m in models if not HF_NOISE.search(m["id"])]
-
-
-def fetch_hf_papers(src, now):
-    # yesterday's list is complete; its upvotes are the heat. The paper's own date is its arXiv date, so treat it as undated
-    day = (now - timedelta(days=1)).strftime("%Y-%m-%d")
-    papers = get(f"{src['url']}?date={day}").json()
-    papers.sort(key=lambda p: p["paper"].get("upvotes", 0), reverse=True)
-    return [item(src, p["title"], f"https://huggingface.co/papers/{p['paper']['id']}", now, p.get("summary", ""),
-                 heat=("hf_papers", p["paper"].get("upvotes", 0)), undated=True) for p in papers]
-
-
 def fetch_readhub(src, now):
     # Readhub clusters Chinese tech coverage; siteCount = how many outlets reported the event
     topics = get(src["url"]).json()["data"]
@@ -178,9 +137,6 @@ FETCHERS = {
     "rss": fetch_rss,
     "sitemap": fetch_sitemap,
     "hn": fetch_hn,
-    "github_trending": fetch_github_trending,
-    "hf_models": fetch_hf_models,
-    "hf_papers": fetch_hf_papers,
     "readhub": fetch_readhub,
 }
 

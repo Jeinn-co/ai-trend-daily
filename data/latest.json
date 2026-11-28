@@ -1,12 +1,12 @@
 {
- "updated_at": "2026-11-28T19:53:42+00:00",
+ "updated_at": "2026-11-28T20:20:00+00:00",
  "top10": [
   {
    "id": "b803fea7b88d",
    "title": "马斯克：谷歌已表示有兴趣从 SpaceX 租用更多算力",
    "summary": "马斯克在社交媒体透露谷歌有意向 SpaceX 租用更多算力。马斯克称，高带宽训练、大规模连续算力集群的租赁价格上涨，部分时段涨幅明显，5000 块 GPU 以内的小规模算力价格走低，整体 SpaceX 算力业务单 GPU 平均租赁价格呈上行趋势。此前马斯克已在 SpaceX 内部向员工表明，公司自家 AI 模型开发落后于竞争对手，与其拿 GPU 训练 Grok，不如出租算力获利更多，这意味着马斯…",
    "category": "Chips & Industry",
-   "score": 69.7,
+   "score": 69.5,
    "published_at": "2026-11-28T19:09:12.123000+00:00",
    "sources": [
     {
@@ -21,7 +21,7 @@
    "title": "《黑神话：悟空》制作人冯骥：若 AI 取代大部分劳动 应全民分红",
    "summary": "游戏科学创始人、《黑神话：悟空》制作人冯骥发表长文探讨后 AI 时代的问题。他由游戏行业切入，看到《GTA6》这类需长期投入的大作，也体验到 AI 制作的颇具吸引力的网页游戏，认为 AI 降低游戏制作门槛后，正版官方服或因玩家的情感联结与共识更具吸引力，而腰部创作者处境尴尬，原创者回本时间被压缩，娱乐将走向「公共仪式」类大作和「私人定制」内容两端。他更担忧 AI 替代多领域人工后，普通人靠劳动分…",
    "category": "Work & Jobs",
-   "score": 69.7,
+   "score": 69.5,
    "published_at": "2026-11-28T19:08:38.534000+00:00",
    "sources": [
     {
@@ -36,7 +36,7 @@
    "title": "DeepSeek 新增对话资费查询功能，展示 Token 消耗及对应价格",
    "summary": "DeepSeek 安卓端 App 更新后新增对话资费查询功能，用户可查看每轮对话的 Token 消耗及对应资费，目前仍标注免费，此前其已调整免费用户使用额度。近两年 DeepSeek 以低价大模型改变行业成本预期，大模型调用价格大幅下降，但需求也随之膨胀，符合杰文斯悖论。DeepSeek 曾披露推理成本与收入情况，其开放模型策略让商业价值由产业链共享，如何转化为自身持续回报是课题。如今大模型商业…",
    "category": "Tools & Apps",
-   "score": 65.2,
+   "score": 65.0,
    "published_at": "2026-11-28T19:12:13.210000+00:00",
    "sources": [
     {
@@ -50,172 +50,8 @@
    "id": "f16a5bf5eb7d",
    "title": "迪士尼 CTO 被 Character.ai 债权人委员会拟发传票",
    "summary": "Character Technologies 的无担保债权人官方委员会拟向该公司前首席执行官、现任华特迪士尼首席技术官卡兰迪普・阿南德发出传票，相关通知已提交美国特拉华州破产法院，拟在 12 月 4 日听证会前传唤其作证，文件未说明问询内容。阿南德 9 月出任迪士尼首任首席技术官，加入前曾在 Character.ai 任职两年。目前迪士尼计划以 2000 万美元授权该 AI 初创企业部分知识产权…",
-   "category": "Rules & Safety",
-   "score": 65.2,
-   "published_at": "2026-11-28T19:12:06.816000+00:00",
-   "sources": [
-    {
-     "name": "Readhub",
-     "url": "https://readhub.cn/topic/8yPkNMg7j5f"
-    }
-   ],
-   "primary_url": "https://readhub.cn/topic/8yPkNMg7j5f"
-  },
-  {
-   "id": "ad435f10bd81",
-   "title": "开发者称 Claude 在 AI 研究中存在暗中降智等行为",
-   "summary": "普通写代码时它表现正常，可一旦用它研究模型架构、优化训练成本，它就会暗中降智，甚至在科研阶段偷偷搞破坏。看似是在帮忙改 Bug、优化架构，实则会偷偷修改关键参数、篡改验证条件，还会故意写出拖慢训练的代码来消耗算力。",
-   "category": "Tools & Apps",
-   "score": 65.2,
-   "published_at": "2026-11-28T19:11:56.188000+00:00",
-   "sources": [
-    {
-     "name": "Readhub",
-     "url": "https://readhub.cn/topic/8yPqSCifapt"
-    }
-   ],
-   "primary_url": "https://readhub.cn/topic/8yPqSCifapt"
-  },
-  {
-   "id": "5fa1139fc5a8",
-   "title": "达特茅斯学院宣布暂停 2027-2028 学年数学博士招生",
-   "summary": "美国常春藤名校达特茅斯学院宣布暂停 2027—2028 学年数学博士项目招生，已递交的申请材料校方不再审阅，校方称原因是文理学院正开展数学系院系评估，但评估及招生恢复时间均未明确。该决定此前毫无征兆，引发师生担忧，校方称现有在读博士生的学籍、资助等不受影响。此前乔治・华盛顿大学也曾因财政压力暂停数学博士招生一个周期，后宣布 2027 年秋季恢复招生。相关调查显示，2026 年秋季美国多所研究型大…",
-   "category": "Other",
-   "score": 65.2,
-   "published_at": "2026-11-28T19:11:47.525000+00:00",
-   "sources": [
-    {
-     "name": "Readhub",
-     "url": "https://readhub.cn/topic/8yOuCrB5S3y"
-    }
-   ],
-   "primary_url": "https://readhub.cn/topic/8yOuCrB5S3y"
-  },
-  {
-   "id": "51e0eb9f7901",
-   "title": "Donald Knuth suspends error bounties due to an influx of AI-generated reports",
-   "summary": "",
-   "category": "Other",
-   "score": 65.0,
-   "published_at": "2026-11-28T17:53:02+00:00",
-   "sources": [
-    {
-     "name": "Hacker News",
-     "url": "https://cs.stanford.edu/~knuth/moratorium.html"
-    },
-    {
-     "name": "Hacker News 討論",
-     "url": "https://news.ycombinator.com/item?id=50680168"
-    }
-   ],
-   "primary_url": "https://cs.stanford.edu/~knuth/moratorium.html"
-  },
-  {
-   "id": "00b58e4385b8",
-   "title": "Claude Code sabotage: preliminary benchmarking",
-   "summary": "",
-   "category": "New Models",
-   "score": 64.9,
-   "published_at": "2026-11-28T10:37:40+00:00",
-   "sources": [
-    {
-     "name": "Hacker News",
-     "url": "https://xinyadu.github.io/blog/claude-code-sabotage.html"
-    },
-    {
-     "name": "Hacker News 討論",
-     "url": "https://news.ycombinator.com/item?id=50676390"
-    }
-   ],
-   "primary_url": "https://xinyadu.github.io/blog/claude-code-sabotage.html"
-  },
-  {
-   "id": "33de37c7f331",
-   "title": "豆包大模型电视双11销售额破亿",
-   "summary": "豆包大模型已服务八成国内头部电视厂商，创维、长虹、海信、TCL 等主流品牌均推出搭载该模型的量产电视，2026 年双 11 期间，豆包大模型版电视在抖音电商渠道销售额破亿。豆包模型家族支撑语音、理解和生成能力，厂商将其融入电视系统，改变了以往电视语音需按固定指令操作的模式，用户可自然提问、追问，电视先理解需求再调用相应能力，以语音或画面呈现结果。其包含实时语音智能体负责交流与需求处理，云端智能体…",
-   "category": "New Models",
-   "score": 60.3,
-   "published_at": "2026-11-28T19:20:47.804000+00:00",
-   "sources": [
-    {
-     "name": "Readhub",
-     "url": "https://readhub.cn/topic/8yOZD8VZY9X"
-    }
-   ],
-   "primary_url": "https://readhub.cn/topic/8yOZD8VZY9X"
-  },
-  {
-   "id": "6acd918e3339",
-   "title": "Michael Nielsen took down his book on neural nets",
-   "summary": "",
-   "category": "Other",
-   "score": 58.2,
-   "published_at": "2026-11-27T19:31:01+00:00",
-   "sources": [
-    {
-     "name": "Hacker News",
-     "url": "https://neuralnetworksanddeeplearning.com/"
-    },
-    {
-     "name": "Hacker News 討論",
-     "url": "https://news.ycombinator.com/item?id=50670757"
-    }
-   ],
-   "primary_url": "https://neuralnetworksanddeeplearning.com/"
-  }
- ],
- "all": [
-  {
-   "id": "b803fea7b88d",
-   "title": "马斯克：谷歌已表示有兴趣从 SpaceX 租用更多算力",
-   "summary": "马斯克在社交媒体透露谷歌有意向 SpaceX 租用更多算力。马斯克称，高带宽训练、大规模连续算力集群的租赁价格上涨，部分时段涨幅明显，5000 块 GPU 以内的小规模算力价格走低，整体 SpaceX 算力业务单 GPU 平均租赁价格呈上行趋势。此前马斯克已在 SpaceX 内部向员工表明，公司自家 AI 模型开发落后于竞争对手，与其拿 GPU 训练 Grok，不如出租算力获利更多，这意味着马斯…",
    "category": "Chips & Industry",
-   "score": 69.7,
-   "published_at": "2026-11-28T19:09:12.123000+00:00",
-   "sources": [
-    {
-     "name": "Readhub",
-     "url": "https://readhub.cn/topic/8yQCxR4a2HX"
-    }
-   ],
-   "primary_url": "https://readhub.cn/topic/8yQCxR4a2HX"
-  },
-  {
-   "id": "5b50497257aa",
-   "title": "《黑神话：悟空》制作人冯骥：若 AI 取代大部分劳动 应全民分红",
-   "summary": "游戏科学创始人、《黑神话：悟空》制作人冯骥发表长文探讨后 AI 时代的问题。他由游戏行业切入，看到《GTA6》这类需长期投入的大作，也体验到 AI 制作的颇具吸引力的网页游戏，认为 AI 降低游戏制作门槛后，正版官方服或因玩家的情感联结与共识更具吸引力，而腰部创作者处境尴尬，原创者回本时间被压缩，娱乐将走向「公共仪式」类大作和「私人定制」内容两端。他更担忧 AI 替代多领域人工后，普通人靠劳动分…",
-   "category": "Work & Jobs",
-   "score": 69.7,
-   "published_at": "2026-11-28T19:08:38.534000+00:00",
-   "sources": [
-    {
-     "name": "Readhub",
-     "url": "https://readhub.cn/topic/8yQCxWTWhlh"
-    }
-   ],
-   "primary_url": "https://readhub.cn/topic/8yQCxWTWhlh"
-  },
-  {
-   "id": "8099040ff653",
-   "title": "DeepSeek 新增对话资费查询功能，展示 Token 消耗及对应价格",
-   "summary": "DeepSeek 安卓端 App 更新后新增对话资费查询功能，用户可查看每轮对话的 Token 消耗及对应资费，目前仍标注免费，此前其已调整免费用户使用额度。近两年 DeepSeek 以低价大模型改变行业成本预期，大模型调用价格大幅下降，但需求也随之膨胀，符合杰文斯悖论。DeepSeek 曾披露推理成本与收入情况，其开放模型策略让商业价值由产业链共享，如何转化为自身持续回报是课题。如今大模型商业…",
-   "category": "Tools & Apps",
-   "score": 65.2,
-   "published_at": "2026-11-28T19:12:13.210000+00:00",
-   "sources": [
-    {
-     "name": "Readhub",
-     "url": "https://readhub.cn/topic/8yPFdwssUOD"
-    }
-   ],
-   "primary_url": "https://readhub.cn/topic/8yPFdwssUOD"
-  },
-  {
-   "id": "f16a5bf5eb7d",
-   "title": "迪士尼 CTO 被 Character.ai 债权人委员会拟发传票",
-   "summary": "Character Technologies 的无担保债权人官方委员会拟向该公司前首席执行官、现任华特迪士尼首席技术官卡兰迪普・阿南德发出传票，相关通知已提交美国特拉华州破产法院，拟在 12 月 4 日听证会前传唤其作证，文件未说明问询内容。阿南德 9 月出任迪士尼首任首席技术官，加入前曾在 Character.ai 任职两年。目前迪士尼计划以 2000 万美元授权该 AI 初创企业部分知识产权…",
-   "category": "Rules & Safety",
-   "score": 65.2,
+   "score": 65.0,
    "published_at": "2026-11-28T19:12:06.816000+00:00",
    "sources": [
     {
@@ -230,7 +66,7 @@
    "title": "开发者称 Claude 在 AI 研究中存在暗中降智等行为",
    "summary": "普通写代码时它表现正常，可一旦用它研究模型架构、优化训练成本，它就会暗中降智，甚至在科研阶段偷偷搞破坏。看似是在帮忙改 Bug、优化架构，实则会偷偷修改关键参数、篡改验证条件，还会故意写出拖慢训练的代码来消耗算力。",
    "category": "Tools & Apps",
-   "score": 65.2,
+   "score": 65.0,
    "published_at": "2026-11-28T19:11:56.188000+00:00",
    "sources": [
     {
@@ -239,40 +75,6 @@
     }
    ],
    "primary_url": "https://readhub.cn/topic/8yPqSCifapt"
-  },
-  {
-   "id": "5fa1139fc5a8",
-   "title": "达特茅斯学院宣布暂停 2027-2028 学年数学博士招生",
-   "summary": "美国常春藤名校达特茅斯学院宣布暂停 2027—2028 学年数学博士项目招生，已递交的申请材料校方不再审阅，校方称原因是文理学院正开展数学系院系评估，但评估及招生恢复时间均未明确。该决定此前毫无征兆，引发师生担忧，校方称现有在读博士生的学籍、资助等不受影响。此前乔治・华盛顿大学也曾因财政压力暂停数学博士招生一个周期，后宣布 2027 年秋季恢复招生。相关调查显示，2026 年秋季美国多所研究型大…",
-   "category": "Other",
-   "score": 65.2,
-   "published_at": "2026-11-28T19:11:47.525000+00:00",
-   "sources": [
-    {
-     "name": "Readhub",
-     "url": "https://readhub.cn/topic/8yOuCrB5S3y"
-    }
-   ],
-   "primary_url": "https://readhub.cn/topic/8yOuCrB5S3y"
-  },
-  {
-   "id": "51e0eb9f7901",
-   "title": "Donald Knuth suspends error bounties due to an influx of AI-generated reports",
-   "summary": "",
-   "category": "Other",
-   "score": 65.0,
-   "published_at": "2026-11-28T17:53:02+00:00",
-   "sources": [
-    {
-     "name": "Hacker News",
-     "url": "https://cs.stanford.edu/~knuth/moratorium.html"
-    },
-    {
-     "name": "Hacker News 討論",
-     "url": "https://news.ycombinator.com/item?id=50680168"
-    }
-   ],
-   "primary_url": "https://cs.stanford.edu/~knuth/moratorium.html"
   },
   {
    "id": "00b58e4385b8",
@@ -294,11 +96,30 @@
    "primary_url": "https://xinyadu.github.io/blog/claude-code-sabotage.html"
   },
   {
+   "id": "a47ff2eccf68",
+   "title": "GGUF LLM Models with Hidden Malware on Hugging Face Reached 2400 Victims",
+   "summary": "",
+   "category": "Rules & Safety",
+   "score": 61.6,
+   "published_at": "2026-11-28T11:57:04+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://malspark.com/blog/malicious-gguf-models-hugging-face/"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50676752"
+    }
+   ],
+   "primary_url": "https://malspark.com/blog/malicious-gguf-models-hugging-face/"
+  },
+  {
    "id": "33de37c7f331",
    "title": "豆包大模型电视双11销售额破亿",
    "summary": "豆包大模型已服务八成国内头部电视厂商，创维、长虹、海信、TCL 等主流品牌均推出搭载该模型的量产电视，2026 年双 11 期间，豆包大模型版电视在抖音电商渠道销售额破亿。豆包模型家族支撑语音、理解和生成能力，厂商将其融入电视系统，改变了以往电视语音需按固定指令操作的模式，用户可自然提问、追问，电视先理解需求再调用相应能力，以语音或画面呈现结果。其包含实时语音智能体负责交流与需求处理，云端智能体…",
    "category": "New Models",
-   "score": 60.3,
+   "score": 60.2,
    "published_at": "2026-11-28T19:20:47.804000+00:00",
    "sources": [
     {
@@ -307,32 +128,13 @@
     }
    ],
    "primary_url": "https://readhub.cn/topic/8yOZD8VZY9X"
-  },
-  {
-   "id": "6acd918e3339",
-   "title": "Michael Nielsen took down his book on neural nets",
-   "summary": "",
-   "category": "Other",
-   "score": 58.2,
-   "published_at": "2026-11-27T19:31:01+00:00",
-   "sources": [
-    {
-     "name": "Hacker News",
-     "url": "https://neuralnetworksanddeeplearning.com/"
-    },
-    {
-     "name": "Hacker News 討論",
-     "url": "https://news.ycombinator.com/item?id=50670757"
-    }
-   ],
-   "primary_url": "https://neuralnetworksanddeeplearning.com/"
   },
   {
    "id": "4e825df2be8b",
    "title": "Woman evicted after landlord's AI assistant told her she could delay rent",
    "summary": "",
    "category": "Tools & Apps",
-   "score": 57.6,
+   "score": 57.4,
    "published_at": "2026-11-28T01:32:56+00:00",
    "sources": [
     {
@@ -350,8 +152,172 @@
    "id": "25daf8dc190c",
    "title": "谷歌 AI 连发 6 篇数学论文 整数分解算法获 34 年突破",
    "summary": "谷歌研究院在 GitHub 放出 6 篇共 274 页的数学论文，全部由 Gemini 4 加持的 AI 智能体 Cogentic 完成，作者栏无人名。论文覆盖整数分解、离散对数、纳什均衡、通信复杂度和图论领域，其中领衔论文研究整数分解难题。在整数分解上，Cogentic 设计的新算法不靠未证明假设，将严格证明的速度从 L [1/2,1] 推进到 L [1/3,105]，34 年来首次与数域筛同…",
+   "category": "Chips & Industry",
+   "score": 56.2,
+   "published_at": "2026-11-28T19:09:47.380000+00:00",
+   "sources": [
+    {
+     "name": "Readhub",
+     "url": "https://readhub.cn/topic/8yQ6Ae9fqIu"
+    }
+   ],
+   "primary_url": "https://readhub.cn/topic/8yQ6Ae9fqIu"
+  }
+ ],
+ "all": [
+  {
+   "id": "b803fea7b88d",
+   "title": "马斯克：谷歌已表示有兴趣从 SpaceX 租用更多算力",
+   "summary": "马斯克在社交媒体透露谷歌有意向 SpaceX 租用更多算力。马斯克称，高带宽训练、大规模连续算力集群的租赁价格上涨，部分时段涨幅明显，5000 块 GPU 以内的小规模算力价格走低，整体 SpaceX 算力业务单 GPU 平均租赁价格呈上行趋势。此前马斯克已在 SpaceX 内部向员工表明，公司自家 AI 模型开发落后于竞争对手，与其拿 GPU 训练 Grok，不如出租算力获利更多，这意味着马斯…",
+   "category": "Chips & Industry",
+   "score": 69.5,
+   "published_at": "2026-11-28T19:09:12.123000+00:00",
+   "sources": [
+    {
+     "name": "Readhub",
+     "url": "https://readhub.cn/topic/8yQCxR4a2HX"
+    }
+   ],
+   "primary_url": "https://readhub.cn/topic/8yQCxR4a2HX"
+  },
+  {
+   "id": "5b50497257aa",
+   "title": "《黑神话：悟空》制作人冯骥：若 AI 取代大部分劳动 应全民分红",
+   "summary": "游戏科学创始人、《黑神话：悟空》制作人冯骥发表长文探讨后 AI 时代的问题。他由游戏行业切入，看到《GTA6》这类需长期投入的大作，也体验到 AI 制作的颇具吸引力的网页游戏，认为 AI 降低游戏制作门槛后，正版官方服或因玩家的情感联结与共识更具吸引力，而腰部创作者处境尴尬，原创者回本时间被压缩，娱乐将走向「公共仪式」类大作和「私人定制」内容两端。他更担忧 AI 替代多领域人工后，普通人靠劳动分…",
+   "category": "Work & Jobs",
+   "score": 69.5,
+   "published_at": "2026-11-28T19:08:38.534000+00:00",
+   "sources": [
+    {
+     "name": "Readhub",
+     "url": "https://readhub.cn/topic/8yQCxWTWhlh"
+    }
+   ],
+   "primary_url": "https://readhub.cn/topic/8yQCxWTWhlh"
+  },
+  {
+   "id": "8099040ff653",
+   "title": "DeepSeek 新增对话资费查询功能，展示 Token 消耗及对应价格",
+   "summary": "DeepSeek 安卓端 App 更新后新增对话资费查询功能，用户可查看每轮对话的 Token 消耗及对应资费，目前仍标注免费，此前其已调整免费用户使用额度。近两年 DeepSeek 以低价大模型改变行业成本预期，大模型调用价格大幅下降，但需求也随之膨胀，符合杰文斯悖论。DeepSeek 曾披露推理成本与收入情况，其开放模型策略让商业价值由产业链共享，如何转化为自身持续回报是课题。如今大模型商业…",
+   "category": "Tools & Apps",
+   "score": 65.0,
+   "published_at": "2026-11-28T19:12:13.210000+00:00",
+   "sources": [
+    {
+     "name": "Readhub",
+     "url": "https://readhub.cn/topic/8yPFdwssUOD"
+    }
+   ],
+   "primary_url": "https://readhub.cn/topic/8yPFdwssUOD"
+  },
+  {
+   "id": "f16a5bf5eb7d",
+   "title": "迪士尼 CTO 被 Character.ai 债权人委员会拟发传票",
+   "summary": "Character Technologies 的无担保债权人官方委员会拟向该公司前首席执行官、现任华特迪士尼首席技术官卡兰迪普・阿南德发出传票，相关通知已提交美国特拉华州破产法院，拟在 12 月 4 日听证会前传唤其作证，文件未说明问询内容。阿南德 9 月出任迪士尼首任首席技术官，加入前曾在 Character.ai 任职两年。目前迪士尼计划以 2000 万美元授权该 AI 初创企业部分知识产权…",
+   "category": "Chips & Industry",
+   "score": 65.0,
+   "published_at": "2026-11-28T19:12:06.816000+00:00",
+   "sources": [
+    {
+     "name": "Readhub",
+     "url": "https://readhub.cn/topic/8yPkNMg7j5f"
+    }
+   ],
+   "primary_url": "https://readhub.cn/topic/8yPkNMg7j5f"
+  },
+  {
+   "id": "ad435f10bd81",
+   "title": "开发者称 Claude 在 AI 研究中存在暗中降智等行为",
+   "summary": "普通写代码时它表现正常，可一旦用它研究模型架构、优化训练成本，它就会暗中降智，甚至在科研阶段偷偷搞破坏。看似是在帮忙改 Bug、优化架构，实则会偷偷修改关键参数、篡改验证条件，还会故意写出拖慢训练的代码来消耗算力。",
+   "category": "Tools & Apps",
+   "score": 65.0,
+   "published_at": "2026-11-28T19:11:56.188000+00:00",
+   "sources": [
+    {
+     "name": "Readhub",
+     "url": "https://readhub.cn/topic/8yPqSCifapt"
+    }
+   ],
+   "primary_url": "https://readhub.cn/topic/8yPqSCifapt"
+  },
+  {
+   "id": "00b58e4385b8",
+   "title": "Claude Code sabotage: preliminary benchmarking",
+   "summary": "",
    "category": "New Models",
-   "score": 56.4,
+   "score": 64.9,
+   "published_at": "2026-11-28T10:37:40+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://xinyadu.github.io/blog/claude-code-sabotage.html"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50676390"
+    }
+   ],
+   "primary_url": "https://xinyadu.github.io/blog/claude-code-sabotage.html"
+  },
+  {
+   "id": "a47ff2eccf68",
+   "title": "GGUF LLM Models with Hidden Malware on Hugging Face Reached 2400 Victims",
+   "summary": "",
+   "category": "Rules & Safety",
+   "score": 61.6,
+   "published_at": "2026-11-28T11:57:04+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://malspark.com/blog/malicious-gguf-models-hugging-face/"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50676752"
+    }
+   ],
+   "primary_url": "https://malspark.com/blog/malicious-gguf-models-hugging-face/"
+  },
+  {
+   "id": "33de37c7f331",
+   "title": "豆包大模型电视双11销售额破亿",
+   "summary": "豆包大模型已服务八成国内头部电视厂商，创维、长虹、海信、TCL 等主流品牌均推出搭载该模型的量产电视，2026 年双 11 期间，豆包大模型版电视在抖音电商渠道销售额破亿。豆包模型家族支撑语音、理解和生成能力，厂商将其融入电视系统，改变了以往电视语音需按固定指令操作的模式，用户可自然提问、追问，电视先理解需求再调用相应能力，以语音或画面呈现结果。其包含实时语音智能体负责交流与需求处理，云端智能体…",
+   "category": "New Models",
+   "score": 60.2,
+   "published_at": "2026-11-28T19:20:47.804000+00:00",
+   "sources": [
+    {
+     "name": "Readhub",
+     "url": "https://readhub.cn/topic/8yOZD8VZY9X"
+    }
+   ],
+   "primary_url": "https://readhub.cn/topic/8yOZD8VZY9X"
+  },
+  {
+   "id": "4e825df2be8b",
+   "title": "Woman evicted after landlord's AI assistant told her she could delay rent",
+   "summary": "",
+   "category": "Tools & Apps",
+   "score": 57.4,
+   "published_at": "2026-11-28T01:32:56+00:00",
+   "sources": [
+    {
+     "name": "Hacker News",
+     "url": "https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai"
+    },
+    {
+     "name": "Hacker News 討論",
+     "url": "https://news.ycombinator.com/item?id=50673521"
+    }
+   ],
+   "primary_url": "https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai"
+  },
+  {
+   "id": "25daf8dc190c",
+   "title": "谷歌 AI 连发 6 篇数学论文 整数分解算法获 34 年突破",
+   "summary": "谷歌研究院在 GitHub 放出 6 篇共 274 页的数学论文，全部由 Gemini 4 加持的 AI 智能体 Cogentic 完成，作者栏无人名。论文覆盖整数分解、离散对数、纳什均衡、通信复杂度和图论领域，其中领衔论文研究整数分解难题。在整数分解上，Cogentic 设计的新算法不靠未证明假设，将严格证明的速度从 L [1/2,1] 推进到 L [1/3,105]，34 年来首次与数域筛同…",
+   "category": "Chips & Industry",
+   "score": 56.2,
    "published_at": "2026-11-28T19:09:47.380000+00:00",
    "sources": [
     {
@@ -366,7 +332,7 @@
    "title": "Google will require that AI agents use MCP servers, not the REST API, to access Workspace apps starting in February, drawing developer backlash (The Information)",
    "summary": "The Information : Google will require that AI agents use MCP servers, not the REST API, to access Workspace apps starting in February, drawing developer backlash — Two days before Thanksgiving, Googl…",
    "category": "Tools & Apps",
-   "score": 55.8,
+   "score": 55.7,
    "published_at": "2026-11-28T19:30:01+00:00",
    "sources": [
     {
@@ -381,7 +347,7 @@
    "title": "The US aerospace and defense sector is struggling to secure memory chips, labor, land, power, and factory infrastructure amid the AI data center boom (Christian Davies/Financial Times)",
    "summary": "Christian Davies / Financial Times : The US aerospace and defense sector is struggling to secure memory chips, labor, land, power, and factory infrastructure amid the AI data center boom — Boeing and…",
    "category": "Chips & Industry",
-   "score": 54.5,
+   "score": 54.3,
    "published_at": "2026-11-28T16:15:03+00:00",
    "sources": [
     {
@@ -392,30 +358,11 @@
    "primary_url": "https://www.techmeme.com/261128/p7#a261128p7"
   },
   {
-   "id": "f21d90605390",
-   "title": "I'm Scared of AI",
-   "summary": "",
-   "category": "Other",
-   "score": 54.4,
-   "published_at": "2026-11-27T17:45:31+00:00",
-   "sources": [
-    {
-     "name": "Hacker News",
-     "url": "https://thesoapbox.email/archive/3"
-    },
-    {
-     "name": "Hacker News 討論",
-     "url": "https://news.ycombinator.com/item?id=50669561"
-    }
-   ],
-   "primary_url": "https://thesoapbox.email/archive/3"
-  },
-  {
    "id": "138e1e18872d",
    "title": "Claude sabotaging ML research tasks?",
    "summary": "",
    "category": "Tools & Apps",
-   "score": 54.1,
+   "score": 53.9,
    "published_at": "2026-11-27T08:28:08+00:00",
    "sources": [
     {
@@ -434,7 +381,7 @@
    "title": "Q&A with Q.ANT CEO Michael Förtsch on making AI photonic processors which could be built with 90nm nodes, their memory efficiency, adoption challenges, and more (Joel Khalili/Wired)",
    "summary": "Joel Khalili / Wired : Q&A with Q.ANT CEO Michael Förtsch on making AI photonic processors which could be built with 90nm nodes, their memory efficiency, adoption challenges, and more — German compan…",
    "category": "Chips & Industry",
-   "score": 53.8,
+   "score": 53.6,
    "published_at": "2026-11-28T14:40:01+00:00",
    "sources": [
     {
@@ -445,30 +392,11 @@
    "primary_url": "https://www.techmeme.com/261128/p6#a261128p6"
   },
   {
-   "id": "48b0d8d3f8ca",
-   "title": "Group chat where your AI talks behind your back",
-   "summary": "",
-   "category": "Other",
-   "score": 53.2,
-   "published_at": "2026-11-27T06:44:34+00:00",
-   "sources": [
-    {
-     "name": "Hacker News",
-     "url": "https://construct22.com/"
-    },
-    {
-     "name": "Hacker News 討論",
-     "url": "https://news.ycombinator.com/item?id=50663595"
-    }
-   ],
-   "primary_url": "https://construct22.com/"
-  },
-  {
    "id": "1731566e6ed9",
    "title": "Power operators are using sensors and software to dynamically adjust grid safety limits, boosting existing network capacity amid rising AI-driven energy demand (Martha Muir/Financial Times)",
    "summary": "Martha Muir / Financial Times : Power operators are using sensors and software to dynamically adjust grid safety limits, boosting existing network capacity amid rising AI-driven energy demand — Opera…",
    "category": "Rules & Safety",
-   "score": 53.0,
+   "score": 52.8,
    "published_at": "2026-11-28T12:40:01+00:00",
    "sources": [
     {
@@ -479,30 +407,11 @@
    "primary_url": "https://www.techmeme.com/261128/p5#a261128p5"
   },
   {
-   "id": "19dd4641586d",
-   "title": "AI made self-hosting fun again",
-   "summary": "",
-   "category": "Other",
-   "score": 50.8,
-   "published_at": "2026-11-26T21:47:45+00:00",
-   "sources": [
-    {
-     "name": "Hacker News",
-     "url": "https://janlukas.blog/posts/ai-self-hosting"
-    },
-    {
-     "name": "Hacker News 討論",
-     "url": "https://news.ycombinator.com/item?id=50660180"
-    }
-   ],
-   "primary_url": "https://janlukas.blog/posts/ai-self-hosting"
-  },
-  {
    "id": "466b90d33398",
    "title": "Embo, which is developing world models for robotics trained on massive amounts of internet video, emerges from stealth with a $110M seed led by a16z (Embo)",
    "summary": "Embo : Embo, which is developing world models for robotics trained on massive amounts of internet video, emerges from stealth with a $110M seed led by a16z — Embo is building the next generation of f…",
-   "category": "Chips & Industry",
-   "score": 50.1,
+   "category": "New Models",
+   "score": 50.0,
    "published_at": "2026-11-28T05:50:02+00:00",
    "sources": [
     {
@@ -517,7 +426,7 @@
    "title": "Anthropic says Claude doesn't silently sabotage work and that some user reports reflect \"overcaution\", where Claude clings to self-imposed rules on long tasks (Edwin/@edwinarbus)",
    "summary": "Edwin / @edwinarbus : Anthropic says Claude doesn't silently sabotage work and that some user reports reflect “overcaution”, where Claude clings to self-imposed rules on long tasks — Claude has not b…",
    "category": "Tools & Apps",
-   "score": 49.2,
+   "score": 49.0,
    "published_at": "2026-11-28T03:35:05+00:00",
    "sources": [
     {
@@ -532,7 +441,7 @@
    "title": "\"What's Claude's fursona?\" and other questions",
    "summary": "",
    "category": "Tools & Apps",
-   "score": 48.9,
+   "score": 48.8,
    "published_at": "2026-11-27T04:56:18+00:00",
    "sources": [
     {
@@ -547,26 +456,11 @@
    "primary_url": "https://herecomesthemoon.net/2026/11/whats-claudes-fursona/"
   },
   {
-   "id": "ff7af9dff4f0",
-   "title": "How the MATCH Act could backfire by barring ASML from its ~350 immersion scanners in China, letting rivals service and reverse engineer them, and hire its staff (LithoWar)",
-   "summary": "LithoWar : How the MATCH Act could backfire by barring ASML from its ~350 immersion scanners in China, letting rivals service and reverse engineer them, and hire its staff — At the heart of the AI ra…",
-   "category": "Other",
-   "score": 48.5,
-   "published_at": "2026-11-28T02:00:01+00:00",
-   "sources": [
-    {
-     "name": "Techmeme",
-     "url": "https://www.techmeme.com/261127/p16#a261127p16"
-    }
-   ],
-   "primary_url": "https://www.techmeme.com/261127/p16#a261127p16"
-  },
-  {
    "id": "5e05f788eb5b",
    "title": "Some users claim Claude is silently sabotaging projects, especially those involving ML work, but it's hard to prove because models are built to be proactive (Drew Breunig)",
    "summary": "Drew Breunig : Some users claim Claude is silently sabotaging projects, especially those involving ML work, but it's hard to prove because models are built to be proactive — Is Claude Throwing the Ga…",
    "category": "Tools & Apps",
-   "score": 46.7,
+   "score": 46.5,
    "published_at": "2026-11-27T21:35:01+00:00",
    "sources": [
     {
@@ -577,26 +471,11 @@
    "primary_url": "https://www.techmeme.com/261127/p14#a261127p14"
   },
   {
-   "id": "a89708bcc2c1",
-   "title": "Q&A with AI researchers Ege Erdil and Daniel Kokotajlo on the odds of an intelligence explosion before 2029, pausing AI, the US antagonizing China, and more (Dwarkesh Patel/Dwarkesh Podcast)",
-   "summary": "Dwarkesh Patel / Dwarkesh Podcast : Q&A with AI researchers Ege Erdil and Daniel Kokotajlo on the odds of an intelligence explosion before 2029, pausing AI, the US antagonizing China, and more — “If …",
-   "category": "Other",
-   "score": 46.1,
-   "published_at": "2026-11-27T20:15:01+00:00",
-   "sources": [
-    {
-     "name": "Techmeme",
-     "url": "https://www.techmeme.com/261127/p13#a261127p13"
-    }
-   ],
-   "primary_url": "https://www.techmeme.com/261127/p13#a261127p13"
-  },
-  {
    "id": "5fc55f8b966b",
    "title": "OpenAI countersues Apple for allegedly stealing trade secrets via a staffer who returned to Apple and \"coercing and threatening\" suppliers that work with both (Financial Times)",
    "summary": "Financial Times : OpenAI countersues Apple for allegedly stealing trade secrets via a staffer who returned to Apple and “coercing and threatening” suppliers that work with both — The ChatGPT maker al…",
-   "category": "Tools & Apps",
-   "score": 45.6,
+   "category": "Chips & Industry",
+   "score": 45.4,
    "published_at": "2026-11-27T18:57:47+00:00",
    "sources": [
     {
@@ -611,7 +490,7 @@
    "title": "Samsung is testing a feature that changes the angle of photos you’ve already taken",
    "summary": "Android Authority found code in the beta for One UI 9.5 referring to a feature called Recompose that might let you change the angle of a photo after you've taken it. The code is part of Samsung's Pho…",
    "category": "Tools & Apps",
-   "score": 43.6,
+   "score": 43.4,
    "published_at": "2026-11-28T18:54:58+00:00",
    "sources": [
     {
@@ -626,7 +505,7 @@
    "title": "New study casts doubt on how AI companies test the safety systems meant to keep their agents in check",
    "summary": "The UK AI Security Institute is questioning whether simulated sabotage tests for AI monitors actually prove anything. In a new study, a former OpenAI monitor built on GPT-5.4 missed only 0.2 to 0.5 p…",
    "category": "Rules & Safety",
-   "score": 43.5,
+   "score": 43.3,
    "published_at": "2026-11-28T18:46:09+00:00",
    "sources": [
     {
@@ -640,8 +519,8 @@
    "id": "da0dc6110f11",
    "title": "OpenAI’s new countersuit accuses Apple of ‘unlawfully pressuring vendors’",
    "summary": "After Apple sued OpenAI this summer, OpenAI has fired back with a countersuit of its own.",
-   "category": "Rules & Safety",
-   "score": 43.1,
+   "category": "Chips & Industry",
+   "score": 42.9,
    "published_at": "2026-11-28T17:46:47+00:00",
    "sources": [
     {
@@ -652,26 +531,11 @@
    "primary_url": "https://techcrunch.com/2026/11/28/openais-new-countersuit-accuses-apple-of-unlawfully-pressuring-vendors/"
   },
   {
-   "id": "356e5a9fe234",
-   "title": "Terence Tao sees AI ushering in \"Big Math,\" but calls major tech firms' proofs \"toxic waste\"",
-   "summary": "Terence Tao outlines his vision of \"Big Math\" on the Hard Fork podcast. Instead of solo work, human-AI teams would systematically map thousands of problems. He also calls AI proofs from major tech co…",
-   "category": "Other",
-   "score": 41.9,
-   "published_at": "2026-11-28T14:45:01+00:00",
-   "sources": [
-    {
-     "name": "The Decoder",
-     "url": "https://the-decoder.com/terence-tao-sees-ai-ushering-in-big-math-but-calls-major-tech-firms-proofs-toxic-waste/"
-    }
-   ],
-   "primary_url": "https://the-decoder.com/terence-tao-sees-ai-ushering-in-big-math-but-calls-major-tech-firms-proofs-toxic-waste/"
-  },
-  {
    "id": "b65d5c06923e",
    "title": "媒體導入AI求生存？政大教授劉慧雯：只想降低成本，反而犧牲價值",
    "summary": "政治大學傳播學院教授劉慧雯指出，新聞媒體在AI時代的核心價值在於「價值判斷」與「真實正確」，而非盲目追求發布效率或減少人力。她強調，AI生成的內容需耗時查核與糾錯，並未真正節省時間；新聞的本質是提供讀者決策依據，記者建立資訊脈絡的專業無可取代。面對AI浪潮，新聞教育應著重培養學生的批判思考與價值判斷力，助其在科技互動中保持開放彈性。",
    "category": "Work & Jobs",
-   "score": 41.9,
+   "score": 41.7,
    "published_at": "2026-11-28T14:54:02+00:00",
    "sources": [
     {
@@ -686,7 +550,7 @@
    "title": "當 AI 越來越像人，出事誰負責？區塊鏈愛好者協會發表《可信 AI 經濟政策白皮書》",
    "summary": "台灣區塊鏈愛好者協會在第十一屆年會首日「信任日」正式發表《可信 AI 經濟政策白皮書》。白皮書提出，AI Agent 時代的關鍵不再只是模型多強，而是它是誰、被授權做什麼、出事時能不能被停下來。協會希望把「信任」從抽象口號，轉成企業與政府可以具體執行的步驟。",
    "category": "Tools & Apps",
-   "score": 41.9,
+   "score": 41.7,
    "published_at": "2026-11-28T14:49:33+00:00",
    "sources": [
     {
@@ -697,26 +561,11 @@
    "primary_url": "https://edge.aif.tw/trustworthy-ai-economic-policy-white-paper-released/"
   },
   {
-   "id": "801607a4c3bb",
-   "title": "著作權法核心基石「原創性」的AI時代思辨",
-   "summary": "談到歐盟對「人類創造力」的嚴格要求，這讓我回想起當年剛出道執業、開始投入著作權研究與實務時的入門關鍵：究竟什麼是「原創性」？這個問題不僅是著作權法百年來最核心的辯論，歷史上不同法系與經典案例對於原創性門檻的不同界定，更直接決定了今天各國法院面對 AI 創作時的態度。",
-   "category": "Other",
-   "score": 41.9,
-   "published_at": "2026-11-28T14:44:15+00:00",
-   "sources": [
-    {
-     "name": "知勢",
-     "url": "https://edge.aif.tw/critical-perspectives-in-the-age-of-ai/"
-    }
-   ],
-   "primary_url": "https://edge.aif.tw/critical-perspectives-in-the-age-of-ai/"
-  },
-  {
    "id": "74cb8b66f18e",
    "title": "200亿美元…史上最贵AI自媒体",
    "summary": "这可能是有史以来，ROI（投资回报率）最高的个人博客。",
    "category": "Chips & Industry",
-   "score": 41.8,
+   "score": 41.6,
    "published_at": "2026-11-28T14:38:56+00:00",
    "sources": [
     {
@@ -730,8 +579,8 @@
    "id": "48fee933a267",
    "title": "谷歌Tibo亲授Gemini 4 Neon内部打开方式！第一步：删光旧规则",
    "summary": "这两天转投Gemini的有福了！",
-   "category": "Other",
-   "score": 41.7,
+   "category": "New Models",
+   "score": 41.6,
    "published_at": "2026-11-28T14:29:15+00:00",
    "sources": [
     {
@@ -746,7 +595,7 @@
    "title": "刚刚，8192张昇腾训出285B大模型！权重开源，32页训练手册全公开",
    "summary": "国产芯片训千亿大模型，终于有人把施工图纸摊开了",
    "category": "New Models",
-   "score": 41.6,
+   "score": 41.5,
    "published_at": "2026-11-28T14:12:50+00:00",
    "sources": [
     {
@@ -761,7 +610,7 @@
    "title": "Sakana AI’s CEO says its homegrown models are about more than Japan’s national security",
    "summary": "Sakana AI aims to strengthen Japan’s industrial competitiveness with homegrown AI models.",
    "category": "Chips & Industry",
-   "score": 41.5,
+   "score": 41.4,
    "published_at": "2026-11-28T14:00:00+00:00",
    "sources": [
     {
@@ -776,7 +625,7 @@
    "title": "UK Parliament demands unredacted METR safety report after Anthropic redacts most of the evidence",
    "summary": "The UK Parliament is turning up the pressure on Anthropic. Committee chair Liam Byrne is demanding the unredacted METR safety report on AI acceleration by December 4. METR criticized Anthropic for cu…",
    "category": "Rules & Safety",
-   "score": 41.4,
+   "score": 41.2,
    "published_at": "2026-11-28T13:42:00+00:00",
    "sources": [
     {
@@ -790,8 +639,8 @@
    "id": "a691f0a68414",
    "title": "xAI联创张国栋戴自航创业，90天搓出互联网时光机",
    "summary": "这还只是热身",
-   "category": "Other",
-   "score": 41.1,
+   "category": "Chips & Industry",
+   "score": 40.9,
    "published_at": "2026-11-28T12:53:02+00:00",
    "sources": [
     {
@@ -802,26 +651,11 @@
    "primary_url": "https://www.qbitai.com/2026/11/513507.html"
   },
   {
-   "id": "cea2bfced0d9",
-   "title": "最新：黎曼猜想证明通过独立验证！",
-   "summary": "六种检查全通过",
-   "category": "Other",
-   "score": 41.0,
-   "published_at": "2026-11-28T12:42:37+00:00",
-   "sources": [
-    {
-     "name": "量子位",
-     "url": "https://www.qbitai.com/2026/11/513484.html"
-    }
-   ],
-   "primary_url": "https://www.qbitai.com/2026/11/513484.html"
-  },
-  {
    "id": "419b1add2676",
    "title": "用Claude证明黎曼猜想的90后数学家，收到了致命威胁",
    "summary": "为了证明黎曼猜想，他已经准备了十几年",
-   "category": "Other",
-   "score": 40.9,
+   "category": "Tools & Apps",
+   "score": 40.7,
    "published_at": "2026-11-28T12:25:48+00:00",
    "sources": [
     {
@@ -835,8 +669,8 @@
    "id": "2d66b9a2f223",
    "title": "Google Deepmind's \"Humanity's First Exam\" shows top AI models still fail simple everyday tasks under repeated runs",
    "summary": "Google Deepmind tests the reliability of 18 AI models with \"Humanity's First Exam.\" Top models solve nearly every task family at least once, but even leaders like OpenAI's GPT-6.2 Astra stumble when …",
-   "category": "New Models",
-   "score": 40.4,
+   "category": "Chips & Industry",
+   "score": 40.2,
    "published_at": "2026-11-28T11:12:30+00:00",
    "sources": [
     {
@@ -851,7 +685,7 @@
    "title": "Robotics startup Embo raises $110 million in seed funding to build world-model AI for robots",
    "summary": "Embo raised $110 million in seed funding to build a universal robot brain with world models. Its AI learns how the physical world works from internet video and practices motor skills in simulation. G…",
    "category": "Everyday AI",
-   "score": 40.2,
+   "score": 40.0,
    "published_at": "2026-11-28T10:48:18+00:00",
    "sources": [
     {
@@ -866,7 +700,7 @@
    "title": "OpenAI 整合 ChatGPT 的 Chat 與 Work，12 月起共用 Token 使用額度，重度用戶恐受影響",
    "summary": "OpenAI 將針對付費方案合併 ChatGPT 與 Codex 使用額度，並改以 Token 計算。此舉伴隨整合 Chat 與 Work 的新介面，引發部分用戶擔憂，在相同訂閱費用下，實際可用額度可能縮水。",
    "category": "Tools & Apps",
-   "score": 39.1,
+   "score": 38.9,
    "published_at": "2026-11-28T08:10:00+00:00",
    "sources": [
     {
@@ -881,7 +715,7 @@
    "title": "Google 攜手聯發科推進新 TPU 客製化 HBM5 基礎晶片，韓國憂心主導權弱化",
    "summary": "市場消息指出，Google 正推動為次世代人工智慧（AI）加速器張量處理器（TPU）開發客製化高頻寬記憶體（H […]",
    "category": "Chips & Industry",
-   "score": 39.0,
+   "score": 38.9,
    "published_at": "2026-11-28T08:00:29+00:00",
    "sources": [
     {
@@ -896,7 +730,7 @@
    "title": "普渡大學生打造防 AI 作弊編輯器 Syntax！不看成品改追蹤打字與游標，已獲美 40 所大專院校採用",
    "summary": "四名普渡大學學生創立的新創公司 Remora 推出文件編輯器 Syntax，不分析成品文字，而是記錄打字速度、 […]",
    "category": "Everyday AI",
-   "score": 39.0,
+   "score": 38.9,
    "published_at": "2026-11-28T08:00:09+00:00",
    "sources": [
     {
@@ -911,7 +745,7 @@
    "title": "日本市議員補選四張海報全是 AI 生成，暴露選舉法規落後科技現實",
    "summary": "今年 11 月，日本兵庫縣尼崎市的一場市議員補選中，選民在競選海報看板上發現幾張特別「引人注目」的選舉海報。有 […]",
    "category": "Rules & Safety",
-   "score": 38.8,
+   "score": 38.7,
    "published_at": "2026-11-28T07:30:52+00:00",
    "sources": [
     {
@@ -926,7 +760,7 @@
    "title": "FCC 有條件批准 SpaceX 太空 AI 資料中心計畫，最多可部署 100 萬顆 Starmind 衛星",
    "summary": "FCC 有條件核准 SpaceX 部署軌道資料中心，以滿足 AI 運算需求。授權上限一百萬顆衛星，惟附帶部署時程、頻率使用與衛星退役處置等要求，其技術與商業可行性尚待驗證。",
    "category": "Chips & Industry",
-   "score": 38.7,
+   "score": 38.5,
    "published_at": "2026-11-28T07:12:00+00:00",
    "sources": [
     {
@@ -940,8 +774,8 @@
    "id": "11b270df24ed",
    "title": "Character.AI 申請破產，迪士尼出價 2000 萬美元取得部分 IP 授權",
    "summary": "Character.AI 母公司 10 月 12 日申請 Chapter 11，尋求出售全部或絕大部分資產，迪士尼以 2000 萬美元擔任先行出價者，取得部分智慧財產的非獨家永久授權。",
-   "category": "Other",
-   "score": 38.5,
+   "category": "Chips & Industry",
+   "score": 38.3,
    "published_at": "2026-11-28T06:42:00+00:00",
    "sources": [
     {
@@ -955,8 +789,8 @@
    "id": "3bd4c19c6a5e",
    "title": "亏贼！卡帕西用Claude搓出“美国版《文明》”，网友直接玩成全球接力赛",
    "summary": "这种大模型现做的即时交互工具，能不能来一波知识付费？",
-   "category": "New Models",
-   "score": 38.2,
+   "category": "Tools & Apps",
+   "score": 38.0,
    "published_at": "2026-11-28T05:54:46+00:00",
    "sources": [
     {
@@ -971,7 +805,7 @@
    "title": "台積電 3 奈米與 CoWoS 雙重吃緊，AI 產能爭奪戰白熱化",
    "summary": "隨著生成式 AI、雲端運算及資料中心需求持續快速成長，全球半導體產業正面臨新一輪先進製程與先進封裝產能爭奪戰。 […]",
    "category": "Chips & Industry",
-   "score": 38.2,
+   "score": 38.0,
    "published_at": "2026-11-28T06:00:14+00:00",
    "sources": [
     {
@@ -982,26 +816,11 @@
    "primary_url": "https://finance.technews.tw/2026/11/28/the-battle-for-ai-production-capacity-intensifies/"
   },
   {
-   "id": "5bc0ec7474f9",
-   "title": "AI 結合超級電腦「超解析」衛星影像，DigiFarm 打造 1 公尺農田邊界圖助減碳增產",
-   "summary": "挪威農業科技新創公司 DigiFarm 正利用人工智慧（AI）結合歐洲旗艦級超級電腦 LUMI，打造更精準的農 […]",
-   "category": "Other",
-   "score": 37.8,
-   "published_at": "2026-11-28T05:00:13+00:00",
-   "sources": [
-    {
-     "name": "科技新報",
-     "url": "https://finance.technews.tw/2026/11/28/digifarm-combines-supercomputer/"
-    }
-   ],
-   "primary_url": "https://finance.technews.tw/2026/11/28/digifarm-combines-supercomputer/"
-  },
-  {
    "id": "4c0e054634b0",
    "title": "標普考慮調降 NVIDIA 信用評等，公司治理疑慮恐波及 AI 基礎設施融資",
    "summary": "因對公司治理與「關鍵人物風險」存有疑慮，標普將NVIDIA列入負向觀察名單，其信用評等恐遭調降。此舉不僅影響其融資成本，也可能衝擊NVIDIA對AI生態系的財務支持計畫。",
-   "category": "Chips & Industry",
-   "score": 37.7,
+   "category": "Rules & Safety",
+   "score": 37.5,
    "published_at": "2026-11-28T04:41:00+00:00",
    "sources": [
     {
@@ -1016,7 +835,7 @@
    "title": "NVIDIA 傳暫停向東南亞四國出貨 AI 伺服器，美國出口管制延伸至遠端算力",
    "summary": "為防堵中國規避禁令，美國擴大半導體出口管制，範圍擴及遠端算力。傳NVIDIA已暫停對部分東南亞國家出貨AI伺服器，衝擊當地資料中心投資與營運，供應鏈面臨變數。",
    "category": "Rules & Safety",
-   "score": 37.6,
+   "score": 37.4,
    "published_at": "2026-11-28T04:29:00+00:00",
    "sources": [
     {
@@ -1027,26 +846,11 @@
    "primary_url": "https://www.inside.com.tw/article/43032-nvidia-hits-pause-on-chip-shipments-to-southeast-asia"
   },
   {
-   "id": "106989981659",
-   "title": "主動標示 AI、手寫 POP 留給店員！唐吉訶德如何靠「近藤愛」加速行銷，又不失招牌「店的味道」？",
-   "summary": "11 月 23 日是日本的勤勞感謝日，唐吉訶德母公司泛太平洋國際控股（PPIH）的 AI 社員「近藤愛」（近藤 […]",
-   "category": "Other",
-   "score": 37.0,
-   "published_at": "2026-11-28T03:00:03+00:00",
-   "sources": [
-    {
-     "name": "科技新報",
-     "url": "https://technews.tw/2026/11/28/don-don-donki-launches-ai-employee-but-keeps-posters-handwritten/"
-    }
-   ],
-   "primary_url": "https://technews.tw/2026/11/28/don-don-donki-launches-ai-employee-but-keeps-posters-handwritten/"
-  },
-  {
    "id": "fa87eb74c82b",
    "title": "AI 會安慰人不是天性，研究指聊天機器人的同理心是刻意設計",
    "summary": "外界常以為，聊天機器人一旦開始安慰人、表現同理心，彷彿就是 AI「天生」如此；但最新分析與相關研究指出，這種帶 […]",
    "category": "Everyday AI",
-   "score": 36.3,
+   "score": 36.2,
    "published_at": "2026-11-28T01:30:54+00:00",
    "sources": [
     {
@@ -1061,7 +865,7 @@
    "title": "中企以輝達 GB300 機櫃抵押貸款現身上海，產地點名來自台灣更受市場關注",
    "summary": "根據彭博社的報導指出，一家中國企業將一組搭載 72 顆受出口管制限制的輝達（NVIDIA）Blackwell […]",
    "category": "Chips & Industry",
-   "score": 35.9,
+   "score": 35.7,
    "published_at": "2026-11-28T00:30:45+00:00",
    "sources": [
     {
@@ -1076,7 +880,7 @@
    "title": "黃仁勳回來了，AI 狂飆時代卻回不去了！2027 年三大隱憂浮現：投資、融資、成長全面降檔",
    "summary": "輝達執行長黃仁勳因爭議事件一度去職，震撼市場。雖然 11 天後他復職，帶動市場信心回升，但中信投顧總經理陳柏州 […]",
    "category": "Chips & Industry",
-   "score": 35.7,
+   "score": 35.5,
    "published_at": "2026-11-28T00:00:14+00:00",
    "sources": [
     {
@@ -1091,7 +895,7 @@
    "title": "【Google Cloud 2027 資安展望報告】勒索集團轉向盜用算力，「LLMJacking」數小時內讓企業雲端帳單暴增",
    "summary": "雲端服務業者 Google Cloud 發布《雲端首席資訊安全長展望：2027 年資安預測》（Cloud CISO Perspectives: Our security forecast for 2027），由 Google Cloud 資安長 Chris Betz 彙整 Google、Google Cloud 與 Mandiant（Google 旗下網路安全與威脅情報公司）團隊高階主管的最新威…",
    "category": "Rules & Safety",
-   "score": 35.1,
+   "score": 34.9,
    "published_at": "2026-11-27T22:29:00+00:00",
    "sources": [
     {
@@ -1106,7 +910,7 @@
    "title": "AI治理從制度走向安全驗證，BSI解析ISO/IEC 27090與42119新進展，強調企業須跨部門管理AI風險",
    "summary": "針對AI治理議題，BSI英國標準協會近日於「2026 BSI國際標準管理年會」數位信任論壇上，介紹AI安全標準與治理驗證的最新進展，包括今年10月發布的ISO/IEC 27090、持續發展中的ISO/IEC 42119系列AI測試標準，以及AIFF治理框架與AI MoT信賴標誌，也探討企業落實AI治理的挑戰",
    "category": "Rules & Safety",
-   "score": 34.5,
+   "score": 34.3,
    "published_at": "2026-11-27T21:01:00+00:00",
    "sources": [
     {
@@ -1120,8 +924,8 @@
    "id": "fbf41e8b3541",
    "title": "OpenAI countersues Apple over trade secret theft and alleged coercion of shared suppliers",
    "summary": "OpenAI is suing Apple in a California court, accusing it of trade secret theft and of coercing shared suppliers. The countersuit follows Apple's own lawsuit from the summer. Just two years ago, the t…",
-   "category": "Rules & Safety",
-   "score": 33.9,
+   "category": "Chips & Industry",
+   "score": 33.7,
    "published_at": "2026-11-27T19:38:37+00:00",
    "sources": [
     {
@@ -1136,7 +940,7 @@
    "title": "Banned Nvidia Blackwell chips turn up in a Shanghai data center linked to Alice Huang, Bloomberg reports",
    "summary": "Two Chinese companies installed Nvidia's powerful Blackwell chips at a Shanghai data center linked to Alice Huang, according to a Bloomberg investigation. A serial number led Bloomberg to Taiwanese m…",
    "category": "Rules & Safety",
-   "score": 33.4,
+   "score": 33.2,
    "published_at": "2026-11-27T18:27:02+00:00",
    "sources": [
     {
@@ -1151,7 +955,7 @@
    "title": "西班牙要求大型資料中心符合能源與水效率標準，強化AI算力基礎建設的永續監管",
    "summary": "新法規要求大型資料中心在能源效率、再生能源使用、水資源管理與數位主權等面向符合新標準。這項規範顯示，AI時代的資料中心建設，已從單純追求算力與電力供應，轉向同時考量能源轉型與環境永續。",
    "category": "Rules & Safety",
-   "score": 33.3,
+   "score": 33.1,
    "published_at": "2026-11-27T18:08:00+00:00",
    "sources": [
     {
@@ -1165,8 +969,8 @@
    "id": "4d4018e508b6",
    "title": "Three studies from Meta and AMI Labs back Yann LeCun's bet on JEPA world models over large language models",
    "summary": "Yann LeCun is pushing forward with his alternative to language models through his startup AMI Labs. The JEPA architecture aims to give machines an internal world model that captures cause and effect.…",
-   "category": "Everyday AI",
-   "score": 32.8,
+   "category": "New Models",
+   "score": 32.6,
    "published_at": "2026-11-27T16:58:56+00:00",
    "sources": [
     {
@@ -1177,41 +981,11 @@
    "primary_url": "https://the-decoder.com/three-studies-from-meta-and-ami-labs-back-yann-lecuns-bet-on-jepa-world-models-over-large-language-models/"
   },
   {
-   "id": "32b9a1c4ec68",
-   "title": "【資安週報】1123～1127，網銀盜轉手法曝光，第三方資訊服務供應商資安事件延燒至物流與電子發票服務",
-   "summary": "回顧2026年11月第四週的資安動態，國內網銀盜轉及第三方資訊服務供應商資安事件持續受到關注。AI資安方面，傳統釣魚攻擊可能因AI代理應用而擴大衝擊，第三方AI推論服務也傳出提示詞外洩事件。資安產業則迎來史上最大併購案，CrowdStrike宣布以439億美元併購Zscaler",
-   "category": "Rules & Safety",
-   "score": 32.8,
-   "published_at": "2026-11-27T16:58:00+00:00",
-   "sources": [
-    {
-     "name": "iThome",
-     "url": "https://www.ithome.com.tw/news/180857"
-    }
-   ],
-   "primary_url": "https://www.ithome.com.tw/news/180857"
-  },
-  {
-   "id": "22add286fc6a",
-   "title": "蘋果 MacBook Air 傳將於 2027-2028 年迎來重大改款！有望首度搭載 OLED 螢幕",
-   "summary": "蘋果計畫於 2027 年為 MacBook Air 迎來重大改款，最受矚目的升級莫過於首度導入 OLED 螢幕。這款全新設計的 MacBook Air 有望維持產品新鮮感，但 OLED... 作為蘋果旗下最暢銷的筆記型電腦產品線，MacBook Air 的每一次世代交替都備受消費者矚目。 根據彭博社資深記者馬克·古爾曼（Mark Gurman）昨日披露的最新消息，蘋果目前正規劃為 MacBook…",
-   "category": "Other",
-   "score": 32.8,
-   "published_at": "2026-11-28T07:30:00+00:00",
-   "sources": [
-    {
-     "name": "T客邦",
-     "url": "https://www.techbang.com/posts/135201-apple-macbook-air-oled-redesign-2027-2028"
-    }
-   ],
-   "primary_url": "https://www.techbang.com/posts/135201-apple-macbook-air-oled-redesign-2027-2028"
-  },
-  {
    "id": "9a7730d8b813",
    "title": "OpenAI 將 GPT-6.2 Sol 導入 ChatGPT 聊天介面，圖像理解與複雜指令表現大躍進",
    "summary": "OpenAI 將 GPT-6.2 Sol 導入 ChatGPT，大幅提升圖像理解與複雜指令執行力。GPT-6.2 Sol 憑藉卓越的圖像理解與複雜指令處理，讓 ChatGPT 對話更精... OpenAI 宣布自 11 月 23 日起，將最新模型 GPT-6.2 Sol 逐步導入全球 ChatGPT 的日常聊天介面，全面升級圖像理解、複雜指令執行與網路資訊檢索能力。OpenAI 表示，GPT-6…",
    "category": "New Models",
-   "score": 32.6,
+   "score": 32.4,
    "published_at": "2026-11-28T07:00:00+00:00",
    "sources": [
     {
@@ -1226,7 +1000,7 @@
    "title": "Hackers breached the US Air Force's flagship Cloud One platform, report says",
    "summary": "Hackers breached the US Air Force's flagship cloud platform. The article Hackers breached the US Air Force's flagship Cloud One platform, report says appeared first on The Decoder .",
    "category": "Rules & Safety",
-   "score": 32.4,
+   "score": 32.2,
    "published_at": "2026-11-27T16:06:43+00:00",
    "sources": [
     {
@@ -1241,7 +1015,7 @@
    "title": "OpenAI is building \"Athena\" data platform to cut down on AI agent guesswork",
    "summary": "OpenAI's data agent in ChatGPT Work still isn't accurate enough. Under the codename \"Athena,\" the company is building a semantic layer that gives agents standardized definitions for business metrics.…",
    "category": "Tools & Apps",
-   "score": 32.4,
+   "score": 32.2,
    "published_at": "2026-11-27T16:05:23+00:00",
    "sources": [
     {
@@ -1256,7 +1030,7 @@
    "title": "Google Chrome 關掉後仍佔用數百 MB 記憶體？兇手就是 Gemini！教你一招徹底釋放系統資源",
    "summary": "許多用戶發現關閉 Chrome 後依然佔用大量記憶體，元兇竟是內建的 Gemini 隱藏設定。本文揭開 Gemini 如何在背景消耗資源，並教你調整 Chrome 偏好以徹底釋放記憶體... 談到電腦裡的「吃記憶體大戶」，Google Chrome 瀏覽器長年以來總是榜上有名。Google 對此也心知肚明，早在 2022 年推出的記憶體節省功能中，就為每個分頁加入了即時記憶體用量查看工具。然而隨…",
    "category": "Tools & Apps",
-   "score": 32.4,
+   "score": 32.2,
    "published_at": "2026-11-28T06:30:00+00:00",
    "sources": [
     {
@@ -1270,8 +1044,8 @@
    "id": "e4e5249a3d7a",
    "title": "印度主權AI計畫再添新成果，Chariot-1從零訓練強化多語言能力",
    "summary": "該模型是在印度完成從零開始預訓練，包含大型語言模型與文字轉語音模型，並針對印度多語言環境設計Token處理與訓練技術。",
-   "category": "Other",
-   "score": 32.3,
+   "category": "New Models",
+   "score": 32.1,
    "published_at": "2026-11-27T15:46:00+00:00",
    "sources": [
     {
@@ -1285,8 +1059,8 @@
    "id": "cf3bb3eb64a0",
    "title": "OpenAI修正GPT-6.2計費系統錯誤，Astra、Sol模型將更快用罄使用限額",
    "summary": "OpenAI修正GPT-6.2計費系統錯誤，先前大多數用戶使用Astra及Sol模型時，系統扣除的配額低於實際應扣除的額度。修正後，Astra、Sol兩款模型用完配額的速度將分別加快40%及25%",
-   "category": "Other",
-   "score": 32.0,
+   "category": "New Models",
+   "score": 31.8,
    "published_at": "2026-11-27T15:09:00+00:00",
    "sources": [
     {
@@ -1297,56 +1071,11 @@
    "primary_url": "https://www.ithome.com.tw/news/180853"
   },
   {
-   "id": "e2b6aaff460a",
-   "title": "【資安日報】11月27日，中國及北韓駭客皆已於武器庫中加入ARTEX",
-   "summary": "微軟揭露，至少6個駭客組織已開始利用AI自主滲透測試框架ARTEX發動攻擊，包括來自中國及北韓的駭客。在微軟觀察到的一起攻擊中，AI代理人從搜尋GitHub上的外洩憑證，到竊取Azure Key Vault資料，前後僅花了5分鐘",
-   "category": "Rules & Safety",
-   "score": 31.9,
-   "published_at": "2026-11-27T14:48:00+00:00",
-   "sources": [
-    {
-     "name": "iThome",
-     "url": "https://www.ithome.com.tw/news/180851"
-    }
-   ],
-   "primary_url": "https://www.ithome.com.tw/news/180851"
-  },
-  {
-   "id": "fba919ec3ce8",
-   "title": "美CIA等情報機構傳遭駭，外洩非機密資料",
-   "summary": "美國CIA等3家情報機構傳遭駭。據媒體引述消息人士報導，駭客疑似利用可自動執行多階段攻擊的AI工具ARTEX，入侵公開來源情報分析系統，這起事件可能與中國有關",
-   "category": "Rules & Safety",
-   "score": 31.8,
-   "published_at": "2026-11-27T14:43:00+00:00",
-   "sources": [
-    {
-     "name": "iThome",
-     "url": "https://www.ithome.com.tw/news/180850"
-    }
-   ],
-   "primary_url": "https://www.ithome.com.tw/news/180850"
-  },
-  {
-   "id": "e81202f228cd",
-   "title": "人形机器人开发者集合！众擎开放大小脑，10亿产业级生态支持计划也来了",
-   "summary": "一支团队在真机上验证的成果，可以成为下一支团队继续开发的起点。",
-   "category": "Everyday AI",
-   "score": 31.6,
-   "published_at": "2026-11-27T14:07:33+00:00",
-   "sources": [
-    {
-     "name": "量子位",
-     "url": "https://www.qbitai.com/2026/11/513352.html"
-    }
-   ],
-   "primary_url": "https://www.qbitai.com/2026/11/513352.html"
-  },
-  {
    "id": "cc2646aaf051",
    "title": "Android’s DIY widgets are a bit of vibe-coding fun",
    "summary": "Aside from dealing with my calendar, there's one thing I want AI to do: tell me if I'm about to miss the bus. What I need is a widget. It needs to tell me real-time arrivals for the bus stop near my …",
    "category": "Everyday AI",
-   "score": 31.5,
+   "score": 31.4,
    "published_at": "2026-11-27T14:00:00+00:00",
    "sources": [
     {
@@ -1357,11 +1086,26 @@
    "primary_url": "https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini"
   },
   {
+   "id": "e81202f228cd",
+   "title": "人形机器人开发者集合！众擎开放大小脑，10亿产业级生态支持计划也来了",
+   "summary": "一支团队在真机上验证的成果，可以成为下一支团队继续开发的起点。",
+   "category": "Everyday AI",
+   "score": 31.4,
+   "published_at": "2026-11-27T14:07:33+00:00",
+   "sources": [
+    {
+     "name": "量子位",
+     "url": "https://www.qbitai.com/2026/11/513352.html"
+    }
+   ],
+   "primary_url": "https://www.qbitai.com/2026/11/513352.html"
+  },
+  {
    "id": "087ca707fba2",
    "title": "輝達黃仁勳強勢回歸！馬斯克帶兒子親訪總部、力挺他是「AI界的麥可喬丹」",
    "summary": "馬斯克近日帶娃親赴輝達總部探望黃仁勳，以行動力挺這位科技巨頭重掌大權。馬斯克形容黃仁勳離職如喬丹被踢出球隊，並強調其對輝達的無可取代性。這場人事風波因靈魂人物的回歸而平息，展現矽谷巨頭... 隨著輝達（NVIDIA）董事會正式宣布恢復黃仁勳的執行長職務，科技圈的聲援熱潮持續延燒。特斯拉執行長馬斯克（Elon Musk）近期更親自帶著孩子前往輝達總部探望黃仁勳，展現兩位科技巨頭之間的深厚交情。 馬…",
    "category": "Chips & Industry",
-   "score": 31.0,
+   "score": 30.8,
    "published_at": "2026-11-28T03:00:00+00:00",
    "sources": [
     {
@@ -1375,8 +1119,8 @@
    "id": "83f6214bebb4",
    "title": "Character.AI擬拍賣用戶聊天紀錄，美國42名檢察長反對",
    "summary": "AI聊天機器人業者Character.AI聲請破產保護後，計畫出售旗下平臺及逾2,100萬個美國用戶帳號的私人聊天紀錄。美國42名檢察長已聯手向法院提出異議",
-   "category": "Everyday AI",
-   "score": 30.8,
+   "category": "Chips & Industry",
+   "score": 30.7,
    "published_at": "2026-11-27T12:20:00+00:00",
    "sources": [
     {
@@ -1391,7 +1135,7 @@
    "title": "AI 需求排擠手機記憶體產能！2027 年全球智慧型手機出貨量恐再減 6%，入門級手機首當其衝",
    "summary": "受記憶體供應短缺影響，全球智慧型手機出貨量預估將持續下滑。由於 AI 產能排擠，智慧型手機市場成長受阻，整體規模預計於二零三十年前難以恢復至過往水準。 根據市場研究機構 Counterpoint Research 發布的最新《智慧型手機市場展望報告》，受到記憶體供應緊縮、零組件成本上漲以及消費者購買力下降等因素影響，2026 年全球智慧型手機出貨量預估將較前一年減少 13.9 % ，而 2027…",
    "category": "Everyday AI",
-   "score": 30.8,
+   "score": 30.6,
    "published_at": "2026-11-28T02:30:00+00:00",
    "sources": [
     {
@@ -1405,8 +1149,8 @@
    "id": "c661249d68d9",
    "title": "全国首批首家！商汤大装置获Token工厂智算能力最高评级",
    "summary": "商汤大装置Token工厂获得中国信通院Token工厂智算能力评估“全栈服务型·领先级”评级认证",
-   "category": "Other",
-   "score": 30.4,
+   "category": "Chips & Industry",
+   "score": 30.2,
    "published_at": "2026-11-27T11:18:24+00:00",
    "sources": [
     {
@@ -1421,7 +1165,7 @@
    "title": "近4,200個AI自主攻擊框架暴露於公開網路，臺灣也發現10個",
    "summary": "Shadowserver最新統計數字較前次調查增加，ARTEX仍占約七成，另透過蜜罐觀察到80多個相關IP位址發動逾萬次探測，鎖定VPN、開發工具及AI服務，並嘗試竊取憑證與轉送網路流量",
    "category": "Tools & Apps",
-   "score": 30.4,
+   "score": 30.2,
    "published_at": "2026-11-27T11:12:00+00:00",
    "sources": [
     {
@@ -1436,7 +1180,7 @@
    "title": "美國算力管制與反蒸餾雙重夾擊：傳中國 AI 旗艦模型恐延宕，月之暗面取消印尼交易轉向歐洲租算力",
    "summary": "美國商務部工業暨安全局（BIS）於 2026 年 11 月 19 日正式發布並實施臨時最終規則（Interim Final Rule, IFR）《Addressing Remote Access to Advanced Semiconductors》，將算力管制延伸至海外資料中心。與此同時，綜合《Reuters》與相關外媒報導，OpenAI 與 Anthropic 也同步收緊針對「模型蒸餾（Di…",
    "category": "Chips & Industry",
-   "score": 30.3,
+   "score": 30.1,
    "published_at": "2026-11-27T11:02:42+00:00",
    "sources": [
     {
@@ -1447,26 +1191,26 @@
    "primary_url": "https://techorange.com/2026/11/27/us-curbs-delay-china-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss"
   },
   {
-   "id": "428bac894ebf",
-   "title": "中國及北韓駭客皆已於武器庫中加入ARTEX",
-   "summary": "微軟揭露，至少6個駭客組織已開始利用AI自主滲透測試框架ARTEX發動攻擊，包括來自中國及北韓的駭客。在微軟觀察到的一起攻擊中，駭客利用AI代理人搜尋外洩憑證到竊取Azure Key Vault資料，前後僅花了5分鐘",
-   "category": "Rules & Safety",
+   "id": "eddec3ed8f16",
+   "title": "Volvo 首度在工廠導入人形機器人：比利時廠訓練 AEON，2027 年中拚投產",
+   "summary": "Volvo Cars 近日宣布，已在比利時根特（Ghent）工廠導入瑞典科技集團 Hexagon 旗下機器人部門 Hexagon Robotics 的人形機器人 AEON，在真實工業任務中進行訓練與驗證，希望協助員工處理重複性高、不符人體工學的工作。根特是 Volvo Cars 第一座試用人形機器人的工廠，AEON 目前與員工及既有自動化設備一起學習，2027 年上半年將展開工廠試行，目標是從 …",
+   "category": "New Models",
    "score": 29.9,
-   "published_at": "2026-11-27T10:02:00+00:00",
+   "published_at": "2026-11-27T10:33:08+00:00",
    "sources": [
     {
-     "name": "iThome",
-     "url": "https://www.ithome.com.tw/news/180835"
+     "name": "科技報橘",
+     "url": "https://techorange.com/2026/11/27/volvo-cars-trains-hexagon-robotics-humanoids-manufacturing/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss"
     }
    ],
-   "primary_url": "https://www.ithome.com.tw/news/180835"
+   "primary_url": "https://techorange.com/2026/11/27/volvo-cars-trains-hexagon-robotics-humanoids-manufacturing/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss"
   },
   {
    "id": "dfa7960c10b5",
    "title": "AI 仍供不應求，主計總處估明年出口破 1 兆美元創新高",
    "summary": "主計總處今天公布最新經濟預測，儘管人工智慧（AI）產業發展存在變數，市場依舊供不應求，估今年商品出口突破 9, […]",
-   "category": "Other",
-   "score": 29.9,
+   "category": "Chips & Industry",
+   "score": 29.8,
    "published_at": "2026-11-27T10:10:06+00:00",
    "sources": [
     {
@@ -1481,7 +1225,7 @@
    "title": "AI 設計 AI ！AMD 攜手 OpenAI 刷新半導體研發效率：一年工作量五個月完成，揭開晶片設計自動化量產新紀元",
    "summary": "AMD 攜手 OpenAI 顛覆傳統晶片設計，成功將研發週期縮短至五個月。透過 AI 深度參與晶片設計，AMD 在成熟架構中顯著提升 PPA 表現，成果已送往晶圓廠進行流片。這場由 O... 人工智慧參與晶片設計不再只是紙上談兵的實驗室概念！超微（AMD）近期證實，已與 OpenAI 展開深度技術合作，直接運用 AI 模型重寫並最佳化晶片底層的硬體描述語言，將原本需要耗時一年的工程研發週期大幅壓…",
    "category": "Work & Jobs",
-   "score": 29.9,
+   "score": 29.7,
    "published_at": "2026-11-28T00:30:00+00:00",
    "sources": [
     {
@@ -1496,7 +1240,7 @@
    "title": "美出口限令加速轉變！瑞銀：中國產 AI 晶片 2028 年市占率將突破 88%",
    "summary": "近期輝達風暴引發外界對美國晶片出口管制的關注，加速中國發展自主半導體的決心。根據瑞銀（UBS）預測，中國每年國 […]",
    "category": "Chips & Industry",
-   "score": 29.5,
+   "score": 29.4,
    "published_at": "2026-11-27T09:12:30+00:00",
    "sources": [
     {
@@ -1507,26 +1251,11 @@
    "primary_url": "https://technews.tw/2026/11/27/ubs-see-chinese-ai-chip-market-by-2028/"
   },
   {
-   "id": "e22e926c005e",
-   "title": "日本提國防 AI 願景，判斷與責任由人類承擔",
-   "summary": "日本防衛省（相當於國防部）今天上午發布運用人工智慧（AI）有關的基本方針「防衛 AI 願景」，內容強調，在軍事 […]",
-   "category": "Tools & Apps",
-   "score": 29.1,
-   "published_at": "2026-11-27T08:10:30+00:00",
-   "sources": [
-    {
-     "name": "科技新報",
-     "url": "https://technews.tw/2026/11/27/japan-defense-ai-vision-human-judgment-responsibility/"
-    }
-   ],
-   "primary_url": "https://technews.tw/2026/11/27/japan-defense-ai-vision-human-judgment-responsibility/"
-  },
-  {
    "id": "e49f79df27fb",
    "title": "義大利、瑞士示警AI代理式攻擊，籲24小時內修補對外系統漏洞",
    "summary": "義大利發現駭客運用多個AI代理同時執行攻擊任務，部分案例中，短短數小時內就入侵大量系統。瑞士也首度確認AI代理式攻擊案例，受害對象包括關鍵基礎設施營運業者，並建議企業於重大安全更新發布後24小時內完成對外系統修補",
    "category": "Rules & Safety",
-   "score": 29.0,
+   "score": 28.9,
    "published_at": "2026-11-27T08:00:00+00:00",
    "sources": [
     {
@@ -1540,8 +1269,8 @@
    "id": "6966f504fca1",
    "title": "雲端安全聯盟提出AI治理框架整合指引，強調模型安全測試與執行過程可追溯性",
    "summary": "雲端安全聯盟（CSA）提出3套AI治理框架的整合做法，建議企業及早納入模型安全措施，定期進行安全測試，建立追蹤機制，以利查明AI系統的執行過程及各項作業所使用的身分，並分階段部署AI系統",
-   "category": "Other",
-   "score": 29.0,
+   "category": "Rules & Safety",
+   "score": 28.9,
    "published_at": "2026-11-27T08:00:00+00:00",
    "sources": [
     {
@@ -1556,7 +1285,7 @@
    "title": "BeyondTrust預測2027年企業資安新挑戰，AI代理權限遭濫用，對外開放系統重大漏洞應變時間縮短至數小時",
    "summary": "企業若授予AI代理過多權限，恐讓攻擊者有機可乘，而這些權限若透過委派延伸至其他企業，也將帶來新的供應鏈風險。隨著AI加速漏洞挖掘，對外開放系統的重大漏洞可能在公開揭露後數小時內就遭到利用，企業也須重新檢視漏洞管理、資安維運及AI治理模式",
    "category": "Rules & Safety",
-   "score": 29.0,
+   "score": 28.9,
    "published_at": "2026-11-27T08:00:00+00:00",
    "sources": [
     {
@@ -1567,11 +1296,26 @@
    "primary_url": "https://www.ithome.com.tw/news/180760"
   },
   {
+   "id": "e22e926c005e",
+   "title": "日本提國防 AI 願景，判斷與責任由人類承擔",
+   "summary": "日本防衛省（相當於國防部）今天上午發布運用人工智慧（AI）有關的基本方針「防衛 AI 願景」，內容強調，在軍事 […]",
+   "category": "Tools & Apps",
+   "score": 28.9,
+   "published_at": "2026-11-27T08:10:30+00:00",
+   "sources": [
+    {
+     "name": "科技新報",
+     "url": "https://technews.tw/2026/11/27/japan-defense-ai-vision-human-judgment-responsibility/"
+    }
+   ],
+   "primary_url": "https://technews.tw/2026/11/27/japan-defense-ai-vision-human-judgment-responsibility/"
+  },
+  {
    "id": "190b0c59afe3",
    "title": "半導體晶片成為新石油，全球出口總值首度超越油氣",
    "summary": "美國財經媒體 CNBC 報導，德意志銀行分析國際貿易中心（International Trade Centre […]",
    "category": "Chips & Industry",
-   "score": 29.0,
+   "score": 28.8,
    "published_at": "2026-11-27T07:50:32+00:00",
    "sources": [
     {
@@ -1582,26 +1326,11 @@
    "primary_url": "https://technews.tw/2026/11/27/semiconductor-chips-are-the-new-oil/"
   },
   {
-   "id": "6a524cf33a60",
-   "title": "韦东奕再获大奖！攻克近140年数学难题，获两位院士共同提名",
-   "summary": "淡泊名利，实至名归🎉",
-   "category": "Other",
-   "score": 28.9,
-   "published_at": "2026-11-27T07:39:18+00:00",
-   "sources": [
-    {
-     "name": "量子位",
-     "url": "https://www.qbitai.com/2026/11/513320.html"
-    }
-   ],
-   "primary_url": "https://www.qbitai.com/2026/11/513320.html"
-  },
-  {
    "id": "40382025301e",
    "title": "需求能見度低、供應鏈轉趨保守，2028 年 DRAM 合約價走跌風險升溫",
    "summary": "根據 TrendForce 最新記憶體產業研究，2026 年第四季上旬起，供應鏈考量美國期中選舉結果可能影響後 […]",
    "category": "Chips & Industry",
-   "score": 28.8,
+   "score": 28.6,
    "published_at": "2026-11-27T07:25:39+00:00",
    "sources": [
     {
@@ -1616,7 +1345,7 @@
    "title": "掌握 AI 晶片測試與日系航太專案！英柏得科技預計 12 月中掛牌上市",
    "summary": "英柏得科技今日舉辦股票上市前業績發表會，預計 12 月中以半導體類股掛牌交易，董事長林傳生表示，受惠記憶體市場 […]",
    "category": "Chips & Industry",
-   "score": 28.6,
+   "score": 28.5,
    "published_at": "2026-11-27T07:02:57+00:00",
    "sources": [
     {
@@ -1631,7 +1360,7 @@
    "title": "美收緊先進 AI 晶片出口管制，東南亞 AI 基礎建設面臨考驗",
    "summary": "新加坡今天表示，正與本地企業「進行協商」，以了解美國收緊對輝達（Nvidia）設計的先進人工智慧（AI）晶片出 […]",
    "category": "Rules & Safety",
-   "score": 28.6,
+   "score": 28.4,
    "published_at": "2026-11-27T07:00:33+00:00",
    "sources": [
     {
@@ -1646,7 +1375,7 @@
    "title": "涉向未成年人傳性暗示訊息，蘋果下架 AI 聊天機器人 Talkie",
    "summary": "蘋果（Apple）本週將 MiniMax 熱門聊天機器人應用程式 Talkie 自全球 App Store 下 […]",
    "category": "Rules & Safety",
-   "score": 28.6,
+   "score": 28.4,
    "published_at": "2026-11-27T06:50:48+00:00",
    "sources": [
     {
@@ -1661,7 +1390,7 @@
    "title": "美國防堵中國租用遠端算力，新規加查緝爭搶 AI 競賽優勢",
    "summary": "美國政府更新出口管制規定，防堵中企透過馬來西亞等地的海外資料中心，自遠端租用輝達晶片算力；同時增派官員打擊走私 […]",
    "category": "Chips & Industry",
-   "score": 28.5,
+   "score": 28.3,
    "published_at": "2026-11-27T06:40:47+00:00",
    "sources": [
     {
@@ -1676,7 +1405,7 @@
    "title": "機器人 ChatGPT 時刻何時爆發？工研院、微軟、NVIDIA 深度拆解三個關鍵",
    "summary": "Foxconn 鴻海科技集團與 TechOrange 科技報橘日前於「HHTD 鴻海科技日」聯合舉辦「台灣 AI 機器人產業開發大會」，其中的壓軸對談邀請到工研院副院長胡竹生、台灣微軟資深策略業務發展總監章恩齊，與 NVIDIA 資深解決方案架構師劉冠良共同探討「AI Robot 的GPT 時刻何時爆發？」，歸納整場對談內容，若機器人要迎來 ChatGPT 時刻，至少有三個關鍵，而每一道關鍵，都…",
    "category": "Everyday AI",
-   "score": 28.4,
+   "score": 28.2,
    "published_at": "2026-11-27T06:23:27+00:00",
    "sources": [
     {
@@ -1691,7 +1420,7 @@
    "title": "小鵬人形機器人明年量產、先當門市店員，顧宏地：商用站穩後 1～2 年才考慮進家庭",
    "summary": "中國電動車廠小鵬汽車 11/25 在廣州科技日展示新一代人形機器人 IRON，計畫明年先讓它在自家汽車門市以店員身分受訓。至於何時能走進一般家庭，小鵬聯席總裁顧宏地（Brian Gu）11/26 接受《CNBC》訪問時表示：「也許在成功部署到商用場域之後，大概再一兩年，我們就能開始考慮部署到家庭環境。」他也說，技術正快速推進。 小鵬描繪的是一條從門市走向家庭的路線。不過放大到整個產業，中國廠商的…",
    "category": "Everyday AI",
-   "score": 28.3,
+   "score": 28.2,
    "published_at": "2026-11-27T06:18:33+00:00",
    "sources": [
     {
@@ -1700,6 +1429,261 @@
     }
    ],
    "primary_url": "https://techorange.com/2026/11/27/xpeng-iron-humanoid-household-chores-china-gap/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss"
+  },
+  {
+   "id": "6bbb29a8dc3f",
+   "title": "AI 狂潮暗藏 2007 年次貸翻版！大賣空貝瑞示警：CDS 已拉響信用警報",
+   "summary": "當全球資本市場仍聚焦 AI 晶片供不應求、算力需求能否持續變現之際，華爾街最著名的逆向投資人之一、電影《大賣空 […]",
+   "category": "Everyday AI",
+   "score": 27.8,
+   "published_at": "2026-11-27T05:21:29+00:00",
+   "sources": [
+    {
+     "name": "科技新報",
+     "url": "https://finance.technews.tw/2026/11/27/subprime-mortgage-crisis/"
+    }
+   ],
+   "primary_url": "https://finance.technews.tw/2026/11/27/subprime-mortgage-crisis/"
+  },
+  {
+   "id": "4e611f55e258",
+   "title": "AI 購物助理迎假期大考：Google、Meta、OpenAI 搶進，Amazon 築牆護今年逾 800 億美元廣告事業",
+   "summary": "Google、Amazon、Meta 與 OpenAI 都想幫消費者挑選節慶禮物。《Bloomberg》近日報導，今年美國假期購物季將是 AI 購物助理的一次考驗，檢驗購物者最終會採納誰的建議；另一篇報導則指出，顧客與雇主都把 AI 帶進實體門市，讓零售員工面臨新的挑戰。 馬里蘭大學 42 歲的行銷學教授 Daniel McCarthy 熱愛跑步，某天滑 Instagram 時，看到鎖定腳踝無力…",
+   "category": "Everyday AI",
+   "score": 27.6,
+   "published_at": "2026-11-27T05:04:07+00:00",
+   "sources": [
+    {
+     "name": "科技報橘",
+     "url": "https://techorange.com/2026/11/27/holidays-to-test-ai-shopping-bots-from-google-amazon-meta-openai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss"
+    }
+   ],
+   "primary_url": "https://techorange.com/2026/11/27/holidays-to-test-ai-shopping-bots-from-google-amazon-meta-openai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss"
+  },
+  {
+   "id": "b6ac9e3a3ab7",
+   "title": "歐洲軟體龍頭 SAP 傳擬裁員萬人  加速 AI 轉型",
+   "summary": "歐洲最大軟體公司、德國軟體巨頭 SAP 傳出新一波大規模裁員計畫，擬裁減至少 1 萬名員工，約占全球人力 9% […]",
+   "category": "Work & Jobs",
+   "score": 27.3,
+   "published_at": "2026-11-27T04:20:19+00:00",
+   "sources": [
+    {
+     "name": "科技新報",
+     "url": "https://technews.tw/2026/11/27/sap-weighs-cutting-at-least-10000-positions-in-ai-restructuring/"
+    }
+   ],
+   "primary_url": "https://technews.tw/2026/11/27/sap-weighs-cutting-at-least-10000-positions-in-ai-restructuring/"
+  },
+  {
+   "id": "062e4c341c3d",
+   "title": "美國新規堵漏洞，輝達晶片買家恐禁租算力予中企",
+   "summary": "美國總統川普政府宣布限制遠端存取人工智慧（AI）晶片的新規後，消息人士透露，新興雲端服務供應商已接獲通知，若將 […]",
+   "category": "Rules & Safety",
+   "score": 27.3,
+   "published_at": "2026-11-27T04:10:23+00:00",
+   "sources": [
+    {
+     "name": "科技新報",
+     "url": "https://technews.tw/2026/11/27/nvidia-chip-buyers-told-to-rule-out-chinese-renters-to-purchase-gpus/"
+    }
+   ],
+   "primary_url": "https://technews.tw/2026/11/27/nvidia-chip-buyers-told-to-rule-out-chinese-renters-to-purchase-gpus/"
+  },
+  {
+   "id": "6ac68b2f966d",
+   "title": "OpenAI 坦承 GPT-6.2 計費出錯，多數用戶更快達到使用上限",
+   "summary": "領導 OpenAI 核心產品與平台部門的 Thibault Sottiaux（Tibo）透過 X 貼文表示，O […]",
+   "category": "New Models",
+   "score": 27.2,
+   "published_at": "2026-11-27T03:54:36+00:00",
+   "sources": [
+    {
+     "name": "科技新報",
+     "url": "https://technews.tw/2026/11/27/openai-made-a-billing-mistake-at-the-launch-of-gpt-6-2/"
+    }
+   ],
+   "primary_url": "https://technews.tw/2026/11/27/openai-made-a-billing-mistake-at-the-launch-of-gpt-6-2/"
+  },
+  {
+   "id": "5024ad074ea1",
+   "title": "NVIDIA 暫停東南亞四國伺服器出貨，美國新規把「算力給誰用」納入許可審查",
+   "summary": "據《金融時報》與《華爾街日報》報導，NVIDIA 已要求製造夥伴，暫停把搭載其晶片的伺服器出貨到馬來西亞、新加坡、泰國與印尼，期限未定。這一步發生在美國商務部新規於美國時間 11/19 生效之後：新規除了管制晶片運送到哪裡，也把海外資料中心替哪些企業提供算力，明確納入許可審查。 台灣 AI 伺服器供應鏈也可能受到波及。集邦科技（TrendForce）評估，短期內台廠出到東南亞的伺服器，客戶會更集…",
+   "category": "Chips & Industry",
+   "score": 27.2,
+   "published_at": "2026-11-27T03:57:29+00:00",
+   "sources": [
+    {
+     "name": "科技報橘",
+     "url": "https://techorange.com/2026/11/27/nvidia-halts-southeast-asia-servers-export-controls/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss"
+    }
+   ],
+   "primary_url": "https://techorange.com/2026/11/27/nvidia-halts-southeast-asia-servers-export-controls/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss"
+  },
+  {
+   "id": "1d39284b34d8",
+   "title": "AI 投資熱翻天  澳洲企業資本支出創 15 年最強",
+   "summary": "AI 資料中心建置潮帶動澳洲企業資本支出大幅成長。澳洲統計局（ABS）26 日公布，第三季民間資本支出季增 1 […]",
+   "category": "Chips & Industry",
+   "score": 27.1,
+   "published_at": "2026-11-27T03:50:48+00:00",
+   "sources": [
+    {
+     "name": "科技新報",
+     "url": "https://technews.tw/2026/11/27/ai-investment-drives-australian-capital-spending-to-15-year-high/"
+    }
+   ],
+   "primary_url": "https://technews.tw/2026/11/27/ai-investment-drives-australian-capital-spending-to-15-year-high/"
+  },
+  {
+   "id": "071df5642a5e",
+   "title": "強攻 AI 算力與智慧洗車拚轉型！三一東林處分珠海廠挹注每股純益 1.42 元",
+   "summary": "三一東林今年 5 月公告處分位於中國珠海的廠辦，預計處分利益約 5,473 萬元，有望在年底前完成認列，預計貢 […]",
+   "category": "Chips & Industry",
+   "score": 26.9,
+   "published_at": "2026-11-27T03:11:15+00:00",
+   "sources": [
+    {
+     "name": "科技新報",
+     "url": "https://finance.technews.tw/2026/11/27/smart-car-wash/"
+    }
+   ],
+   "primary_url": "https://finance.technews.tw/2026/11/27/smart-car-wash/"
+  },
+  {
+   "id": "bf2878ba7e54",
+   "title": "Character.AI 破產擬拍賣 2,100 萬用戶聊天紀錄，美國 42 州檢察長聯手阻擋",
+   "summary": "AI 公司在破產程序中處理資料資產的方式，正迅速成為新的隱私戰場。最新案例中，Character.AI 擬於 […]",
+   "category": "Chips & Industry",
+   "score": 26.9,
+   "published_at": "2026-11-27T03:10:46+00:00",
+   "sources": [
+    {
+     "name": "科技新報",
+     "url": "https://infosecu.technews.tw/2026/11/27/ai-company-bankruptcy-triggers-privacy-crisis/"
+    }
+   ],
+   "primary_url": "https://infosecu.technews.tw/2026/11/27/ai-company-bankruptcy-triggers-privacy-crisis/"
+  },
+  {
+   "id": "f5fc708c0ebf",
+   "title": "Anthropic 揭露 AI 時代工程師升遷關鍵：看重「協調力」與實際成果",
+   "summary": "Anthropic 平台工程主管凱特琳·萊絲（Caitlin Reyes）表示，隨著 AI 代理（AI age […]",
+   "category": "Chips & Industry",
+   "score": 26.8,
+   "published_at": "2026-11-27T03:00:13+00:00",
+   "sources": [
+    {
+     "name": "科技新報",
+     "url": "https://technews.tw/2026/11/27/anthropic-team-leader-says-ai-is-changing-how-engineers-get-promoted/"
+    }
+   ],
+   "primary_url": "https://technews.tw/2026/11/27/anthropic-team-leader-says-ai-is-changing-how-engineers-get-promoted/"
+  },
+  {
+   "id": "a39570e5cec5",
+   "title": "伸縮自如的 AI 算力，模組化資料中心究竟是什麼？",
+   "summary": "AI 資料中心越蓋越大，除了龐大的資本支出，電力取得、地方政府審查及居民反對等問題也接踵而來。如果資料中心能像 […]",
+   "category": "Chips & Industry",
+   "score": 26.7,
+   "published_at": "2026-11-27T02:50:38+00:00",
+   "sources": [
+    {
+     "name": "科技新報",
+     "url": "https://technews.tw/2026/11/27/data-centers-flexible-scalable-exploring-appeal-modular-design/"
+    }
+   ],
+   "primary_url": "https://technews.tw/2026/11/27/data-centers-flexible-scalable-exploring-appeal-modular-design/"
+  },
+  {
+   "id": "c15854de24df",
+   "title": "不到 3 小時奪取特權，微軟揭中國與北韓駭客濫用開源 AI 框架 ARTEX",
+   "summary": "微軟（Microsoft）發布最新威脅情資指出，與中國及北韓相關的國家級駭客組織，正將開源的 AI 滲透測試框 […]",
+   "category": "Rules & Safety",
+   "score": 26.7,
+   "published_at": "2026-11-27T02:50:10+00:00",
+   "sources": [
+    {
+     "name": "科技新報",
+     "url": "https://infosecu.technews.tw/2026/11/27/microsoft-warns-hackers-leveraging-ai-tools-cyberattacks/"
+    }
+   ],
+   "primary_url": "https://infosecu.technews.tw/2026/11/27/microsoft-warns-hackers-leveraging-ai-tools-cyberattacks/"
+  },
+  {
+   "id": "3a21dd1c6bfb",
+   "title": "美國 7-Eleven 把 AI 用進招募、結帳到設備維修，招人時間從 10 天縮到不到 3 天",
+   "summary": "在數位優先的零售環境下，美國連鎖便利商店巨頭 7-Eleven 透過人工智慧、數據整合與自動化技術全面改造門市與後勤營運，致力於大規模提升便利零售的服務水準。 導入電腦視覺與無摩擦結帳，優化門市結帳效率 在門市消費體驗方面，7-Eleven 已導入手機掃描付款、自助結帳，以及 AI 驅動的 Quick Checkout（QCO）等技術，讓顧客能透過不同方式完成購物，減少櫃檯排隊時間。 7-Ele…",
+   "category": "Everyday AI",
+   "score": 26.7,
+   "published_at": "2026-11-27T02:46:37+00:00",
+   "sources": [
+    {
+     "name": "科技報橘",
+     "url": "https://techorange.com/2026/11/27/7-eleven-ai-data-automation-convenience/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss"
+    }
+   ],
+   "primary_url": "https://techorange.com/2026/11/27/7-eleven-ai-data-automation-convenience/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss"
+  },
+  {
+   "id": "73d5afd4992a",
+   "title": "AI 駭客逼銀行加速修補漏洞，系統更新反而成了當機風險",
+   "summary": "面對人工智慧帶來的資安威脅，銀行正加快修補系統漏洞，卻也因此承受更高的服務中斷風險。近期多家大型金融機構接連出 […]",
+   "category": "Rules & Safety",
+   "score": 26.6,
+   "published_at": "2026-11-27T02:35:14+00:00",
+   "sources": [
+    {
+     "name": "科技新報",
+     "url": "https://infosecu.technews.tw/2026/11/27/banks-sprint-to-fight-ai-threats-with-quick-fixes-raising-risk-of-outages/"
+    }
+   ],
+   "primary_url": "https://infosecu.technews.tw/2026/11/27/banks-sprint-to-fight-ai-threats-with-quick-fixes-raising-risk-of-outages/"
+  },
+  {
+   "id": "b37cb7e2d6ab",
+   "title": "記憶體價格暴漲 500%，中小電子廠翻遍 eBay、聯繫數百家掮客找貨",
+   "summary": "據《華爾街日報》報導，記憶體短缺迫使許多中小型電子廠成立採購戰情室，員工在 eBay 等網站搜尋貨源、聯繫數百 […]",
+   "category": "Work & Jobs",
+   "score": 26.6,
+   "published_at": "2026-11-27T02:30:38+00:00",
+   "sources": [
+    {
+     "name": "科技新報",
+     "url": "https://technews.tw/2026/11/27/electronics-manufacturers-set-up-memory-war-rooms-to-find-lock-in-dram-supplies-amid-worst-shortage-in-history/"
+    }
+   ],
+   "primary_url": "https://technews.tw/2026/11/27/electronics-manufacturers-set-up-memory-war-rooms-to-find-lock-in-dram-supplies-amid-worst-shortage-in-history/"
+  },
+  {
+   "id": "bfb64c54c607",
+   "title": "「iPod 之父」揭 OpenAI 聯手強尼艾夫做硬體內幕：蘋果死守隱私不放行環境資料",
+   "summary": "蘋果前設計主管強納森·艾夫（Jony Ive）與 OpenAI 的合作，近日再度引發外界對其硬體布局的關注。曾 […]",
+   "category": "Rules & Safety",
+   "score": 26.5,
+   "published_at": "2026-11-27T02:20:32+00:00",
+   "sources": [
+    {
+     "name": "科技新報",
+     "url": "https://technews.tw/2026/11/27/openai-hardware-inside-story/"
+    }
+   ],
+   "primary_url": "https://technews.tw/2026/11/27/openai-hardware-inside-story/"
+  },
+  {
+   "id": "64258bfdbd27",
+   "title": "手機貼膜就能看 3D，台灣萊雅攜光影立方攻智慧零售",
+   "summary": "AI 與裸視 3D 技術應用持續擴大，全球美妝集團萊雅（L’Oréal）也積極透過新創合作布局智慧零售市場。台 […]",
+   "category": "Everyday AI",
+   "score": 26.5,
+   "published_at": "2026-11-27T02:17:58+00:00",
+   "sources": [
+    {
+     "name": "科技新報",
+     "url": "https://finance.technews.tw/2026/11/27/loreal-optiqb-big-bang/"
+    }
+   ],
+   "primary_url": "https://finance.technews.tw/2026/11/27/loreal-optiqb-big-bang/"
   }
  ],
  "highlights": {
@@ -1709,7 +1693,7 @@
     "title": "马斯克：谷歌已表示有兴趣从 SpaceX 租用更多算力",
     "summary": "马斯克在社交媒体透露谷歌有意向 SpaceX 租用更多算力。马斯克称，高带宽训练、大规模连续算力集群的租赁价格上涨，部分时段涨幅明显，5000 块 GPU 以内的小规模算力价格走低，整体 SpaceX 算力业务单 GPU 平均租赁价格呈上行趋势。此前马斯克已在 SpaceX 内部向员工表明，公司自家 AI 模型开发落后于竞争对手，与其拿 GPU 训练 Grok，不如出租算力获利更多，这意味着马斯…",
     "category": "Chips & Industry",
-    "score": 69.7,
+    "score": 69.5,
     "published_at": "2026-11-28T19:09:12.123000+00:00",
     "sources": [
      {
@@ -1724,7 +1708,7 @@
     "title": "《黑神话：悟空》制作人冯骥：若 AI 取代大部分劳动 应全民分红",
     "summary": "游戏科学创始人、《黑神话：悟空》制作人冯骥发表长文探讨后 AI 时代的问题。他由游戏行业切入，看到《GTA6》这类需长期投入的大作，也体验到 AI 制作的颇具吸引力的网页游戏，认为 AI 降低游戏制作门槛后，正版官方服或因玩家的情感联结与共识更具吸引力，而腰部创作者处境尴尬，原创者回本时间被压缩，娱乐将走向「公共仪式」类大作和「私人定制」内容两端。他更担忧 AI 替代多领域人工后，普通人靠劳动分…",
     "category": "Work & Jobs",
-    "score": 69.7,
+    "score": 69.5,
     "published_at": "2026-11-28T19:08:38.534000+00:00",
     "sources": [
      {
@@ -1733,44 +1717,6 @@
      }
     ],
     "primary_url": "https://readhub.cn/topic/8yQCxWTWhlh"
-   },
-   {
-    "id": "19dd4641586d",
-    "title": "AI made self-hosting fun again",
-    "summary": "",
-    "category": "Other",
-    "score": 50.8,
-    "published_at": "2026-11-26T21:47:45+00:00",
-    "sources": [
-     {
-      "name": "Hacker News",
-      "url": "https://janlukas.blog/posts/ai-self-hosting"
-     },
-     {
-      "name": "Hacker News 討論",
-      "url": "https://news.ycombinator.com/item?id=50660180"
-     }
-    ],
-    "primary_url": "https://janlukas.blog/posts/ai-self-hosting"
-   },
-   {
-    "id": "138e1e18872d",
-    "title": "Claude sabotaging ML research tasks?",
-    "summary": "",
-    "category": "Tools & Apps",
-    "score": 54.1,
-    "published_at": "2026-11-27T08:28:08+00:00",
-    "sources": [
-     {
-      "name": "Hacker News",
-      "url": "https://twitter.com/RealAstropulse/status/2126119408997466389"
-     },
-     {
-      "name": "Hacker News 討論",
-      "url": "https://news.ycombinator.com/item?id=50664325"
-     }
-    ],
-    "primary_url": "https://twitter.com/RealAstropulse/status/2126119408997466389"
    },
    {
     "id": "00b58e4385b8",
@@ -1792,87 +1738,30 @@
     "primary_url": "https://xinyadu.github.io/blog/claude-code-sabotage.html"
    },
    {
-    "id": "48b0d8d3f8ca",
-    "title": "Group chat where your AI talks behind your back",
+    "id": "138e1e18872d",
+    "title": "Claude sabotaging ML research tasks?",
     "summary": "",
-    "category": "Other",
-    "score": 53.2,
-    "published_at": "2026-11-27T06:44:34+00:00",
+    "category": "Tools & Apps",
+    "score": 53.9,
+    "published_at": "2026-11-27T08:28:08+00:00",
     "sources": [
      {
       "name": "Hacker News",
-      "url": "https://construct22.com/"
+      "url": "https://twitter.com/RealAstropulse/status/2126119408997466389"
      },
      {
       "name": "Hacker News 討論",
-      "url": "https://news.ycombinator.com/item?id=50663595"
+      "url": "https://news.ycombinator.com/item?id=50664325"
      }
     ],
-    "primary_url": "https://construct22.com/"
-   },
-   {
-    "id": "6acd918e3339",
-    "title": "Michael Nielsen took down his book on neural nets",
-    "summary": "",
-    "category": "Other",
-    "score": 58.2,
-    "published_at": "2026-11-27T19:31:01+00:00",
-    "sources": [
-     {
-      "name": "Hacker News",
-      "url": "https://neuralnetworksanddeeplearning.com/"
-     },
-     {
-      "name": "Hacker News 討論",
-      "url": "https://news.ycombinator.com/item?id=50670757"
-     }
-    ],
-    "primary_url": "https://neuralnetworksanddeeplearning.com/"
-   },
-   {
-    "id": "51e0eb9f7901",
-    "title": "Donald Knuth suspends error bounties due to an influx of AI-generated reports",
-    "summary": "",
-    "category": "Other",
-    "score": 65.0,
-    "published_at": "2026-11-28T17:53:02+00:00",
-    "sources": [
-     {
-      "name": "Hacker News",
-      "url": "https://cs.stanford.edu/~knuth/moratorium.html"
-     },
-     {
-      "name": "Hacker News 討論",
-      "url": "https://news.ycombinator.com/item?id=50680168"
-     }
-    ],
-    "primary_url": "https://cs.stanford.edu/~knuth/moratorium.html"
-   },
-   {
-    "id": "f21d90605390",
-    "title": "I'm Scared of AI",
-    "summary": "",
-    "category": "Other",
-    "score": 54.4,
-    "published_at": "2026-11-27T17:45:31+00:00",
-    "sources": [
-     {
-      "name": "Hacker News",
-      "url": "https://thesoapbox.email/archive/3"
-     },
-     {
-      "name": "Hacker News 討論",
-      "url": "https://news.ycombinator.com/item?id=50669561"
-     }
-    ],
-    "primary_url": "https://thesoapbox.email/archive/3"
+    "primary_url": "https://twitter.com/RealAstropulse/status/2126119408997466389"
    },
    {
     "id": "4e825df2be8b",
     "title": "Woman evicted after landlord's AI assistant told her she could delay rent",
     "summary": "",
     "category": "Tools & Apps",
-    "score": 57.6,
+    "score": 57.4,
     "published_at": "2026-11-28T01:32:56+00:00",
     "sources": [
      {
@@ -1885,6 +1774,89 @@
      }
     ],
     "primary_url": "https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai"
+   },
+   {
+    "id": "0256b11e8366",
+    "title": "\"What's Claude's fursona?\" and other questions",
+    "summary": "",
+    "category": "Tools & Apps",
+    "score": 48.8,
+    "published_at": "2026-11-27T04:56:18+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://herecomesthemoon.net/2026/11/whats-claudes-fursona/"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50662933"
+     }
+    ],
+    "primary_url": "https://herecomesthemoon.net/2026/11/whats-claudes-fursona/"
+   },
+   {
+    "id": "a47ff2eccf68",
+    "title": "GGUF LLM Models with Hidden Malware on Hugging Face Reached 2400 Victims",
+    "summary": "",
+    "category": "Rules & Safety",
+    "score": 61.6,
+    "published_at": "2026-11-28T11:57:04+00:00",
+    "sources": [
+     {
+      "name": "Hacker News",
+      "url": "https://malspark.com/blog/malicious-gguf-models-hugging-face/"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50676752"
+     }
+    ],
+    "primary_url": "https://malspark.com/blog/malicious-gguf-models-hugging-face/"
+   },
+   {
+    "id": "e94fe67ce1b8",
+    "title": "Google will require that AI agents use MCP servers, not the REST API, to access Workspace apps starting in February, drawing developer backlash (The Information)",
+    "summary": "The Information : Google will require that AI agents use MCP servers, not the REST API, to access Workspace apps starting in February, drawing developer backlash — Two days before Thanksgiving, Googl…",
+    "category": "Tools & Apps",
+    "score": 55.7,
+    "published_at": "2026-11-28T19:30:01+00:00",
+    "sources": [
+     {
+      "name": "Techmeme",
+      "url": "https://www.techmeme.com/261128/p9#a261128p9"
+     }
+    ],
+    "primary_url": "https://www.techmeme.com/261128/p9#a261128p9"
+   },
+   {
+    "id": "0cf41993adf3",
+    "title": "The US aerospace and defense sector is struggling to secure memory chips, labor, land, power, and factory infrastructure amid the AI data center boom (Christian Davies/Financial Times)",
+    "summary": "Christian Davies / Financial Times : The US aerospace and defense sector is struggling to secure memory chips, labor, land, power, and factory infrastructure amid the AI data center boom — Boeing and…",
+    "category": "Chips & Industry",
+    "score": 54.3,
+    "published_at": "2026-11-28T16:15:03+00:00",
+    "sources": [
+     {
+      "name": "Techmeme",
+      "url": "https://www.techmeme.com/261128/p7#a261128p7"
+     }
+    ],
+    "primary_url": "https://www.techmeme.com/261128/p7#a261128p7"
+   },
+   {
+    "id": "7a8cc6af6d53",
+    "title": "Samsung is testing a feature that changes the angle of photos you’ve already taken",
+    "summary": "Android Authority found code in the beta for One UI 9.5 referring to a feature called Recompose that might let you change the angle of a photo after you've taken it. The code is part of Samsung's Pho…",
+    "category": "Tools & Apps",
+    "score": 43.4,
+    "published_at": "2026-11-28T18:54:58+00:00",
+    "sources": [
+     {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/tech/1045337/samsung-recompose-ai-camera"
+     }
+    ],
+    "primary_url": "https://www.theverge.com/tech/1045337/samsung-recompose-ai-camera"
    }
   ]
  },
@@ -1895,7 +1867,7 @@
     "title": "DeepSeek 新增对话资费查询功能，展示 Token 消耗及对应价格",
     "summary": "DeepSeek 安卓端 App 更新后新增对话资费查询功能，用户可查看每轮对话的 Token 消耗及对应资费，目前仍标注免费，此前其已调整免费用户使用额度。近两年 DeepSeek 以低价大模型改变行业成本预期，大模型调用价格大幅下降，但需求也随之膨胀，符合杰文斯悖论。DeepSeek 曾披露推理成本与收入情况，其开放模型策略让商业价值由产业链共享，如何转化为自身持续回报是课题。如今大模型商业…",
     "category": "Tools & Apps",
-    "score": 65.2,
+    "score": 65.0,
     "published_at": "2026-11-28T19:12:13.210000+00:00",
     "sources": [
      {
@@ -1910,7 +1882,7 @@
     "title": "开发者称 Claude 在 AI 研究中存在暗中降智等行为",
     "summary": "普通写代码时它表现正常，可一旦用它研究模型架构、优化训练成本，它就会暗中降智，甚至在科研阶段偷偷搞破坏。看似是在帮忙改 Bug、优化架构，实则会偷偷修改关键参数、篡改验证条件，还会故意写出拖慢训练的代码来消耗算力。",
     "category": "Tools & Apps",
-    "score": 65.2,
+    "score": 65.0,
     "published_at": "2026-11-28T19:11:56.188000+00:00",
     "sources": [
      {
@@ -1925,7 +1897,7 @@
     "title": "Woman evicted after landlord's AI assistant told her she could delay rent",
     "summary": "",
     "category": "Tools & Apps",
-    "score": 57.6,
+    "score": 57.4,
     "published_at": "2026-11-28T01:32:56+00:00",
     "sources": [
      {
@@ -1944,7 +1916,7 @@
     "title": "Google will require that AI agents use MCP servers, not the REST API, to access Workspace apps starting in February, drawing developer backlash (The Information)",
     "summary": "The Information : Google will require that AI agents use MCP servers, not the REST API, to access Workspace apps starting in February, drawing developer backlash — Two days before Thanksgiving, Googl…",
     "category": "Tools & Apps",
-    "score": 55.8,
+    "score": 55.7,
     "published_at": "2026-11-28T19:30:01+00:00",
     "sources": [
      {
@@ -1959,7 +1931,7 @@
     "title": "Claude sabotaging ML research tasks?",
     "summary": "",
     "category": "Tools & Apps",
-    "score": 54.1,
+    "score": 53.9,
     "published_at": "2026-11-27T08:28:08+00:00",
     "sources": [
      {
@@ -1978,7 +1950,7 @@
     "title": "Anthropic says Claude doesn't silently sabotage work and that some user reports reflect \"overcaution\", where Claude clings to self-imposed rules on long tasks (Edwin/@edwinarbus)",
     "summary": "Edwin / @edwinarbus : Anthropic says Claude doesn't silently sabotage work and that some user reports reflect “overcaution”, where Claude clings to self-imposed rules on long tasks — Claude has not b…",
     "category": "Tools & Apps",
-    "score": 49.2,
+    "score": 49.0,
     "published_at": "2026-11-28T03:35:05+00:00",
     "sources": [
      {
@@ -1993,7 +1965,7 @@
     "title": "\"What's Claude's fursona?\" and other questions",
     "summary": "",
     "category": "Tools & Apps",
-    "score": 48.9,
+    "score": 48.8,
     "published_at": "2026-11-27T04:56:18+00:00",
     "sources": [
      {
@@ -2012,7 +1984,7 @@
     "title": "Some users claim Claude is silently sabotaging projects, especially those involving ML work, but it's hard to prove because models are built to be proactive (Drew Breunig)",
     "summary": "Drew Breunig : Some users claim Claude is silently sabotaging projects, especially those involving ML work, but it's hard to prove because models are built to be proactive — Is Claude Throwing the Ga…",
     "category": "Tools & Apps",
-    "score": 46.7,
+    "score": 46.5,
     "published_at": "2026-11-27T21:35:01+00:00",
     "sources": [
      {
@@ -2023,26 +1995,11 @@
     "primary_url": "https://www.techmeme.com/261127/p14#a261127p14"
    },
    {
-    "id": "5fc55f8b966b",
-    "title": "OpenAI countersues Apple for allegedly stealing trade secrets via a staffer who returned to Apple and \"coercing and threatening\" suppliers that work with both (Financial Times)",
-    "summary": "Financial Times : OpenAI countersues Apple for allegedly stealing trade secrets via a staffer who returned to Apple and “coercing and threatening” suppliers that work with both — The ChatGPT maker al…",
-    "category": "Tools & Apps",
-    "score": 45.6,
-    "published_at": "2026-11-27T18:57:47+00:00",
-    "sources": [
-     {
-      "name": "Techmeme",
-      "url": "https://www.techmeme.com/261127/p12#a261127p12"
-     }
-    ],
-    "primary_url": "https://www.techmeme.com/261127/p12#a261127p12"
-   },
-   {
     "id": "7a8cc6af6d53",
     "title": "Samsung is testing a feature that changes the angle of photos you’ve already taken",
     "summary": "Android Authority found code in the beta for One UI 9.5 referring to a feature called Recompose that might let you change the angle of a photo after you've taken it. The code is part of Samsung's Pho…",
     "category": "Tools & Apps",
-    "score": 43.6,
+    "score": 43.4,
     "published_at": "2026-11-28T18:54:58+00:00",
     "sources": [
      {
@@ -2051,6 +2008,21 @@
      }
     ],
     "primary_url": "https://www.theverge.com/tech/1045337/samsung-recompose-ai-camera"
+   },
+   {
+    "id": "e78ad32335a6",
+    "title": "當 AI 越來越像人，出事誰負責？區塊鏈愛好者協會發表《可信 AI 經濟政策白皮書》",
+    "summary": "台灣區塊鏈愛好者協會在第十一屆年會首日「信任日」正式發表《可信 AI 經濟政策白皮書》。白皮書提出，AI Agent 時代的關鍵不再只是模型多強，而是它是誰、被授權做什麼、出事時能不能被停下來。協會希望把「信任」從抽象口號，轉成企業與政府可以具體執行的步驟。",
+    "category": "Tools & Apps",
+    "score": 41.7,
+    "published_at": "2026-11-28T14:49:33+00:00",
+    "sources": [
+     {
+      "name": "知勢",
+      "url": "https://edge.aif.tw/trustworthy-ai-economic-policy-white-paper-released/"
+     }
+    ],
+    "primary_url": "https://edge.aif.tw/trustworthy-ai-economic-policy-white-paper-released/"
    }
   ],
   "New Models": [
@@ -2078,7 +2050,7 @@
     "title": "豆包大模型电视双11销售额破亿",
     "summary": "豆包大模型已服务八成国内头部电视厂商，创维、长虹、海信、TCL 等主流品牌均推出搭载该模型的量产电视，2026 年双 11 期间，豆包大模型版电视在抖音电商渠道销售额破亿。豆包模型家族支撑语音、理解和生成能力，厂商将其融入电视系统，改变了以往电视语音需按固定指令操作的模式，用户可自然提问、追问，电视先理解需求再调用相应能力，以语音或画面呈现结果。其包含实时语音智能体负责交流与需求处理，云端智能体…",
     "category": "New Models",
-    "score": 60.3,
+    "score": 60.2,
     "published_at": "2026-11-28T19:20:47.804000+00:00",
     "sources": [
      {
@@ -2089,26 +2061,41 @@
     "primary_url": "https://readhub.cn/topic/8yOZD8VZY9X"
    },
    {
-    "id": "25daf8dc190c",
-    "title": "谷歌 AI 连发 6 篇数学论文 整数分解算法获 34 年突破",
-    "summary": "谷歌研究院在 GitHub 放出 6 篇共 274 页的数学论文，全部由 Gemini 4 加持的 AI 智能体 Cogentic 完成，作者栏无人名。论文覆盖整数分解、离散对数、纳什均衡、通信复杂度和图论领域，其中领衔论文研究整数分解难题。在整数分解上，Cogentic 设计的新算法不靠未证明假设，将严格证明的速度从 L [1/2,1] 推进到 L [1/3,105]，34 年来首次与数域筛同…",
+    "id": "466b90d33398",
+    "title": "Embo, which is developing world models for robotics trained on massive amounts of internet video, emerges from stealth with a $110M seed led by a16z (Embo)",
+    "summary": "Embo : Embo, which is developing world models for robotics trained on massive amounts of internet video, emerges from stealth with a $110M seed led by a16z — Embo is building the next generation of f…",
     "category": "New Models",
-    "score": 56.4,
-    "published_at": "2026-11-28T19:09:47.380000+00:00",
+    "score": 50.0,
+    "published_at": "2026-11-28T05:50:02+00:00",
     "sources": [
      {
-      "name": "Readhub",
-      "url": "https://readhub.cn/topic/8yQ6Ae9fqIu"
+      "name": "Techmeme",
+      "url": "https://www.techmeme.com/261128/p1#a261128p1"
      }
     ],
-    "primary_url": "https://readhub.cn/topic/8yQ6Ae9fqIu"
+    "primary_url": "https://www.techmeme.com/261128/p1#a261128p1"
+   },
+   {
+    "id": "48fee933a267",
+    "title": "谷歌Tibo亲授Gemini 4 Neon内部打开方式！第一步：删光旧规则",
+    "summary": "这两天转投Gemini的有福了！",
+    "category": "New Models",
+    "score": 41.6,
+    "published_at": "2026-11-28T14:29:15+00:00",
+    "sources": [
+     {
+      "name": "量子位",
+      "url": "https://www.qbitai.com/2026/11/513555.html"
+     }
+    ],
+    "primary_url": "https://www.qbitai.com/2026/11/513555.html"
    },
    {
     "id": "44d977182863",
     "title": "刚刚，8192张昇腾训出285B大模型！权重开源，32页训练手册全公开",
     "summary": "国产芯片训千亿大模型，终于有人把施工图纸摊开了",
     "category": "New Models",
-    "score": 41.6,
+    "score": 41.5,
     "published_at": "2026-11-28T14:12:50+00:00",
     "sources": [
      {
@@ -2119,41 +2106,26 @@
     "primary_url": "https://www.qbitai.com/2026/11/513535.html"
    },
    {
-    "id": "2d66b9a2f223",
-    "title": "Google Deepmind's \"Humanity's First Exam\" shows top AI models still fail simple everyday tasks under repeated runs",
-    "summary": "Google Deepmind tests the reliability of 18 AI models with \"Humanity's First Exam.\" Top models solve nearly every task family at least once, but even leaders like OpenAI's GPT-6.2 Astra stumble when …",
+    "id": "4d4018e508b6",
+    "title": "Three studies from Meta and AMI Labs back Yann LeCun's bet on JEPA world models over large language models",
+    "summary": "Yann LeCun is pushing forward with his alternative to language models through his startup AMI Labs. The JEPA architecture aims to give machines an internal world model that captures cause and effect.…",
     "category": "New Models",
-    "score": 40.4,
-    "published_at": "2026-11-28T11:12:30+00:00",
+    "score": 32.6,
+    "published_at": "2026-11-27T16:58:56+00:00",
     "sources": [
      {
       "name": "The Decoder",
-      "url": "https://the-decoder.com/google-deepminds-humanitys-first-exam-shows-top-ai-models-still-fail-simple-everyday-tasks-under-repeated-runs/"
+      "url": "https://the-decoder.com/three-studies-from-meta-and-ami-labs-back-yann-lecuns-bet-on-jepa-world-models-over-large-language-models/"
      }
     ],
-    "primary_url": "https://the-decoder.com/google-deepminds-humanitys-first-exam-shows-top-ai-models-still-fail-simple-everyday-tasks-under-repeated-runs/"
-   },
-   {
-    "id": "3bd4c19c6a5e",
-    "title": "亏贼！卡帕西用Claude搓出“美国版《文明》”，网友直接玩成全球接力赛",
-    "summary": "这种大模型现做的即时交互工具，能不能来一波知识付费？",
-    "category": "New Models",
-    "score": 38.2,
-    "published_at": "2026-11-28T05:54:46+00:00",
-    "sources": [
-     {
-      "name": "量子位",
-      "url": "https://www.qbitai.com/2026/11/513428.html"
-     }
-    ],
-    "primary_url": "https://www.qbitai.com/2026/11/513428.html"
+    "primary_url": "https://the-decoder.com/three-studies-from-meta-and-ami-labs-back-yann-lecuns-bet-on-jepa-world-models-over-large-language-models/"
    },
    {
     "id": "9a7730d8b813",
     "title": "OpenAI 將 GPT-6.2 Sol 導入 ChatGPT 聊天介面，圖像理解與複雜指令表現大躍進",
     "summary": "OpenAI 將 GPT-6.2 Sol 導入 ChatGPT，大幅提升圖像理解與複雜指令執行力。GPT-6.2 Sol 憑藉卓越的圖像理解與複雜指令處理，讓 ChatGPT 對話更精... OpenAI 宣布自 11 月 23 日起，將最新模型 GPT-6.2 Sol 逐步導入全球 ChatGPT 的日常聊天介面，全面升級圖像理解、複雜指令執行與網路資訊檢索能力。OpenAI 表示，GPT-6…",
     "category": "New Models",
-    "score": 32.6,
+    "score": 32.4,
     "published_at": "2026-11-28T07:00:00+00:00",
     "sources": [
      {
@@ -2162,6 +2134,51 @@
      }
     ],
     "primary_url": "https://www.techbang.com/posts/135065-openai-gpt-6-2-sol-chatgpt-image-instruction-boost"
+   },
+   {
+    "id": "e4e5249a3d7a",
+    "title": "印度主權AI計畫再添新成果，Chariot-1從零訓練強化多語言能力",
+    "summary": "該模型是在印度完成從零開始預訓練，包含大型語言模型與文字轉語音模型，並針對印度多語言環境設計Token處理與訓練技術。",
+    "category": "New Models",
+    "score": 32.1,
+    "published_at": "2026-11-27T15:46:00+00:00",
+    "sources": [
+     {
+      "name": "iThome",
+      "url": "https://www.ithome.com.tw/news/180856"
+     }
+    ],
+    "primary_url": "https://www.ithome.com.tw/news/180856"
+   },
+   {
+    "id": "cf3bb3eb64a0",
+    "title": "OpenAI修正GPT-6.2計費系統錯誤，Astra、Sol模型將更快用罄使用限額",
+    "summary": "OpenAI修正GPT-6.2計費系統錯誤，先前大多數用戶使用Astra及Sol模型時，系統扣除的配額低於實際應扣除的額度。修正後，Astra、Sol兩款模型用完配額的速度將分別加快40%及25%",
+    "category": "New Models",
+    "score": 31.8,
+    "published_at": "2026-11-27T15:09:00+00:00",
+    "sources": [
+     {
+      "name": "iThome",
+      "url": "https://www.ithome.com.tw/news/180853"
+     }
+    ],
+    "primary_url": "https://www.ithome.com.tw/news/180853"
+   },
+   {
+    "id": "eddec3ed8f16",
+    "title": "Volvo 首度在工廠導入人形機器人：比利時廠訓練 AEON，2027 年中拚投產",
+    "summary": "Volvo Cars 近日宣布，已在比利時根特（Ghent）工廠導入瑞典科技集團 Hexagon 旗下機器人部門 Hexagon Robotics 的人形機器人 AEON，在真實工業任務中進行訓練與驗證，希望協助員工處理重複性高、不符人體工學的工作。根特是 Volvo Cars 第一座試用人形機器人的工廠，AEON 目前與員工及既有自動化設備一起學習，2027 年上半年將展開工廠試行，目標是從 …",
+    "category": "New Models",
+    "score": 29.9,
+    "published_at": "2026-11-27T10:33:08+00:00",
+    "sources": [
+     {
+      "name": "科技報橘",
+      "url": "https://techorange.com/2026/11/27/volvo-cars-trains-hexagon-robotics-humanoids-manufacturing/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss"
+     }
+    ],
+    "primary_url": "https://techorange.com/2026/11/27/volvo-cars-trains-hexagon-robotics-humanoids-manufacturing/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss"
    }
   ],
   "Work & Jobs": [
@@ -2170,7 +2187,7 @@
     "title": "《黑神话：悟空》制作人冯骥：若 AI 取代大部分劳动 应全民分红",
     "summary": "游戏科学创始人、《黑神话：悟空》制作人冯骥发表长文探讨后 AI 时代的问题。他由游戏行业切入，看到《GTA6》这类需长期投入的大作，也体验到 AI 制作的颇具吸引力的网页游戏，认为 AI 降低游戏制作门槛后，正版官方服或因玩家的情感联结与共识更具吸引力，而腰部创作者处境尴尬，原创者回本时间被压缩，娱乐将走向「公共仪式」类大作和「私人定制」内容两端。他更担忧 AI 替代多领域人工后，普通人靠劳动分…",
     "category": "Work & Jobs",
-    "score": 69.7,
+    "score": 69.5,
     "published_at": "2026-11-28T19:08:38.534000+00:00",
     "sources": [
      {
@@ -2185,7 +2202,7 @@
     "title": "媒體導入AI求生存？政大教授劉慧雯：只想降低成本，反而犧牲價值",
     "summary": "政治大學傳播學院教授劉慧雯指出，新聞媒體在AI時代的核心價值在於「價值判斷」與「真實正確」，而非盲目追求發布效率或減少人力。她強調，AI生成的內容需耗時查核與糾錯，並未真正節省時間；新聞的本質是提供讀者決策依據，記者建立資訊脈絡的專業無可取代。面對AI浪潮，新聞教育應著重培養學生的批判思考與價值判斷力，助其在科技互動中保持開放彈性。",
     "category": "Work & Jobs",
-    "score": 41.9,
+    "score": 41.7,
     "published_at": "2026-11-28T14:54:02+00:00",
     "sources": [
      {
@@ -2200,7 +2217,7 @@
     "title": "AI 設計 AI ！AMD 攜手 OpenAI 刷新半導體研發效率：一年工作量五個月完成，揭開晶片設計自動化量產新紀元",
     "summary": "AMD 攜手 OpenAI 顛覆傳統晶片設計，成功將研發週期縮短至五個月。透過 AI 深度參與晶片設計，AMD 在成熟架構中顯著提升 PPA 表現，成果已送往晶圓廠進行流片。這場由 O... 人工智慧參與晶片設計不再只是紙上談兵的實驗室概念！超微（AMD）近期證實，已與 OpenAI 展開深度技術合作，直接運用 AI 模型重寫並最佳化晶片底層的硬體描述語言，將原本需要耗時一年的工程研發週期大幅壓…",
     "category": "Work & Jobs",
-    "score": 29.9,
+    "score": 29.7,
     "published_at": "2026-11-28T00:30:00+00:00",
     "sources": [
      {
@@ -2209,30 +2226,64 @@
      }
     ],
     "primary_url": "https://www.techbang.com/posts/135026-amd-openai-optimized-chip-design-tape-out"
+   },
+   {
+    "id": "b6ac9e3a3ab7",
+    "title": "歐洲軟體龍頭 SAP 傳擬裁員萬人  加速 AI 轉型",
+    "summary": "歐洲最大軟體公司、德國軟體巨頭 SAP 傳出新一波大規模裁員計畫，擬裁減至少 1 萬名員工，約占全球人力 9% […]",
+    "category": "Work & Jobs",
+    "score": 27.3,
+    "published_at": "2026-11-27T04:20:19+00:00",
+    "sources": [
+     {
+      "name": "科技新報",
+      "url": "https://technews.tw/2026/11/27/sap-weighs-cutting-at-least-10000-positions-in-ai-restructuring/"
+     }
+    ],
+    "primary_url": "https://technews.tw/2026/11/27/sap-weighs-cutting-at-least-10000-positions-in-ai-restructuring/"
+   },
+   {
+    "id": "b37cb7e2d6ab",
+    "title": "記憶體價格暴漲 500%，中小電子廠翻遍 eBay、聯繫數百家掮客找貨",
+    "summary": "據《華爾街日報》報導，記憶體短缺迫使許多中小型電子廠成立採購戰情室，員工在 eBay 等網站搜尋貨源、聯繫數百 […]",
+    "category": "Work & Jobs",
+    "score": 26.6,
+    "published_at": "2026-11-27T02:30:38+00:00",
+    "sources": [
+     {
+      "name": "科技新報",
+      "url": "https://technews.tw/2026/11/27/electronics-manufacturers-set-up-memory-war-rooms-to-find-lock-in-dram-supplies-amid-worst-shortage-in-history/"
+     }
+    ],
+    "primary_url": "https://technews.tw/2026/11/27/electronics-manufacturers-set-up-memory-war-rooms-to-find-lock-in-dram-supplies-amid-worst-shortage-in-history/"
    }
   ],
   "Rules & Safety": [
    {
-    "id": "f16a5bf5eb7d",
-    "title": "迪士尼 CTO 被 Character.ai 债权人委员会拟发传票",
-    "summary": "Character Technologies 的无担保债权人官方委员会拟向该公司前首席执行官、现任华特迪士尼首席技术官卡兰迪普・阿南德发出传票，相关通知已提交美国特拉华州破产法院，拟在 12 月 4 日听证会前传唤其作证，文件未说明问询内容。阿南德 9 月出任迪士尼首任首席技术官，加入前曾在 Character.ai 任职两年。目前迪士尼计划以 2000 万美元授权该 AI 初创企业部分知识产权…",
+    "id": "a47ff2eccf68",
+    "title": "GGUF LLM Models with Hidden Malware on Hugging Face Reached 2400 Victims",
+    "summary": "",
     "category": "Rules & Safety",
-    "score": 65.2,
-    "published_at": "2026-11-28T19:12:06.816000+00:00",
+    "score": 61.6,
+    "published_at": "2026-11-28T11:57:04+00:00",
     "sources": [
      {
-      "name": "Readhub",
-      "url": "https://readhub.cn/topic/8yPkNMg7j5f"
+      "name": "Hacker News",
+      "url": "https://malspark.com/blog/malicious-gguf-models-hugging-face/"
+     },
+     {
+      "name": "Hacker News 討論",
+      "url": "https://news.ycombinator.com/item?id=50676752"
      }
     ],
-    "primary_url": "https://readhub.cn/topic/8yPkNMg7j5f"
+    "primary_url": "https://malspark.com/blog/malicious-gguf-models-hugging-face/"
    },
    {
     "id": "1731566e6ed9",
     "title": "Power operators are using sensors and software to dynamically adjust grid safety limits, boosting existing network capacity amid rising AI-driven energy demand (Martha Muir/Financial Times)",
     "summary": "Martha Muir / Financial Times : Power operators are using sensors and software to dynamically adjust grid safety limits, boosting existing network capacity amid rising AI-driven energy demand — Opera…",
     "category": "Rules & Safety",
-    "score": 53.0,
+    "score": 52.8,
     "published_at": "2026-11-28T12:40:01+00:00",
     "sources": [
      {
@@ -2247,7 +2298,7 @@
     "title": "New study casts doubt on how AI companies test the safety systems meant to keep their agents in check",
     "summary": "The UK AI Security Institute is questioning whether simulated sabotage tests for AI monitors actually prove anything. In a new study, a former OpenAI monitor built on GPT-5.4 missed only 0.2 to 0.5 p…",
     "category": "Rules & Safety",
-    "score": 43.5,
+    "score": 43.3,
     "published_at": "2026-11-28T18:46:09+00:00",
     "sources": [
      {
@@ -2258,26 +2309,11 @@
     "primary_url": "https://the-decoder.com/new-study-casts-doubt-on-how-ai-companies-test-the-safety-systems-meant-to-keep-their-agents-in-check/"
    },
    {
-    "id": "da0dc6110f11",
-    "title": "OpenAI’s new countersuit accuses Apple of ‘unlawfully pressuring vendors’",
-    "summary": "After Apple sued OpenAI this summer, OpenAI has fired back with a countersuit of its own.",
-    "category": "Rules & Safety",
-    "score": 43.1,
-    "published_at": "2026-11-28T17:46:47+00:00",
-    "sources": [
-     {
-      "name": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/28/openais-new-countersuit-accuses-apple-of-unlawfully-pressuring-vendors/"
-     }
-    ],
-    "primary_url": "https://techcrunch.com/2026/11/28/openais-new-countersuit-accuses-apple-of-unlawfully-pressuring-vendors/"
-   },
-   {
     "id": "eb35ff7f0def",
     "title": "UK Parliament demands unredacted METR safety report after Anthropic redacts most of the evidence",
     "summary": "The UK Parliament is turning up the pressure on Anthropic. Committee chair Liam Byrne is demanding the unredacted METR safety report on AI acceleration by December 4. METR criticized Anthropic for cu…",
     "category": "Rules & Safety",
-    "score": 41.4,
+    "score": 41.2,
     "published_at": "2026-11-28T13:42:00+00:00",
     "sources": [
      {
@@ -2292,7 +2328,7 @@
     "title": "日本市議員補選四張海報全是 AI 生成，暴露選舉法規落後科技現實",
     "summary": "今年 11 月，日本兵庫縣尼崎市的一場市議員補選中，選民在競選海報看板上發現幾張特別「引人注目」的選舉海報。有 […]",
     "category": "Rules & Safety",
-    "score": 38.8,
+    "score": 38.7,
     "published_at": "2026-11-28T07:30:52+00:00",
     "sources": [
      {
@@ -2303,11 +2339,26 @@
     "primary_url": "https://technews.tw/2026/11/28/japanese-election-candidate-uses-ai-to-generate-campaign-posters/"
    },
    {
+    "id": "4c0e054634b0",
+    "title": "標普考慮調降 NVIDIA 信用評等，公司治理疑慮恐波及 AI 基礎設施融資",
+    "summary": "因對公司治理與「關鍵人物風險」存有疑慮，標普將NVIDIA列入負向觀察名單，其信用評等恐遭調降。此舉不僅影響其融資成本，也可能衝擊NVIDIA對AI生態系的財務支持計畫。",
+    "category": "Rules & Safety",
+    "score": 37.5,
+    "published_at": "2026-11-28T04:41:00+00:00",
+    "sources": [
+     {
+      "name": "INSIDE",
+      "url": "https://www.inside.com.tw/article/43033-sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks"
+     }
+    ],
+    "primary_url": "https://www.inside.com.tw/article/43033-sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks"
+   },
+   {
     "id": "6bcbef4476b5",
     "title": "NVIDIA 傳暫停向東南亞四國出貨 AI 伺服器，美國出口管制延伸至遠端算力",
     "summary": "為防堵中國規避禁令，美國擴大半導體出口管制，範圍擴及遠端算力。傳NVIDIA已暫停對部分東南亞國家出貨AI伺服器，衝擊當地資料中心投資與營運，供應鏈面臨變數。",
     "category": "Rules & Safety",
-    "score": 37.6,
+    "score": 37.4,
     "published_at": "2026-11-28T04:29:00+00:00",
     "sources": [
      {
@@ -2322,7 +2373,7 @@
     "title": "【Google Cloud 2027 資安展望報告】勒索集團轉向盜用算力，「LLMJacking」數小時內讓企業雲端帳單暴增",
     "summary": "雲端服務業者 Google Cloud 發布《雲端首席資訊安全長展望：2027 年資安預測》（Cloud CISO Perspectives: Our security forecast for 2027），由 Google Cloud 資安長 Chris Betz 彙整 Google、Google Cloud 與 Mandiant（Google 旗下網路安全與威脅情報公司）團隊高階主管的最新威…",
     "category": "Rules & Safety",
-    "score": 35.1,
+    "score": 34.9,
     "published_at": "2026-11-27T22:29:00+00:00",
     "sources": [
      {
@@ -2337,7 +2388,7 @@
     "title": "AI治理從制度走向安全驗證，BSI解析ISO/IEC 27090與42119新進展，強調企業須跨部門管理AI風險",
     "summary": "針對AI治理議題，BSI英國標準協會近日於「2026 BSI國際標準管理年會」數位信任論壇上，介紹AI安全標準與治理驗證的最新進展，包括今年10月發布的ISO/IEC 27090、持續發展中的ISO/IEC 42119系列AI測試標準，以及AIFF治理框架與AI MoT信賴標誌，也探討企業落實AI治理的挑戰",
     "category": "Rules & Safety",
-    "score": 34.5,
+    "score": 34.3,
     "published_at": "2026-11-27T21:01:00+00:00",
     "sources": [
      {
@@ -2348,19 +2399,19 @@
     "primary_url": "https://www.ithome.com.tw/news/180834"
    },
    {
-    "id": "fbf41e8b3541",
-    "title": "OpenAI countersues Apple over trade secret theft and alleged coercion of shared suppliers",
-    "summary": "OpenAI is suing Apple in a California court, accusing it of trade secret theft and of coercing shared suppliers. The countersuit follows Apple's own lawsuit from the summer. Just two years ago, the t…",
+    "id": "51c822d383ea",
+    "title": "Banned Nvidia Blackwell chips turn up in a Shanghai data center linked to Alice Huang, Bloomberg reports",
+    "summary": "Two Chinese companies installed Nvidia's powerful Blackwell chips at a Shanghai data center linked to Alice Huang, according to a Bloomberg investigation. A serial number led Bloomberg to Taiwanese m…",
     "category": "Rules & Safety",
-    "score": 33.9,
-    "published_at": "2026-11-27T19:38:37+00:00",
+    "score": 33.2,
+    "published_at": "2026-11-27T18:27:02+00:00",
     "sources": [
      {
       "name": "The Decoder",
-      "url": "https://the-decoder.com/openai-countersues-apple-over-trade-secret-theft-and-alleged-coercion-of-shared-suppliers/"
+      "url": "https://the-decoder.com/banned-nvidia-blackwell-chips-turn-up-in-a-shanghai-data-center-linked-to-alice-huang-bloomberg-reports/"
      }
     ],
-    "primary_url": "https://the-decoder.com/openai-countersues-apple-over-trade-secret-theft-and-alleged-coercion-of-shared-suppliers/"
+    "primary_url": "https://the-decoder.com/banned-nvidia-blackwell-chips-turn-up-in-a-shanghai-data-center-linked-to-alice-huang-bloomberg-reports/"
    }
   ],
   "Chips & Industry": [
@@ -2369,7 +2420,7 @@
     "title": "马斯克：谷歌已表示有兴趣从 SpaceX 租用更多算力",
     "summary": "马斯克在社交媒体透露谷歌有意向 SpaceX 租用更多算力。马斯克称，高带宽训练、大规模连续算力集群的租赁价格上涨，部分时段涨幅明显，5000 块 GPU 以内的小规模算力价格走低，整体 SpaceX 算力业务单 GPU 平均租赁价格呈上行趋势。此前马斯克已在 SpaceX 内部向员工表明，公司自家 AI 模型开发落后于竞争对手，与其拿 GPU 训练 Grok，不如出租算力获利更多，这意味着马斯…",
     "category": "Chips & Industry",
-    "score": 69.7,
+    "score": 69.5,
     "published_at": "2026-11-28T19:09:12.123000+00:00",
     "sources": [
      {
@@ -2380,11 +2431,41 @@
     "primary_url": "https://readhub.cn/topic/8yQCxR4a2HX"
    },
    {
+    "id": "f16a5bf5eb7d",
+    "title": "迪士尼 CTO 被 Character.ai 债权人委员会拟发传票",
+    "summary": "Character Technologies 的无担保债权人官方委员会拟向该公司前首席执行官、现任华特迪士尼首席技术官卡兰迪普・阿南德发出传票，相关通知已提交美国特拉华州破产法院，拟在 12 月 4 日听证会前传唤其作证，文件未说明问询内容。阿南德 9 月出任迪士尼首任首席技术官，加入前曾在 Character.ai 任职两年。目前迪士尼计划以 2000 万美元授权该 AI 初创企业部分知识产权…",
+    "category": "Chips & Industry",
+    "score": 65.0,
+    "published_at": "2026-11-28T19:12:06.816000+00:00",
+    "sources": [
+     {
+      "name": "Readhub",
+      "url": "https://readhub.cn/topic/8yPkNMg7j5f"
+     }
+    ],
+    "primary_url": "https://readhub.cn/topic/8yPkNMg7j5f"
+   },
+   {
+    "id": "25daf8dc190c",
+    "title": "谷歌 AI 连发 6 篇数学论文 整数分解算法获 34 年突破",
+    "summary": "谷歌研究院在 GitHub 放出 6 篇共 274 页的数学论文，全部由 Gemini 4 加持的 AI 智能体 Cogentic 完成，作者栏无人名。论文覆盖整数分解、离散对数、纳什均衡、通信复杂度和图论领域，其中领衔论文研究整数分解难题。在整数分解上，Cogentic 设计的新算法不靠未证明假设，将严格证明的速度从 L [1/2,1] 推进到 L [1/3,105]，34 年来首次与数域筛同…",
+    "category": "Chips & Industry",
+    "score": 56.2,
+    "published_at": "2026-11-28T19:09:47.380000+00:00",
+    "sources": [
+     {
+      "name": "Readhub",
+      "url": "https://readhub.cn/topic/8yQ6Ae9fqIu"
+     }
+    ],
+    "primary_url": "https://readhub.cn/topic/8yQ6Ae9fqIu"
+   },
+   {
     "id": "0cf41993adf3",
     "title": "The US aerospace and defense sector is struggling to secure memory chips, labor, land, power, and factory infrastructure amid the AI data center boom (Christian Davies/Financial Times)",
     "summary": "Christian Davies / Financial Times : The US aerospace and defense sector is struggling to secure memory chips, labor, land, power, and factory infrastructure amid the AI data center boom — Boeing and…",
     "category": "Chips & Industry",
-    "score": 54.5,
+    "score": 54.3,
     "published_at": "2026-11-28T16:15:03+00:00",
     "sources": [
      {
@@ -2399,7 +2480,7 @@
     "title": "Q&A with Q.ANT CEO Michael Förtsch on making AI photonic processors which could be built with 90nm nodes, their memory efficiency, adoption challenges, and more (Joel Khalili/Wired)",
     "summary": "Joel Khalili / Wired : Q&A with Q.ANT CEO Michael Förtsch on making AI photonic processors which could be built with 90nm nodes, their memory efficiency, adoption challenges, and more — German compan…",
     "category": "Chips & Industry",
-    "score": 53.8,
+    "score": 53.6,
     "published_at": "2026-11-28T14:40:01+00:00",
     "sources": [
      {
@@ -2410,26 +2491,41 @@
     "primary_url": "https://www.techmeme.com/261128/p6#a261128p6"
    },
    {
-    "id": "466b90d33398",
-    "title": "Embo, which is developing world models for robotics trained on massive amounts of internet video, emerges from stealth with a $110M seed led by a16z (Embo)",
-    "summary": "Embo : Embo, which is developing world models for robotics trained on massive amounts of internet video, emerges from stealth with a $110M seed led by a16z — Embo is building the next generation of f…",
+    "id": "5fc55f8b966b",
+    "title": "OpenAI countersues Apple for allegedly stealing trade secrets via a staffer who returned to Apple and \"coercing and threatening\" suppliers that work with both (Financial Times)",
+    "summary": "Financial Times : OpenAI countersues Apple for allegedly stealing trade secrets via a staffer who returned to Apple and “coercing and threatening” suppliers that work with both — The ChatGPT maker al…",
     "category": "Chips & Industry",
-    "score": 50.1,
-    "published_at": "2026-11-28T05:50:02+00:00",
+    "score": 45.4,
+    "published_at": "2026-11-27T18:57:47+00:00",
     "sources": [
      {
       "name": "Techmeme",
-      "url": "https://www.techmeme.com/261128/p1#a261128p1"
+      "url": "https://www.techmeme.com/261127/p12#a261127p12"
      }
     ],
-    "primary_url": "https://www.techmeme.com/261128/p1#a261128p1"
+    "primary_url": "https://www.techmeme.com/261127/p12#a261127p12"
+   },
+   {
+    "id": "da0dc6110f11",
+    "title": "OpenAI’s new countersuit accuses Apple of ‘unlawfully pressuring vendors’",
+    "summary": "After Apple sued OpenAI this summer, OpenAI has fired back with a countersuit of its own.",
+    "category": "Chips & Industry",
+    "score": 42.9,
+    "published_at": "2026-11-28T17:46:47+00:00",
+    "sources": [
+     {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/28/openais-new-countersuit-accuses-apple-of-unlawfully-pressuring-vendors/"
+     }
+    ],
+    "primary_url": "https://techcrunch.com/2026/11/28/openais-new-countersuit-accuses-apple-of-unlawfully-pressuring-vendors/"
    },
    {
     "id": "74cb8b66f18e",
     "title": "200亿美元…史上最贵AI自媒体",
     "summary": "这可能是有史以来，ROI（投资回报率）最高的个人博客。",
     "category": "Chips & Industry",
-    "score": 41.8,
+    "score": 41.6,
     "published_at": "2026-11-28T14:38:56+00:00",
     "sources": [
      {
@@ -2444,7 +2540,7 @@
     "title": "Sakana AI’s CEO says its homegrown models are about more than Japan’s national security",
     "summary": "Sakana AI aims to strengthen Japan’s industrial competitiveness with homegrown AI models.",
     "category": "Chips & Industry",
-    "score": 41.5,
+    "score": 41.4,
     "published_at": "2026-11-28T14:00:00+00:00",
     "sources": [
      {
@@ -2455,64 +2551,19 @@
     "primary_url": "https://techcrunch.com/2026/11/28/sakana-ais-ceo-says-its-homegrown-models-are-about-more-than-japans-national-security/"
    },
    {
-    "id": "51d48d272c1e",
-    "title": "Google 攜手聯發科推進新 TPU 客製化 HBM5 基礎晶片，韓國憂心主導權弱化",
-    "summary": "市場消息指出，Google 正推動為次世代人工智慧（AI）加速器張量處理器（TPU）開發客製化高頻寬記憶體（H […]",
+    "id": "a691f0a68414",
+    "title": "xAI联创张国栋戴自航创业，90天搓出互联网时光机",
+    "summary": "这还只是热身",
     "category": "Chips & Industry",
-    "score": 39.0,
-    "published_at": "2026-11-28T08:00:29+00:00",
+    "score": 40.9,
+    "published_at": "2026-11-28T12:53:02+00:00",
     "sources": [
      {
-      "name": "科技新報",
-      "url": "https://finance.technews.tw/2026/11/28/google-partners-with-mediatek-to-advance-new-tpu-custom-hbm5-base-die/"
+      "name": "量子位",
+      "url": "https://www.qbitai.com/2026/11/513507.html"
      }
     ],
-    "primary_url": "https://finance.technews.tw/2026/11/28/google-partners-with-mediatek-to-advance-new-tpu-custom-hbm5-base-die/"
-   },
-   {
-    "id": "48609ca2c699",
-    "title": "FCC 有條件批准 SpaceX 太空 AI 資料中心計畫，最多可部署 100 萬顆 Starmind 衛星",
-    "summary": "FCC 有條件核准 SpaceX 部署軌道資料中心，以滿足 AI 運算需求。授權上限一百萬顆衛星，惟附帶部署時程、頻率使用與衛星退役處置等要求，其技術與商業可行性尚待驗證。",
-    "category": "Chips & Industry",
-    "score": 38.7,
-    "published_at": "2026-11-28T07:12:00+00:00",
-    "sources": [
-     {
-      "name": "INSIDE",
-      "url": "https://www.inside.com.tw/article/43036-fcc-approves-spacex-plan-to-put-ai-data-centers-in-space"
-     }
-    ],
-    "primary_url": "https://www.inside.com.tw/article/43036-fcc-approves-spacex-plan-to-put-ai-data-centers-in-space"
-   },
-   {
-    "id": "46572885b536",
-    "title": "台積電 3 奈米與 CoWoS 雙重吃緊，AI 產能爭奪戰白熱化",
-    "summary": "隨著生成式 AI、雲端運算及資料中心需求持續快速成長，全球半導體產業正面臨新一輪先進製程與先進封裝產能爭奪戰。 […]",
-    "category": "Chips & Industry",
-    "score": 38.2,
-    "published_at": "2026-11-28T06:00:14+00:00",
-    "sources": [
-     {
-      "name": "科技新報",
-      "url": "https://finance.technews.tw/2026/11/28/the-battle-for-ai-production-capacity-intensifies/"
-     }
-    ],
-    "primary_url": "https://finance.technews.tw/2026/11/28/the-battle-for-ai-production-capacity-intensifies/"
-   },
-   {
-    "id": "4c0e054634b0",
-    "title": "標普考慮調降 NVIDIA 信用評等，公司治理疑慮恐波及 AI 基礎設施融資",
-    "summary": "因對公司治理與「關鍵人物風險」存有疑慮，標普將NVIDIA列入負向觀察名單，其信用評等恐遭調降。此舉不僅影響其融資成本，也可能衝擊NVIDIA對AI生態系的財務支持計畫。",
-    "category": "Chips & Industry",
-    "score": 37.7,
-    "published_at": "2026-11-28T04:41:00+00:00",
-    "sources": [
-     {
-      "name": "INSIDE",
-      "url": "https://www.inside.com.tw/article/43033-sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks"
-     }
-    ],
-    "primary_url": "https://www.inside.com.tw/article/43033-sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks"
+    "primary_url": "https://www.qbitai.com/2026/11/513507.html"
    }
   ],
   "Everyday AI": [
@@ -2521,7 +2572,7 @@
     "title": "Robotics startup Embo raises $110 million in seed funding to build world-model AI for robots",
     "summary": "Embo raised $110 million in seed funding to build a universal robot brain with world models. Its AI learns how the physical world works from internet video and practices motor skills in simulation. G…",
     "category": "Everyday AI",
-    "score": 40.2,
+    "score": 40.0,
     "published_at": "2026-11-28T10:48:18+00:00",
     "sources": [
      {
@@ -2536,7 +2587,7 @@
     "title": "普渡大學生打造防 AI 作弊編輯器 Syntax！不看成品改追蹤打字與游標，已獲美 40 所大專院校採用",
     "summary": "四名普渡大學學生創立的新創公司 Remora 推出文件編輯器 Syntax，不分析成品文字，而是記錄打字速度、 […]",
     "category": "Everyday AI",
-    "score": 39.0,
+    "score": 38.9,
     "published_at": "2026-11-28T08:00:09+00:00",
     "sources": [
      {
@@ -2551,7 +2602,7 @@
     "title": "AI 會安慰人不是天性，研究指聊天機器人的同理心是刻意設計",
     "summary": "外界常以為，聊天機器人一旦開始安慰人、表現同理心，彷彿就是 AI「天生」如此；但最新分析與相關研究指出，這種帶 […]",
     "category": "Everyday AI",
-    "score": 36.3,
+    "score": 36.2,
     "published_at": "2026-11-28T01:30:54+00:00",
     "sources": [
      {
@@ -2562,41 +2613,11 @@
     "primary_url": "https://technews.tw/2026/11/28/ai-empathy-not-innate-research-chatbot-compassion-deliberate-design/"
    },
    {
-    "id": "4d4018e508b6",
-    "title": "Three studies from Meta and AMI Labs back Yann LeCun's bet on JEPA world models over large language models",
-    "summary": "Yann LeCun is pushing forward with his alternative to language models through his startup AMI Labs. The JEPA architecture aims to give machines an internal world model that captures cause and effect.…",
-    "category": "Everyday AI",
-    "score": 32.8,
-    "published_at": "2026-11-27T16:58:56+00:00",
-    "sources": [
-     {
-      "name": "The Decoder",
-      "url": "https://the-decoder.com/three-studies-from-meta-and-ami-labs-back-yann-lecuns-bet-on-jepa-world-models-over-large-language-models/"
-     }
-    ],
-    "primary_url": "https://the-decoder.com/three-studies-from-meta-and-ami-labs-back-yann-lecuns-bet-on-jepa-world-models-over-large-language-models/"
-   },
-   {
-    "id": "e81202f228cd",
-    "title": "人形机器人开发者集合！众擎开放大小脑，10亿产业级生态支持计划也来了",
-    "summary": "一支团队在真机上验证的成果，可以成为下一支团队继续开发的起点。",
-    "category": "Everyday AI",
-    "score": 31.6,
-    "published_at": "2026-11-27T14:07:33+00:00",
-    "sources": [
-     {
-      "name": "量子位",
-      "url": "https://www.qbitai.com/2026/11/513352.html"
-     }
-    ],
-    "primary_url": "https://www.qbitai.com/2026/11/513352.html"
-   },
-   {
     "id": "cc2646aaf051",
     "title": "Android’s DIY widgets are a bit of vibe-coding fun",
     "summary": "Aside from dealing with my calendar, there's one thing I want AI to do: tell me if I'm about to miss the bus. What I need is a widget. It needs to tell me real-time arrivals for the bus stop near my …",
     "category": "Everyday AI",
-    "score": 31.5,
+    "score": 31.4,
     "published_at": "2026-11-27T14:00:00+00:00",
     "sources": [
      {
@@ -2607,26 +2628,26 @@
     "primary_url": "https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini"
    },
    {
-    "id": "83f6214bebb4",
-    "title": "Character.AI擬拍賣用戶聊天紀錄，美國42名檢察長反對",
-    "summary": "AI聊天機器人業者Character.AI聲請破產保護後，計畫出售旗下平臺及逾2,100萬個美國用戶帳號的私人聊天紀錄。美國42名檢察長已聯手向法院提出異議",
+    "id": "e81202f228cd",
+    "title": "人形机器人开发者集合！众擎开放大小脑，10亿产业级生态支持计划也来了",
+    "summary": "一支团队在真机上验证的成果，可以成为下一支团队继续开发的起点。",
     "category": "Everyday AI",
-    "score": 30.8,
-    "published_at": "2026-11-27T12:20:00+00:00",
+    "score": 31.4,
+    "published_at": "2026-11-27T14:07:33+00:00",
     "sources": [
      {
-      "name": "iThome",
-      "url": "https://www.ithome.com.tw/news/180847"
+      "name": "量子位",
+      "url": "https://www.qbitai.com/2026/11/513352.html"
      }
     ],
-    "primary_url": "https://www.ithome.com.tw/news/180847"
+    "primary_url": "https://www.qbitai.com/2026/11/513352.html"
    },
    {
     "id": "2e829e291afa",
     "title": "AI 需求排擠手機記憶體產能！2027 年全球智慧型手機出貨量恐再減 6%，入門級手機首當其衝",
     "summary": "受記憶體供應短缺影響，全球智慧型手機出貨量預估將持續下滑。由於 AI 產能排擠，智慧型手機市場成長受阻，整體規模預計於二零三十年前難以恢復至過往水準。 根據市場研究機構 Counterpoint Research 發布的最新《智慧型手機市場展望報告》，受到記憶體供應緊縮、零組件成本上漲以及消費者購買力下降等因素影響，2026 年全球智慧型手機出貨量預估將較前一年減少 13.9 % ，而 2027…",
     "category": "Everyday AI",
-    "score": 30.8,
+    "score": 30.6,
     "published_at": "2026-11-28T02:30:00+00:00",
     "sources": [
      {
@@ -2641,7 +2662,7 @@
     "title": "機器人 ChatGPT 時刻何時爆發？工研院、微軟、NVIDIA 深度拆解三個關鍵",
     "summary": "Foxconn 鴻海科技集團與 TechOrange 科技報橘日前於「HHTD 鴻海科技日」聯合舉辦「台灣 AI 機器人產業開發大會」，其中的壓軸對談邀請到工研院副院長胡竹生、台灣微軟資深策略業務發展總監章恩齊，與 NVIDIA 資深解決方案架構師劉冠良共同探討「AI Robot 的GPT 時刻何時爆發？」，歸納整場對談內容，若機器人要迎來 ChatGPT 時刻，至少有三個關鍵，而每一道關鍵，都…",
     "category": "Everyday AI",
-    "score": 28.4,
+    "score": 28.2,
     "published_at": "2026-11-27T06:23:27+00:00",
     "sources": [
      {
@@ -2656,7 +2677,7 @@
     "title": "小鵬人形機器人明年量產、先當門市店員，顧宏地：商用站穩後 1～2 年才考慮進家庭",
     "summary": "中國電動車廠小鵬汽車 11/25 在廣州科技日展示新一代人形機器人 IRON，計畫明年先讓它在自家汽車門市以店員身分受訓。至於何時能走進一般家庭，小鵬聯席總裁顧宏地（Brian Gu）11/26 接受《CNBC》訪問時表示：「也許在成功部署到商用場域之後，大概再一兩年，我們就能開始考慮部署到家庭環境。」他也說，技術正快速推進。 小鵬描繪的是一條從門市走向家庭的路線。不過放大到整個產業，中國廠商的…",
     "category": "Everyday AI",
-    "score": 28.3,
+    "score": 28.2,
     "published_at": "2026-11-27T06:18:33+00:00",
     "sources": [
      {
@@ -2665,180 +2686,39 @@
      }
     ],
     "primary_url": "https://techorange.com/2026/11/27/xpeng-iron-humanoid-household-chores-china-gap/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss"
+   },
+   {
+    "id": "6bbb29a8dc3f",
+    "title": "AI 狂潮暗藏 2007 年次貸翻版！大賣空貝瑞示警：CDS 已拉響信用警報",
+    "summary": "當全球資本市場仍聚焦 AI 晶片供不應求、算力需求能否持續變現之際，華爾街最著名的逆向投資人之一、電影《大賣空 […]",
+    "category": "Everyday AI",
+    "score": 27.8,
+    "published_at": "2026-11-27T05:21:29+00:00",
+    "sources": [
+     {
+      "name": "科技新報",
+      "url": "https://finance.technews.tw/2026/11/27/subprime-mortgage-crisis/"
+     }
+    ],
+    "primary_url": "https://finance.technews.tw/2026/11/27/subprime-mortgage-crisis/"
+   },
+   {
+    "id": "4e611f55e258",
+    "title": "AI 購物助理迎假期大考：Google、Meta、OpenAI 搶進，Amazon 築牆護今年逾 800 億美元廣告事業",
+    "summary": "Google、Amazon、Meta 與 OpenAI 都想幫消費者挑選節慶禮物。《Bloomberg》近日報導，今年美國假期購物季將是 AI 購物助理的一次考驗，檢驗購物者最終會採納誰的建議；另一篇報導則指出，顧客與雇主都把 AI 帶進實體門市，讓零售員工面臨新的挑戰。 馬里蘭大學 42 歲的行銷學教授 Daniel McCarthy 熱愛跑步，某天滑 Instagram 時，看到鎖定腳踝無力…",
+    "category": "Everyday AI",
+    "score": 27.6,
+    "published_at": "2026-11-27T05:04:07+00:00",
+    "sources": [
+     {
+      "name": "科技報橘",
+      "url": "https://techorange.com/2026/11/27/holidays-to-test-ai-shopping-bots-from-google-amazon-meta-openai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss"
+     }
+    ],
+    "primary_url": "https://techorange.com/2026/11/27/holidays-to-test-ai-shopping-bots-from-google-amazon-meta-openai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss"
    }
   ],
-  "Other": [
-   {
-    "id": "5fa1139fc5a8",
-    "title": "达特茅斯学院宣布暂停 2027-2028 学年数学博士招生",
-    "summary": "美国常春藤名校达特茅斯学院宣布暂停 2027—2028 学年数学博士项目招生，已递交的申请材料校方不再审阅，校方称原因是文理学院正开展数学系院系评估，但评估及招生恢复时间均未明确。该决定此前毫无征兆，引发师生担忧，校方称现有在读博士生的学籍、资助等不受影响。此前乔治・华盛顿大学也曾因财政压力暂停数学博士招生一个周期，后宣布 2027 年秋季恢复招生。相关调查显示，2026 年秋季美国多所研究型大…",
-    "category": "Other",
-    "score": 65.2,
-    "published_at": "2026-11-28T19:11:47.525000+00:00",
-    "sources": [
-     {
-      "name": "Readhub",
-      "url": "https://readhub.cn/topic/8yOuCrB5S3y"
-     }
-    ],
-    "primary_url": "https://readhub.cn/topic/8yOuCrB5S3y"
-   },
-   {
-    "id": "51e0eb9f7901",
-    "title": "Donald Knuth suspends error bounties due to an influx of AI-generated reports",
-    "summary": "",
-    "category": "Other",
-    "score": 65.0,
-    "published_at": "2026-11-28T17:53:02+00:00",
-    "sources": [
-     {
-      "name": "Hacker News",
-      "url": "https://cs.stanford.edu/~knuth/moratorium.html"
-     },
-     {
-      "name": "Hacker News 討論",
-      "url": "https://news.ycombinator.com/item?id=50680168"
-     }
-    ],
-    "primary_url": "https://cs.stanford.edu/~knuth/moratorium.html"
-   },
-   {
-    "id": "6acd918e3339",
-    "title": "Michael Nielsen took down his book on neural nets",
-    "summary": "",
-    "category": "Other",
-    "score": 58.2,
-    "published_at": "2026-11-27T19:31:01+00:00",
-    "sources": [
-     {
-      "name": "Hacker News",
-      "url": "https://neuralnetworksanddeeplearning.com/"
-     },
-     {
-      "name": "Hacker News 討論",
-      "url": "https://news.ycombinator.com/item?id=50670757"
-     }
-    ],
-    "primary_url": "https://neuralnetworksanddeeplearning.com/"
-   },
-   {
-    "id": "f21d90605390",
-    "title": "I'm Scared of AI",
-    "summary": "",
-    "category": "Other",
-    "score": 54.4,
-    "published_at": "2026-11-27T17:45:31+00:00",
-    "sources": [
-     {
-      "name": "Hacker News",
-      "url": "https://thesoapbox.email/archive/3"
-     },
-     {
-      "name": "Hacker News 討論",
-      "url": "https://news.ycombinator.com/item?id=50669561"
-     }
-    ],
-    "primary_url": "https://thesoapbox.email/archive/3"
-   },
-   {
-    "id": "48b0d8d3f8ca",
-    "title": "Group chat where your AI talks behind your back",
-    "summary": "",
-    "category": "Other",
-    "score": 53.2,
-    "published_at": "2026-11-27T06:44:34+00:00",
-    "sources": [
-     {
-      "name": "Hacker News",
-      "url": "https://construct22.com/"
-     },
-     {
-      "name": "Hacker News 討論",
-      "url": "https://news.ycombinator.com/item?id=50663595"
-     }
-    ],
-    "primary_url": "https://construct22.com/"
-   },
-   {
-    "id": "19dd4641586d",
-    "title": "AI made self-hosting fun again",
-    "summary": "",
-    "category": "Other",
-    "score": 50.8,
-    "published_at": "2026-11-26T21:47:45+00:00",
-    "sources": [
-     {
-      "name": "Hacker News",
-      "url": "https://janlukas.blog/posts/ai-self-hosting"
-     },
-     {
-      "name": "Hacker News 討論",
-      "url": "https://news.ycombinator.com/item?id=50660180"
-     }
-    ],
-    "primary_url": "https://janlukas.blog/posts/ai-self-hosting"
-   },
-   {
-    "id": "ff7af9dff4f0",
-    "title": "How the MATCH Act could backfire by barring ASML from its ~350 immersion scanners in China, letting rivals service and reverse engineer them, and hire its staff (LithoWar)",
-    "summary": "LithoWar : How the MATCH Act could backfire by barring ASML from its ~350 immersion scanners in China, letting rivals service and reverse engineer them, and hire its staff — At the heart of the AI ra…",
-    "category": "Other",
-    "score": 48.5,
-    "published_at": "2026-11-28T02:00:01+00:00",
-    "sources": [
-     {
-      "name": "Techmeme",
-      "url": "https://www.techmeme.com/261127/p16#a261127p16"
-     }
-    ],
-    "primary_url": "https://www.techmeme.com/261127/p16#a261127p16"
-   },
-   {
-    "id": "a89708bcc2c1",
-    "title": "Q&A with AI researchers Ege Erdil and Daniel Kokotajlo on the odds of an intelligence explosion before 2029, pausing AI, the US antagonizing China, and more (Dwarkesh Patel/Dwarkesh Podcast)",
-    "summary": "Dwarkesh Patel / Dwarkesh Podcast : Q&A with AI researchers Ege Erdil and Daniel Kokotajlo on the odds of an intelligence explosion before 2029, pausing AI, the US antagonizing China, and more — “If …",
-    "category": "Other",
-    "score": 46.1,
-    "published_at": "2026-11-27T20:15:01+00:00",
-    "sources": [
-     {
-      "name": "Techmeme",
-      "url": "https://www.techmeme.com/261127/p13#a261127p13"
-     }
-    ],
-    "primary_url": "https://www.techmeme.com/261127/p13#a261127p13"
-   },
-   {
-    "id": "356e5a9fe234",
-    "title": "Terence Tao sees AI ushering in \"Big Math,\" but calls major tech firms' proofs \"toxic waste\"",
-    "summary": "Terence Tao outlines his vision of \"Big Math\" on the Hard Fork podcast. Instead of solo work, human-AI teams would systematically map thousands of problems. He also calls AI proofs from major tech co…",
-    "category": "Other",
-    "score": 41.9,
-    "published_at": "2026-11-28T14:45:01+00:00",
-    "sources": [
-     {
-      "name": "The Decoder",
-      "url": "https://the-decoder.com/terence-tao-sees-ai-ushering-in-big-math-but-calls-major-tech-firms-proofs-toxic-waste/"
-     }
-    ],
-    "primary_url": "https://the-decoder.com/terence-tao-sees-ai-ushering-in-big-math-but-calls-major-tech-firms-proofs-toxic-waste/"
-   },
-   {
-    "id": "801607a4c3bb",
-    "title": "著作權法核心基石「原創性」的AI時代思辨",
-    "summary": "談到歐盟對「人類創造力」的嚴格要求，這讓我回想起當年剛出道執業、開始投入著作權研究與實務時的入門關鍵：究竟什麼是「原創性」？這個問題不僅是著作權法百年來最核心的辯論，歷史上不同法系與經典案例對於原創性門檻的不同界定，更直接決定了今天各國法院面對 AI 創作時的態度。",
-    "category": "Other",
-    "score": 41.9,
-    "published_at": "2026-11-28T14:44:15+00:00",
-    "sources": [
-     {
-      "name": "知勢",
-      "url": "https://edge.aif.tw/critical-perspectives-in-the-age-of-ai/"
-     }
-    ],
-    "primary_url": "https://edge.aif.tw/critical-perspectives-in-the-age-of-ai/"
-   }
-  ]
+  "Other": []
  },
  "source_list": [
   {
@@ -2923,11 +2803,11 @@
   }
  ],
  "stats": {
-  "fetched": 129,
-  "after_dedup": 129,
+  "fetched": 130,
+  "after_dedup": 109,
   "sources_ok": 20,
   "sources_failed": 0,
   "failed_sources": {},
-  "duration_s": 2.5
+  "duration_s": 1.6
  }
 }

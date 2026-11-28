@@ -27,7 +27,7 @@ uv pip install --python .venv/bin/python -r requirements.txt
 
 | 步驟 | 做法 |
 |---|---|
-| 抓取 | `sources.yaml` 列出的來源，只取 48 小時內的項目；單一來源失敗只記 log。優先用帶熱度訊號的來源（Techmeme、HN、Readhub、Hugging Face Papers、GitHub／HF 熱門榜）；官方部落格與媒體 RSS 權重較低，主要用來增加跨來源報導數。中文來源有量子位、IT之家、Readhub（簡體）與 iThome、INSIDE（繁體） |
+| 抓取 | `sources.yaml` 列出的來源，只取 48 小時內的項目；單一來源失敗只記 log。優先用帶熱度訊號的來源（Techmeme、HN、Readhub、Hugging Face Papers、GitHub／HF 熱門榜）；官方部落格與媒體 RSS 權重較低，主要用來增加跨來源報導數。中文來源有量子位、IT之家、Readhub（簡體）與 iThome、INSIDE、科技新報、科技報橘、T客邦、知勢（繁體） |
 | 去重與聚類 | 網址去掉 utm 等追蹤參數和結尾斜線；標題相似度 > 0.85 視為同一事件，保留所有來源連結 |
 | 評分（0–100） | 來源權重 30%、跨來源報導數 30%（最多計 5 個來源）、時效 20%（48 小時線性遞減）、社群熱度 20%（HN 分數、Readhub 報導家數、HF Papers upvotes、GitHub 當日星數、HF 熱度，分類型取對數正規化） |
 | 分類 | `pipeline/classify.py` 的關鍵字規則（中文關鍵字含繁簡）：Policy & Safety、Agents & Dev Tools、Open Source、Models、Research、Business、Products，都沒符合歸 Other；頁面顯示中英對照（例：Models · 模型）。先比對標題，標題沒有符合再看描述；依上列順序，第一個符合的類別勝出。Hugging Face Papers 歸 Research，GitHub／HF 熱門榜沒有更具體的類別時歸 Open Source |
